@@ -547,7 +547,7 @@ root: !ruby/object:Hash
     name: Beach
     expanded: true
     order: 75
-    scroll_y: 958
+    scroll_y: 950
     parent_id: 0
   78: !ruby/object:RPG::MapInfo
     scroll_x: 480
