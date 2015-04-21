@@ -788,7 +788,7 @@ class PokeBattle_DebugSceneNoLogging
   def pbAnimation(moveid,attacker,opponent,hitnum=0)
   end
 end
-
+
 
 class PokeBattle_DebugSceneNoGraphics
   def initialize

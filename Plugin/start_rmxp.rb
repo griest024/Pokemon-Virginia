@@ -13,18 +13,22 @@ OS_VERSION = `ver`.strip
 $PROJECT_DIR = ARGV[0]
 if OS_VERSION.index( "Windows XP" )
   $PROJECT_DIR = String.new( $PROJECT_DIR )
-#elsif OS_VERSION.index( "Windows" )
-#  $PROJECT_DIR = String.new( $PROJECT_DIR ).gsub! "/", "\\"
+elsif OS_VERSION.index( "Windows" )
+  $PROJECT_DIR = String.new( $PROJECT_DIR ).gsub! "/", "\\"
 end
 
-libdir = File.dirname( $PROJECT_DIR )
+
+
+libdir = File.dirname("./")
 $LOAD_PATH.unshift(libdir) unless $LOAD_PATH.include?(libdir)
+
+
 
 $DATA_TYPE = "rxdata"
 
-require_relative 'rmxp/rgss'
-require_relative 'common'
-require_relative 'plugin_base'
+require 'rmxp/rgss'
+require 'common'
+require 'plugin_base'
 
 #######################################
 #        LOCAL METHODS

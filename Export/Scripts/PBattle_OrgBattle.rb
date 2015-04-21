@@ -17,7 +17,7 @@ class Array
     end
     self
   end unless method_defined? :shuffle!
-end
+end
 
 
 module Enumerable

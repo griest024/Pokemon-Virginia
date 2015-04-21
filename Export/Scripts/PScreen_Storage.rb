@@ -1835,7 +1835,7 @@ end
 
 class PokemonBoxSprite < SpriteWrapper
   attr_accessor :refreshBox
-  attr_accessor :refreshSprites
+  attr_accessor :refreshSprites
   def deletePokemon(index)
     @pokemonsprites[index].dispose
     @pokemonsprites[index]=nil

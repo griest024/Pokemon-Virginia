@@ -371,7 +371,7 @@ module Audio
    Kernel.Audio_se_stop()
  end
 =end
-end
+end
 
 
 end # safeExists?("audio.dll")
