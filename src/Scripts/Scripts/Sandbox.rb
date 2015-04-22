@@ -1,5 +1,6 @@
 class DebugTerrainTags
   
+  # testing
   
   def initialize
     echo("Terrain tag: ")
