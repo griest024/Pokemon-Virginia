@@ -155,7 +155,7 @@ root: !ruby/object:Hash
     name: VA Beach
     expanded: true
     order: 70
-    scroll_y: 1447
+    scroll_y: 575
     parent_id: 0
   23: !ruby/object:RPG::MapInfo
     scroll_x: 656
@@ -306,7 +306,7 @@ root: !ruby/object:Hash
     scroll_x: 320
     name: Daisy's house
     expanded: false
-    order: 80
+    order: 81
     scroll_y: 240
     parent_id: 0
   44: !ruby/object:RPG::MapInfo
@@ -547,7 +547,7 @@ root: !ruby/object:Hash
     name: Beach
     expanded: true
     order: 75
-    scroll_y: 944
+    scroll_y: 490
     parent_id: 0
   78: !ruby/object:RPG::MapInfo
     scroll_x: 480
@@ -561,7 +561,7 @@ root: !ruby/object:Hash
     name: Rock Cave
     expanded: false
     order: 76
-    scroll_y: 557
+    scroll_y: 464
     parent_id: 77
   80: !ruby/object:RPG::MapInfo
     scroll_x: 400
@@ -574,6 +574,13 @@ root: !ruby/object:Hash
     scroll_x: 1168
     name: Route 1
     expanded: false
-    order: 81
-    scroll_y: 1198
+    order: 82
+    scroll_y: 464
     parent_id: 0
+  82: !ruby/object:RPG::MapInfo
+    scroll_x: 320
+    name: Beach Cove
+    expanded: false
+    order: 80
+    scroll_y: 320
+    parent_id: 77
