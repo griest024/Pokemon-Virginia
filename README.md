@@ -37,3 +37,4 @@ Changelog:
 2014.4.21
 - Enabled surfing enounters in beach cave F1
 - Added quest to defeat sand spirit to stop sandstorm
+- Added sideways stairs to the outside tileset
