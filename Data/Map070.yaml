@@ -1,11 +1,11 @@
---- !ruby/object:Hash
+---
 root: !ruby/object:RPG::Map
   bgm: !ruby/object:RPG::AudioFile
     volume: 80
     name: uwater
     pitch: 100
   tileset_id: 22
-  events: !ruby/object:Hash {}
+  events: {}
   bgs: !ruby/object:RPG::AudioFile
     volume: 80
     name: ''
