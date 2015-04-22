@@ -9,6 +9,8 @@ Maybe an ally in the red house that is not yours
 5 pokeballs given to you by one of the professor's aides
 - Add ladder animations
 - Add some cool shit to the tilesets
+- Add acceleration to surfing
+- Figure out how to dynamically edit metadata
 
 
 
@@ -34,3 +36,4 @@ Changelog:
 
 2014.4.21
 - Enabled surfing enounters in beach cave F1
+- Added quest to defeat sand spirit to stop sandstorm
