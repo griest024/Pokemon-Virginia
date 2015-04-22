@@ -151,8 +151,8 @@ root:
       - 0
   frame_max: 9
   position: 1
-  id: 1
   timings: []
+  id: 1
   animation_hue: 0
 - !ruby/object:RPG::Animation
   name: Dust
@@ -304,8 +304,8 @@ root:
       - 0
   frame_max: 9
   position: 1
-  id: 2
   timings: []
+  id: 2
   animation_hue: 0
 - !ruby/object:RPG::Animation
   name: Exclaim bubble
@@ -457,7 +457,6 @@ root:
       - 0
   frame_max: 9
   position: 0
-  id: 3
   timings:
   - !ruby/object:RPG::Animation::Timing
     flash_color: !ruby/object:Color
@@ -473,6 +472,7 @@ root:
       pitch: 100
     flash_duration: 5
     frame: 0
+  id: 3
   animation_hue: 0
 - !ruby/object:RPG::Animation
   name: Question bubble
@@ -624,7 +624,6 @@ root:
       - 0
   frame_max: 9
   position: 0
-  id: 4
   timings:
   - !ruby/object:RPG::Animation::Timing
     flash_color: !ruby/object:Color
@@ -640,6 +639,7 @@ root:
       pitch: 100
     flash_duration: 5
     frame: 0
+  id: 4
   animation_hue: 0
 - !ruby/object:RPG::Animation
   name: Grass rustle vigorous
@@ -951,8 +951,8 @@ root:
       - 0
   frame_max: 19
   position: 1
-  id: 5
   timings: []
+  id: 5
   animation_hue: 0
 - !ruby/object:RPG::Animation
   name: Grass rustle shiny
@@ -1184,8 +1184,8 @@ root:
       - 1
   frame_max: 14
   position: 1
-  id: 6
   timings: []
+  id: 6
   animation_hue: 0
 - !ruby/object:RPG::Animation
   name: Berry plant sparkle
@@ -1561,8 +1561,8 @@ root:
       - 0
   frame_max: 23
   position: 1
+  timings: []
   id: 7
-  timings: []
   animation_hue: 0
 - !ruby/object:RPG::Animation
   name: ''
@@ -1578,8 +1578,8 @@ root:
       data: []
   frame_max: 1
   position: 1
+  timings: []
   id: 8
-  timings: []
   animation_hue: 0
 - !ruby/object:RPG::Animation
   name: ''
@@ -1595,8 +1595,8 @@ root:
       data: []
   frame_max: 1
   position: 1
+  timings: []
   id: 9
-  timings: []
   animation_hue: 0
 - !ruby/object:RPG::Animation
   name: ''
@@ -1612,6 +1612,6 @@ root:
       data: []
   frame_max: 1
   position: 1
-  id: 10
   timings: []
+  id: 10
   animation_hue: 0

@@ -2,12 +2,12 @@
 root:
 - 
 - !ruby/object:RPG::Actor
-  armor4_id: 0
   initial_level: 1
-  weapon_id: 0
-  character_name: ''
+  armor4_id: 0
   name: Player
-  armor2_fix: false
+  character_name: ''
+  weapon_id: 0
+  exp_inflation: 30
   parameters: !ruby/object:Table
     dim: 2
     zsize: 1
@@ -614,18 +614,18 @@ root:
     - 545
     - 545
     - 545
-  exp_inflation: 30
-  armor3_id: 0
+  armor2_fix: false
   class_id: 1
-  armor1_fix: false
+  armor3_id: 0
   exp_basis: 30
+  armor1_fix: false
   armor2_id: 0
-  armor4_fix: false
   battler_hue: 0
-  weapon_fix: false
+  armor4_fix: false
   final_level: 99
-  armor1_id: 0
-  character_hue: 0
+  weapon_fix: false
   id: 1
-  armor3_fix: false
+  character_hue: 0
+  armor1_id: 0
   battler_name: ''
+  armor3_fix: false

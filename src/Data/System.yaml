@@ -1,9 +1,5 @@
 ---
 root: !ruby/object:RPG::System
-  cancel_se: !ruby/object:RPG::AudioFile
-    volume: 80
-    name: ''
-    pitch: 100
   variables:
   - 
   - Temp Pokemon Choice
@@ -107,25 +103,46 @@ root: !ruby/object:RPG::System
   - ''
   - ''
   - ''
-  battle_end_me: !ruby/object:RPG::AudioFile
-    volume: 100
-    name: ''
-    pitch: 100
-  escape_se: !ruby/object:RPG::AudioFile
+  cancel_se: !ruby/object:RPG::AudioFile
     volume: 80
     name: ''
     pitch: 100
   magic_number: 77323823
-  gameover_name: ''
+  escape_se: !ruby/object:RPG::AudioFile
+    volume: 80
+    name: ''
+    pitch: 100
+  battle_end_me: !ruby/object:RPG::AudioFile
+    volume: 100
+    name: ''
+    pitch: 100
+  start_map_id: 1
   shop_se: !ruby/object:RPG::AudioFile
     volume: 80
     name: 016Cry
     pitch: 100
-  start_map_id: 1
-  decision_se: !ruby/object:RPG::AudioFile
-    volume: 80
-    name: Choose
-    pitch: 100
+  gameover_name: ''
+  words: !ruby/object:RPG::System::Words
+    str: ''
+    armor3: ''
+    mdef: ''
+    gold: ''
+    sp: ''
+    skill: ''
+    int: ''
+    armor2: ''
+    equip: ''
+    hp: ''
+    pdef: ''
+    attack: ''
+    agi: ''
+    armor1: ''
+    atk: ''
+    item: ''
+    dex: ''
+    armor4: ''
+    weapon: ''
+    guard: ''
   switches:
   - 
   - Starting over
@@ -230,51 +247,39 @@ root: !ruby/object:RPG::System
   - ''
   - ''
   - ''
-  words: !ruby/object:RPG::System::Words
-    armor3: ''
-    str: ''
-    sp: ''
-    gold: ''
-    mdef: ''
-    int: ''
-    skill: ''
-    armor2: ''
-    pdef: ''
-    hp: ''
-    equip: ''
-    agi: ''
-    attack: ''
-    armor1: ''
-    item: ''
-    atk: ''
-    armor4: ''
-    dex: ''
-    weapon: ''
-    guard: ''
-  battle_bgm: !ruby/object:RPG::AudioFile
-    volume: 100
-    name: ''
+  decision_se: !ruby/object:RPG::AudioFile
+    volume: 80
+    name: Choose
     pitch: 100
+  edit_map_id: 1
   battle_start_se: !ruby/object:RPG::AudioFile
     volume: 80
     name: ''
     pitch: 100
-  edit_map_id: 1
-  _: 7829367
-  title_name: Title
+  battle_bgm: !ruby/object:RPG::AudioFile
+    volume: 100
+    name: ''
+    pitch: 100
+  test_troop_id: 1
   equip_se: !ruby/object:RPG::AudioFile
     volume: 80
     name: ''
     pitch: 100
-  test_troop_id: 1
-  elements:
-  - ''
-  - ''
+  title_name: Title
+  enemy_collapse_se: !ruby/object:RPG::AudioFile
+    volume: 80
+    name: ''
+    pitch: 100
   cursor_se: !ruby/object:RPG::AudioFile
     volume: 80
     name: ''
     pitch: 100
-  enemy_collapse_se: !ruby/object:RPG::AudioFile
+  elements:
+  - ''
+  - ''
+  start_y: 7
+  battler_hue: 0
+  load_se: !ruby/object:RPG::AudioFile
     volume: 80
     name: ''
     pitch: 100
@@ -282,41 +287,36 @@ root: !ruby/object:RPG::System
     volume: 100
     name: Title
     pitch: 100
-  load_se: !ruby/object:RPG::AudioFile
-    volume: 80
-    name: ''
+  buzzer_se: !ruby/object:RPG::AudioFile
+    volume: 100
+    name: buzzer
     pitch: 100
-  battler_hue: 0
-  start_y: 7
+  windowskin_name: Windowskin
   test_battlers:
   - !ruby/object:RPG::System::TestBattler
-    armor4_id: 0
     actor_id: 1
+    armor4_id: 0
     weapon_id: 0
     level: 1
     armor3_id: 0
     armor2_id: 0
     armor1_id: 0
-  windowskin_name: Windowskin
-  buzzer_se: !ruby/object:RPG::AudioFile
-    volume: 100
-    name: buzzer
+  _: 7829367
+  battleback_name: 003-Forest01
+  party_members:
+  - 1
+  actor_collapse_se: !ruby/object:RPG::AudioFile
+    volume: 80
+    name: ''
     pitch: 100
   gameover_me: !ruby/object:RPG::AudioFile
     volume: 100
     name: ''
     pitch: 100
-  actor_collapse_se: !ruby/object:RPG::AudioFile
-    volume: 80
-    name: ''
-    pitch: 100
-  party_members:
-  - 1
-  battleback_name: 003-Forest01
-  start_x: 9
-  battle_transition: Battle
+  battler_name: battlers
   save_se: !ruby/object:RPG::AudioFile
     volume: 80
     name: ''
     pitch: 100
-  battler_name: battlers
+  battle_transition: Battle
+  start_x: 9

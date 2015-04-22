@@ -2,31 +2,31 @@
 root:
 - 
 - !ruby/object:RPG::Skill
-  int_f: 100
   animation1_id: 0
-  minus_state_set: []
-  eva_f: 0
-  icon_name: ''
+  int_f: 100
   name: ''
-  mdef_f: 100
+  icon_name: ''
+  eva_f: 0
+  minus_state_set: []
   common_event_id: 0
-  agi_f: 0
+  mdef_f: 100
   occasion: 1
-  plus_state_set: []
+  agi_f: 0
   atk_f: 0
-  pdef_f: 0
+  plus_state_set: []
   menu_se: !ruby/object:RPG::AudioFile
     volume: 80
     name: ''
     pitch: 100
-  dex_f: 0
+  pdef_f: 0
   scope: 0
-  element_set: []
+  dex_f: 0
   power: 0
-  hit: 100
+  element_set: []
   animation2_id: 0
-  str_f: 0
-  description: ''
+  hit: 100
   id: 1
-  variance: 15
+  description: ''
+  str_f: 0
   sp_cost: 0
+  variance: 15
