@@ -260,13 +260,13 @@ root: !ruby/object:RPG::System
     name: ''
     pitch: 100
   edit_map_id: 1
+  _: 7829367
   title_name: Title
   equip_se: !ruby/object:RPG::AudioFile
     volume: 80
     name: ''
     pitch: 100
   test_troop_id: 1
-  _: 7829367
   elements:
   - ''
   - ''
