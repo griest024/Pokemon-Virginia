@@ -1,0 +1,745 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!-- saved from url=(0103)http://web.archive.org/web/20120302172740/http://www.upokecenter.com/projects/pokestarter/advanced.html -->
+<html dir="ltr" lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+
+<script type="text/javascript" src="./Pokemon Essentials - Advanced Topics (2014) HTML ONLY_files/analytics.js"></script>
+<script type="text/javascript">archive_analytics.values.server_name="wwwb-app4.us.archive.org";archive_analytics.values.server_ms=104;</script>
+<link type="text/css" rel="stylesheet" href="./Pokemon Essentials - Advanced Topics (2014) HTML ONLY_files/banner-styles.css">
+
+
+		<title>Pokemon Essentials - Advanced Topics</title>
+	</head>
+	<body>
+
+
+		<h1 id="pokemonessentialsadvancedtopics">Pokemon Essentials - Advanced Topics</h1>
+		<p>Peter O. (http://upokecenter.com/projects/pokestarter/)</p>
+		<p>This section contains advanced topics for Pokemon Essentials, that normally
+require a knowledge in Ruby and scripting.</p>
+		<p>This page cannot provide details on how to use the scripting language
+Ruby.  For that, see the links provided in the Ruby language home page's 
+<a href="http://web.archive.org/web/20120302172740/http://www.ruby-lang.org/en/documentation/">Getting Started section</a>.
+For reference material, consult the help file provided with RPG Maker XP.</p>
+		<p>For reference material on the scripts, see the 
+<a href="http://web.archive.org/web/20120302172740/http://www.upokecenter.com/projects/pokestarter/doc/">script documentation</a> page.</p>
+		<h2 id="contents">Contents</h2>
+		<ul id="toc"><li><a href="http://web.archive.org/web/20120302172740/http://www.upokecenter.com/projects/pokestarter/advanced.html#pokemonessentialsadvancedtopics">Pokemon Essentials - Advanced Topics</a><ul><li><a href="http://web.archive.org/web/20120302172740/http://www.upokecenter.com/projects/pokestarter/advanced.html#contents">Contents</a></li><li><a href="http://web.archive.org/web/20120302172740/http://www.upokecenter.com/projects/pokestarter/advanced.html#downloadingfromtheinternet">Downloading from the Internet</a></li><li><a href="http://web.archive.org/web/20120302172740/http://www.upokecenter.com/projects/pokestarter/advanced.html#scripts">Scripts</a><ul><li><a href="http://web.archive.org/web/20120302172740/http://www.upokecenter.com/projects/pokestarter/advanced.html#pbabilities">PBAbilities</a></li><li><a href="http://web.archive.org/web/20120302172740/http://www.upokecenter.com/projects/pokestarter/advanced.html#pokemonmessages">PokemonMessages</a></li><li><a href="http://web.archive.org/web/20120302172740/http://www.upokecenter.com/projects/pokestarter/advanced.html#pbmoves">PBMoves</a></li><li><a href="http://web.archive.org/web/20120302172740/http://www.upokecenter.com/projects/pokestarter/advanced.html#pbitems">PBItems</a></li><li><a href="http://web.archive.org/web/20120302172740/http://www.upokecenter.com/projects/pokestarter/advanced.html#pbspecies">PBSpecies</a></li><li><a href="http://web.archive.org/web/20120302172740/http://www.upokecenter.com/projects/pokestarter/advanced.html#pbmove">PBMove</a></li><li><a href="http://web.archive.org/web/20120302172740/http://www.upokecenter.com/projects/pokestarter/advanced.html#pokebattle_ai">PokeBattle_AI</a></li><li><a href="http://web.archive.org/web/20120302172740/http://www.upokecenter.com/projects/pokestarter/advanced.html#pokebattle_activeside">PokeBattle_ActiveSide</a></li><li><a href="http://web.archive.org/web/20120302172740/http://www.upokecenter.com/projects/pokestarter/advanced.html#pokebattle_damagestate">PokeBattle_DamageState</a></li><li><a href="http://web.archive.org/web/20120302172740/http://www.upokecenter.com/projects/pokestarter/advanced.html#pokebattle_move">PokeBattle_Move</a></li><li><a href="http://web.archive.org/web/20120302172740/http://www.upokecenter.com/projects/pokestarter/advanced.html#pokebattle_battle">PokeBattle_Battle</a></li><li><a href="http://web.archive.org/web/20120302172740/http://www.upokecenter.com/projects/pokestarter/advanced.html#pokebattle_confusion">PokeBattle_Confusion</a></li><li><a href="http://web.archive.org/web/20120302172740/http://www.upokecenter.com/projects/pokestarter/advanced.html#pokebattle_effects">PokeBattle_Effects</a></li><li><a href="http://web.archive.org/web/20120302172740/http://www.upokecenter.com/projects/pokestarter/advanced.html#pokebattle_moveeffects">PokeBattle_MoveEffects</a></li><li><a href="http://web.archive.org/web/20120302172740/http://www.upokecenter.com/projects/pokestarter/advanced.html#pokebattle_scene">PokeBattle_Scene</a></li><li><a href="http://web.archive.org/web/20120302172740/http://www.upokecenter.com/projects/pokestarter/advanced.html#pokemonitems">PokemonItems</a></li><li><a href="http://web.archive.org/web/20120302172740/http://www.upokecenter.com/projects/pokestarter/advanced.html#pokemonfield">PokemonField</a></li><li><a href="http://web.archive.org/web/20120302172740/http://www.upokecenter.com/projects/pokestarter/advanced.html#pokemonload">PokemonLoad</a></li><li><a href="http://web.archive.org/web/20120302172740/http://www.upokecenter.com/projects/pokestarter/advanced.html#pokemonmenu">PokemonMenu</a></li><li><a href="http://web.archive.org/web/20120302172740/http://www.upokecenter.com/projects/pokestarter/advanced.html#pokebattle_pokemon">PokeBattle_Pokemon</a></li><li><a href="http://web.archive.org/web/20120302172740/http://www.upokecenter.com/projects/pokestarter/advanced.html#pokebattle_trainer">PokeBattle_Trainer</a></li><li><a href="http://web.archive.org/web/20120302172740/http://www.upokecenter.com/projects/pokestarter/advanced.html#pokemonstorage">PokemonStorage</a></li><li><a href="http://web.archive.org/web/20120302172740/http://www.upokecenter.com/projects/pokestarter/advanced.html#pokemontrainers">PokemonTrainers</a></li><li><a href="http://web.archive.org/web/20120302172740/http://www.upokecenter.com/projects/pokestarter/advanced.html#pokemonweather">PokemonWeather</a></li><li><a href="http://web.archive.org/web/20120302172740/http://www.upokecenter.com/projects/pokestarter/advanced.html#audioutilities">AudioUtilities</a></li><li><a href="http://web.archive.org/web/20120302172740/http://www.upokecenter.com/projects/pokestarter/advanced.html#compiler">Compiler</a></li><li><a href="http://web.archive.org/web/20120302172740/http://www.upokecenter.com/projects/pokestarter/advanced.html#pokemonutilities">PokemonUtilities</a></li></ul></li><li><a href="http://web.archive.org/web/20120302172740/http://www.upokecenter.com/projects/pokestarter/advanced.html#advancedconfigurationfiles">Advanced Configuration Files</a><ul><li><a href="http://web.archive.org/web/20120302172740/http://www.upokecenter.com/projects/pokestarter/advanced.html#pbsmetadatatxt">PBS/metadata.txt</a></li><li><a href="http://web.archive.org/web/20120302172740/http://www.upokecenter.com/projects/pokestarter/advanced.html#pbsencounterstxt">PBS/encounters.txt</a></li><li><a href="http://web.archive.org/web/20120302172740/http://www.upokecenter.com/projects/pokestarter/advanced.html#pbsconnectionstxt">PBS/connections.txt</a></li><li><a href="http://web.archive.org/web/20120302172740/http://www.upokecenter.com/projects/pokestarter/advanced.html#pbstrainernamestxt">PBS/trainernames.txt</a></li><li><a href="http://web.archive.org/web/20120302172740/http://www.upokecenter.com/projects/pokestarter/advanced.html#pbstrainerstxt">PBS/trainers.txt</a></li></ul></li><li><a href="http://web.archive.org/web/20120302172740/http://www.upokecenter.com/projects/pokestarter/advanced.html#internalstructureofitemevents">Internal Structure of Item Events</a></li><li><a href="http://web.archive.org/web/20120302172740/http://www.upokecenter.com/projects/pokestarter/advanced.html#scenesinpokemonessentials">Scenes in Pokemon Essentials</a></li></ul></li></ul>
+
+		<h2 id="downloadingfromtheinternet">Downloading from the Internet</h2>
+		<p>Pokemon Essentials contains methods that allow a game to retrieve data
+and files from the Internet, and for posting data to Internet pages.  
+They are explained below.</p>
+		<ul>
+			<li>pbDownloadToString(url) - Retrieves the resource specified in _url_ and
+returns a string containing the downloaded data.  For best results, the file should
+be saved in UTF-8.  URLs whose resources are plain text files are the most ideal for this function</li>
+			<li>pbDownloadToFile(url, filename) - Retrieves the resource specified in _url_ and
+saves the data downloaded to the file _filename_.</li>
+			<li>pbDownloadData(url, filename) - Retrieves the resource specified in _url_.
+If filename is nil, returns a string containing the downloaded data.  Otherwise,
+saves the data to the file _filename_.  Raises an exception if the download failed.
+The exception's message may be something like this "HTTP error XXX", where XXX
+is the error code, like 404 (not found), or 403 (forbidden).</li>
+			<li>pbPostToString(url, postdata) - Posts data to the resource specified in _url_ and
+returns a string containing the response.  The postdata is a hashtable with keys and values
+specifying the data to send to the URL.</li>
+			<li>pbPostToFile(url, postdata, filename) - Posts data to the resource specified in _url_ and
+saves the response to the file _filename_.</li>
+			<li>pbPostData(url, postdata, filename) - Posts data to the resource specified in _url_.
+If filename is nil, returns a string containing the response.  Otherwise,
+saves the response to the file _filename_.  Raises an exception if the download failed.
+The exception's message may be something like this "HTTP error XXX", where XXX
+is the error code, like 404 (not found), or 403 (forbidden).</li>
+		</ul>
+		<p>All these functions automatically handle redirects if necessary.  However, 
+they don't support HTTPS URLs, only HTTP URLs.</p>
+		<p>The example offered in the demo (on the far left of the first row of computers in the map "Test Map 2") shows how the function can be used to set a variable and display it as text. Of course, the function can also be used in the script editor, in advanced situations where the game must connect to the Internet.</p>
+		<h2 id="scripts">Scripts</h2>
+		<p>Here are details on some of the scripts found in Pokemon Essentials. (Some of this documentation is currently out of date.)</p>
+		<h3 id="pbabilities">PBAbilities</h3>
+		<p>Constants for each ability in the game. To get the name of an ability, call PBAbilities.getName(item). This script section is automatically generated.</p>
+		<h3 id="pokemonmessages">PokemonMessages</h3>
+<p>Contains functions for the Pokemon message system.</p>
+	<ul>
+<li><code>pbInterpreterRunning?()</code> - Determines whether the game is currently processing events and event commands.  If false, the game is not currently processing any events.  This is a good opportunity, for example, to respond to button events and display a custom menu system if the game has one.</li>
+</ul>
+		<h3 id="pbmoves">PBMoves</h3>
+		<p>Constants for each move in the game. To get the name of a move, call PBMoves.getName(item). This script section is automatically generated.</p>
+		<h3 id="pbitems">PBItems</h3>
+		<p>Constants for each item in the game. To get the name of an item, call <code>PBItems.getName(item)</code>. This script section is automatically generated.</p>
+		<h3 id="pbspecies">PBSpecies</h3>
+		<p>Constants for each Pokemon species in the game. To get the name of a species, call <code>PBSpecies.getName(item)</code>. This script section is automatically generated.</p>
+		<h3 id="pbmove">PBMove</h3>
+		<p>A lightweight class for storing information on a move. Call <code>PBMove.new</code> to create the object. After creating the object the following methods are available:</p>
+		<ul>
+			<li>ppup: Move's PP Up count.</li>
+			<li>type: Move's type. Read only.</li>
+			<li>id: Move's ID.</li>
+			<li>pp: Move's current PP.</li>
+			<li>totalpp: Move's total PP. Read only.</li>
+		</ul>
+		<p>This class shouldn't be edited.</p>
+		<h3 id="pokebattle_ai">PokeBattle_AI</h3>
+		<p>Mechanism for intelligently choosing a Pokemon's moves. This is done by assigning a score to each move based on whether it can or should be used and depending on the situation.</p>
+		<h3 id="pokebattle_activeside">PokeBattle_ActiveSide</h3>
+		<p>Structure for effects specific to only one side of a battle. Not meant to be edited.</p>
+		<h3 id="pokebattle_damagestate">PokeBattle_DamageState</h3>
+		<p>Structure for holding the results of damage calculation. Not meant to be edited.</p>
+		<h3 id="pokebattle_move">PokeBattle_Move</h3>
+		<p>Structure for holding information about moves. This script also contains damage calculation and accuracy-checking routines.</p>
+		<h3 id="pokebattle_battle">PokeBattle_Battle</h3>
+		<p>Class for Pokemon battles. This is the heart of the battle system. Battles are implemented by dividing each round of a battle into a command phase, attack phase, and end-of-round phase. Also contains methods for using items and throwing Balls.</p>
+		<h3 id="pokebattle_confusion">PokeBattle_Confusion</h3>
+		<p>Implements a pseudomove for confusion damage.</p>
+		<h3 id="pokebattle_effects">PokeBattle_Effects</h3>
+		<p>Contains methods for inflicting common in-battle effects such as stat reduction, confusion, and status problems. It is part of the PokeBattle_Battler class.</p>
+		<h3 id="pokebattle_moveeffects">PokeBattle_MoveEffects</h3>
+		<p>Contains classes that derive from PokeBattle_Move. These classes implement effects specific to certain kinds of moves.</p>
+		<h3 id="pokebattle_scene">PokeBattle_Scene</h3>
+		<p>A simple implementation of a battle scene. It is mainly now used for debugging purposes.</p>
+		<h3 id="pokemonitems">PokemonItems</h3>
+		<p>Contains functions that implement the use of items out of battle.</p>
+		<ul>
+			<li>pbUseMachine(bag,item) - Uses a TM or HM (_item_). After the item is used, deletes the item from the bag (_bag_) if it's a TM.</li>
+			<li>pbIsHiddenMachine?(item) - Returns true if the item is a Hidden Machine.</li>
+			<li>pbUseItemFromBag(item) - Implements the use of items from the Bag screen.</li>
+			<li>pbUseKeyItemInField(item) - Implements the use of Key Items on the field.</li>
+			<li>pbUseItemOnPokemon(item,pokemon,scene) - Uses an item (_item_) on a Pokemon (_pokemon_). _scene_ is an instance of PokemonScreen and is used to display messages from that screen. Returns true if the item was used.</li>
+			<li>pbUseItem(bag,item) - Uses an item and deletes it from the bag if necessary. Returns one of the following:
+<ul>
+					<li>0 - The item was not used.</li>
+					<li>1 - The item was used.</li>
+					<li>2 - The item was used and the bag screen should close.</li>
+				</ul>
+			</li>
+			<li>pbLearnMove(pokemon,move,ignoreifknown=false) - Adds a move to the Pokemon. _move_ is the move ID and _ignoreifknown_ is set to false if a message should be displayed when the Pokemon already has the move.</li>
+		</ul>
+		<p>Utility functions:</p>
+		<ul>
+			<li>pbSpeciesCompatible?(species,machine) - Returns true if the species is compatible with a move. _machine_ is the ID of a move that can be learned with a TM or HM.</li>
+			<li>pbRaiseEffortValues(pokemon,ev,evgain=10,evlimit=true) - Raises a Pokemon's Effort Values. _pokemon_ is the Pokemon, _ev_ is the type of EV to raise, _evgain_ is the number of EVs to raise it by, and _evlimit_ is whether an EV limit of 100 per stat should be respected. Returns the actual number of EVs gained.</li>
+			<li>pbRestorePP(pokemon,move,pp) - Restores the PP of a move known by the Pokemon. _pokemon_ is the Pokemon, _move_ is the index (from 0 to 3) of the move, and _pp_ is the amount of PP to raise it by. Returns the actual amount of PP gained.</li>
+			<li>pbItemRestoreHP(pokemon,restoreHP) - Restores a Pokemon's HP by _restoreHP_. Returns the actual amount of HP gained.</li>
+		</ul>
+		<h3 id="pokemonfield">PokemonField</h3>
+		<p>Contains various functions called in the field.</p>
+		<p>Constants:</p>
+		<ul>
+			<li>BADGEFORCUT - Badge required (from 0 through 7) in order to use Cut outside of battle. The constants BADGEFORFLASH, BADGEFORROCKSMASH, BADGEFORSURF, etc. are defined in the same way. Each of these constants should have different values.</li>
+			<li>STARTING_OVER_SWITCH - Number for the switch named "Starting Over".</li>
+			<li>GRASS_ANIMATION_ID - Animation ID for the animation played when the player walks on grass.</li>
+		</ul>
+		<p>Functions:</p>
+		<ul>
+			<li>pbWildBattle(species,level,variable=nil,canescape=true) - Starts a wild Pokemon battle with the defined _species_ and _level_. The optional _variable_ is the number of a variable to store the result, and _canescape_ is true if the player can escape.</li>
+			<li>Kernel.pbOnStepTaken - Called whenever the player takes a step.</li>
+			<li>Kernel.pbOnMapChange - Called whenever the map changes.</li>
+			<li>Kernel.pbOnMapSceneCreated(scene,mapchanged) - Called after the scene is created after a map change. _scene_ is the scene, and _mapchanged_ is true if the map changed.</li>
+			<li>Kernel.pbUpdateVehicle - Updates the character sprite based on transportation mode.</li>
+			<li>Kernel.pbCancelVehicles - Cancels bike and surfing modes. Usually called when transferring the player to another map.</li>
+			<li>Kernel.pbFishing - Implements fishing with the Rods.</li>
+			<li>pbAllFainted() - Returns true if all Pokemon other than Eggs have fainted.</li>
+			<li>pbCheckAllFainted() - Returns the player to the last Pokemon Center visited if all Pokemon other than Eggs have fainted. This is normally called only after a script has caused one or more Pokemon to faint outside of
+ a battle, such as due to poison.</li>
+			<li>Kernel.pbSetPokemonCenter - Sets the location of the Pokemon Center to the player's current location.</li>
+			<li>Kernel.pbStartOver - Transfers the player to a safe spot after the player's party was defeated.</li>
+			<li>Kernel.pbItemBall(item) - Adds _item_ to the player's Bag. Returns true if the item was added.</li>
+			<li>Kernel.pbCut - Implements messages for the hidden move Cut.</li>
+			<li>Kernel.pbRockSmashRandomEncounter - May start a wild battle after smashing a rock.</li>
+			<li>Kernel.pbRockSmash - Implements messages for the hidden move Rock Smash.</li>
+			<li>Kernel.pbCanUseHiddenMove?(pkmn,move) - Returns true if the Pokemon (_pkmn_) can use the specified _move_ here.</li>
+			<li>Kernel.pbUseHiddenMove(pkmn,move) - Makes the Pokemon (_pkmn_) use the specified _move_.</li>
+			<li>Kernel.pbSweetScent - Implements the hidden move Sweet Scent.</li>
+			<li>Kernel.pbUseKeyItem - Uses the Key Item currently registered for use with F5.</li>
+			<li>Kernel.pbHiddenMoveEvent - Implements interaction with events relevant for hidden moves.</li>
+		</ul>
+		<h3 id="pokemonload">PokemonLoad</h3>
+		<p>This script loads games and starts new ones. There are two parts to this script: a class called PokemonLoad, which is the backend, and PokemonLoadScene, which is the frontend. This latter class implements the user interface of the load screen. PokemonLoadScene must implement these methods:</p>
+		<ul>
+			<li>pbChoose(commands) - Displays a list of commands (where _commands_ is the array of commands) and returns the index of the command that was chosen.</li>
+			<li>pbSetAuxiliaryWindow(text) - Sets the text of an auxiliary window. The window should be from the class Window_ColoredTextPokemon.</li>
+			<li>pbStartScene - Initializes the scene.</li>
+			<li>pbEndScene - Closes the scene.</li>
+		</ul>
+		<p>PokemonLoad, as the low-level backend, is generally not interesting to edit.</p>
+		<h3 id="pokemonmenu">PokemonMenu</h3>
+		<p>This script displays the menu. The class PokemonMenu_Scene is the frontend, and the class PokemonMenu is the frontend. PokemonMenu_Scene must implement these methods:</p>
+		<ul>
+			<li>pbShowCommands(commands) - Displays a list of commands (where _commands_ is the array of commands) and returns the index of the command that was chosen.</li>
+			<li>pbStartScene - Initializes the scene.</li>
+			<li>pbEndScene - Closes the scene.</li>
+			<li>pbShowMenu - Shows the menu.</li>
+			<li>pbHideMenu - Hides the menu.</li>
+		</ul>
+		<h3 id="pokebattle_pokemon">PokeBattle_Pokemon</h3>
+		<p>This class stores data on each Pokemon. Refer to <samp>$Trainer.party</samp> for an array of each Pokemon in the Trainer's current party. These methods are defined on the PokeBattle_Pokemon class.</p>
+		<ul>
+			<li>PokeBattle_Pokemon.new(species,level,trainer=nil) - Creates a Pokemon with the defined _species_ and _level_, and sets its Original Trainer to _trainer_.</li>
+			<li>hp: Pokemon's current HP.</li>
+			<li>totalhp, attack, defense, speed, spatk, spdef: Pokemon's stats. Read only.</li>
+			<li>pokerus: Returns 0 if not infected; 1 if infected; 2 if cured.</li>
+			<li>item: Pokemon's held item.</li>
+			<li>species: Pokemon's species.</li>
+			<li>name: Pokemon's nickname.</li>
+			<li>happiness: Pokemon's happiness. Maximum of 255.</li>
+			<li>iv: Individual values for HP, Attack, Defense, Speed, Special Attack, and Special Defense. Should not be modified unless the Pokemon is being created.</li>
+			<li>ev: Effort values for HP, Attack, Defense, Speed, Special Attack, and Special Defense.</li>
+			<li>eggsteps: Steps to hatch egg, 0 if Pokemon is not an egg.</li>
+			<li>status: Status problem (0, or one of PBStatuses::SLEEP, PBStatuses::POISON, PBStatuses::PARALYSIS, PBStatuses::BURN, or PBStatuses::FROZEN)</li>
+			<li>statusCount: Sleep count or Toxic flag.</li>
+			<li>exp: Experience Points.</li>
+			<li>level: Current level.</li>
+			<li>ability: Returns the Pokemon's ability.</li>
+			<li>nature: Returns the Pokemon's nature.</li>
+			<li>ot: Original Trainer name.</li>
+			<li>personalID: Personality ID. A 32-bit value.</li>
+			<li>trainerID: TrainerID. A 32-bit value.</li>
+			<li>isForeign?(trainer) - Returns true if the Pokemon's Original Trainer is not _trainer_.</li>
+			<li>gender - Returns the Pokemon's gender: (0-male, 1-female, 2-genderless).</li>
+			<li>egg? - Returns true if the Pokemon is an egg.</li>
+			<li>makeShiny - Makes the Pokemon shiny.</li>
+			<li>setGender(female) - Sets the Pokemon's gender (true: female; false: male). Returns whether the gender was set.</li>
+			<li>isShiny? - Returns true if the Pokemon is shiny.</li>
+			<li>type1 - Returns the Pokemon's first type.</li>
+			<li>type2 - Returns the Pokemon's second type.</li>
+			<li>heal - Heals the Pokemon completely.</li>
+			<li>calcStats - Recalculates the Pokemon's stats.</li>
+		</ul>
+		<h3 id="pokebattle_trainer">PokeBattle_Trainer</h3>
+		<p>This class stores data on a Pokemon Trainer, such as the Trainer's party, money, badges, and Pokedex status. The global variable $Trainer stores the player's Trainer object.</p>
+		<ul>
+			<li>PokeBattle_Trainer.new(name,trainertype) - Creates a new Trainer object with the specified _name_ and _trainertype_. The Trainer initially has $2000.</li>
+			<li>name - Gets the Trainer's name.</li>
+			<li>id - Gets the Trainer's ID (32 bits; use publicID to get the portion of the ID to display in the game.)</li>
+			<li>trainertype - Number identifying the type of Trainer.</li>
+			<li>trainerTypeName - Name of this Trainer's type.</li>
+			<li>moneyEarned - Money earned when defeating the Trainer.</li>
+			<li>money - Current money. This value should not be less than 0 or greater than 999999.</li>
+			<li>badges - Badges earned. This is an array of 8 true/false flags.</li>
+			<li>seen - Array of true/false values indicating which species are seen.  For example,
+if "$Trainer.seen[200]==true", the player has seen species 200.</li>
+			<li>owned - Array of true/false values indicating which species are owned.</li>
+			<li>party - Trainer's current party of Pokemon. There should be no more than six Pokemon in the Trainer's party.</li>
+			<li>pokedex - Whether the Pokedex was obtained.</li>
+			<li>pokemonCount - Number of Pokemon in the party that aren't eggs.</li>
+			<li>ablePokemonCount - Number of Pokemon in the party that aren't eggs and whose HP is greater than 0.</li>
+			<li>fullname - Combination of the trainer type name and the trainer name.</li>
+			<li>numbadges - Number of badges earned.</li>
+			<li>publicID - Portion of the ID to display in the game.</li>
+			<li>pokedexSeen - Number of Pokemon seen.</li>
+			<li>pokedexOwned - Number of Pokemon owned.</li>
+			<li>getForeignID - A random ID other than this Trainer's ID.</li>
+			<li>setForeignID(other) - Sets this Trainer's ID to a random one other than _other_'s ID.</li>
+		</ul>
+		<h3 id="pokemonstorage">PokemonStorage</h3>
+		<p>Implements the Pokemon Storage System.</p>
+		<h3 id="pokemontrainers">PokemonTrainers</h3>
+		<p>Implements support for Trainer battles.</p>
+		<ul>
+			<li>pbLoadTrainer(trainerid,trainername) - Generates the Trainer with the defined trainer type and trainer name. Returns an array consisting of the Trainer's Trainer object; the Trainer's items, and the Trainer's party.</li>
+			<li>pbTrainerBattle(trainerid,trainername,endspeech) - Starts a Trainer battle with the defined trainer type and trainer name. _endspeech_ is the text that the Trainer will say when the player wins the battle.</li>
+		</ul>
+		<h3 id="pokemonweather">PokemonWeather</h3>
+		<p>Overrides the built-in RPG::Weather class. Here are the defined weather types:</p>
+		<ul>
+			<li>0 - Rain</li>
+			<li>1 - Storm</li>
+			<li>2 - Snow</li>
+			<li>3 - Sandstorm</li>
+			<li>4 - Sunny</li>
+		</ul>
+<h3 id="audioutilities">AudioUtilities</h3>
+<p>This script contains various utility functions and classes for dealing
+with audio. This is a stand-alone script.</p>
+<pre>Audio.square(durationInMs,freq,volume,timbre,async) - Generates a square wave.
+Audio.beep(durationInMs,freq,volume,timbre,async) - Alias for Audio.square
+Audio.sine(durationInMs,freq,volume,timbre,async) - Generates a sine wave.
+Audio.triangle(durationInMs,freq,volume,timbre,async) - Generates a triangle wave.
+Audio.saw(durationInMs,freq,volume,async) - Generates a saw wave.
+Audio.noise(durationInMs,volume,async) - Generates white noise.
+Audio.playTone(toneFile,async) - Plays a tone in the Apple iPod alarm tone format.
+Parameters:
+ durationInMs - duration of the sound in milliseconds.
+   The module Audio::NoteLength contains useful durations for tones.
+   If 0 or nil, the frequency is determined using the maximum duration
+   of the given sound envelopes.
+ freq - the frequency of the sound in Hz. The higher the frequency,
+  the higher the pitch. If 0, no sound will be generated.
+  The module Audio::Note contains useful frequencies for tones.
+  freq can also be a SoundEnvelope or an array of two element arrays, 
+  as follows:
+   freq[0] - time in ms to apply the specified frequency
+   freq[1] - frequency to apply. In between, values will be interpolated
+ volume - volume of the sound, from 0 through 100
+  volume can also be a SoundEnvelope.
+ async - specifies whether the function will return immediately
+  without waiting for the sound to finish (stands for asynchronous)
+ timbre - specifies the timbre of the tone; from 0.0 through 1.0
+  timbre can also be a SoundEnvelope or an array of two element arrays, 
+  as follows:
+   volume[0] - time in ms to apply the specified timbre
+   volume[1] - timbre to apply. In between, values will be interpolated
+
+WaveData - A class for holding audio data in memory. This class
+is easy to serialize into the save file.
+ intensity() - Calculates the intensity, or loudness of the data
+  Returns a value from 0 through 127.
+ time() - Length of the data in seconds.
+ play() - Plays the wave data
+
+getPlayTime(filename) - Gets the length of an audio file in seconds.
+  Supports WAV, MP3, and OGG files.
+getWaveData(filename) - Creates wave data from the given WAV file path.
+  Returns a WaveData object or an integer: 1=not found; 2=invalid format;
+  3=format not supported; 4=no sound in the data (the last error is helpful
+  for diagnosing whether anything was recorded, since a recording device
+  can record even if no microphone is attached.)
+
+beginRecord() - Starts recording.  Returns 0 if successful.
+getRecorderSample() - Gets a single sample from the microphone.
+ The beginRecord function must have been called beforehand.
+stopRecord() - Stops recording without saving the recording to a file.
+endRecord(file) - Stops recording and saves the recording to a file.
+</pre>
+		<h3 id="compiler">Compiler</h3>
+		<p>Converts setting files to an internal format used by the game. Should not be edited.</p>
+		<h3 id="pokemonutilities">PokemonUtilities</h3>
+		<p>Contains various utility functions.</p>
+		<ul>
+			<li>pbGetRegionalNumber(region, nationalSpecies) - Gets the regional Pokedex number of
+  the national species for the specified region.  Returns 0 if the species is not part of
+  the regional Pokedex.
+  The parameter "region" is zero-based.  For
+  example, if two regions are defined, they would
+  each be specified as 0 and 1.  The parameter "region", for example, could
+  be the return value of the "pbGetCurrentRegion" function.</li>
+			<li>pbGetNationalNumber(region, regionalSpecies) - Gets the national Pokedex number of
+  the specified species and region.
+  The parameter "region" is zero-based.  For
+  example, if two regions are defined, they would
+  each be specified as 0 and 1.  The parameter "region", for example, could
+  be the return value of the "pbGetCurrentRegion" function.</li>
+<li>pbEachPokemon - Iterates through each Pokemon in the party and boxes.
+An example follows.
+<pre>pbEachPokemon{|pokemon,box|
+ if box==-1
+  Kernel.pbMessage(_INTL("{1} is in your party.",pokemon.name))
+ else
+  Kernel.pbMessage(_INTL("{1} is in your PC.",pokemon.name))
+ end
+}
+</pre>
+</li>
+<li>pbEachNonEggPokemon - Iterates through each Pokemon that isn't an egg in the party and boxes.
+An example follows.
+<pre>pbEachNonEggPokemon{|pokemon,box|
+ if box==-1
+  Kernel.pbMessage(_INTL("{1} is in your party.",pokemon.name))
+ else
+  Kernel.pbMessage(_INTL("{1} is in your PC.",pokemon.name))
+ end
+}
+</pre>
+</li>
+<li>pbGetCDID() - Returns a unique identifier for the compact disc present in the computer's CD drive.
+This is useful for implementing features similar to the "dual slot" feature of the Nintendo DS. If you know
+the ID for a certain CD, you can check the player's CD for that ID either to add additional features
+or to block access to the game.</li>
+<li>pbHasEgg?(species) - Returns true if this is a baby Pokemon species that
+can hatch from an egg.</li>
+			<li>pbAllRegionalSpecies(region) - Gets an array of all national species
+  within a regional Pokedex, sorted by
+  regional Pokedex number.
+  The number of items in the array should be
+  the number of species in the regional Pokedex plus
+  1, since index 0 is considered to be empty.
+  The parameter "region" is zero-based.  For
+  example, if two regions are defined, they would
+  each be specified as 0 and 1.  The parameter "region", for example, could
+  be the return value of the "pbGetCurrentRegion" function.</li>
+			<li>pbCreatePokemon - Adds six Pokemon to the Trainer's party for demonstration purposes.  It is not to be used in a real game.</li>
+			<li>pbIsWeekday(variable[,day[,day[...]]]) - Returns true if today is one of the weekdays specified as an argument for this function.
+Stores the current weekday's name in the variable numbered _variable_.  _day_ is 0 for Sunday, 1 for Monday, etc.  For example,
+pbIsWeekday(1,0,2) returns true if today is Sunday or Tuesday, and stores today's weekday in variable 1.</li>
+			<li>pbAddPokemon(species,level) - Adds a Pokemon of the defined _species_ and _level_. Returns true if the Pokemon was added.</li>
+			<li>pbAddPokemon(pokemon) - Adds a Pokemon object (PokeBattle_Pokemon). Returns true if the Pokemon was added.</li>
+			<li>pbAddPokemonSilent(species,level) - Adds a Pokemon of the defined _species_ and _level_ silently. Returns true if the Pokemon was added.</li>
+			<li>pbAddPokemonSilent(pokemon) - Adds a Pokemon object (PokeBattle_Pokemon) silently. Returns true if the Pokemon was added.</li>
+			<li>pbLoadPokemonIcon(pokemon,back=false) - Loads a Pokemon icon.</li>
+			<li>pbWildBattleBGM(species) - RPG::AudioFile specifying background music to be played
+in the next wild Pokemon battle.  _species_ is not used in the default implementation,
+but can be used to customize the music for certain wild Pokemon species, for example Rayquaza.</li>
+			<li>pbWildVictoryBGM(species) - RPG::AudioFile specifying background music to be played
+when the player wins the next wild Pokemon battle.</li>
+			<li>pbGetWildVictoryME(trainer) - RPG::AudioFile specifying background music to be played
+in the next Trainer battle. _trainer_ is either a PokeBattle_Trainer or an array of two PokeBattle_Trainer objects.</li>
+<li>pbGetCountry() - Returns the user's country ID.
+See the list at <a href="http://web.archive.org/web/20120302172740/http://msdn.microsoft.com/en-us/library/dd374073%28VS.85%29.aspx">http://msdn.microsoft.com/en-us/library/dd374073%28VS.85%29.aspx</a>.</li>
+			<li>pbGetTrainerBattleBGMFromType(trainer) - RPG::AudioFile specifying background music to be played
+in the next Trainer battle. _trainer_ is a trainer type from PBTrainers.</li>
+			<li>pbGetTrainerVictoryME(trainer) - RPG::AudioFile specifying background music to be played
+when the player wins the next Trainer battle. _trainer_ is either a PokeBattle_Trainer or an array 
+of two PokeBattle_Trainer objects.</li>
+			<li>pbPlayCry(species) - Plays the cry for the specified Pokemon _species_.  Can also be a PokeBattle_Pokemon object.</li>
+			<li>getRandomName - Generates a random name for a person.</li>
+			<li>pbChangePlayer(id) - Changes the player to the one with the specified _id_ (0 through 3).</li>
+			<li>pbTrainerName - Opens the name entry screen to set the name of the Trainer, and creates the $Trainer global variable.</li>
+			<li>pbHasSpecies?(species) - Returns true if a Pokemon of the specified _species_ is in the player's party.</li>
+			<li>pbGenerateEgg(species,level) - Adds an egg of the specified _species_ and _level_ to the player's party. Raises an exception if the egg can't be added.</li>
+			<li>pbGetCurrentRegion() -  Gets the ID number for the current region based on the player's
+ current position.  Returns the value of _defaultRegion_ (optional,
+ default is -1) if no region was defined in the game's metadata.  
+ The ID numbers returned by this function depend
+ on the town map configuration.</li>
+			<li>pbChoosePokemon(var1,var2) - Loads the Pokemon screen, where the player can choose a Pokemon in the party. The index of the chosen Pokemon is stored in the variable numbered _var1_, and its name in the variable _var2_.
+Stores -1 in the _var1_ variable  if the player canceled choosing a Pokemon.</li>
+			<li>pbNumMoves(pokemon) - Returns the number of moves that a Pokemon has.</li>
+			<li>pbTextEntry(helptext,minlength,maxlength,variable) - Opens the text entry screen with the help text _helptext_. Stores the entered text in the variable _variable_.</li>
+			<li>pbChooseMove(pokemon,var1,var2) - Loads a screen where the player can choose a move that a Pokemon has. The index of the chosen move is stored in the variable numbered _var1_, and its name in the variable _var2_.</li>
+			<li>pbLoadRpgxpScene(scene) - Loads an RPGXP-compatible scene object. This function fails if the current scene is not a Scene_Map object.</li>
+<li>pbCommonEvent(id) - Runs a common event with the given id and waits
+until the common event is finished.</li>
+		</ul>
+		<h2 id="advancedconfigurationfiles">Advanced Configuration Files</h2>
+		<p>These configuration files are to be edited only by advanced users.  The Poemon Essentials editor contains
+features that make editing these files largely unnecessary.  This section is only meant to give further detail
+on the format of these files.</p>
+		<h3 id="pbsmetadatatxt">PBS/metadata.txt</h3>
+		<p> The file is divided into sections, and each section's title is the ID of the map whose metadata the section describes (check the middle of the status bar to find a map's ID.) The section title is enclosed by two square brackets like this: [011]</p>
+		<p>Each section can have any number of entries. The entry's name and the entry's value are separated by an equal sign (=).</p>
+		<p>The map ID 000 is reserved for global metadata not specific to any map. For the section titled [000], possible entry types are:</p>
+		<ul>
+			<li>Home: The point that the player is placed in when all Pokemon have fainted and no Pokemon Center was entered. This setting consists of four numbers, separated by commas, that indicate the map ID, the X and Y coordinates, and the direction to make the player face (2=down; 4=left; 6=right; 8=up; 0=retain facing). The map identified by this setting musthave an event page with the "autorun" trigger and a conditional switch "Starting Over" (normally numbered 5, but can be changed by editing the STARTING_OVER_SWITCH constant in the script section PokemonField). The event page, when run, must heal all Pokemon in the player's party (For an example, see the event for the Pokemon Center's receptionist). This setting is required.</li>
+			<li>StorageCreator: Creator of the Pokemon Storage System. Default is "BILL". To set whether this person was seen, use the script $PokemonGlobal.seenStorageCreator=true .</li>
+			<li>PlayerA, PlayerB, PlayerC, PlayerD: Information on the player characters in the game. This setting consists of a number of comma-separated fields, described below:
+<ul>
+					<li>Field 1: Trainer type. This is an internal name of the trainer type and has one of the values defined in trainernames.txt (or under "Internal name" in the debug menu's Trainer Types option). The file Graphics/Characters/trainerXXX.png, where XXX is the ID of that trainer type, should match the defined trainer type.</li>
+					<li>Field 2: Character sprite, as found in Graphics/Characters.</li>
+					<li>Field 3: Character sprite when mounted on a bicycle.</li>
+					<li>Field 4: This field is no longer used.</li>
+					<li>Field 5: Surfing character sprite.</li>
+					<li>Field 6: Running character sprite.</li>
+					<li>Field 7: Diving character sprite.</li>
+				</ul>
+				<p>Other graphics include the back of the Trainer, for use in battles. 
+The size is 128x128 and the file must be located in Graphics/Pictures.
+It is not specific to a player but rather to a trainer type.  The trainer back
+has a filename of trbackXXX.png where XXX is the trainer type's ID.
+</p>
+				<p>To change the player in script, use pbChangePlayer(X) where X is one of 0, 1, 2, or 3 and refers to players A, B, C, or D. The PlayerA setting is required while the other three settings are optional.</p></li>
+			<li>WildBattleBGM: Default music played in wild Pokemon battles. It should be placed in the Audio/BGM/ directory.</li>
+			<li>TrainerBattleBGM: Default music played in Trainer battles. It should be placed in the Audio/BGM/ directory.</li>
+			<li>WildVictoryME: Default victory music played in wild Pokemon battles. It should be placed in the Audio/ME/ directory.</li>
+			<li>TrainerVictoryME: Default victory music played in Trainer battles. It should be placed in the Audio/ME/ directory.</li>
+			<li>SurfBGM: Background music played while Surf is used.</li>
+			<li>BicycleBGM: Background music played while on a bicycle.</li>
+			<li>TextSkin: Default speech text frame.</li>
+		</ul>
+		<p>Other map IDs are specific to a map. For sections with titles other than [000], the possible entry types are:</p>
+		<ul>
+			<li>Outdoor: If this is set to 1 or true, this map is an outdoor map. If this is set to 0 or false, this map is an indoor map. The default is false. Day/night tinting will be enabled only for outdoor maps.</li>
+			<li>Bicycle: If this is set to 1 or true, the bicycle can be used on this map. The default is equal to the "Outdoor" setting. The bicycle will automatically dismount whenever the player loses a battle or enters an area where bicycles are not allowed.</li>
+			<li>HealingSpot: 
+If this setting is present, this map is a healing spot (such as a Pokemon Center), and this setting 
+indicates this healing spot's entrance. This setting consists of three numbers, separated by commas, 
+that indicate the map ID and the X and Y coordinates of the entrance. When this map is entered, the 
+location that the player goes with Teleport will be set to the point identified by this setting. 
+This setting is not to be confused with the point that the player goes after he or she loses a battle; 
+that point is set using a Script event command consisting of the text "pbSetPokemonCenter" (which sets 
+it to the player's current location; see also "Home").  This setting should not be used on a map of a city
+or town to indicate where its Pokemon Center is located; this setting should be used only if this map is
+a Pokemon Center.</li>
+			<li>BicycleAlways: If this is set to 1 or true, the bicycle will be mounted automatically and can't be dismounted on this map.</li>
+			<li>ShowArea: If this is set to 1 or true, a window with the map's location will be displayed when it is entered. The default is false. For outdoor maps, this setting is generally set to true.</li>
+			<li>DarkMap: If this is set to 1 or true, this map is enshrouded in darkness and a circle of light will appear around the player.</li>
+			<li>EscapePoint: The entrance of the location associated with this map, for instance, the entrance of a cave. This setting consists of three numbers, separated by commas, that indicate the map ID and the X and Y coordinates of the entrance. If this is not set, Dig and the Escape Rope cannot be used.</li>
+			<li>MapPosition: 
+The position on the regional map where this map is located. This setting consists of three numbers, 
+separated by commas, that indicate the regional map ID and the position's X and Y coordinates. 
+The cursor will be placed on this point when the regional map is opened.  Multiple instances of this setting
+are not possible.</li>
+			<li>Weather: The weather in effect on this map. This setting consists of two fields, the first field is one of Rain, Storm, Snow, or Sandstorm, and the second field is the chance in 100 that the weather will occur when the map is entered. The weather will affect battles within the map.</li>
+			<li>DiveMap: The underwater layer of this map. This setting consists of a map ID, and is required if an area contains deep 
+patches in the water (tiles with [[Terrain Tags|terrain tag]] 5). The map must have the same width and height as this map. 
+Coordinates of this map are associated with the same coordinates of the underwater map. Because of this, 
+the underwater walls should have the same shape as the deep patches on the water's surface. Multiple maps 
+cannot refer to the same underwater layer.</li>
+		</ul>
+		<h3 id="pbsencounterstxt">PBS/encounters.txt</h3>
+		<p>This text file is for placing encounter data for each map.</p>
+		<p>For each section of the file:</p>
+		<ul>
+			<li>The section begins with a line consisting of the ID of the map (check the middle of the status bar)</li>
+			<li>Then there is a line containing the densities for land, caves, and water.  This line
+is optional.  If it doesn't exist, then it is set to "25,10,10".</li>
+			<li>Then there are one or more subsections. The first line of each subsection is one of the following:
+<ul>
+					<li>Land - For grass, etc. For this encounter type, Pokemon will appear only on grass.</li>
+					<li>Cave - For caves, etc. For this encounter type, Pokemon will appear anywhere.</li>
+					<li>Water - For water.</li>
+					<li>RockSmash - Encounters after smashing a rock</li>
+					<li>OldRod - Fished with Old Rod</li>
+					<li>GoodRod - Fished with Good Rod</li>
+					<li>SuperRod - Fished with Super Rod</li>
+					<li>HeadbuttLow - Encounters after using Headbutt on trees where there is a low chance for Pokemon to appear (rarer species)</li>
+					<li>HeadbuttHigh - Encounters after using Headbutt on trees where there is a high chance for Pokemon to appear (commoner species)</li>
+					<li>LandMorning - For grass, etc.  From 6 a.m. to 12 noon.</li>
+					<li>LandDay - For grass, etc.  From 12 noon to 8 p.m.</li>
+					<li>LandNight - For grass, etc.  From 8 p.m. to 6 a.m.</li>
+				</ul>
+				<p>The rest of the subsection is a number of lines that make up the encounter data. For Land and Cave encounter types, each entry in the subsection has a species and level, separated by commas. Rarer species should be placed lower in the list. For all other encounter types, each entry must have a species, minimum level, and optionally a maximum level, separated by commas. Each species entered must be capitalized with no spaces. Note in particular the following cases:</p>
+				<p>NIDORANmA, NIDORANfE, FARFETCHD <i>(sic)</i>, MR_MIME, PORYGON2</p>
+			</li>
+		</ul>
+		<p>Depending on the encounter type, the number of entries required varies:</p>
+		<ul>
+			<li>Land/Cave: 12 entries (20, 20, 10, 10, 10, 10, 5, 5, 4,4,1,1)</li>
+			<li>Water/RockSmash: 5 entries (60,30,5,4,1)</li>
+			<li>OldRod: 2 entries (70, 30)</li>
+			<li>GoodRod: 3 entries (60, 20, 20)</li>
+			<li>SuperRod: 5 entries (40, 40, 15, 4, 1)</li>
+			<li>HeadbuttHigh/HeadbuttLow: 8 entries (30,25,20,10,5,5,4,1)</li>
+		</ul>
+		<h3 id="pbsitemstxt">PBS/items.txt</h3>
+
+		<p>This file stores data on each item in the game. It will be converted to a runtime format when you run a playtest of the game from RPG Maker XP. 
+For examples, see <a href="http://web.archive.org/web/20120302172740/http://www.upokecenter.com/projects/pokestarter/advanced.html#addingnewitems">Adding New Items</a>.  Each line contains data on one item and is divided into fields separated by commas:</p>
+		<ul>
+			<li>Field 1: ID of the item. Each item's ID must be different.
+The ID 0 is reserved for internal use. Also, item IDs can't be negative. (Although the item ID is usually three digits long, the number of possible items is actually unlimited.)</li>
+			<li>Field 2: Name used internally, as in scripts, to refer to the item.</li>
+			<li>Field 3: Name of the item as displayed in the game.</li>
+			<li>Field 4: Pocket of the Bag where this item is placed:
+
+<ul>
+					<li>1: Items</li>
+					<li>2: Medicine</li>
+					<li>3: Poké Balls</li>
+					<li>4: TMs and HMs</li>
+					<li>5: Berries</li>
+					<li>6: Mail</li>
+					<li>7: Battle Items</li>
+					<li>8: Key Items</li>
+				</ul>
+
+			</li>
+			<li>Field 5: Purchase price of the item. Items can be sold for half their purchase price. Items with a purchase price of 0 can't be sold and should not appear in shops. This should be true of all Key Items.</li>
+			<li>Field 6: Description of the item. If the description contains commas or quotation marks it must be contained within quotation marks and the quotation marks within the description must be preceded by the "\" symbol. For consistency, though, putting all descriptions in quotation marks is preferred.</li>
+			<li>Field 7: Usability of the item outside of battle. This setting can have one of these values:
+<ul>
+					<li>0: This item can't be used outside of battle.</li>
+					<li>1: This item can be used on a Pokémon. When the player chooses this item, a screen appears allowing the player to choose a Pokémon. The item disappears after use. This setting doesn't apply to TMs and HMs.</li>
+
+					<li>2: Other items that can be used outside of battle.</li>
+					<li>3: This item is a <a href="http://web.archive.org/web/20120302172740/http://www.upokecenter.com/projects/pokestarter/advanced.html#technicalmachine">technical machine</a>.</li>
+					<li>4: This item is a hidden machine.</li>
+					<li>5: Same as 1, but the item is reusable.</li>
+				</ul>
+			</li>
+			<li>Field 8: Usability of the item within a battle. This setting can have one of these values:
+
+<ul>
+					<li>0: This item can't be used in battle.</li>
+					<li>1: This item can be used on a Pokémon. When the player chooses this item, a screen appears allowing the player to choose a Pokémon. The item disappears after use.</li>
+					<li>2: This item can be used directly from the Bag screen. The item disappears after use.</li>
+					<li>3: Same as 1, but the item is reusable.</li>
+					<li>4: Same as 2, but the item is reusable.</li>
+				</ul>
+
+			</li>
+			<li>Field 9: For special kinds of items.<ul>
+					<li>0: This item has no special type.</li>
+					<li>1: This item is a Mail.</li>
+					<li>2: This item is a Mail, where an image of the holder will appear on the mail.</li>
+					<li>3: This item is a Snag Ball.</li>
+
+					<li>4: (This type number is no longer used.)</li>
+				</ul>
+			</li>
+<li>Field 10: Internal name of the move taught by this TM or HM.</li>
+		</ul>
+		<p>Also, an icon of the item must be placed in the Graphics/Icons folder with a filename of itemXXX.png, where XXX is the ID number of the item, left-padded with zeros. The icon's dimensions must be 48x48.</p>
+		<p>Comment lines begin with "#". This file, however, doesn't allow comments at the end of the line.</p>
+
+		<h3 id="pbsconnectionstxt">PBS/connections.txt</h3>
+		<p>Pokemon Essentials supports maps that connect to each other seamlessly. This file defines connection points of maps 
+with others in the game. This is done by associating a point on one map's edge with points on another map's edge. 
+
+Due to the nature of connected maps, maps cannot overlap. Each line of this file contains six fields, separated by commas, as defined below:</p>
+		<ul>
+			<li>Field 1: The first map's ID number.</li>
+			<li>Field 2: The edge of the map to connect with the other edge. One of N, S, E, or W (or North, South, East, or West).</li>
+			<li>Field 3: The point on the edge to associate with the other edge's point (counting from 0). Must be a positive integer.</li>
+			<li>Field 4: The second map's ID number.</li>
+			<li>Field 5: The edge of the map to connect with the other edge. One of N, S, E, or W (or North, South, East, or West).</li>
+			<li>Field 6: The point on the edge to associate with the other edge's point (counting from 0). Must be a positive integer.</li>
+		</ul>
+		<p>The restriction here is that the east edge of a map can connect only to another map's west edge, and vice versa. The same applies to south and north edges.</p>
+		<p>More formally, each line defines a point on one map relative to another point on another map.  Each line is in the format A,B,C,D,E,F where:</p>
+		<ul>
+			<li>A, D = Two different map IDs</li>
+			<li>B and C = X and Y coordinates of a point on map A, in tile space</li>
+			<li>E and F = This is where the point given in B and C is located relative to map D's top left corner. E represents the X offset (positive means east and negative means west), and F represents the Y offset (positive means south and negative means north).</li>
+		</ul>
+		<p>In the example "4,0,0,5,-26,0", the first two zeros represent the point (0,0) within map 4, and the -26 means that the point is located 26 spaces west of map 5's top left corner.</p>
+		<h3 id="pbstrainernamestxt">PBS/trainernames.txt</h3>
+		<p>This file stores data on each trainer type.  This file is divided into lines, and each line is divided by fields separated by commas. These fields are defined below.</p>
+		<ul>
+			<li>Field 1: ID of the trainer type.</li>
+			<li>Field 2: Internal name of the trainer type.  This name must be different from all other internal names in this file.</li>
+			<li>Field 3: Name of the trainer type as displayed in the game.</li>
+			<li>Field 4: Optional. Amount of money earned from Trainers of this type. This will be multiplied by the highest level among all the Trainer's Pokemon. The default value is 30.</li>
+			<li>Field 5: Optional. BGM (background music) file played in battles against Trainers of this type.</li>
+			<li>Field 6: Optional.  Victory BGM (background music) played in battles against
+     Trainers of this type.</li>
+			<li>Field 7: Optional.  ME (music effect) played before the battle begins.</li>
+		</ul>
+		<h3 id="pbstrainerstxt">PBS/trainers.txt</h3>
+		<p>This text file stores data on each Trainer in the game.  This file consists of one or more trainer sections. Here is the format of each trainer section.</p>
+		<ul>
+			<li>The first line is the internal name of the Trainer type. This line must have one of the values defined in <a href="http://web.archive.org/web/20120302172740/http://www.upokecenter.com/projects/pokestarter/advanced.html#header34">trainernames.txt</a> (or under "Internal name" in the debug menu's Trainer Types option).</li>
+			<li>The second line is the Trainer's name. If more than one Trainer with the same name and Trainer type is defined in this file, then there can follow a number (from 1 through 255) to distinguish them. In that case, the name and number are separated by a comma.</li>
+			<li>The next line is a set of fields separated by commas, as defined below:
+<ul>
+					<li>Field 1: Number of Pokemon in the Trainer's party. Required.</li>
+					<li>Field 2-5: Up to four items owned by the Trainer. The Trainer will use these items as appropriate during the battle. Each item is an internal name as defined in items.txt; basically, it's the item's name in uppercase, with no spaces. Optional.</li>
+				</ul>
+			</li>
+			<li>After that, there are a number of lines equal to the number of Pokemon. Each line is a set of fields separated by commas, as defined below:
+<ul>
+					<li>Field 1: Internal name of the Pokemon's species (see [[PBS/pokemon.txt|pokemon.txt]] or PBSpecies for internal names). Required.</li>
+					<li>Field 2: Level of the Pokemon. Required.</li>
+					<li>Field 3: Individual Value of each stat of the Pokemon. Optional. If not given, this value is 10.</li>
+					<li>Field 4: Internal name of the item held by the Pokemon (see [[PBS/items.txt|items.txt]] or PBItems for internal names). Optional.</li>
+					<li>Field 5-8: Internal names of moves known by the Pokemon (see moves.txt or PBMoves for internal names). Optional. If no moves are given, then it has the same moves as a wild Pokemon of the given level.</li>
+				</ul>
+			</li>
+		</ul>
+		<h2 id="internalstructureofitemevents">Internal Structure of Item Events</h2>
+		<p>Items have two event pages. The first event page has an Action Button trigger and the following structure:</p>
+		<pre>@&gt;<span style="color:rgb(0,0,255)">Conditional Branch: Script: Kernel.pbItemBall(::PBItems::POTION)</span>
+  @&gt;<span style="color:rgb(255,0,0)">Control Self Switch: A =ON</span>
+  @&gt;
+ : <span style="color:rgb(0,0,255)">Else</span>
+  @&gt;
+ : <span style="color:rgb(0,0,255)">Branch End</span>
+@&gt;
+</pre>
+		<p>The second event page has a condition of "Self Switch A is ON", has no graphic, and is blank.</p>
+		<p>Putting a Pokemon instead of an item in the event is easy. Just use something like: <b>Kernel.pbAddPokemon(PBSpecies::MEW,20)</b> in the conditional branch.</p>
+		<p>You can also make the item event hidden. In the first event page, select "Through" under Options, and set the Graphic to "(None)". However, it should be named HiddenItem so that detectors and other mechanisms can look for it.</p>
+		<h2 id="scenesinpokemonessentials">Scenes in Pokemon Essentials</h2>
+		<p>The various screens used in the game system follow a different pattern than RPGXP's scripts.
+Each screen is separated into two different classes--one to handle the logic, and another
+to handle the appearance.  The advantage of this separation is that the screen's appearance
+can change without impacting its logic, and vice versa.  For instance, the basic tasks of switching and giving
+items to Pokemon will be same regardless of the scene's appearance.</p>
+		<p>The code below is a skeleton of a scene in Pokemon Essentials.  You should read the comments
+carefully.</p>
+		<pre>#
+# Scene class for handling appearance of the screen
+#
+class MyScene
+  #
+  # Processes the scene
+  #
+  def pbScene
+   loop do
+    Graphics.update
+    Input.update
+    pbUpdate
+    if Input.trigger?(Input::B)
+     # Process the B button here
+     break
+    end
+    if Input.trigger?(Input::C)
+     # Process the B button here
+     break
+    end
+   end
+  end
+  #
+  # Update the scene here, this is called once each frame
+  #
+  def pbUpdate
+   pbUpdateSpriteHash(@sprites)
+   # Add other things that should be updated
+  end
+  #
+  # End the scene here
+  #
+  def pbEndScene
+   # Fade out all sprites
+   pbFadeOutAndHide(@sprites) { pbUpdate }
+   # Dispose all sprites
+   pbDisposeSpriteHash(@sprites)
+   # Dispose the viewport
+   @viewport.dispose
+  end
+  def pbStartScene
+    # Create sprite hash
+    @sprites={}
+    # Allocate viewport
+    @viewport=Viewport.new(0,0,Graphics.width,Graphics.height)
+    @viewport.z=99999
+    # Create sprites, planes, and windows using the 
+    # pattern below.  Refer to sprites using
+    # '@sprites["sprite1"]', etc.  Be sure to use
+    # '@viewport' when creating the sprite
+=begin
+    # Creates an icon sprite with X 20 and Y 50
+    @sprites["sprite1"]=IconSprite.new(20,50,@viewport)
+    # Sets the picture of the sprite
+    @sprites["sprite1"].setBitmap("Graphics/Pictures/picture")
+    @sprites["sprite2"]=Window_UnformattedTextPokemon.new("text")
+=end
+    # Fade in all sprites
+    pbFadeInAndShow(@sprites) { pbUpdate }
+  end
+end
+#
+# Screen class for handling game logic
+#
+class MyScreen
+ def initialize(scene)
+  @scene = scene
+ end
+ # If pbStartScreen includes parameters, it should
+ # pass the parameters to pbStartScene.
+ def pbStartScreen # (param1, param2)
+  @scene.pbStartScene # (param1, param2)
+  # Calls pbScene currently, but can instead be made
+  # to call multiple functions instead, such as pbDisplay
+  # for displaying a message, pbCommand for confirming
+  # a choice, pbRefresh for updating the screen, etc.
+  # The important thing is that this screen
+  # should not be responsible for controlling the look of
+  # the scene, that's the scene's responsibility.  Generic
+  # methods such as display, command, and refresh are good
+  # choices for methods.  To call a method on the scene,
+  # like pbDisplay, use "@scene.pbDisplay", just as it's
+  # done here.
+  @scene.pbScene
+  @scene.pbEndScene
+ end
+end
+#
+#
+#  Here is how a script would initialize MyScene:
+#  
+#  pbFadeOutIn(99999){           # Optional
+#    scene=MyScene.new           # Create the scene
+#    screen=MyScreen.new(scene)  # Create the screen
+#    screen.pbStartScreen        # Initialize the scene
+#  }                             # Optional
+#
+</pre>
+	
+
+
+
+
+
+
+</body></html>
