@@ -13,7 +13,6 @@ Add more stuff so the map doesn't look so empty
 5 pokeballs given to you by one of the professor's aides
 - Add ladder animations
 - Add some cool shit to the tilesets
-- Lower density in cave battle room
 
 
 
@@ -36,3 +35,6 @@ Changelog:
 2014.4.19
 - Added battle with matt in cave.
 - Event prevents you from leaving va beach while switch 3 (choosing a starter) is on
+
+2014.4.21
+- Enabled surfing enounters in beach cave F1
