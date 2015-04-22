@@ -1,11 +1,11 @@
---- !ruby/object:Hash
+---
 root: !ruby/object:RPG::Map
   bgm: !ruby/object:RPG::AudioFile
     volume: 100
     name: ''
     pitch: 100
   tileset_id: 1
-  events: !ruby/object:Hash
+  events:
     1: !ruby/object:RPG::Event
       pages:
       - !ruby/object:RPG::Event::Page
@@ -4989,7 +4989,7 @@ root: !ruby/object:RPG::Map
     - 1233
     - 1233
     - 1233
-    - 387
+    - 1233
     - 808
     - 809
     - 808
@@ -5613,7 +5613,7 @@ root: !ruby/object:RPG::Map
     - 491
     - 387
     - 387
-    - 387
+    - 1233
     - 808
     - 809
     - 808
@@ -7329,7 +7329,7 @@ root: !ruby/object:RPG::Map
     - 0
     - 0
     - 0
-    - 1178
+    - 0
     - 0
     - 0
     - 0
@@ -7368,7 +7368,7 @@ root: !ruby/object:RPG::Map
     - 0
     - 0
     - 0
-    - 1178
+    - 0
     - 0
     - 0
     - 0
@@ -7446,7 +7446,7 @@ root: !ruby/object:RPG::Map
     - 0
     - 0
     - 0
-    - 1178
+    - 0
     - 0
     - 0
     - 0
@@ -7485,7 +7485,7 @@ root: !ruby/object:RPG::Map
     - 0
     - 0
     - 0
-    - 1178
+    - 1192
     - 0
     - 0
     - 0
@@ -7953,7 +7953,7 @@ root: !ruby/object:RPG::Map
     - 0
     - 0
     - 0
-    - 1178
+    - 0
     - 0
     - 0
     - 0
@@ -7992,7 +7992,7 @@ root: !ruby/object:RPG::Map
     - 0
     - 0
     - 0
-    - 1178
+    - 0
     - 0
     - 0
     - 0
@@ -8031,7 +8031,7 @@ root: !ruby/object:RPG::Map
     - 0
     - 0
     - 0
-    - 1178
+    - 0
     - 0
     - 0
     - 0
@@ -8070,7 +8070,7 @@ root: !ruby/object:RPG::Map
     - 0
     - 0
     - 0
-    - 1178
+    - 0
     - 0
     - 0
     - 0
@@ -8148,7 +8148,7 @@ root: !ruby/object:RPG::Map
     - 0
     - 0
     - 0
-    - 1178
+    - 0
     - 0
     - 0
     - 0
@@ -8187,7 +8187,7 @@ root: !ruby/object:RPG::Map
     - 2934
     - 804
     - 805
-    - 1178
+    - 0
     - 0
     - 0
     - 0
@@ -8226,7 +8226,7 @@ root: !ruby/object:RPG::Map
     - 2942
     - 0
     - 0
-    - 1178
+    - 1192
     - 0
     - 0
     - 0
