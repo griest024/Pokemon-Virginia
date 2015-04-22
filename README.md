@@ -4,12 +4,8 @@ PKMN Fire red hack by Peter Lauck and Matt Hodapp
 VA Beach
 Player starts out in own home, with a Mom.
 Goes to professor oaks house for three starters
-One house has the pokedex in it
 Rivals include, Gary, Emma, Peter, and Matthew
-Cut should be available somehow in the red house that is not yours
 Maybe an ally in the red house that is not yours
-Need some sort of event/events that prevent the player from going into battle without pokemon
-Add more stuff so the map doesn't look so empty
 5 pokeballs given to you by one of the professor's aides
 - Add ladder animations
 - Add some cool shit to the tilesets
