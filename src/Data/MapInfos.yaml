@@ -119,7 +119,7 @@ root:
     name: Beach
     expanded: true
     order: 75
-    scroll_y: 924
+    scroll_y: 1139
     parent_id: 0
   30: !ruby/object:RPG::MapInfo
     scroll_x: 320
@@ -468,6 +468,27 @@ root:
     order: 16
     scroll_y: 256
     parent_id: 14
+  45: !ruby/object:RPG::MapInfo
+    scroll_x: 624
+    name: Route 6
+    expanded: false
+    order: 41
+    scroll_y: 384
+    parent_id: 44
+  7: !ruby/object:RPG::MapInfo
+    scroll_x: 960
+    name: Cedolan City
+    expanded: false
+    order: 8
+    scroll_y: 688
+    parent_id: 1
+  64: !ruby/object:RPG::MapInfo
+    scroll_x: 320
+    name: Battle Factory arena
+    expanded: false
+    order: 55
+    scroll_y: 240
+    parent_id: 62
   26: !ruby/object:RPG::MapInfo
     scroll_x: 320
     name: !binary |-
@@ -476,34 +497,20 @@ root:
     order: 25
     scroll_y: 240
     parent_id: 23
-  64: !ruby/object:RPG::MapInfo
+  55: !ruby/object:RPG::MapInfo
     scroll_x: 320
-    name: Battle Factory arena
+    name: Battle Tower
     expanded: false
-    order: 55
+    order: 46
     scroll_y: 240
-    parent_id: 62
-  7: !ruby/object:RPG::MapInfo
-    scroll_x: 960
-    name: Cedolan City
-    expanded: false
-    order: 8
-    scroll_y: 688
-    parent_id: 1
-  45: !ruby/object:RPG::MapInfo
-    scroll_x: 624
-    name: Route 6
-    expanded: false
-    order: 41
-    scroll_y: 384
-    parent_id: 44
-  74: !ruby/object:RPG::MapInfo
+    parent_id: 52
+  17: !ruby/object:RPG::MapInfo
     scroll_x: 320
-    name: Cycling Road gate
+    name: Cedolan Dept. 4F
     expanded: false
-    order: 42
-    scroll_y: 240
-    parent_id: 44
+    order: 17
+    scroll_y: 256
+    parent_id: 14
   36: !ruby/object:RPG::MapInfo
     scroll_x: 400
     name: !binary |-
@@ -512,41 +519,13 @@ root:
     order: 33
     scroll_y: 288
     parent_id: 35
-  17: !ruby/object:RPG::MapInfo
-    scroll_x: 320
-    name: Cedolan Dept. 4F
-    expanded: false
-    order: 17
-    scroll_y: 256
-    parent_id: 14
-  55: !ruby/object:RPG::MapInfo
-    scroll_x: 320
-    name: Battle Tower
-    expanded: false
-    order: 46
-    scroll_y: 240
-    parent_id: 52
-  65: !ruby/object:RPG::MapInfo
-    scroll_x: 320
-    name: Battle Factory corridor
-    expanded: false
-    order: 56
-    scroll_y: 240
-    parent_id: 62
-  8: !ruby/object:RPG::MapInfo
-    scroll_x: 320
-    name: Daisy's house
-    expanded: false
-    order: 4
-    scroll_y: 240
-    parent_id: 2
-  46: !ruby/object:RPG::MapInfo
+  74: !ruby/object:RPG::MapInfo
     scroll_x: 320
     name: Cycling Road gate
     expanded: false
-    order: 38
+    order: 42
     scroll_y: 240
-    parent_id: 39
+    parent_id: 44
   27: !ruby/object:RPG::MapInfo
     scroll_x: 320
     name: !binary |-
@@ -555,13 +534,41 @@ root:
     order: 26
     scroll_y: 240
     parent_id: 23
-  75: !ruby/object:RPG::MapInfo
-    scroll_x: 512
-    name: Tiall Region
+  46: !ruby/object:RPG::MapInfo
+    scroll_x: 320
+    name: Cycling Road gate
     expanded: false
-    order: 69
-    scroll_y: 384
-    parent_id: 1
+    order: 38
+    scroll_y: 240
+    parent_id: 39
+  8: !ruby/object:RPG::MapInfo
+    scroll_x: 320
+    name: Daisy's house
+    expanded: false
+    order: 4
+    scroll_y: 240
+    parent_id: 2
+  65: !ruby/object:RPG::MapInfo
+    scroll_x: 320
+    name: Battle Factory corridor
+    expanded: false
+    order: 56
+    scroll_y: 240
+    parent_id: 62
+  56: !ruby/object:RPG::MapInfo
+    scroll_x: 320
+    name: Battle Tower arena
+    expanded: false
+    order: 47
+    scroll_y: 240
+    parent_id: 55
+  18: !ruby/object:RPG::MapInfo
+    scroll_x: 320
+    name: Cedolan Dept. 5F
+    expanded: false
+    order: 18
+    scroll_y: 256
+    parent_id: 14
   37: !ruby/object:RPG::MapInfo
     scroll_x: 320
     name: !binary |-
@@ -570,17 +577,10 @@ root:
     order: 34
     scroll_y: 240
     parent_id: 35
-  18: !ruby/object:RPG::MapInfo
-    scroll_x: 320
-    name: Cedolan Dept. 5F
+  75: !ruby/object:RPG::MapInfo
+    scroll_x: 512
+    name: Tiall Region
     expanded: false
-    order: 18
-    scroll_y: 256
-    parent_id: 14
-  56: !ruby/object:RPG::MapInfo
-    scroll_x: 320
-    name: Battle Tower arena
-    expanded: false
-    order: 47
-    scroll_y: 240
-    parent_id: 55
+    order: 69
+    scroll_y: 384
+    parent_id: 1
