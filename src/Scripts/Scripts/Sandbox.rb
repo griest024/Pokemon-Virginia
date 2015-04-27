@@ -75,7 +75,7 @@ map_selected = nil
   end
   
     
-    def getMetadata(map_id)
+    def getWeather(map_id)
       return pbGetMetadata(map_id,MetadataWeather)
     end
     

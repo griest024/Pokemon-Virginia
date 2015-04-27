@@ -3116,7 +3116,7 @@ end
 
 
 module WeatherEffectProperty
-  def self.set(settingname,oldsetting)
+  def self.set(settingname,oldsetting,*setArgs)
     cmd=Kernel.pbMessage(_INTL("Choose a weather effect."),[
        _INTL("No weather"),
        _INTL("Rain"),
@@ -3128,12 +3128,16 @@ module WeatherEffectProperty
        _INTL("Blizzard")
     ],1)
     if cmd==0
+      
       return nil
+    elsif setArgs!=nil
+      return [setArgs[0],setArgs[1]]
     else
       params=ChooseNumberParams.new
       params.setRange(0,100)
       params.setDefaultValue(oldsetting ? oldsetting[1] : 100)
       number=Kernel.pbMessageChooseNumber(_INTL("Set the probability of the weather."),params)
+      echoln(cmd, number)
       return [cmd,number]
     end
   end
