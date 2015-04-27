@@ -683,6 +683,10 @@ def pbSerializeConnectionData(conndata,mapinfos)
   save_data(conndata,"Data/connections.dat")
 end
 
+def pbSetMetadata(mapid,metadataType,data)
+  setMetadata(mapid,metadataType,data)
+end
+
 def pbSaveMetadata
   data=load_data("Data/metadata.dat") rescue nil
   return if !data
@@ -3130,14 +3134,13 @@ module WeatherEffectProperty
     if cmd==0
       
       return nil
-    elsif setArgs!=nil
+    elsif setArgs[0]!=nil
       return [setArgs[0],setArgs[1]]
     else
       params=ChooseNumberParams.new
       params.setRange(0,100)
       params.setDefaultValue(oldsetting ? oldsetting[1] : 100)
       number=Kernel.pbMessageChooseNumber(_INTL("Set the probability of the weather."),params)
-      echoln(cmd, number)
       return [cmd,number]
     end
   end
@@ -3736,6 +3739,7 @@ GLOBALMETADATA=[
   end
 
   def setMetadata(mapid,metadataType,data)
+    echoln(data)
     @metadata[mapid]=[] if !@metadata[mapid]
     @metadata[mapid][metadataType]=data
   end

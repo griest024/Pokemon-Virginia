@@ -1367,12 +1367,12 @@ root: !ruby/object:RPG::Map
           code: 355
         - !ruby/object:RPG::EventCommand
           parameters:
-          - 'echoln(db.getWeather( '
+          - 'db.setWeather( '
           indent: 0
           code: 655
         - !ruby/object:RPG::EventCommand
           parameters:
-          - "$game_map.map_id))"
+          - "$game_map.map_id,4,0)"
           indent: 0
           code: 655
         - !ruby/object:RPG::EventCommand
