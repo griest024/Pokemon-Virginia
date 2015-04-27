@@ -961,6 +961,7 @@ end
 
 class Scene_Debug
   def main
+    Console.setup_console
     Graphics.transition(15)
     pbDebugMenu
     $scene=Scene_Map.new

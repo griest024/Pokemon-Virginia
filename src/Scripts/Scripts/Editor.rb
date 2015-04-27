@@ -683,9 +683,6 @@ def pbSerializeConnectionData(conndata,mapinfos)
   save_data(conndata,"Data/connections.dat")
 end
 
-def pbSetMetadata(mapid,metadataType,data)
-  setMetadata(mapid,metadataType,data)
-end
 
 def pbSaveMetadata
   data=load_data("Data/metadata.dat") rescue nil
@@ -3120,7 +3117,10 @@ end
 
 
 module WeatherEffectProperty
-  def self.set(settingname,oldsetting,*setArgs)
+  def self.set(settingname,oldsetting,*args)
+    if args[0]!=nil
+      return [args[0],args[1]]
+    end
     cmd=Kernel.pbMessage(_INTL("Choose a weather effect."),[
        _INTL("No weather"),
        _INTL("Rain"),
@@ -3132,10 +3132,7 @@ module WeatherEffectProperty
        _INTL("Blizzard")
     ],1)
     if cmd==0
-      
       return nil
-    elsif setArgs[0]!=nil
-      return [setArgs[0],setArgs[1]]
     else
       params=ChooseNumberParams.new
       params.setRange(0,100)
@@ -3739,7 +3736,7 @@ GLOBALMETADATA=[
   end
 
   def setMetadata(mapid,metadataType,data)
-    echoln(data)
+    echoln("in screen")
     @metadata[mapid]=[] if !@metadata[mapid]
     @metadata[mapid][metadataType]=data
   end

@@ -730,16 +730,6 @@ root: !ruby/object:RPG::Map
           indent: 0
           code: 101
         - !ruby/object:RPG::EventCommand
-          parameters:
-          - db = DebugWeather.new
-          indent: 0
-          code: 355
-        - !ruby/object:RPG::EventCommand
-          parameters:
-          - echoln(db.getMetadata(077))
-          indent: 0
-          code: 655
-        - !ruby/object:RPG::EventCommand
           parameters: []
           indent: 0
           code: 0
@@ -1362,17 +1352,12 @@ root: !ruby/object:RPG::Map
           code: 101
         - !ruby/object:RPG::EventCommand
           parameters:
-          - db = DebugWeather.new
+          - 'DebugEditor.setWeather( '
           indent: 0
           code: 355
         - !ruby/object:RPG::EventCommand
           parameters:
-          - 'db.setWeather( '
-          indent: 0
-          code: 655
-        - !ruby/object:RPG::EventCommand
-          parameters:
-          - "$game_map.map_id,4,0)"
+          - "$game_map.map_id,3,30)"
           indent: 0
           code: 655
         - !ruby/object:RPG::EventCommand
