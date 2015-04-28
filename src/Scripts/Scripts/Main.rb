@@ -1,5 +1,6 @@
 class Scene_DebugIntro
   def main
+
     Graphics.transition(0)
     sscene=PokemonLoadScene.new
     sscreen=PokemonLoad.new(sscene)
@@ -23,6 +24,7 @@ def pbCallTitle #:nodoc:
 end
 
 def mainFunction #:nodoc:
+  
   if $DEBUG
     pbCriticalCode { mainFunctionDebug }
   else
@@ -44,6 +46,7 @@ def mainFunctionDebug #:nodoc:
     setScreenBorderName("border") # Sets image file for the border
     Graphics.update
     Graphics.freeze
+    Console.setup_console
     $scene = pbCallTitle
     while $scene != nil
       $scene.main
