@@ -4,6 +4,8 @@ module RPG
     attr_reader :max
     attr_reader :ox
     attr_reader :oy
+    @@eventWeatherFlag=false
+    @@eventWeather=0
 
     def prepareSandstormBitmaps
       if !@sandstormBitmap1
@@ -143,10 +145,20 @@ module RPG
         end
       end
     end
+    
+    def self.setEventWeather(type)
+      @@eventWeatherType = type
+      @@eventWeatherFlag = true
+    end
+    
+    def self.clearWeather
+      @@eventWeatherFlag = false
+    end
+    
 
     def type=(type)
       return if @type == type
-      @type = type
+      @type = @@eventWeatherFlag ? @@eventWeatherType : type
       case @type
       when 1 # Rain
         bitmap = @rain_bitmap

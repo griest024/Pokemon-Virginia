@@ -683,6 +683,21 @@ def pbSerializeConnectionData(conndata,mapinfos)
   save_data(conndata,"Data/connections.dat")
 end
 
+##############################
+# griest024
+# Sets the value of the the map's metadata in Data/metadata.dat annd
+# PBS/metadata.txt
+# map_id - The id of the map
+# type - The local metadata type see PokemonMetaData::NonGlobalTypes
+# data - The data value to be set
+##############################
+def pbSetMapMetadata(map_id,type,data)
+  metadata=nil
+  mapinfos=pbLoadRxData("Data/MapInfos")
+  metadata=load_data("Data/metadata.dat")
+  metadata[map_id][type] = data
+  pbSerializeMetadata(metadata,mapinfos) if metadata
+end
 
 def pbSaveMetadata
   data=load_data("Data/metadata.dat") rescue nil
@@ -3188,6 +3203,7 @@ def pbMetadataScreen(defaultMapId=nil)
       end
       metadata[map][i+1]=data[i]
     end
+
   end
   pbSerializeMetadata(metadata,mapinfos) if metadata
 end

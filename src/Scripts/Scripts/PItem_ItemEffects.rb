@@ -14,7 +14,7 @@
 #
 #  DEBUG SECTION
 #
-ItemHandlers::UseFromBag.add(:DEBUG,proc{|item|  DebugTerrainTags.new})
+ItemHandlers::UseFromBag.add(:DEBUG,proc{|item|  Debugger.new})
 #
 #
 #
