@@ -99,9 +99,74 @@ root: !ruby/object:RPG::Map
         list:
         - !ruby/object:RPG::EventCommand
           parameters:
-          - db = DebugWeather.new
+          - Pray to the sand spirits?
           indent: 0
+          code: 101
+        - !ruby/object:RPG::EventCommand
+          parameters:
+          - - 'Yes'
+            - 'No'
+          - 2
+          indent: 0
+          code: 102
+        - !ruby/object:RPG::EventCommand
+          parameters:
+          - 0
+          - 'Yes'
+          indent: 0
+          code: 402
+        - !ruby/object:RPG::EventCommand
+          parameters:
+          - "\\PN prayed."
+          indent: 1
+          code: 101
+        - !ruby/object:RPG::EventCommand
+          parameters:
+          - Debugger.setWeather(77,2,15)
+          indent: 1
           code: 355
+        - !ruby/object:RPG::EventCommand
+          parameters:
+          - RPG::Weather.setEventWeather(0)
+          indent: 1
+          code: 655
+        - !ruby/object:RPG::EventCommand
+          parameters:
+          - 92
+          - 92
+          - 1
+          indent: 1
+          code: 121
+        - !ruby/object:RPG::EventCommand
+          parameters:
+          - 93
+          - 93
+          - 0
+          indent: 1
+          code: 121
+        - !ruby/object:RPG::EventCommand
+          parameters: []
+          indent: 1
+          code: 0
+        - !ruby/object:RPG::EventCommand
+          parameters:
+          - 1
+          - 'No'
+          indent: 0
+          code: 402
+        - !ruby/object:RPG::EventCommand
+          parameters:
+          - "\\PN didn't pray."
+          indent: 1
+          code: 101
+        - !ruby/object:RPG::EventCommand
+          parameters: []
+          indent: 1
+          code: 0
+        - !ruby/object:RPG::EventCommand
+          parameters: []
+          indent: 0
+          code: 404
         - !ruby/object:RPG::EventCommand
           parameters: []
           indent: 0
@@ -172,13 +237,6 @@ root: !ruby/object:RPG::Map
           - 0
           indent: 1
           code: 123
-        - !ruby/object:RPG::EventCommand
-          parameters:
-          - 59
-          - 59
-          - 0
-          indent: 1
-          code: 121
         - !ruby/object:RPG::EventCommand
           parameters: []
           indent: 1
@@ -1223,7 +1281,7 @@ root: !ruby/object:RPG::Map
     - 0
     - 0
     - 0
-    - 424
+    - 432
     - 0
     - 0
     - 0
@@ -1243,7 +1301,7 @@ root: !ruby/object:RPG::Map
     - 0
     - 0
     - 0
-    - 0
+    - 440
     - 0
     - 0
     - 0
