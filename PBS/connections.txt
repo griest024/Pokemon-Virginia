@@ -28,7 +28,9 @@
 41,North,0,40,South,0
 # Route 5 (41) - Route 6 (45)
 41,South,6,45,North,0
-# Beach (77) - VA Beach (22)
-77,West,5,22,East,0
-# VA Beach (22) - Route 1 (81)
-22,0,65,81,9,0
+# VA Beach (22) - Beach (77)
+22,East,0,77,West,5
+# Route 1 (81) - Beach (77)
+81,North,48,77,South,0
+# Route 1 (81) - VA Beach (22)
+81,North,9,22,South,0

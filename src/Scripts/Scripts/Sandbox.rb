@@ -27,20 +27,9 @@ class Debugger
 
   end
   
-  
-end
-
-  
-
-class DebugEditor
-  
-  
   def self.setWeather(map_id,weather,prob)
     data = [weather,prob]
     pbSetMapMetadata(map_id,6,data)
   end
   
 end
-
-
-    

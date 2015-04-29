@@ -5,7 +5,7 @@ module RPG
     attr_reader :ox
     attr_reader :oy
     @@eventWeatherFlag=false
-    @@eventWeather=0
+    @@eventWeatherType=0
 
     def prepareSandstormBitmaps
       if !@sandstormBitmap1
