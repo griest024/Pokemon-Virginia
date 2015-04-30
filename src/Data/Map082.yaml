@@ -228,7 +228,7 @@ root: !ruby/object:RPG::Map
         - !ruby/object:RPG::EventCommand
           parameters:
           - 12
-          - pbWildBattle(PBSpecies::CUBONE,7,$result,false,true)
+          - pbWildBattle(PBSpecies::CUBONE,5,$result,false,true)
           indent: 0
           code: 111
         - !ruby/object:RPG::EventCommand
@@ -267,8 +267,8 @@ root: !ruby/object:RPG::Map
         condition: !ruby/object:RPG::Event::Page::Condition
           switch2_valid: false
           self_switch_ch: A
-          switch1_id: 1
-          switch1_valid: false
+          switch1_id: 92
+          switch1_valid: true
           variable_value: 0
           self_switch_valid: false
           variable_id: 1

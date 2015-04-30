@@ -119,7 +119,7 @@ root:
     name: Beach
     expanded: true
     order: 77
-    scroll_y: 472
+    scroll_y: 944
     parent_id: 0
   30: !ruby/object:RPG::MapInfo
     scroll_x: 320
@@ -239,7 +239,7 @@ root:
     name: VA Beach
     expanded: true
     order: 70
-    scroll_y: 575
+    scroll_y: 974
     parent_id: 0
   60: !ruby/object:RPG::MapInfo
     scroll_x: 320
@@ -253,7 +253,7 @@ root:
     name: VA Beach Int
     expanded: false
     order: 71
-    scroll_y: 2006
+    scroll_y: 2153
     parent_id: 22
   70: !ruby/object:RPG::MapInfo
     scroll_x: 736
@@ -331,7 +331,7 @@ root:
     name: Beach Cave F1
     expanded: false
     order: 79
-    scroll_y: 472
+    scroll_y: 640
     parent_id: 77
   71: !ruby/object:RPG::MapInfo
     scroll_x: 320
@@ -352,7 +352,7 @@ root:
     name: Route 1
     expanded: false
     order: 76
-    scroll_y: 464
+    scroll_y: 944
     parent_id: 0
   24: !ruby/object:RPG::MapInfo
     scroll_x: 320
