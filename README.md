@@ -2,15 +2,11 @@
 PKMN Fire red hack by Peter Lauck and Matt Hodapp 
 
 VA Beach
-Player starts out in own home, with a Mom.
-Goes to professor oaks house for three starters
 Rivals include, Gary, Emma, Peter, and Matthew
-Maybe an ally in the red house that is not yours
-5 pokeballs given to you by one of the professor's aides
 - Add ladder animations
 - Add some cool shit to the tilesets
 - Add acceleration to surfing
-- Figure out how to dynamically edit metadata
+
 
 
 
@@ -45,3 +41,5 @@ Changelog:
 - made peter's house
 - the sand quest starts immediately after getting starter
 - cleaned up events so now the plot progresses
+- added a pbSetMapMetadata method to Editor so now we can dynamically edit a map's metadata
+- changed starters to custom versions so that they will actually have some good moves.
