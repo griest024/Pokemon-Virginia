@@ -38,3 +38,10 @@ Changelog:
 - Enabled surfing enounters in beach cave F1
 - Added quest to defeat sand spirit to stop sandstorm
 - Added sideways stairs to the outside tileset
+
+2014.4.29
+- the aide now gives you pokeballs after getting your starter
+- oak gives you pokedex
+- made peter's house
+- the sand quest starts immediately after getting starter
+- cleaned up events so now the plot progresses
