@@ -6,6 +6,57 @@ root: !ruby/object:RPG::Map
     pitch: 100
   tileset_id: 1
   events:
+    5: !ruby/object:RPG::Event
+      pages:
+      - !ruby/object:RPG::Event::Page
+        move_type: 0
+        list:
+        - !ruby/object:RPG::EventCommand
+          parameters:
+          - The color of each house indicates the clan that family is in.
+          indent: 0
+          code: 101
+        - !ruby/object:RPG::EventCommand
+          parameters: []
+          indent: 0
+          code: 0
+        condition: !ruby/object:RPG::Event::Page::Condition
+          switch2_valid: false
+          self_switch_ch: A
+          switch1_id: 1
+          switch1_valid: false
+          variable_value: 0
+          self_switch_valid: false
+          variable_id: 1
+          variable_valid: false
+          switch2_id: 1
+        direction_fix: false
+        move_route: !ruby/object:RPG::MoveRoute
+          list:
+          - !ruby/object:RPG::MoveCommand
+            parameters: []
+            code: 0
+          skippable: false
+          repeat: true
+        trigger: 0
+        step_anime: false
+        move_frequency: 3
+        graphic: !ruby/object:RPG::Event::Page::Graphic
+          opacity: 255
+          character_name: ''
+          pattern: 0
+          tile_id: 0
+          direction: 2
+          blend_type: 0
+          character_hue: 0
+        always_on_top: false
+        walk_anime: true
+        move_speed: 3
+        through: false
+      name: EV005
+      y: 20
+      x: 12
+      id: 5
     16: !ruby/object:RPG::Event
       pages:
       - !ruby/object:RPG::Event::Page
@@ -127,14 +178,14 @@ root: !ruby/object:RPG::Map
       y: 52
       x: 29
       id: 16
-    5: !ruby/object:RPG::Event
+    11: !ruby/object:RPG::Event
       pages:
       - !ruby/object:RPG::Event::Page
         move_type: 0
         list:
         - !ruby/object:RPG::EventCommand
           parameters:
-          - The color of each house indicates the clan that family is in.
+          - 'Peter''s house. Yellow Clan member''s house. '
           indent: 0
           code: 101
         - !ruby/object:RPG::EventCommand
@@ -174,10 +225,10 @@ root: !ruby/object:RPG::Map
         walk_anime: true
         move_speed: 3
         through: false
-      name: EV005
-      y: 20
-      x: 12
-      id: 5
+      name: EV011
+      y: 30
+      x: 33
+      id: 11
     22: !ruby/object:RPG::Event
       pages:
       - !ruby/object:RPG::Event::Page
@@ -253,7 +304,7 @@ root: !ruby/object:RPG::Map
           switch1_id: 1
           switch1_valid: false
           variable_value: 0
-          self_switch_valid: false
+          self_switch_valid: true
           variable_id: 1
           variable_valid: false
           switch2_id: 1
@@ -284,57 +335,6 @@ root: !ruby/object:RPG::Map
       y: 49
       x: 29
       id: 22
-    11: !ruby/object:RPG::Event
-      pages:
-      - !ruby/object:RPG::Event::Page
-        move_type: 0
-        list:
-        - !ruby/object:RPG::EventCommand
-          parameters:
-          - 'Peter''s house. Yellow Clan member''s house. '
-          indent: 0
-          code: 101
-        - !ruby/object:RPG::EventCommand
-          parameters: []
-          indent: 0
-          code: 0
-        condition: !ruby/object:RPG::Event::Page::Condition
-          switch2_valid: false
-          self_switch_ch: A
-          switch1_id: 1
-          switch1_valid: false
-          variable_value: 0
-          self_switch_valid: false
-          variable_id: 1
-          variable_valid: false
-          switch2_id: 1
-        direction_fix: false
-        move_route: !ruby/object:RPG::MoveRoute
-          list:
-          - !ruby/object:RPG::MoveCommand
-            parameters: []
-            code: 0
-          skippable: false
-          repeat: true
-        trigger: 0
-        step_anime: false
-        move_frequency: 3
-        graphic: !ruby/object:RPG::Event::Page::Graphic
-          opacity: 255
-          character_name: ''
-          pattern: 0
-          tile_id: 0
-          direction: 2
-          blend_type: 0
-          character_hue: 0
-        always_on_top: false
-        walk_anime: true
-        move_speed: 3
-        through: false
-      name: EV011
-      y: 30
-      x: 33
-      id: 11
     6: !ruby/object:RPG::Event
       pages:
       - !ruby/object:RPG::Event::Page
@@ -386,7 +386,7 @@ root: !ruby/object:RPG::Map
       y: 16
       x: 26
       id: 6
-    23: !ruby/object:RPG::Event
+    1: !ruby/object:RPG::Event
       pages:
       - !ruby/object:RPG::Event::Page
         move_type: 0
@@ -623,9 +623,9 @@ root: !ruby/object:RPG::Map
         - !ruby/object:RPG::EventCommand
           parameters:
           - 0
-          - 32
-          - 27
-          - 92
+          - 76
+          - 6
+          - 12
           - 8
           - 1
           indent: 0
@@ -647,7 +647,7 @@ root: !ruby/object:RPG::Map
         condition: !ruby/object:RPG::Event::Page::Condition
           switch2_valid: false
           self_switch_ch: A
-          switch1_id: 8
+          switch1_id: 1
           switch1_valid: false
           variable_value: 0
           self_switch_valid: false
@@ -667,8 +667,8 @@ root: !ruby/object:RPG::Map
         move_frequency: 3
         graphic: !ruby/object:RPG::Event::Page::Graphic
           opacity: 255
-          character_name: doors5
-          pattern: 0
+          character_name: doors3
+          pattern: 1
           tile_id: 0
           direction: 2
           blend_type: 0
@@ -915,8 +915,8 @@ root: !ruby/object:RPG::Map
         move_frequency: 3
         graphic: !ruby/object:RPG::Event::Page::Graphic
           opacity: 255
-          character_name: doors5
-          pattern: 0
+          character_name: doors3
+          pattern: 1
           tile_id: 0
           direction: 2
           blend_type: 0
@@ -925,10 +925,10 @@ root: !ruby/object:RPG::Map
         walk_anime: true
         move_speed: 3
         through: false
-      name: Home door
-      y: 29
-      x: 34
-      id: 23
+      name: Lab door
+      y: 41
+      x: 32
+      id: 1
     12: !ruby/object:RPG::Event
       pages:
       - !ruby/object:RPG::Event::Page
@@ -980,7 +980,7 @@ root: !ruby/object:RPG::Map
       y: 30
       x: 12
       id: 12
-    1: !ruby/object:RPG::Event
+    23: !ruby/object:RPG::Event
       pages:
       - !ruby/object:RPG::Event::Page
         move_type: 0
@@ -1217,9 +1217,9 @@ root: !ruby/object:RPG::Map
         - !ruby/object:RPG::EventCommand
           parameters:
           - 0
-          - 76
-          - 6
-          - 12
+          - 32
+          - 27
+          - 92
           - 8
           - 1
           indent: 0
@@ -1241,7 +1241,7 @@ root: !ruby/object:RPG::Map
         condition: !ruby/object:RPG::Event::Page::Condition
           switch2_valid: false
           self_switch_ch: A
-          switch1_id: 1
+          switch1_id: 8
           switch1_valid: false
           variable_value: 0
           self_switch_valid: false
@@ -1261,8 +1261,8 @@ root: !ruby/object:RPG::Map
         move_frequency: 3
         graphic: !ruby/object:RPG::Event::Page::Graphic
           opacity: 255
-          character_name: doors3
-          pattern: 1
+          character_name: doors5
+          pattern: 0
           tile_id: 0
           direction: 2
           blend_type: 0
@@ -1509,8 +1509,8 @@ root: !ruby/object:RPG::Map
         move_frequency: 3
         graphic: !ruby/object:RPG::Event::Page::Graphic
           opacity: 255
-          character_name: doors3
-          pattern: 1
+          character_name: doors5
+          pattern: 0
           tile_id: 0
           direction: 2
           blend_type: 0
@@ -1519,10 +1519,10 @@ root: !ruby/object:RPG::Map
         walk_anime: true
         move_speed: 3
         through: false
-      name: Lab door
-      y: 41
-      x: 32
-      id: 1
+      name: Home door
+      y: 29
+      x: 34
+      id: 23
     7: !ruby/object:RPG::Event
       pages:
       - !ruby/object:RPG::Event::Page
@@ -1574,7 +1574,7 @@ root: !ruby/object:RPG::Map
       y: 25
       x: 23
       id: 7
-    13: !ruby/object:RPG::Event
+    2: !ruby/object:RPG::Event
       pages:
       - !ruby/object:RPG::Event::Page
         move_type: 0
@@ -1812,8 +1812,8 @@ root: !ruby/object:RPG::Map
           parameters:
           - 0
           - 32
-          - 27
-          - 59
+          - 3
+          - 8
           - 8
           - 1
           indent: 0
@@ -2114,10 +2114,10 @@ root: !ruby/object:RPG::Map
         move_speed: 3
         through: false
       name: Home door
-      y: 29
-      x: 13
-      id: 13
-    2: !ruby/object:RPG::Event
+      y: 15
+      x: 27
+      id: 2
+    13: !ruby/object:RPG::Event
       pages:
       - !ruby/object:RPG::Event::Page
         move_type: 0
@@ -2355,8 +2355,8 @@ root: !ruby/object:RPG::Map
           parameters:
           - 0
           - 32
-          - 3
-          - 8
+          - 27
+          - 59
           - 8
           - 1
           indent: 0
@@ -2657,9 +2657,9 @@ root: !ruby/object:RPG::Map
         move_speed: 3
         through: false
       name: Home door
-      y: 15
-      x: 27
-      id: 2
+      y: 29
+      x: 13
+      id: 13
     8: !ruby/object:RPG::Event
       pages:
       - !ruby/object:RPG::Event::Page
@@ -2711,7 +2711,7 @@ root: !ruby/object:RPG::Map
       y: 36
       x: 20
       id: 8
-    14: !ruby/object:RPG::Event
+    3: !ruby/object:RPG::Event
       pages:
       - !ruby/object:RPG::Event::Page
         move_type: 0
@@ -2949,8 +2949,8 @@ root: !ruby/object:RPG::Map
           parameters:
           - 0
           - 32
-          - 27
-          - 73
+          - 3
+          - 23
           - 8
           - 1
           indent: 0
@@ -3251,10 +3251,10 @@ root: !ruby/object:RPG::Map
         move_speed: 3
         through: false
       name: Home door
-      y: 19
-      x: 13
-      id: 14
-    3: !ruby/object:RPG::Event
+      y: 24
+      x: 24
+      id: 3
+    14: !ruby/object:RPG::Event
       pages:
       - !ruby/object:RPG::Event::Page
         move_type: 0
@@ -3492,8 +3492,8 @@ root: !ruby/object:RPG::Map
           parameters:
           - 0
           - 32
-          - 3
-          - 23
+          - 27
+          - 73
           - 8
           - 1
           indent: 0
@@ -3794,9 +3794,9 @@ root: !ruby/object:RPG::Map
         move_speed: 3
         through: false
       name: Home door
-      y: 24
-      x: 24
-      id: 3
+      y: 19
+      x: 13
+      id: 14
     9: !ruby/object:RPG::Event
       pages:
       - !ruby/object:RPG::Event::Page
@@ -3848,112 +3848,6 @@ root: !ruby/object:RPG::Map
       y: 19
       x: 37
       id: 9
-    15: !ruby/object:RPG::Event
-      pages:
-      - !ruby/object:RPG::Event::Page
-        move_type: 0
-        list:
-        - !ruby/object:RPG::EventCommand
-          parameters:
-          - 12
-          - Kernel.pbItemBall(PBItems::POTION)
-          indent: 0
-          code: 111
-        - !ruby/object:RPG::EventCommand
-          parameters:
-          - A
-          - 0
-          indent: 1
-          code: 123
-        - !ruby/object:RPG::EventCommand
-          parameters: []
-          indent: 1
-          code: 0
-        - !ruby/object:RPG::EventCommand
-          parameters: []
-          indent: 0
-          code: 412
-        - !ruby/object:RPG::EventCommand
-          parameters: []
-          indent: 0
-          code: 0
-        condition: !ruby/object:RPG::Event::Page::Condition
-          switch2_valid: false
-          self_switch_ch: A
-          switch1_id: 1
-          switch1_valid: false
-          variable_value: 0
-          self_switch_valid: false
-          variable_id: 1
-          variable_valid: false
-          switch2_id: 1
-        direction_fix: false
-        move_route: !ruby/object:RPG::MoveRoute
-          list:
-          - !ruby/object:RPG::MoveCommand
-            parameters: []
-            code: 0
-          skippable: false
-          repeat: true
-        trigger: 0
-        step_anime: false
-        move_frequency: 3
-        graphic: !ruby/object:RPG::Event::Page::Graphic
-          opacity: 255
-          character_name: Object ball
-          pattern: 0
-          tile_id: 0
-          direction: 2
-          blend_type: 0
-          character_hue: 0
-        always_on_top: false
-        walk_anime: true
-        move_speed: 3
-        through: false
-      - !ruby/object:RPG::Event::Page
-        move_type: 0
-        list:
-        - !ruby/object:RPG::EventCommand
-          parameters: []
-          indent: 0
-          code: 0
-        condition: !ruby/object:RPG::Event::Page::Condition
-          switch2_valid: false
-          self_switch_ch: A
-          switch1_id: 1
-          switch1_valid: false
-          variable_value: 0
-          self_switch_valid: true
-          variable_id: 1
-          variable_valid: false
-          switch2_id: 1
-        direction_fix: false
-        move_route: !ruby/object:RPG::MoveRoute
-          list:
-          - !ruby/object:RPG::MoveCommand
-            parameters: []
-            code: 0
-          skippable: false
-          repeat: true
-        trigger: 0
-        step_anime: false
-        move_frequency: 3
-        graphic: !ruby/object:RPG::Event::Page::Graphic
-          opacity: 255
-          character_name: ''
-          pattern: 0
-          tile_id: 0
-          direction: 2
-          blend_type: 0
-          character_hue: 0
-        always_on_top: false
-        walk_anime: true
-        move_speed: 3
-        through: true
-      name: Item
-      y: 14
-      x: 25
-      id: 15
     4: !ruby/object:RPG::Event
       pages:
       - !ruby/object:RPG::Event::Page
@@ -4497,6 +4391,170 @@ root: !ruby/object:RPG::Map
       y: 35
       x: 19
       id: 4
+    15: !ruby/object:RPG::Event
+      pages:
+      - !ruby/object:RPG::Event::Page
+        move_type: 0
+        list:
+        - !ruby/object:RPG::EventCommand
+          parameters:
+          - 12
+          - Kernel.pbItemBall(PBItems::POTION)
+          indent: 0
+          code: 111
+        - !ruby/object:RPG::EventCommand
+          parameters:
+          - A
+          - 0
+          indent: 1
+          code: 123
+        - !ruby/object:RPG::EventCommand
+          parameters: []
+          indent: 1
+          code: 0
+        - !ruby/object:RPG::EventCommand
+          parameters: []
+          indent: 0
+          code: 412
+        - !ruby/object:RPG::EventCommand
+          parameters: []
+          indent: 0
+          code: 0
+        condition: !ruby/object:RPG::Event::Page::Condition
+          switch2_valid: false
+          self_switch_ch: A
+          switch1_id: 1
+          switch1_valid: false
+          variable_value: 0
+          self_switch_valid: false
+          variable_id: 1
+          variable_valid: false
+          switch2_id: 1
+        direction_fix: false
+        move_route: !ruby/object:RPG::MoveRoute
+          list:
+          - !ruby/object:RPG::MoveCommand
+            parameters: []
+            code: 0
+          skippable: false
+          repeat: true
+        trigger: 0
+        step_anime: false
+        move_frequency: 3
+        graphic: !ruby/object:RPG::Event::Page::Graphic
+          opacity: 255
+          character_name: Object ball
+          pattern: 0
+          tile_id: 0
+          direction: 2
+          blend_type: 0
+          character_hue: 0
+        always_on_top: false
+        walk_anime: true
+        move_speed: 3
+        through: false
+      - !ruby/object:RPG::Event::Page
+        move_type: 0
+        list:
+        - !ruby/object:RPG::EventCommand
+          parameters: []
+          indent: 0
+          code: 0
+        condition: !ruby/object:RPG::Event::Page::Condition
+          switch2_valid: false
+          self_switch_ch: A
+          switch1_id: 1
+          switch1_valid: false
+          variable_value: 0
+          self_switch_valid: true
+          variable_id: 1
+          variable_valid: false
+          switch2_id: 1
+        direction_fix: false
+        move_route: !ruby/object:RPG::MoveRoute
+          list:
+          - !ruby/object:RPG::MoveCommand
+            parameters: []
+            code: 0
+          skippable: false
+          repeat: true
+        trigger: 0
+        step_anime: false
+        move_frequency: 3
+        graphic: !ruby/object:RPG::Event::Page::Graphic
+          opacity: 255
+          character_name: ''
+          pattern: 0
+          tile_id: 0
+          direction: 2
+          blend_type: 0
+          character_hue: 0
+        always_on_top: false
+        walk_anime: true
+        move_speed: 3
+        through: true
+      name: Item
+      y: 14
+      x: 25
+      id: 15
+    10: !ruby/object:RPG::Event
+      pages:
+      - !ruby/object:RPG::Event::Page
+        move_type: 0
+        list:
+        - !ruby/object:RPG::EventCommand
+          parameters:
+          - 'VA Beach, a small town dominated by three clans, The Red Clan, Yellow
+            Clan, and the Green Clan. Some clan members can be found in the pokemon
+            world and in '
+          indent: 0
+          code: 101
+        - !ruby/object:RPG::EventCommand
+          parameters:
+          - gyms.
+          indent: 0
+          code: 401
+        - !ruby/object:RPG::EventCommand
+          parameters: []
+          indent: 0
+          code: 0
+        condition: !ruby/object:RPG::Event::Page::Condition
+          switch2_valid: false
+          self_switch_ch: A
+          switch1_id: 1
+          switch1_valid: false
+          variable_value: 0
+          self_switch_valid: false
+          variable_id: 1
+          variable_valid: false
+          switch2_id: 1
+        direction_fix: false
+        move_route: !ruby/object:RPG::MoveRoute
+          list:
+          - !ruby/object:RPG::MoveCommand
+            parameters: []
+            code: 0
+          skippable: false
+          repeat: true
+        trigger: 0
+        step_anime: false
+        move_frequency: 3
+        graphic: !ruby/object:RPG::Event::Page::Graphic
+          opacity: 255
+          character_name: ''
+          pattern: 0
+          tile_id: 0
+          direction: 2
+          blend_type: 0
+          character_hue: 0
+        always_on_top: false
+        walk_anime: true
+        move_speed: 3
+        through: false
+      name: EV010
+      y: 37
+      x: 37
+      id: 10
     21: !ruby/object:RPG::Event
       pages:
       - !ruby/object:RPG::Event::Page
@@ -4607,64 +4665,6 @@ root: !ruby/object:RPG::Map
       y: 59
       x: 29
       id: 21
-    10: !ruby/object:RPG::Event
-      pages:
-      - !ruby/object:RPG::Event::Page
-        move_type: 0
-        list:
-        - !ruby/object:RPG::EventCommand
-          parameters:
-          - 'VA Beach, a small town dominated by three clans, The Red Clan, Yellow
-            Clan, and the Green Clan. Some clan members can be found in the pokemon
-            world and in '
-          indent: 0
-          code: 101
-        - !ruby/object:RPG::EventCommand
-          parameters:
-          - gyms.
-          indent: 0
-          code: 401
-        - !ruby/object:RPG::EventCommand
-          parameters: []
-          indent: 0
-          code: 0
-        condition: !ruby/object:RPG::Event::Page::Condition
-          switch2_valid: false
-          self_switch_ch: A
-          switch1_id: 1
-          switch1_valid: false
-          variable_value: 0
-          self_switch_valid: false
-          variable_id: 1
-          variable_valid: false
-          switch2_id: 1
-        direction_fix: false
-        move_route: !ruby/object:RPG::MoveRoute
-          list:
-          - !ruby/object:RPG::MoveCommand
-            parameters: []
-            code: 0
-          skippable: false
-          repeat: true
-        trigger: 0
-        step_anime: false
-        move_frequency: 3
-        graphic: !ruby/object:RPG::Event::Page::Graphic
-          opacity: 255
-          character_name: ''
-          pattern: 0
-          tile_id: 0
-          direction: 2
-          blend_type: 0
-          character_hue: 0
-        always_on_top: false
-        walk_anime: true
-        move_speed: 3
-        through: false
-      name: EV010
-      y: 37
-      x: 37
-      id: 10
   bgs: !ruby/object:RPG::AudioFile
     volume: 80
     name: ''
