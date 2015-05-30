@@ -7,7 +7,7 @@ REM ========================================================
 
 REM # The plugin system directory path relative to where this
 REM # file resides (RMXP project root).
-SET PLUGIN_SYSTEM_ROOT="..\\PKMNEssentialsPlugin"
+SET PLUGIN_SYSTEM_ROOT="..\\pokemon plugin"
 
 REM # The RMXP project root path relative to the plugin
 REM # system's root.
