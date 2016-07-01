@@ -1,7 +1,7 @@
 27299246    ================                             EMPTY
 3136021     Settings                                     Settings.rb
 56794810    ================                             EMPTY
-99670243    RGSS2Compatibility                           RGSS2Compatibility.rb
+99670243    RGSS2Compatibility                           
 5036801     RPG__Sprite                                  RPG__Sprite.rb
 27667063    Win32API                                     Win32API.rb
 64137714    Sockets                                      Sockets.rb
