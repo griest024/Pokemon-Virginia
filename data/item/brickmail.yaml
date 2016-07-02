@@ -1,0 +1,10 @@
+--- !ruby/object:PKMN::Item::Mail
+plural_name: Brick Mail
+description: Stationery featuring a print of a tough-looking brick pattern. Let a Pokémon hold it for delivery.
+permenant: false
+name: Brick Mail
+usability: !ruby/object:Hash
+  :overworld: true
+id: :brickmail
+price: 50
+hold_item: true

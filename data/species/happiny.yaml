@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.6
+description: It loves round white things. It carries an egg-shaped rock in imitation of Chansey.
+hatch_steps: 10455
+type1: :normal
+happiness: 140
+kind: Playhouse
+number: '440'
+name: Happiny
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 1
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 24.4
+id: :happiny
+catch_rate: 130
+xp_yield: 110
+stats: !ruby/object:Hash
+  :attack: 5
+  :defense: 5
+  :hp: 100
+  :special_attack: 15
+  :special_defense: 65
+  :speed: 30

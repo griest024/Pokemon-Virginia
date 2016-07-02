@@ -1,0 +1,11 @@
+--- !ruby/object:PKMN::Item::TM
+plural_name: TM69s
+description: The user polishes its body to reduce drag. It sharply raises the Speed stat.
+permenant: false
+name: TM69
+usability: !ruby/object:Hash
+  :overworld: true
+  :pokemon: true
+id: :tm69
+price: 1500
+hold_item: true

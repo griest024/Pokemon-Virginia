@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 2.7
+description: Seviper and Zangoose are eternal rivals. It counters a Zangoose's dazzling agility with its swordlike tail, which also oozes a horrible poison.
+hatch_steps: 5355
+type1: :poison
+happiness: 70
+kind: Fang Snake
+number: '336'
+name: Seviper
+ev_yield: !ruby/object:Hash
+  :attack: 1
+  :defense: 0
+  :hp: 0
+  :special_attack: 1
+  :special_defense: 0
+  :speed: 0
+weight: 52.5
+id: :seviper
+catch_rate: 90
+xp_yield: 160
+stats: !ruby/object:Hash
+  :attack: 100
+  :defense: 60
+  :hp: 73
+  :special_attack: 100
+  :special_defense: 60
+  :speed: 65

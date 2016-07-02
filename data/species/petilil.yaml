@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.5
+description: Since they prefer moist, nutrient-rich soil, the areas where Petilil live are known to be good for growing plants.
+hatch_steps: 5355
+type1: :grass
+happiness: 70
+kind: Bulb
+number: '548'
+name: Petilil
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 1
+  :special_defense: 0
+  :speed: 0
+weight: 6.6
+id: :petilil
+catch_rate: 190
+xp_yield: 56
+stats: !ruby/object:Hash
+  :attack: 35
+  :defense: 50
+  :hp: 45
+  :special_attack: 70
+  :special_defense: 50
+  :speed: 30

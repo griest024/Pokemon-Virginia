@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.9
+description: Becoming active at night, it is known to swarm with numerous Murkrow in tow.
+hatch_steps: 5355
+type1: :dark
+happiness: 35
+type2: :flying
+kind: Big Boss
+number: '430'
+name: Honchkrow
+ev_yield: !ruby/object:Hash
+  :attack: 2
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 27.3
+id: :honchkrow
+catch_rate: 30
+xp_yield: 177
+stats: !ruby/object:Hash
+  :attack: 125
+  :defense: 52
+  :hp: 100
+  :special_attack: 105
+  :special_defense: 52
+  :speed: 71

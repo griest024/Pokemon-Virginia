@@ -1,0 +1,12 @@
+--- !ruby/object:PKMN::Item::Medicine
+plural_name: Antidotes
+description: A spray-type medicine. It lifts the effect of poison from one Pokémon.
+permenant: false
+name: Antidote
+usability: !ruby/object:Hash
+  :battle: true
+  :overworld: true
+  :pokemon: true
+id: :antidote
+price: 100
+hold_item: true

@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.0
+description: If your nose becomes itchy while you are sleeping, it's a sure sign that a Drowzee is standing above your pillow and trying to eat your dream through your nostrils.
+hatch_steps: 5355
+type1: :psychic
+happiness: 70
+kind: Hypnosis
+number: '96'
+name: Drowzee
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 1
+  :speed: 0
+weight: 32.4
+id: :drowzee
+catch_rate: 190
+xp_yield: 66
+stats: !ruby/object:Hash
+  :attack: 48
+  :defense: 45
+  :hp: 60
+  :special_attack: 43
+  :special_defense: 90
+  :speed: 42

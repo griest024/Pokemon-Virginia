@@ -1,0 +1,12 @@
+--- !ruby/object:PKMN::Item::Medicine
+plural_name: Full Restores
+description: A medicine that fully restores the HP and heals any status problems of a single Pokémon.
+permenant: false
+name: Full Restore
+usability: !ruby/object:Hash
+  :battle: true
+  :overworld: true
+  :pokemon: true
+id: :fullrestore
+price: 3000
+hold_item: true

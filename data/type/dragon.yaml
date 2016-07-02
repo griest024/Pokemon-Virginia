@@ -1,0 +1,11 @@
+--- !ruby/object:PKMN::Type::Type
+effects: !ruby/object:Hash
+  :dragon: :very
+  :electric: :little
+  :fire: :little
+  :grass: :little
+  :ice: :very
+  :water: :little
+name: Dragon
+id: :dragon
+type_class: :special

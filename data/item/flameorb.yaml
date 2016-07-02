@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Flame Orbs
+description: An item to be held by a Pokémon. It is a bizarre orb that inflicts a burn on the holder in battle.
+permenant: false
+name: Flame Orb
+usability: !ruby/object:Hash {}
+id: :flameorb
+price: 100
+hold_item: true

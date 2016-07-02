@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.2
+description: Whenever it sees something unfamiliar, it always licks the object because it memorizes things by texture and taste. It is somewhat put off by sour things.
+hatch_steps: 5355
+type1: :normal
+happiness: 70
+kind: Licking
+number: '108'
+name: Lickitung
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 2
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 65.5
+id: :lickitung
+catch_rate: 45
+xp_yield: 77
+stats: !ruby/object:Hash
+  :attack: 55
+  :defense: 75
+  :hp: 90
+  :special_attack: 60
+  :special_defense: 75
+  :speed: 30

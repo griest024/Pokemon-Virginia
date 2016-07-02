@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.5
+description: When Burmy evolved, its cloak became a part of this Pokémon's body. The cloak is never shed.
+hatch_steps: 4080
+type1: :bug
+happiness: 70
+type2: :grass
+kind: Bagworm
+number: '413'
+name: Wormadam
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 2
+  :speed: 0
+weight: 6.5
+id: :wormadam
+catch_rate: 45
+xp_yield: 148
+stats: !ruby/object:Hash
+  :attack: 59
+  :defense: 85
+  :hp: 60
+  :special_attack: 79
+  :special_defense: 105
+  :speed: 36

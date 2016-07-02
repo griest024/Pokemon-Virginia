@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.0
+description: A forest-dwelling Pokémon that is skilled at climbing trees. Its long and pointed nose is its weak point. It loses power if the nose is gripped.
+hatch_steps: 4080
+type1: :grass
+happiness: 70
+type2: :dark
+kind: Wily
+number: '274'
+name: Nuzleaf
+ev_yield: !ruby/object:Hash
+  :attack: 2
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 28.0
+id: :nuzleaf
+catch_rate: 120
+xp_yield: 119
+stats: !ruby/object:Hash
+  :attack: 70
+  :defense: 40
+  :hp: 70
+  :special_attack: 60
+  :special_defense: 40
+  :speed: 60

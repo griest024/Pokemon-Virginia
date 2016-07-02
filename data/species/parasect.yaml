@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.0
+description: Parasect are known to infest the roots of large trees en masse and drain nutrients. When an infested tree dies, they move onto another tree all at once.
+hatch_steps: 5355
+type1: :bug
+happiness: 70
+type2: :grass
+kind: Mushroom
+number: '47'
+name: Parasect
+ev_yield: !ruby/object:Hash
+  :attack: 2
+  :defense: 1
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 29.5
+id: :parasect
+catch_rate: 75
+xp_yield: 142
+stats: !ruby/object:Hash
+  :attack: 95
+  :defense: 80
+  :hp: 60
+  :special_attack: 60
+  :special_defense: 80
+  :speed: 30

@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.1
+description: It conceals itself from enemy eyes by creating many small ice particles and hiding among them.
+hatch_steps: 5355
+type1: :ice
+happiness: 70
+kind: Icy Snow
+number: '583'
+name: Vanillish
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 2
+  :special_defense: 0
+  :speed: 0
+weight: 41.0
+id: :vanillish
+catch_rate: 120
+xp_yield: 138
+stats: !ruby/object:Hash
+  :attack: 65
+  :defense: 65
+  :hp: 51
+  :special_attack: 80
+  :special_defense: 75
+  :speed: 59

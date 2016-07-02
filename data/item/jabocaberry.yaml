@@ -1,0 +1,12 @@
+--- !ruby/object:PKMN::Item::Berry
+plural_name: Jaboca Berries
+description: If held by a Pokémon and a physical attack lands, the attacker also takes damage.
+permenant: false
+name: Jaboca Berry
+usability: !ruby/object:Hash
+  :battle: true
+  :overworld: true
+  :pokemon: true
+id: :jabocaberry
+price: 20
+hold_item: true

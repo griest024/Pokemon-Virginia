@@ -1,0 +1,12 @@
+--- !ruby/object:PKMN::Item::Medicine
+plural_name: Paralyze Heals
+description: A spray-type medicine. It eliminates paralysis from a single Pokémon.
+permenant: false
+name: Paralyze Heal
+usability: !ruby/object:Hash
+  :battle: true
+  :overworld: true
+  :pokemon: true
+id: :paralyzeheal
+price: 200
+hold_item: true

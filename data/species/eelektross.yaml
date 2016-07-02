@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 2.1
+description: With their sucker mouths, they suck in prey. Then they use their fangs to shock the prey with electricity.
+hatch_steps: 5355
+type1: :electric
+happiness: 70
+kind: EleFish
+number: '604'
+name: Eelektross
+ev_yield: !ruby/object:Hash
+  :attack: 3
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 80.5
+id: :eelektross
+catch_rate: 30
+xp_yield: 232
+stats: !ruby/object:Hash
+  :attack: 115
+  :defense: 80
+  :hp: 85
+  :special_attack: 105
+  :special_defense: 80
+  :speed: 50

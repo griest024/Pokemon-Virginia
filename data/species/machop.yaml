@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.8
+description: It continually undertakes strenuous training to master all forms of martial arts. Its strength lets it easily hoist a sumo wrestler onto its shoulders.
+hatch_steps: 5355
+type1: :fighting
+happiness: 70
+kind: Superpower
+number: '66'
+name: Machop
+ev_yield: !ruby/object:Hash
+  :attack: 1
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 19.5
+id: :machop
+catch_rate: 180
+xp_yield: 61
+stats: !ruby/object:Hash
+  :attack: 80
+  :defense: 50
+  :hp: 70
+  :special_attack: 35
+  :special_defense: 35
+  :speed: 35

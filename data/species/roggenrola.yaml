@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.4
+description: They were discovered a hundred years ago in an earthquake fissure. Inside each one is an energy core.
+hatch_steps: 4080
+type1: :rock
+happiness: 70
+kind: Mantle
+number: '524'
+name: Roggenrola
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 1
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 18.0
+id: :roggenrola
+catch_rate: 255
+xp_yield: 56
+stats: !ruby/object:Hash
+  :attack: 75
+  :defense: 85
+  :hp: 55
+  :special_attack: 25
+  :special_defense: 25
+  :speed: 15

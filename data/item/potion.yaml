@@ -1,0 +1,12 @@
+--- !ruby/object:PKMN::Item::Medicine
+plural_name: Potions
+description: A spray-type medicine for wounds. It restores the HP of one Pokémon by just 20 points.
+permenant: false
+name: Potion
+usability: !ruby/object:Hash
+  :battle: true
+  :overworld: true
+  :pokemon: true
+id: :potion
+price: 300
+hold_item: true

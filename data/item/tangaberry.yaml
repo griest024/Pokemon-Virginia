@@ -1,0 +1,12 @@
+--- !ruby/object:PKMN::Item::Berry
+plural_name: Tanga Berries
+description: Weakens a supereffective Bug-type attack against the holding Pokémon.
+permenant: false
+name: Tanga Berry
+usability: !ruby/object:Hash
+  :battle: true
+  :overworld: true
+  :pokemon: true
+id: :tangaberry
+price: 20
+hold_item: true

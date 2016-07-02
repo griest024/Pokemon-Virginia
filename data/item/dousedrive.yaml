@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Douse Drives
+description: A cassette to be held by Genesect. It changes Techno Blast to a Water-type move.
+permenant: false
+name: Douse Drive
+usability: !ruby/object:Hash {}
+id: :dousedrive
+price: 1000
+hold_item: true

@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.6
+description: It blossoms when the temperature rises above 64 degrees F. Because its flower's blooming changes with the temperature, it is sometimes used as a thermometer.
+hatch_steps: 5355
+type1: :grass
+happiness: 70
+type2: :flying
+kind: Cottonweed
+number: '188'
+name: Skiploom
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 2
+weight: 1.0
+id: :skiploom
+catch_rate: 120
+xp_yield: 119
+stats: !ruby/object:Hash
+  :attack: 45
+  :defense: 50
+  :hp: 55
+  :special_attack: 45
+  :special_defense: 65
+  :speed: 80

@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Luck Incenses
+description: An item to be held by a Pokémon. It doubles a battle's prize money if the holding Pokémon joins in.
+permenant: false
+name: Luck Incense
+usability: !ruby/object:Hash {}
+id: :luckincense
+price: 9600
+hold_item: true

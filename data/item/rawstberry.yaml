@@ -1,0 +1,12 @@
+--- !ruby/object:PKMN::Item::Berry
+plural_name: Rawst Berries
+description: It may be used or held by a Pokémon to recover from a burn.
+permenant: false
+name: Rawst Berry
+usability: !ruby/object:Hash
+  :battle: true
+  :overworld: true
+  :pokemon: true
+id: :rawstberry
+price: 20
+hold_item: true

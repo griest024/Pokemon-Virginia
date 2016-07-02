@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.2
+description: It lives in flower patches and avoids detection by curling up to look like a flowering plant.
+hatch_steps: 30855
+type1: :grass
+happiness: 100
+kind: Gratitude
+number: '492'
+name: Shaymin
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 3
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 2.1
+id: :shaymin
+catch_rate: 45
+xp_yield: 270
+stats: !ruby/object:Hash
+  :attack: 100
+  :defense: 100
+  :hp: 100
+  :special_attack: 100
+  :special_defense: 100
+  :speed: 100

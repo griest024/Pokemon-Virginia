@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.6
+description: It prepares for evolution using the energy it stored while it was a Wurmple. It keeps watch over the surroundings with its two eyes.
+hatch_steps: 4080
+type1: :bug
+happiness: 70
+kind: Cocoon
+number: '266'
+name: Silcoon
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 2
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 10.0
+id: :silcoon
+catch_rate: 120
+xp_yield: 72
+stats: !ruby/object:Hash
+  :attack: 35
+  :defense: 55
+  :hp: 50
+  :special_attack: 25
+  :special_defense: 25
+  :speed: 15

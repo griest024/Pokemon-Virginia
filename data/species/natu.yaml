@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.2
+description: It runs up short trees that grow on the savanna to peck at new shoots. A Natu's eyes look as if they are always observing something.
+hatch_steps: 5355
+type1: :psychic
+happiness: 70
+type2: :flying
+kind: Tiny Bird
+number: '177'
+name: Natu
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 1
+  :special_defense: 0
+  :speed: 0
+weight: 2.0
+id: :natu
+catch_rate: 190
+xp_yield: 64
+stats: !ruby/object:Hash
+  :attack: 50
+  :defense: 45
+  :hp: 40
+  :special_attack: 70
+  :special_defense: 45
+  :speed: 70

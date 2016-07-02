@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.3
+description: When weakened in battle, it transforms into a stone statue. Then it sharpens its mind and fights on mentally.
+hatch_steps: 5355
+type1: :fire
+happiness: 70
+kind: Blazing
+number: '555'
+name: Darmanitan
+ev_yield: !ruby/object:Hash
+  :attack: 2
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 92.9
+id: :darmanitan
+catch_rate: 60
+xp_yield: 168
+stats: !ruby/object:Hash
+  :attack: 140
+  :defense: 55
+  :hp: 105
+  :special_attack: 30
+  :special_defense: 55
+  :speed: 95

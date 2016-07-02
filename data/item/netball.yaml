@@ -1,0 +1,10 @@
+--- !ruby/object:PKMN::Item::Ball
+plural_name: Net Balls
+description: A somewhat different Poké Ball that works especially well on Water- and Bug-type Pokémon.
+permenant: false
+name: Net Ball
+usability: !ruby/object:Hash
+  :battle: true
+id: :netball
+price: 1000
+hold_item: true

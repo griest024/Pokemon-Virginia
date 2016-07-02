@@ -1,0 +1,12 @@
+--- !ruby/object:PKMN::Item::Berry
+plural_name: Chople Berries
+description: Weakens a supereffective Fighting-type attack against the holding Pokémon.
+permenant: false
+name: Chople Berry
+usability: !ruby/object:Hash
+  :battle: true
+  :overworld: true
+  :pokemon: true
+id: :chopleberry
+price: 20
+hold_item: true

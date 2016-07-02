@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Wise Glasses
+description: An item to be held by a Pokémon. It is a thick pair of glasses that slightly boosts the power of special moves.
+permenant: false
+name: Wise Glasses
+usability: !ruby/object:Hash {}
+id: :wiseglasses
+price: 200
+hold_item: true

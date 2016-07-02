@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.5
+description: It blooms during times of strong sunlight. It tries to make up for everything it endured as a bud.
+hatch_steps: 5355
+type1: :grass
+happiness: 70
+kind: Blossom
+number: '421'
+name: Cherrim
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 2
+  :special_defense: 0
+  :speed: 0
+weight: 9.3
+id: :cherrim
+catch_rate: 75
+xp_yield: 158
+stats: !ruby/object:Hash
+  :attack: 60
+  :defense: 70
+  :hp: 70
+  :special_attack: 87
+  :special_defense: 78
+  :speed: 85

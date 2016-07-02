@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 3.2
+description: When Reshiram's tail flares, the heat energy moves the atmosphere and changes the world's weather.
+hatch_steps: 30855
+type1: :dragon
+happiness: 0
+type2: :fire
+kind: Vast White
+number: '643'
+name: Reshiram
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 3
+  :special_defense: 0
+  :speed: 0
+weight: 330.0
+id: :reshiram
+catch_rate: 45
+xp_yield: 50
+stats: !ruby/object:Hash
+  :attack: 120
+  :defense: 100
+  :hp: 100
+  :special_attack: 150
+  :special_defense: 120
+  :speed: 90

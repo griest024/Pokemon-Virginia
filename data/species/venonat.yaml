@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.0
+description: Its coat of thin, stiff hair that covers its entire body is said to have evolved for protection. Its large eyes never fail to spot even miniscule prey.
+hatch_steps: 5355
+type1: :bug
+happiness: 70
+type2: :poison
+kind: Insect
+number: '48'
+name: Venonat
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 1
+  :speed: 0
+weight: 30.0
+id: :venonat
+catch_rate: 190
+xp_yield: 61
+stats: !ruby/object:Hash
+  :attack: 55
+  :defense: 50
+  :hp: 60
+  :special_attack: 40
+  :special_defense: 55
+  :speed: 45

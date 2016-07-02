@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.6
+description: Zapdos is a legendary bird Pokémon that has the ability to control electricity. It usually lives in thunderclouds. It gains power if it is stricken by lightning bolts.
+hatch_steps: 20655
+type1: :electric
+happiness: 35
+type2: :flying
+kind: Electric
+number: '145'
+name: Zapdos
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 3
+  :special_defense: 0
+  :speed: 0
+weight: 52.6
+id: :zapdos
+catch_rate: 3
+xp_yield: 261
+stats: !ruby/object:Hash
+  :attack: 90
+  :defense: 85
+  :hp: 90
+  :special_attack: 125
+  :special_defense: 90
+  :speed: 100

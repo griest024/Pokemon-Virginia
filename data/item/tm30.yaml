@@ -1,0 +1,11 @@
+--- !ruby/object:PKMN::Item::TM
+plural_name: TM30s
+description: The user hurls a shadowy blob at the target. It may also lower the target's Sp. Def stat.
+permenant: false
+name: TM30
+usability: !ruby/object:Hash
+  :overworld: true
+  :pokemon: true
+id: :tm30
+price: 3000
+hold_item: true

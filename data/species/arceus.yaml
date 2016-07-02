@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 3.2
+description: It is described in mythology as the Pokémon that shaped the universe with its 1,000 arms.
+hatch_steps: 30855
+type1: :normal
+happiness: 0
+kind: Alpha
+number: '493'
+name: Arceus
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 3
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 320.0
+id: :arceus
+catch_rate: 3
+xp_yield: 324
+stats: !ruby/object:Hash
+  :attack: 120
+  :defense: 120
+  :hp: 120
+  :special_attack: 120
+  :special_defense: 120
+  :speed: 120

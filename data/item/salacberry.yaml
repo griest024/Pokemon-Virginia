@@ -1,0 +1,12 @@
+--- !ruby/object:PKMN::Item::Berry
+plural_name: Salac Berries
+description: If held by a Pokémon, it raises its Speed stat in a pinch.
+permenant: false
+name: Salac Berry
+usability: !ruby/object:Hash
+  :battle: true
+  :overworld: true
+  :pokemon: true
+id: :salacberry
+price: 20
+hold_item: true

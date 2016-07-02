@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Escape Ropes
+description: A long, durable rope. Use it to escape instantly from a cave or a dungeon.
+permenant: false
+name: Escape Rope
+usability: !ruby/object:Hash {}
+id: :escaperope
+price: 550
+hold_item: true

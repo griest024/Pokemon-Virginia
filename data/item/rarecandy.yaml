@@ -1,0 +1,12 @@
+--- !ruby/object:PKMN::Item::Medicine
+plural_name: Rare Candies
+description: A candy that is packed with energy. It raises the level of a single Pokémon by one.
+permenant: false
+name: Rare Candy
+usability: !ruby/object:Hash
+  :battle: true
+  :overworld: true
+  :pokemon: true
+id: :rarecandy
+price: 4800
+hold_item: true

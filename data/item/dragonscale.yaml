@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Dragon Scales
+description: A thick and tough scale. Dragon-type Pokémon may be holding this item when caught.
+permenant: false
+name: Dragon Scale
+usability: !ruby/object:Hash {}
+id: :dragonscale
+price: 2100
+hold_item: true

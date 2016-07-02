@@ -1,0 +1,10 @@
+--- !ruby/object:PKMN::Type::Type
+effects: !ruby/object:Hash
+  :bug: :very
+  :dark: :very
+  :fighting: :little
+  :ghost: :very
+  :psychic: :little
+name: Psychic
+id: :psychic
+type_class: :special

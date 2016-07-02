@@ -1,0 +1,10 @@
+--- !ruby/object:PKMN::Item::Ball
+plural_name: Repeat Balls
+description: A somewhat different Poké Ball that works especially well on Pokémon species that were previously caught.
+permenant: false
+name: Repeat Ball
+usability: !ruby/object:Hash
+  :battle: true
+id: :repeatball
+price: 1000
+hold_item: true

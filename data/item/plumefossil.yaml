@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Plume Fossils
+description: A fossil of an ancient Pokémon that flew in the sky in ancient times. It appears to be part of its wing.
+permenant: false
+name: Plume Fossil
+usability: !ruby/object:Hash {}
+id: :plumefossil
+price: 1000
+hold_item: true

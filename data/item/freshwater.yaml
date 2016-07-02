@@ -1,0 +1,12 @@
+--- !ruby/object:PKMN::Item::Medicine
+plural_name: Fresh Waters
+description: Water with a high mineral content. It restores the HP of one Pokémon by 50 points.
+permenant: false
+name: Fresh Water
+usability: !ruby/object:Hash
+  :battle: true
+  :overworld: true
+  :pokemon: true
+id: :freshwater
+price: 200
+hold_item: true

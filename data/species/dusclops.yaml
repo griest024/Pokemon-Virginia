@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.6
+description: It is thought that its body is hollow with only a spectral ball of fire burning inside. However, no one has been able to confirm this theory as fact.
+hatch_steps: 6630
+type1: :ghost
+happiness: 35
+kind: Beckon
+number: '356'
+name: Dusclops
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 1
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 1
+  :speed: 0
+weight: 30.6
+id: :dusclops
+catch_rate: 90
+xp_yield: 159
+stats: !ruby/object:Hash
+  :attack: 70
+  :defense: 130
+  :hp: 40
+  :special_attack: 60
+  :special_defense: 130
+  :speed: 25

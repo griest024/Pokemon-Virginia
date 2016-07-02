@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.5
+description: A Girafarig is an herbivore--it eats grass and tree shoots. While it is eating, its tail makes chewing and swallowing motions as if it were also eating.
+hatch_steps: 5355
+type1: :normal
+happiness: 70
+type2: :psychic
+kind: Long Neck
+number: '203'
+name: Girafarig
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 2
+  :special_defense: 0
+  :speed: 0
+weight: 41.5
+id: :girafarig
+catch_rate: 60
+xp_yield: 159
+stats: !ruby/object:Hash
+  :attack: 80
+  :defense: 65
+  :hp: 70
+  :special_attack: 90
+  :special_defense: 65
+  :speed: 85

@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.1
+description: The fragrance of the garland on its head has a relaxing effect. It withers if a Trainer does not take good care of it.
+hatch_steps: 5355
+type1: :grass
+happiness: 70
+kind: Flowering
+number: '549'
+name: Lilligant
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 2
+  :special_defense: 0
+  :speed: 0
+weight: 16.3
+id: :lilligant
+catch_rate: 75
+xp_yield: 168
+stats: !ruby/object:Hash
+  :attack: 60
+  :defense: 75
+  :hp: 70
+  :special_attack: 110
+  :special_defense: 75
+  :speed: 90

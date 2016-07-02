@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.2
+description: The claws tipping its arms pack the destructive power to tear through thick iron sheets as if they were silk. It flies at over 60 miles per hour.
+hatch_steps: 10455
+type1: :steel
+happiness: 35
+type2: :psychic
+kind: Iron Claw
+number: '375'
+name: Metang
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 2
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 202.5
+id: :metang
+catch_rate: 3
+xp_yield: 147
+stats: !ruby/object:Hash
+  :attack: 75
+  :defense: 100
+  :hp: 60
+  :special_attack: 55
+  :special_defense: 80
+  :speed: 50

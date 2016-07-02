@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Claw Fossils
+description: A fossil of an ancient Pokémon that lived in the sea. It appears to be part of a claw.
+permenant: false
+name: Claw Fossil
+usability: !ruby/object:Hash {}
+id: :clawfossil
+price: 1000
+hold_item: true

@@ -1,0 +1,11 @@
+--- !ruby/object:PKMN::Item::TM
+plural_name: TM01s
+description: The user sharpens its claws to boost its Attack stat and accuracy.
+permenant: false
+name: TM01
+usability: !ruby/object:Hash
+  :overworld: true
+  :pokemon: true
+id: :tm01
+price: 3000
+hold_item: true

@@ -1,0 +1,11 @@
+--- !ruby/object:PKMN::Item::TM
+plural_name: TM12s
+description: The target is taunted into a rage that allows it to use only attack moves for three turns.
+permenant: false
+name: TM12
+usability: !ruby/object:Hash
+  :overworld: true
+  :pokemon: true
+id: :tm12
+price: 1500
+hold_item: true

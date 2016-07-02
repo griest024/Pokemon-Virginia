@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.4
+description: It possesses legs of enormous strength, enabling it to carry heavy slabs for many days, even when crossing arid land.
+hatch_steps: 5355
+type1: :bug
+happiness: 70
+type2: :rock
+kind: Stone Home
+number: '558'
+name: Crustle
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 2
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 200.0
+id: :crustle
+catch_rate: 75
+xp_yield: 166
+stats: !ruby/object:Hash
+  :attack: 95
+  :defense: 125
+  :hp: 70
+  :special_attack: 65
+  :special_defense: 75
+  :speed: 45

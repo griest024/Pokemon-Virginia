@@ -1,0 +1,11 @@
+--- !ruby/object:PKMN::Item::TM
+plural_name: TM25s
+description: A wicked thunderbolt is dropped on the target to inflict damage. It may also leave the target with paralysis.
+permenant: false
+name: TM25
+usability: !ruby/object:Hash
+  :overworld: true
+  :pokemon: true
+id: :tm25
+price: 5500
+hold_item: true

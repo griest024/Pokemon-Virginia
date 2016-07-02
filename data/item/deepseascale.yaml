@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Deep Sea Scales
+description: An item to be held by Clamperl. A scale that shines a faint pink, it raises the Sp. Def stat.
+permenant: false
+name: Deep Sea Scale
+usability: !ruby/object:Hash {}
+id: :deepseascale
+price: 200
+hold_item: true

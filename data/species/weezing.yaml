@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.2
+description: By diluting its toxic gases with a special process, the highest grade of perfume can be extracted. To Weezing, gases emanating from garbage are the ultimate feast.
+hatch_steps: 5355
+type1: :poison
+happiness: 70
+kind: Poison Gas
+number: '110'
+name: Weezing
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 2
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 9.5
+id: :weezing
+catch_rate: 60
+xp_yield: 172
+stats: !ruby/object:Hash
+  :attack: 90
+  :defense: 120
+  :hp: 65
+  :special_attack: 85
+  :special_defense: 70
+  :speed: 60

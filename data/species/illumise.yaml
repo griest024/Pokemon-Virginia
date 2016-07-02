@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.6
+description: A nocturnal Pokémon that becomes active upon nightfall. It leads a Volbeat swarm to draw patterns in the night sky. Over 200 different patterns have been confirmed.
+hatch_steps: 4080
+type1: :bug
+happiness: 70
+kind: Firefly
+number: '314'
+name: Illumise
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 1
+weight: 17.7
+id: :illumise
+catch_rate: 150
+xp_yield: 140
+stats: !ruby/object:Hash
+  :attack: 47
+  :defense: 55
+  :hp: 65
+  :special_attack: 73
+  :special_defense: 75
+  :speed: 85

@@ -1,0 +1,11 @@
+--- !ruby/object:PKMN::Item::TM
+plural_name: TM57s
+description: The user attacks with an electric charge. The user may use any remaining electricity to raise its Sp. Atk stat.
+permenant: false
+name: TM57
+usability: !ruby/object:Hash
+  :overworld: true
+  :pokemon: true
+id: :tm57
+price: 3000
+hold_item: true

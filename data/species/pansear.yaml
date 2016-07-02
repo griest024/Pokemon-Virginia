@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.6
+description: This Pokémon lives in caves in volcanoes. The fire within the tuft on its head can reach 600º F.
+hatch_steps: 5355
+type1: :fire
+happiness: 70
+kind: High Temp
+number: '513'
+name: Pansear
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 1
+weight: 11.0
+id: :pansear
+catch_rate: 190
+xp_yield: 63
+stats: !ruby/object:Hash
+  :attack: 53
+  :defense: 48
+  :hp: 50
+  :special_attack: 53
+  :special_defense: 48
+  :speed: 64

@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.8
+description: In forests, it is said that there are many streams and towering trees where an Ursaring gathers food. It walks through its forest collecting food every day.
+hatch_steps: 5355
+type1: :normal
+happiness: 70
+kind: Hibernator
+number: '217'
+name: Ursaring
+ev_yield: !ruby/object:Hash
+  :attack: 2
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 125.8
+id: :ursaring
+catch_rate: 60
+xp_yield: 175
+stats: !ruby/object:Hash
+  :attack: 130
+  :defense: 75
+  :hp: 90
+  :special_attack: 75
+  :special_defense: 75
+  :speed: 55

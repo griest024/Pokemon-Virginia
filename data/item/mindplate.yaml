@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Mind Plates
+description: An item to be held by a Pokémon. It is a stone tablet that boosts the power of Psychic-type moves.
+permenant: false
+name: Mind Plate
+usability: !ruby/object:Hash {}
+id: :mindplate
+price: 1000
+hold_item: true

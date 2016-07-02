@@ -1,0 +1,11 @@
+--- !ruby/object:PKMN::Item::Battle
+plural_name: Poké Toys
+description: An item that attracts Pokémon. Use it to flee from any battle with a wild Pokémon.
+permenant: false
+name: Poké Toy
+usability: !ruby/object:Hash
+  :battle: true
+  :pokemon: true
+id: :poketoy
+price: 500
+hold_item: true

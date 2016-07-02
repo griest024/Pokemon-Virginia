@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Pearl Strings
+description: Very large pearls that sparkle in a pretty silver color. A maniac will buy them for a high price.
+permenant: false
+name: Pearl String
+usability: !ruby/object:Hash {}
+id: :pearlstring
+price: 50000
+hold_item: true

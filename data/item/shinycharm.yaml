@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::KeyItem
+plural_name: Shiny Charms
+permenant: false
+description: A shiny charm said to increase the chance of finding a Shiny Pokémon.
+name: Shiny Charm
+usability: !ruby/object:Hash {}
+id: :shinycharm
+price: 0
+hold_item: true

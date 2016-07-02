@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 2.9
+description: This Pokémon appears in legends. In its tail, it has a giant generator that creates electricity.
+hatch_steps: 30855
+type1: :dragon
+happiness: 0
+type2: :electric
+kind: Deep Black
+number: '644'
+name: Zekrom
+ev_yield: !ruby/object:Hash
+  :attack: 3
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 345.0
+id: :zekrom
+catch_rate: 45
+xp_yield: 50
+stats: !ruby/object:Hash
+  :attack: 150
+  :defense: 120
+  :hp: 100
+  :special_attack: 120
+  :special_defense: 100
+  :speed: 90

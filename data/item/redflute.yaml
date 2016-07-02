@@ -1,0 +1,11 @@
+--- !ruby/object:PKMN::Item::Battle
+plural_name: Red Flutes
+description: A red flute made from blown glass. Its melody snaps a single Pokémon out of infatuation.
+permenant: false
+name: Red Flute
+usability: !ruby/object:Hash
+  :battle: true
+  :pokemon: true
+id: :redflute
+price: 200
+hold_item: true

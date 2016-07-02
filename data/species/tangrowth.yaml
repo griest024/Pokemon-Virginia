@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 2.0
+description: It ensnares prey by extending arms made of vines. Losing arms to predators does not trouble it.
+hatch_steps: 5355
+type1: :grass
+happiness: 70
+kind: Vine
+number: '465'
+name: Tangrowth
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 2
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 128.6
+id: :tangrowth
+catch_rate: 30
+xp_yield: 187
+stats: !ruby/object:Hash
+  :attack: 100
+  :defense: 125
+  :hp: 100
+  :special_attack: 110
+  :special_defense: 50
+  :speed: 50

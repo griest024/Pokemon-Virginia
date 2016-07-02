@@ -1,0 +1,11 @@
+--- !ruby/object:PKMN::Item::TM
+plural_name: TM41s
+description: The user torments and enrages the target, making it incapable of using the same move twice in a row.
+permenant: false
+name: TM41
+usability: !ruby/object:Hash
+  :overworld: true
+  :pokemon: true
+id: :tm41
+price: 1500
+hold_item: true

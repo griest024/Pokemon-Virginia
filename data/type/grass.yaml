@@ -1,0 +1,14 @@
+--- !ruby/object:PKMN::Type::Type
+effects: !ruby/object:Hash
+  :bug: :very
+  :electric: :little
+  :fire: :very
+  :flying: :very
+  :grass: :little
+  :ground: :little
+  :ice: :very
+  :poison: :very
+  :water: :little
+name: Grass
+id: :grass
+type_class: :special

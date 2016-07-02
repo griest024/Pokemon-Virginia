@@ -1,0 +1,12 @@
+--- !ruby/object:PKMN::Item::Berry
+plural_name: Lum Berries
+description: It may be used or held by a Pokémon to recover from any status problem.
+permenant: false
+name: Lum Berry
+usability: !ruby/object:Hash
+  :battle: true
+  :overworld: true
+  :pokemon: true
+id: :lumberry
+price: 20
+hold_item: true

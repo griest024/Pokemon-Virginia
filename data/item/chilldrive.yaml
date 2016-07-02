@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Chill Drives
+description: A cassette to be held by Genesect. It changes Techno Blast to an Ice-type move.
+permenant: false
+name: Chill Drive
+usability: !ruby/object:Hash {}
+id: :chilldrive
+price: 1000
+hold_item: true

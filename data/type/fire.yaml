@@ -1,0 +1,13 @@
+--- !ruby/object:PKMN::Type::Type
+effects: !ruby/object:Hash
+  :bug: :little
+  :fire: :little
+  :grass: :little
+  :ground: :very
+  :ice: :little
+  :rock: :very
+  :steel: :little
+  :water: :very
+name: Fire
+id: :fire
+type_class: :special

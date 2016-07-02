@@ -1,0 +1,11 @@
+--- !ruby/object:PKMN::Item::TM
+plural_name: TM65s
+description: The user slashes with a sharp claw made from shadows. It has a high critical-hit ratio.
+permenant: false
+name: TM65
+usability: !ruby/object:Hash
+  :overworld: true
+  :pokemon: true
+id: :tm65
+price: 3000
+hold_item: true

@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Grass Gems
+description: A gem with an essence of nature. When held, it strengthens the power of a Grass-type move only once.
+permenant: false
+name: Grass Gem
+usability: !ruby/object:Hash {}
+id: :grassgem
+price: 200
+hold_item: true

@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.4
+description: The long hair around its face provides an amazing radar that lets it sense subtle changes in its surroundings.
+hatch_steps: 4080
+type1: :normal
+happiness: 70
+kind: Puppy
+number: '506'
+name: Lillipup
+ev_yield: !ruby/object:Hash
+  :attack: 1
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 4.1
+id: :lillipup
+catch_rate: 255
+xp_yield: 55
+stats: !ruby/object:Hash
+  :attack: 60
+  :defense: 45
+  :hp: 45
+  :special_attack: 25
+  :special_defense: 45
+  :speed: 55

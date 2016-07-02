@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.0
+description: A Pokémon that has the ability to alter its body colors to match its surroundings. A Kecleon reverts to its original colors if it is startled.
+hatch_steps: 5355
+type1: :normal
+happiness: 70
+kind: Color Swap
+number: '352'
+name: Kecleon
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 1
+  :speed: 0
+weight: 22.0
+id: :kecleon
+catch_rate: 200
+xp_yield: 154
+stats: !ruby/object:Hash
+  :attack: 90
+  :defense: 70
+  :hp: 60
+  :special_attack: 60
+  :special_defense: 120
+  :speed: 40

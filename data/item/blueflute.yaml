@@ -1,0 +1,11 @@
+--- !ruby/object:PKMN::Item::Battle
+plural_name: Blue Flutes
+description: A blue flute made from blown glass. Its melody awakens a single Pokémon from sleep.
+permenant: false
+name: Blue Flute
+usability: !ruby/object:Hash
+  :battle: true
+  :pokemon: true
+id: :blueflute
+price: 100
+hold_item: true

@@ -1,0 +1,11 @@
+--- !ruby/object:PKMN::Type::Type
+effects: !ruby/object:Hash
+  :electric: :no
+  :grass: :very
+  :ice: :very
+  :poison: :little
+  :rock: :little
+  :water: :very
+name: Ground
+id: :ground
+type_class: :physical

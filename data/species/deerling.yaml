@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.6
+description: The turning of the seasons changes the color and scent of this Pokémon's fur. People use it to mark the seasons.
+hatch_steps: 5355
+type1: :normal
+happiness: 70
+type2: :grass
+kind: Season
+number: '585'
+name: Deerling
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 1
+weight: 19.5
+id: :deerling
+catch_rate: 190
+xp_yield: 67
+stats: !ruby/object:Hash
+  :attack: 60
+  :defense: 50
+  :hp: 60
+  :special_attack: 40
+  :special_defense: 50
+  :speed: 75

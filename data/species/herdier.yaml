@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.9
+description: It loyally follows its Trainer's orders. For ages, they have helped Trainers raise Pokémon.
+hatch_steps: 4080
+type1: :normal
+happiness: 70
+kind: Loyal Dog
+number: '507'
+name: Herdier
+ev_yield: !ruby/object:Hash
+  :attack: 2
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 14.7
+id: :herdier
+catch_rate: 120
+xp_yield: 130
+stats: !ruby/object:Hash
+  :attack: 80
+  :defense: 65
+  :hp: 65
+  :special_attack: 35
+  :special_defense: 65
+  :speed: 60

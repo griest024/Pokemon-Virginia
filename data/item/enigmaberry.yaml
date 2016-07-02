@@ -1,0 +1,12 @@
+--- !ruby/object:PKMN::Item::Berry
+plural_name: Enigma Berries
+description: If held by a Pokémon, it restores its HP if it is hit by any supereffective attack.
+permenant: false
+name: Enigma Berry
+usability: !ruby/object:Hash
+  :battle: true
+  :overworld: true
+  :pokemon: true
+id: :enigmaberry
+price: 20
+hold_item: true

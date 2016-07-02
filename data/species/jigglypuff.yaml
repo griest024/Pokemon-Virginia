@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.5
+description: Nothing can avoid falling asleep hearing a Jigglypuff's song. The sound waves of its singing voice match the brain waves of someone in a deep sleep.
+hatch_steps: 2805
+type1: :normal
+happiness: 70
+kind: Balloon
+number: '39'
+name: Jigglypuff
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 2
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 5.5
+id: :jigglypuff
+catch_rate: 170
+xp_yield: 95
+stats: !ruby/object:Hash
+  :attack: 45
+  :defense: 20
+  :hp: 115
+  :special_attack: 45
+  :special_defense: 25
+  :speed: 20

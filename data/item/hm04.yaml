@@ -1,0 +1,11 @@
+--- !ruby/object:PKMN::Item::TM
+plural_name: HM04s
+description: The target is slugged with a punch thrown at maximum power. This move can also be used to move boulders.
+permenant: false
+name: HM04
+usability: !ruby/object:Hash
+  :overworld: true
+  :pokemon: true
+id: :hm04
+price: 0
+hold_item: true

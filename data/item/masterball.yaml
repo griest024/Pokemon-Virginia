@@ -1,0 +1,10 @@
+--- !ruby/object:PKMN::Item::Ball
+plural_name: Master Balls
+description: The best Ball with the ultimate level of performance. It will catch any wild Pokémon without fail.
+permenant: false
+name: Master Ball
+usability: !ruby/object:Hash
+  :battle: true
+id: :masterball
+price: 0
+hold_item: true

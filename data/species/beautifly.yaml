@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.0
+description: Its colorfully patterned wings are its most prominent feature. It flies through flower-covered fields collecting pollen. It attacks ferociously when angered.
+hatch_steps: 4080
+type1: :bug
+happiness: 70
+type2: :flying
+kind: Butterfly
+number: '267'
+name: Beautifly
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 3
+  :special_defense: 0
+  :speed: 0
+weight: 28.4
+id: :beautifly
+catch_rate: 45
+xp_yield: 173
+stats: !ruby/object:Hash
+  :attack: 70
+  :defense: 50
+  :hp: 60
+  :special_attack: 90
+  :special_defense: 50
+  :speed: 65

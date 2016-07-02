@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Lagging Tails
+description: An item to be held by a Pokémon. It is tremendously heavy and makes the holder move slower than usual.
+permenant: false
+name: Lagging Tail
+usability: !ruby/object:Hash {}
+id: :laggingtail
+price: 200
+hold_item: true

@@ -1,0 +1,11 @@
+--- !ruby/object:PKMN::Item::TM
+plural_name: TM91s
+description: The user gathers all its light energy and releases it at once. It may also lower the target's Sp. Def stat.
+permenant: false
+name: TM91
+usability: !ruby/object:Hash
+  :overworld: true
+  :pokemon: true
+id: :tm91
+price: 3000
+hold_item: true

@@ -1,0 +1,11 @@
+--- !ruby/object:PKMN::Item::TM
+plural_name: TM18s
+description: The user summons a heavy rain that falls for five turns, powering up Water-type moves.
+permenant: false
+name: TM18
+usability: !ruby/object:Hash
+  :overworld: true
+  :pokemon: true
+id: :tm18
+price: 2000
+hold_item: true

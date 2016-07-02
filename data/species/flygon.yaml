@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 2.0
+description: The flapping of its wings sounds like singing. To prevent detection by enemies, it hides itself by flapping up a cloud of desert sand.
+hatch_steps: 5355
+type1: :ground
+happiness: 70
+type2: :dragon
+kind: Mystic
+number: '330'
+name: Flygon
+ev_yield: !ruby/object:Hash
+  :attack: 1
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 2
+weight: 82.0
+id: :flygon
+catch_rate: 45
+xp_yield: 234
+stats: !ruby/object:Hash
+  :attack: 100
+  :defense: 80
+  :hp: 80
+  :special_attack: 80
+  :special_defense: 80
+  :speed: 100

@@ -1,0 +1,11 @@
+--- !ruby/object:PKMN::Item::TM
+plural_name: TM33s
+description: A wondrous wall of light is put up to suppress damage from physical attacks for five turns.
+permenant: false
+name: TM33
+usability: !ruby/object:Hash
+  :overworld: true
+  :pokemon: true
+id: :tm33
+price: 2000
+hold_item: true

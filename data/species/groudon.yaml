@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 3.5
+description: Groudon has appeared in mythology as the creator of the land. It sleeps in magma underground and is said to make volcanoes erupt on awakening.
+hatch_steps: 30855
+type1: :ground
+happiness: 0
+kind: Continent
+number: '383'
+name: Groudon
+ev_yield: !ruby/object:Hash
+  :attack: 3
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 950.0
+id: :groudon
+catch_rate: 5
+xp_yield: 302
+stats: !ruby/object:Hash
+  :attack: 150
+  :defense: 140
+  :hp: 100
+  :special_attack: 100
+  :special_defense: 90
+  :speed: 90

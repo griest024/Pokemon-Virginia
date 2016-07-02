@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.8
+description: It lives in the water and on land. It uses its long, sticky tongue to capture prey.
+hatch_steps: 5355
+type1: :water
+happiness: 70
+type2: :ground
+kind: Vibration
+number: '536'
+name: Palpitoad
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 2
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 17.0
+id: :palpitoad
+catch_rate: 120
+xp_yield: 134
+stats: !ruby/object:Hash
+  :attack: 65
+  :defense: 55
+  :hp: 75
+  :special_attack: 65
+  :special_defense: 55
+  :speed: 69

@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Scope Lenses
+description: An item to be held by a Pokémon. It is a lens that boosts the holder's critical-hit ratio.
+permenant: false
+name: Scope Lens
+usability: !ruby/object:Hash {}
+id: :scopelens
+price: 200
+hold_item: true

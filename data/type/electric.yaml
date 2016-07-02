@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Type::Type
+effects: !ruby/object:Hash
+  :electric: :little
+  :flying: :little
+  :ground: :very
+  :steel: :little
+name: Electric
+id: :electric
+type_class: :special

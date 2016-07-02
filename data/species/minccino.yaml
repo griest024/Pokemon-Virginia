@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.4
+description: These Pokémon prefer a tidy habitat. They are always sweeping and dusting, using their tails as brooms.
+hatch_steps: 4080
+type1: :normal
+happiness: 70
+kind: Chinchilla
+number: '572'
+name: Minccino
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 1
+weight: 5.8
+id: :minccino
+catch_rate: 255
+xp_yield: 60
+stats: !ruby/object:Hash
+  :attack: 50
+  :defense: 40
+  :hp: 55
+  :special_attack: 40
+  :special_defense: 40
+  :speed: 75

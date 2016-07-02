@@ -1,0 +1,12 @@
+--- !ruby/object:PKMN::Item::Medicine
+plural_name: Health Wings
+description: An item for use on a Pokémon. It slightly increases the base HP of a single Pokémon.
+permenant: false
+name: Health Wing
+usability: !ruby/object:Hash
+  :battle: true
+  :overworld: true
+  :pokemon: true
+id: :healthwing
+price: 3000
+hold_item: true

@@ -1,0 +1,12 @@
+--- !ruby/object:PKMN::Item::Berry
+plural_name: Qualot Berries
+description: Using it on a Pokémon makes it more friendly, but it also lowers its base Defense stat.
+permenant: false
+name: Qualot Berry
+usability: !ruby/object:Hash
+  :battle: true
+  :overworld: true
+  :pokemon: true
+id: :qualotberry
+price: 20
+hold_item: true

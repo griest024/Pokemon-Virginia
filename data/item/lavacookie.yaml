@@ -1,0 +1,12 @@
+--- !ruby/object:PKMN::Item::Medicine
+plural_name: Lava Cookies
+description: Lavaridge Town's local specialty. It heals all the status problems of one Pokémon.
+permenant: false
+name: Lava Cookie
+usability: !ruby/object:Hash
+  :battle: true
+  :overworld: true
+  :pokemon: true
+id: :lavacookie
+price: 200
+hold_item: true

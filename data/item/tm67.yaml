@@ -1,0 +1,11 @@
+--- !ruby/object:PKMN::Item::TM
+plural_name: TM67s
+description: The user gets revenge for a fainted ally. If an ally fainted in the previous turn, this attack's damage increases.
+permenant: false
+name: TM67
+usability: !ruby/object:Hash
+  :overworld: true
+  :pokemon: true
+id: :tm67
+price: 1000
+hold_item: true

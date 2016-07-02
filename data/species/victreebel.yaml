@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.7
+description: The long vine extending from its head is waved about as if it were a living thing to attract prey. When an unsuspecting victim approaches, it is swallowed whole.
+hatch_steps: 5355
+type1: :grass
+happiness: 70
+type2: :poison
+kind: Flycatcher
+number: '71'
+name: Victreebel
+ev_yield: !ruby/object:Hash
+  :attack: 3
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 15.5
+id: :victreebel
+catch_rate: 45
+xp_yield: 216
+stats: !ruby/object:Hash
+  :attack: 105
+  :defense: 65
+  :hp: 80
+  :special_attack: 100
+  :special_defense: 60
+  :speed: 70

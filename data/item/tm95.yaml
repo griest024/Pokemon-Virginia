@@ -1,0 +1,11 @@
+--- !ruby/object:PKMN::Item::TM
+plural_name: TM95s
+description: The user yells as if it is ranting about something, making the target's Sp. Atk stat decrease.
+permenant: false
+name: TM95
+usability: !ruby/object:Hash
+  :overworld: true
+  :pokemon: true
+id: :tm95
+price: 3000
+hold_item: true

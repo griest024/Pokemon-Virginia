@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.9
+description: Its claws loose electricity with enough amperage to cause fainting. They live in small groups.
+hatch_steps: 5355
+type1: :electric
+happiness: 100
+kind: Spark
+number: '404'
+name: Luxio
+ev_yield: !ruby/object:Hash
+  :attack: 2
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 30.5
+id: :luxio
+catch_rate: 120
+xp_yield: 127
+stats: !ruby/object:Hash
+  :attack: 85
+  :defense: 49
+  :hp: 60
+  :special_attack: 60
+  :special_defense: 49
+  :speed: 60

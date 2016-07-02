@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Pearls
+description: A somewhat-small pearl that sparkles in a pretty silver color. It can be sold cheaply to shops.
+permenant: false
+name: Pearl
+usability: !ruby/object:Hash {}
+id: :pearl
+price: 1400
+hold_item: true

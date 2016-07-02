@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.4
+description: Using their very hot, flame-covered tongues, they burn through Durant's steel bodies and consume their insides.
+hatch_steps: 5355
+type1: :fire
+happiness: 70
+kind: Anteater
+number: '631'
+name: Heatmor
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 2
+  :special_defense: 0
+  :speed: 0
+weight: 58.0
+id: :heatmor
+catch_rate: 90
+xp_yield: 169
+stats: !ruby/object:Hash
+  :attack: 97
+  :defense: 66
+  :hp: 85
+  :special_attack: 105
+  :special_defense: 66
+  :speed: 65

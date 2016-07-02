@@ -1,0 +1,11 @@
+--- !ruby/object:PKMN::Item::TM
+plural_name: TM38s
+description: The target is attacked with an intense blast of all-consuming fire. It may also leave the target with a burn.
+permenant: false
+name: TM38
+usability: !ruby/object:Hash
+  :overworld: true
+  :pokemon: true
+id: :tm38
+price: 5500
+hold_item: true

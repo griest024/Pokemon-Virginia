@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 2.0
+description: Venusaur's flower is said to take on vivid colors if it gets plenty of nutrition and sunlight. The flower's aroma soothes the emotions of people.
+hatch_steps: 5355
+type1: :grass
+happiness: 70
+type2: :poison
+kind: Seed
+number: '3'
+name: Venusaur
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 2
+  :special_defense: 1
+  :speed: 0
+weight: 100.0
+id: :venusaur
+catch_rate: 45
+xp_yield: 236
+stats: !ruby/object:Hash
+  :attack: 82
+  :defense: 83
+  :hp: 80
+  :special_attack: 100
+  :special_defense: 100
+  :speed: 80

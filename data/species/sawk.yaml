@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.4
+description: Tying their belts gets them pumped and makes their punches more destructive. Disturbing their training angers them.
+hatch_steps: 5355
+type1: :fighting
+happiness: 70
+kind: Karate
+number: '539'
+name: Sawk
+ev_yield: !ruby/object:Hash
+  :attack: 2
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 51.0
+id: :sawk
+catch_rate: 45
+xp_yield: 163
+stats: !ruby/object:Hash
+  :attack: 125
+  :defense: 75
+  :hp: 75
+  :special_attack: 30
+  :special_defense: 75
+  :speed: 85

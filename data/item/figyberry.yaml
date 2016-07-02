@@ -1,0 +1,12 @@
+--- !ruby/object:PKMN::Item::Berry
+plural_name: Figy Berries
+description: If held by a Pokémon, it restores the user's HP in a pinch, but will cause confusion if it hates the taste.
+permenant: false
+name: Figy Berry
+usability: !ruby/object:Hash
+  :battle: true
+  :overworld: true
+  :pokemon: true
+id: :figyberry
+price: 20
+hold_item: true

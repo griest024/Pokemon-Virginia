@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.3
+description: Although it is small, it is very courageous. It will take on a larger Skarmory on an equal footing. However, its will weakens if it becomes hungry.
+hatch_steps: 4080
+type1: :normal
+happiness: 70
+type2: :flying
+kind: TinySwallow
+number: '276'
+name: Taillow
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 1
+weight: 2.3
+id: :taillow
+catch_rate: 200
+xp_yield: 54
+stats: !ruby/object:Hash
+  :attack: 55
+  :defense: 30
+  :hp: 40
+  :special_attack: 30
+  :special_defense: 30
+  :speed: 85

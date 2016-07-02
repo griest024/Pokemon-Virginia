@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.8
+description: As a protective technique, it can completely freeze its fur to make its hairs stand like needles.
+hatch_steps: 9180
+type1: :ice
+happiness: 35
+kind: Fresh Snow
+number: '471'
+name: Glaceon
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 2
+  :special_defense: 0
+  :speed: 0
+weight: 25.9
+id: :glaceon
+catch_rate: 45
+xp_yield: 184
+stats: !ruby/object:Hash
+  :attack: 60
+  :defense: 110
+  :hp: 65
+  :special_attack: 130
+  :special_defense: 95
+  :speed: 65

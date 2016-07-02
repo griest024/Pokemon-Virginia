@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Stone Plates
+description: An item to be held by a Pokémon. It is a stone tablet that boosts the power of Rock-type moves.
+permenant: false
+name: Stone Plate
+usability: !ruby/object:Hash {}
+id: :stoneplate
+price: 1000
+hold_item: true

@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.0
+description: The special membrane covering its eyes can sense the heat of objects, so it can see its surroundings, even in darkness.
+hatch_steps: 5355
+type1: :ground
+happiness: 70
+type2: :dark
+kind: Desert Croc
+number: '552'
+name: Krokorok
+ev_yield: !ruby/object:Hash
+  :attack: 2
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 33.4
+id: :krokorok
+catch_rate: 90
+xp_yield: 123
+stats: !ruby/object:Hash
+  :attack: 82
+  :defense: 45
+  :hp: 60
+  :special_attack: 45
+  :special_defense: 45
+  :speed: 74

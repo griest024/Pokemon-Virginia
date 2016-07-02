@@ -1,0 +1,11 @@
+--- !ruby/object:PKMN::Item::TM
+plural_name: TM20s
+description: The user creates a protective field that prevents status problems for five turns.
+permenant: false
+name: TM20
+usability: !ruby/object:Hash
+  :overworld: true
+  :pokemon: true
+id: :tm20
+price: 2000
+hold_item: true

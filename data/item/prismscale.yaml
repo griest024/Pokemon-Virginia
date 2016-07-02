@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Prism Scales
+description: A mysterious scale that evolves certain Pokémon. It shines in rainbow colors.
+permenant: false
+name: Prism Scale
+usability: !ruby/object:Hash {}
+id: :prismscale
+price: 500
+hold_item: true

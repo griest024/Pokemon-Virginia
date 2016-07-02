@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: White Herbs
+description: An item to be held by a Pokémon. It restores any lowered stat in battle. It can be used only once.
+permenant: false
+name: White Herb
+usability: !ruby/object:Hash {}
+id: :whiteherb
+price: 100
+hold_item: true

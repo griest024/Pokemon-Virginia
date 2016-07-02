@@ -1,0 +1,11 @@
+--- !ruby/object:PKMN::Item::TM
+plural_name: TM71s
+description: The user stabs the foe with sharpened stones from below. It has a high critical-hit ratio.
+permenant: false
+name: TM71
+usability: !ruby/object:Hash
+  :overworld: true
+  :pokemon: true
+id: :tm71
+price: 3000
+hold_item: true

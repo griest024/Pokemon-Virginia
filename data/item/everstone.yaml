@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Everstones
+description: An item to be held by a Pokémon. The Pokémon holding this peculiar stone is prevented from evolving.
+permenant: false
+name: Everstone
+usability: !ruby/object:Hash {}
+id: :everstone
+price: 200
+hold_item: true

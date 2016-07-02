@@ -1,0 +1,11 @@
+--- !ruby/object:PKMN::Item::TM
+plural_name: HM05s
+description: The user charges the target at an awesome speed. It can also be used to climb a waterfall.
+permenant: false
+name: HM05
+usability: !ruby/object:Hash
+  :overworld: true
+  :pokemon: true
+id: :hm05
+price: 0
+hold_item: true

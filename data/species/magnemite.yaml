@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.3
+description: The units at its sides are extremely powerful magnets. They generate enough magnetism to draw in iron objects from over 300 feet away.
+hatch_steps: 5355
+type1: :electric
+happiness: 70
+type2: :steel
+kind: Magnet
+number: '81'
+name: Magnemite
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 1
+  :special_defense: 0
+  :speed: 0
+weight: 6.0
+id: :magnemite
+catch_rate: 65
+xp_yield: 89
+stats: !ruby/object:Hash
+  :attack: 35
+  :defense: 70
+  :hp: 25
+  :special_attack: 95
+  :special_defense: 55
+  :speed: 45

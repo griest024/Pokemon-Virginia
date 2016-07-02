@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.2
+description: It can see 360 degrees without moving its eyes. It is a great flier capable of making sudden stops and turning midair to quickly chase down targeted prey.
+hatch_steps: 5355
+type1: :bug
+happiness: 70
+type2: :flying
+kind: Clear Wing
+number: '193'
+name: Yanma
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 1
+weight: 38.0
+id: :yanma
+catch_rate: 75
+xp_yield: 78
+stats: !ruby/object:Hash
+  :attack: 65
+  :defense: 45
+  :hp: 65
+  :special_attack: 75
+  :special_defense: 45
+  :speed: 95

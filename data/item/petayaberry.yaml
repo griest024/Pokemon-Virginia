@@ -1,0 +1,12 @@
+--- !ruby/object:PKMN::Item::Berry
+plural_name: Petaya Berries
+description: If held by a Pokémon, it raises its Sp. Atk stat in a pinch.
+permenant: false
+name: Petaya Berry
+usability: !ruby/object:Hash
+  :battle: true
+  :overworld: true
+  :pokemon: true
+id: :petayaberry
+price: 20
+hold_item: true

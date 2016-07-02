@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.6
+description: The arcing movement and glitter of the pendulum in a Hypno's hand lull the foe into deep hypnosis. While searching for prey, it polishes the pendulum.
+hatch_steps: 5355
+type1: :psychic
+happiness: 70
+kind: Hypnosis
+number: '97'
+name: Hypno
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 2
+  :speed: 0
+weight: 75.6
+id: :hypno
+catch_rate: 75
+xp_yield: 169
+stats: !ruby/object:Hash
+  :attack: 73
+  :defense: 70
+  :hp: 85
+  :special_attack: 73
+  :special_defense: 115
+  :speed: 67

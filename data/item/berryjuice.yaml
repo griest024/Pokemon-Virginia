@@ -1,0 +1,12 @@
+--- !ruby/object:PKMN::Item::Medicine
+plural_name: Berry Juices
+description: A 100% pure juice made of Berries. It restores the HP of one Pokémon by just 20 points.
+permenant: false
+name: Berry Juice
+usability: !ruby/object:Hash
+  :battle: true
+  :overworld: true
+  :pokemon: true
+id: :berryjuice
+price: 100
+hold_item: true

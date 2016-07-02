@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Destiny Knots
+description: A long, thin, bright-red string to be held by a Pokémon. If the holder becomes infatuated, the foe does too.
+permenant: false
+name: Destiny Knot
+usability: !ruby/object:Hash {}
+id: :destinyknot
+price: 200
+hold_item: true

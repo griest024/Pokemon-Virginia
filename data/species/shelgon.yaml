@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.1
+description: It hardly eats while it awaits evolution. It becomes hardier by enduring hunger. Its shell peels off the instant it begins to evolve.
+hatch_steps: 10455
+type1: :dragon
+happiness: 35
+kind: Endurance
+number: '372'
+name: Shelgon
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 2
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 110.5
+id: :shelgon
+catch_rate: 45
+xp_yield: 147
+stats: !ruby/object:Hash
+  :attack: 95
+  :defense: 100
+  :hp: 65
+  :special_attack: 60
+  :special_defense: 50
+  :speed: 50

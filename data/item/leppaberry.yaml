@@ -1,0 +1,12 @@
+--- !ruby/object:PKMN::Item::Berry
+plural_name: Leppa Berries
+description: It may be used or held by a Pokémon to restore a move's PP by 10.
+permenant: false
+name: Leppa Berry
+usability: !ruby/object:Hash
+  :battle: true
+  :overworld: true
+  :pokemon: true
+id: :leppaberry
+price: 20
+hold_item: true

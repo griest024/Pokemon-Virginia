@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Deep Sea Teeth
+description: An item to be held by Clamperl. A fang that gleams a sharp silver, it raises the Sp. Atk stat.
+permenant: false
+name: Deep Sea Tooth
+usability: !ruby/object:Hash {}
+id: :deepseatooth
+price: 200
+hold_item: true

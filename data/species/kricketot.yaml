@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.3
+description: It shakes its head back to front, causing its antennae to hit each other and sound like a xylophone.
+hatch_steps: 4080
+type1: :bug
+happiness: 70
+kind: Cricket
+number: '401'
+name: Kricketot
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 1
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 2.2
+id: :kricketot
+catch_rate: 255
+xp_yield: 39
+stats: !ruby/object:Hash
+  :attack: 25
+  :defense: 41
+  :hp: 37
+  :special_attack: 25
+  :special_defense: 41
+  :speed: 25

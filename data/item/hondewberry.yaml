@@ -1,0 +1,12 @@
+--- !ruby/object:PKMN::Item::Berry
+plural_name: Hondew Berries
+description: Using it on a Pokémon makes it more friendly, but it also lowers its base Sp. Atk stat.
+permenant: false
+name: Hondew Berry
+usability: !ruby/object:Hash
+  :battle: true
+  :overworld: true
+  :pokemon: true
+id: :hondewberry
+price: 20
+hold_item: true

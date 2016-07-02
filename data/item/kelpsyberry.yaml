@@ -1,0 +1,12 @@
+--- !ruby/object:PKMN::Item::Berry
+plural_name: Kelpsy Berries
+description: Using it on a Pokémon makes it more friendly, but it also lowers its base Attack stat.
+permenant: false
+name: Kelpsy Berry
+usability: !ruby/object:Hash
+  :battle: true
+  :overworld: true
+  :pokemon: true
+id: :kelpsyberry
+price: 20
+hold_item: true

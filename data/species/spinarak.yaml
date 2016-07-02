@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.5
+description: The web it spins can be considered its second nervous system. It is said that a Spinarak determines its prey by the tiny vibrations it feels through the web.
+hatch_steps: 4080
+type1: :bug
+happiness: 70
+type2: :poison
+kind: String Spit
+number: '167'
+name: Spinarak
+ev_yield: !ruby/object:Hash
+  :attack: 1
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 8.5
+id: :spinarak
+catch_rate: 255
+xp_yield: 50
+stats: !ruby/object:Hash
+  :attack: 60
+  :defense: 40
+  :hp: 40
+  :special_attack: 40
+  :special_defense: 40
+  :speed: 30

@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.5
+description: This Pokémon had never been seen until it appeared from far in the desert 50 years ago.
+hatch_steps: 5355
+type1: :psychic
+happiness: 70
+kind: Cerebral
+number: '605'
+name: Elgyem
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 1
+  :special_defense: 0
+  :speed: 0
+weight: 9.0
+id: :elgyem
+catch_rate: 255
+xp_yield: 67
+stats: !ruby/object:Hash
+  :attack: 55
+  :defense: 55
+  :hp: 55
+  :special_attack: 85
+  :special_defense: 55
+  :speed: 30

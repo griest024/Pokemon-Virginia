@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Magnets
+description: An item to be held by a Pokémon. It is a powerful magnet that boosts the power of Electric-type moves.
+permenant: false
+name: Magnet
+usability: !ruby/object:Hash {}
+id: :magnet
+price: 100
+hold_item: true

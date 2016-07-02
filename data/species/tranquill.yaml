@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.6
+description: Many people believe that, deep in the forest where Tranquill live, there is a peaceful place where there is no war.
+hatch_steps: 4080
+type1: :normal
+happiness: 70
+type2: :flying
+kind: Wild Pigeon
+number: '520'
+name: Tranquill
+ev_yield: !ruby/object:Hash
+  :attack: 2
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 15.0
+id: :tranquill
+catch_rate: 120
+xp_yield: 125
+stats: !ruby/object:Hash
+  :attack: 77
+  :defense: 62
+  :hp: 62
+  :special_attack: 50
+  :special_defense: 42
+  :speed: 65

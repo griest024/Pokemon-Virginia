@@ -1,0 +1,12 @@
+--- !ruby/object:PKMN::Item::Berry
+plural_name: Bluk Berries
+description: In the Sinnoh region, they like to make sweets known as Poffins with this Berry and feed them to their Pokémon.
+permenant: false
+name: Bluk Berry
+usability: !ruby/object:Hash
+  :battle: true
+  :overworld: true
+  :pokemon: true
+id: :blukberry
+price: 20
+hold_item: true

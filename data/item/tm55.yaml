@@ -1,0 +1,11 @@
+--- !ruby/object:PKMN::Item::TM
+plural_name: TM55s
+description: The user shoots boiling hot water at its target. It may also leave the target with a burn.
+permenant: false
+name: TM55
+usability: !ruby/object:Hash
+  :overworld: true
+  :pokemon: true
+id: :tm55
+price: 3000
+hold_item: true

@@ -1,0 +1,14 @@
+--- !ruby/object:PKMN::Type::Type
+effects: !ruby/object:Hash
+  :fighting: :very
+  :fire: :little
+  :flying: :little
+  :grass: :very
+  :ground: :very
+  :normal: :little
+  :poison: :little
+  :steel: :very
+  :water: :very
+name: Rock
+id: :rock
+type_class: :physical

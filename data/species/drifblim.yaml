@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.2
+description: It's drowzy in daytime, but flies off in the evening in big groups. No one knows where they go.
+hatch_steps: 7905
+type1: :ghost
+happiness: 70
+type2: :flying
+kind: Blimp
+number: '426'
+name: Drifblim
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 2
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 15.0
+id: :drifblim
+catch_rate: 60
+xp_yield: 174
+stats: !ruby/object:Hash
+  :attack: 80
+  :defense: 44
+  :hp: 150
+  :special_attack: 90
+  :special_defense: 54
+  :speed: 80

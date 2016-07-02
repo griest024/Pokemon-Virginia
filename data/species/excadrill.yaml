@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.7
+description: More than 300 feet below the surface, they build mazelike nests. Their activity can be destructive to subway tunnels.
+hatch_steps: 5355
+type1: :ground
+happiness: 70
+type2: :steel
+kind: Subterrene
+number: '530'
+name: Excadrill
+ev_yield: !ruby/object:Hash
+  :attack: 2
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 40.4
+id: :excadrill
+catch_rate: 60
+xp_yield: 178
+stats: !ruby/object:Hash
+  :attack: 135
+  :defense: 60
+  :hp: 110
+  :special_attack: 50
+  :special_defense: 65
+  :speed: 88

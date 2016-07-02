@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.4
+description: A Ralts has the power to sense the emotions of people and Pokémon with the horns on its head. It takes cover if it senses any hostility.
+hatch_steps: 5355
+type1: :psychic
+happiness: 35
+kind: Feeling
+number: '280'
+name: Ralts
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 1
+  :special_defense: 0
+  :speed: 0
+weight: 6.6
+id: :ralts
+catch_rate: 235
+xp_yield: 40
+stats: !ruby/object:Hash
+  :attack: 25
+  :defense: 25
+  :hp: 28
+  :special_attack: 45
+  :special_defense: 35
+  :speed: 40

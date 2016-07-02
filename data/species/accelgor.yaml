@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.8
+description: Having removed its heavy shell, it becomes very light and can fight with ninja-like movements.
+hatch_steps: 4080
+type1: :bug
+happiness: 70
+kind: Shell Out
+number: '617'
+name: Accelgor
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 2
+weight: 25.3
+id: :accelgor
+catch_rate: 75
+xp_yield: 173
+stats: !ruby/object:Hash
+  :attack: 70
+  :defense: 40
+  :hp: 80
+  :special_attack: 100
+  :special_defense: 60
+  :speed: 145

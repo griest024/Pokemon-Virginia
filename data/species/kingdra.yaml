@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.8
+description: It sleeps quietly, deep on the seafloor. When it comes up to the surface, it creates a huge whirlpool that can swallow even ships.
+hatch_steps: 5355
+type1: :water
+happiness: 70
+type2: :dragon
+kind: Dragon
+number: '230'
+name: Kingdra
+ev_yield: !ruby/object:Hash
+  :attack: 1
+  :defense: 0
+  :hp: 0
+  :special_attack: 1
+  :special_defense: 1
+  :speed: 0
+weight: 152.0
+id: :kingdra
+catch_rate: 45
+xp_yield: 243
+stats: !ruby/object:Hash
+  :attack: 95
+  :defense: 95
+  :hp: 75
+  :special_attack: 95
+  :special_defense: 95
+  :speed: 85

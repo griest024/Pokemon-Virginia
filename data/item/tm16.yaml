@@ -1,0 +1,11 @@
+--- !ruby/object:PKMN::Item::TM
+plural_name: TM16s
+description: A wondrous wall of light is put up to suppress damage from special attacks for five turns.
+permenant: false
+name: TM16
+usability: !ruby/object:Hash
+  :overworld: true
+  :pokemon: true
+id: :tm16
+price: 2000
+hold_item: true

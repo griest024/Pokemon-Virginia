@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.2
+description: Over the winter, it closes its bud and endures the cold. In spring, the bud opens and releases pollen.
+hatch_steps: 5355
+type1: :grass
+happiness: 70
+type2: :poison
+kind: Bud
+number: '406'
+name: Budew
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 1
+  :special_defense: 0
+  :speed: 0
+weight: 1.2
+id: :budew
+catch_rate: 255
+xp_yield: 56
+stats: !ruby/object:Hash
+  :attack: 30
+  :defense: 35
+  :hp: 40
+  :special_attack: 50
+  :special_defense: 70
+  :speed: 55

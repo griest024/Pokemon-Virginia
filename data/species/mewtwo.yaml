@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 2.0
+description: A Pokémon that was created by genetic manipulation. However, even though the scientific power of humans made its body, they failed to give it a warm heart.
+hatch_steps: 30855
+type1: :psychic
+happiness: 0
+kind: Genetic
+number: '150'
+name: Mewtwo
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 3
+  :special_defense: 0
+  :speed: 0
+weight: 122.0
+id: :mewtwo
+catch_rate: 3
+xp_yield: 306
+stats: !ruby/object:Hash
+  :attack: 110
+  :defense: 90
+  :hp: 106
+  :special_attack: 154
+  :special_defense: 90
+  :speed: 130

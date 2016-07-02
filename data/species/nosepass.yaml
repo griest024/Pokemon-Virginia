@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.0
+description: Its body emits a powerful magnetism. It feeds on prey that is pulled in by the force. Its magnetism is stronger in cold seasons.
+hatch_steps: 5355
+type1: :rock
+happiness: 70
+kind: Compass
+number: '299'
+name: Nosepass
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 1
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 97.0
+id: :nosepass
+catch_rate: 255
+xp_yield: 75
+stats: !ruby/object:Hash
+  :attack: 45
+  :defense: 135
+  :hp: 30
+  :special_attack: 45
+  :special_defense: 90
+  :speed: 30

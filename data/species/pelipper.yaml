@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.2
+description: It skims the tops of waves as it flies. When it spots prey, it uses its large beak to scoop up the victim with water. It protects its eggs in its beak.
+hatch_steps: 5355
+type1: :water
+happiness: 70
+type2: :flying
+kind: Water Bird
+number: '279'
+name: Pelipper
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 2
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 28.0
+id: :pelipper
+catch_rate: 45
+xp_yield: 151
+stats: !ruby/object:Hash
+  :attack: 50
+  :defense: 100
+  :hp: 60
+  :special_attack: 85
+  :special_defense: 70
+  :speed: 65

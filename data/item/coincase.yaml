@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::KeyItem
+plural_name: Coin Cases
+permenant: false
+description: A case for holding coins obtained at the Game Corner. It holds up to 50,000 coins.
+name: Coin Case
+usability: !ruby/object:Hash {}
+id: :coincase
+price: 0
+hold_item: true

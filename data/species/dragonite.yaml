@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 2.2
+description: It can circle the globe in just 16 hours. It is a kindhearted Pokémon that leads lost and foundering ships in a storm to the safety of land.
+hatch_steps: 10455
+type1: :dragon
+happiness: 35
+type2: :flying
+kind: Dragon
+number: '149'
+name: Dragonite
+ev_yield: !ruby/object:Hash
+  :attack: 3
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 210.0
+id: :dragonite
+catch_rate: 45
+xp_yield: 270
+stats: !ruby/object:Hash
+  :attack: 134
+  :defense: 95
+  :hp: 91
+  :special_attack: 100
+  :special_defense: 100
+  :speed: 80

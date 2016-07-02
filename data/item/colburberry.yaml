@@ -1,0 +1,12 @@
+--- !ruby/object:PKMN::Item::Berry
+plural_name: Colbur Berries
+description: Weakens a supereffective Dark-type attack against the holding Pokémon.
+permenant: false
+name: Colbur Berry
+usability: !ruby/object:Hash
+  :battle: true
+  :overworld: true
+  :pokemon: true
+id: :colburberry
+price: 20
+hold_item: true

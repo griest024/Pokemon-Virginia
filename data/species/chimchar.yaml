@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.5
+description: It agilely scales sheer cliffs to live atop craggy mountains. Its fire is put out when it sleeps.
+hatch_steps: 5355
+type1: :fire
+happiness: 70
+kind: Chimp
+number: '390'
+name: Chimchar
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 1
+weight: 6.2
+id: :chimchar
+catch_rate: 45
+xp_yield: 62
+stats: !ruby/object:Hash
+  :attack: 58
+  :defense: 44
+  :hp: 44
+  :special_attack: 58
+  :special_defense: 44
+  :speed: 61

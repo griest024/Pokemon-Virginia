@@ -1,0 +1,11 @@
+--- !ruby/object:PKMN::Item::TM
+plural_name: TM28s
+description: The user burrows, then attacks on the second turn. It can also be used to exit dungeons.
+permenant: false
+name: TM28
+usability: !ruby/object:Hash
+  :overworld: true
+  :pokemon: true
+id: :tm28
+price: 2000
+hold_item: true

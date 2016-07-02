@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.6
+description: This Pokémon came from the future by crossing over time. It is thought that so long as Celebi appears, a bright and shining future awaits us.
+hatch_steps: 30855
+type1: :psychic
+happiness: 100
+type2: :grass
+kind: Time Travel
+number: '251'
+name: Celebi
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 3
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 5.0
+id: :celebi
+catch_rate: 45
+xp_yield: 270
+stats: !ruby/object:Hash
+  :attack: 100
+  :defense: 100
+  :hp: 100
+  :special_attack: 100
+  :special_defense: 100
+  :speed: 100

@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.3
+description: It is still inept at retaining electricity. When it is startled, it discharges power accidentally. It gets better at holding power as it grows older.
+hatch_steps: 2805
+type1: :electric
+happiness: 70
+kind: Tiny Mouse
+number: '172'
+name: Pichu
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 1
+weight: 2.0
+id: :pichu
+catch_rate: 190
+xp_yield: 41
+stats: !ruby/object:Hash
+  :attack: 40
+  :defense: 15
+  :hp: 20
+  :special_attack: 35
+  :special_defense: 35
+  :speed: 60

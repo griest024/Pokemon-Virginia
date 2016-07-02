@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.3
+description: At night, it burrows a hole in the seafloor with its broad tongue to make a place to sleep. While asleep, it closes its shell, but leaves its tongue hanging out.
+hatch_steps: 5355
+type1: :water
+happiness: 70
+kind: Bivalve
+number: '90'
+name: Shellder
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 1
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 4.0
+id: :shellder
+catch_rate: 190
+xp_yield: 61
+stats: !ruby/object:Hash
+  :attack: 65
+  :defense: 100
+  :hp: 30
+  :special_attack: 45
+  :special_defense: 25
+  :speed: 40

@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.5
+description: They can predict the future from the placement and movement of the stars. They can see Trainers' life spans.
+hatch_steps: 5355
+type1: :psychic
+happiness: 70
+kind: Astral Body
+number: '576'
+name: Gothitelle
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 3
+  :speed: 0
+weight: 44.0
+id: :gothitelle
+catch_rate: 50
+xp_yield: 221
+stats: !ruby/object:Hash
+  :attack: 55
+  :defense: 95
+  :hp: 70
+  :special_attack: 95
+  :special_defense: 110
+  :speed: 65

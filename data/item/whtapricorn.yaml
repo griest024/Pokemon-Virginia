@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Wht Apricorns
+description: A white Apricorn. It doesn't smell like anything.
+permenant: false
+name: Wht Apricorn
+usability: !ruby/object:Hash {}
+id: :whtapricorn
+price: 200
+hold_item: true

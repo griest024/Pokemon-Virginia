@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.1
+description: They make the patterns on their bodies shine in order to threaten predators. Keen eyesight lets them see in the dark.
+hatch_steps: 5355
+type1: :normal
+happiness: 70
+kind: Lookout
+number: '505'
+name: Watchog
+ev_yield: !ruby/object:Hash
+  :attack: 1
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 27.0
+id: :watchog
+catch_rate: 255
+xp_yield: 147
+stats: !ruby/object:Hash
+  :attack: 85
+  :defense: 69
+  :hp: 60
+  :special_attack: 60
+  :special_defense: 69
+  :speed: 77

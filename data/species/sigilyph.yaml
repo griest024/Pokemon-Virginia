@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.4
+description: The guardians of an ancient city, they use their psychic power to attack enemies that invade their territory.
+hatch_steps: 5355
+type1: :psychic
+happiness: 70
+type2: :flying
+kind: Avianoid
+number: '561'
+name: Sigilyph
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 2
+  :special_defense: 0
+  :speed: 0
+weight: 14.0
+id: :sigilyph
+catch_rate: 45
+xp_yield: 172
+stats: !ruby/object:Hash
+  :attack: 58
+  :defense: 80
+  :hp: 72
+  :special_attack: 103
+  :special_defense: 80
+  :speed: 97

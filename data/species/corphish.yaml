@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.6
+description: Once it grips prey with its large pincers, it will never let go, no matter what. It is a hardy Pokémon that can thrive in any environment.
+hatch_steps: 4080
+type1: :water
+happiness: 70
+kind: Ruffian
+number: '341'
+name: Corphish
+ev_yield: !ruby/object:Hash
+  :attack: 1
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 11.5
+id: :corphish
+catch_rate: 205
+xp_yield: 62
+stats: !ruby/object:Hash
+  :attack: 80
+  :defense: 65
+  :hp: 43
+  :special_attack: 50
+  :special_defense: 35
+  :speed: 35

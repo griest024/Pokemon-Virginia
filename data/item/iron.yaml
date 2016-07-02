@@ -1,0 +1,12 @@
+--- !ruby/object:PKMN::Item::Medicine
+plural_name: Irons
+description: A nutritious drink for Pokémon. It raises the base Defense stat of a single Pokémon.
+permenant: false
+name: Iron
+usability: !ruby/object:Hash
+  :battle: true
+  :overworld: true
+  :pokemon: true
+id: :iron
+price: 9800
+hold_item: true

@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.3
+description: When it battles, it stands on its hind legs and attacks with its sharply clawed forelegs. Its fur bristles if it encounters any Seviper.
+hatch_steps: 5355
+type1: :normal
+happiness: 70
+kind: Cat Ferret
+number: '335'
+name: Zangoose
+ev_yield: !ruby/object:Hash
+  :attack: 2
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 40.3
+id: :zangoose
+catch_rate: 90
+xp_yield: 160
+stats: !ruby/object:Hash
+  :attack: 115
+  :defense: 60
+  :hp: 73
+  :special_attack: 60
+  :special_defense: 60
+  :speed: 90

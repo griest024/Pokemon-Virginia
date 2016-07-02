@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Spooky Plates
+description: An item to be held by a Pokémon. It is a stone tablet that boosts the power of Ghost-type moves.
+permenant: false
+name: Spooky Plate
+usability: !ruby/object:Hash {}
+id: :spookyplate
+price: 1000
+hold_item: true

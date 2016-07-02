@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Burn Drives
+description: A cassette to be held by Genesect. It changes Techno Blast to a Fire-type move.
+permenant: false
+name: Burn Drive
+usability: !ruby/object:Hash {}
+id: :burndrive
+price: 1000
+hold_item: true

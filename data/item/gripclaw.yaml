@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Grip Claws
+description: A Pokémon held item that extends the duration of multiturn attacks like Bind and Wrap.
+permenant: false
+name: Grip Claw
+usability: !ruby/object:Hash {}
+id: :gripclaw
+price: 200
+hold_item: true

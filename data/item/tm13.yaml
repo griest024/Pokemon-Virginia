@@ -1,0 +1,11 @@
+--- !ruby/object:PKMN::Item::TM
+plural_name: TM13s
+description: The target is struck with an icy-cold beam of energy. It may also freeze the target solid.
+permenant: false
+name: TM13
+usability: !ruby/object:Hash
+  :overworld: true
+  :pokemon: true
+id: :tm13
+price: 3000
+hold_item: true

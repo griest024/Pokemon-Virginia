@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::KeyItem
+plural_name: Itemfinders
+permenant: false
+description: A device used for finding items. If there is a hidden item nearby when it is used, it emits a signal.
+name: Itemfinder
+usability: !ruby/object:Hash {}
+id: :itemfinder
+price: 0
+hold_item: true

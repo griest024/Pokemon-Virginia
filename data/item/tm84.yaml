@@ -1,0 +1,11 @@
+--- !ruby/object:PKMN::Item::TM
+plural_name: TM84s
+description: The target is stabbed with a tentacle or arm steeped in poison. It may also poison the target.
+permenant: false
+name: TM84
+usability: !ruby/object:Hash
+  :overworld: true
+  :pokemon: true
+id: :tm84
+price: 3000
+hold_item: true

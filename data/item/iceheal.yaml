@@ -1,0 +1,12 @@
+--- !ruby/object:PKMN::Item::Medicine
+plural_name: Ice Heals
+description: A spray-type medicine. It defrosts a Pokémon that has been frozen solid.
+permenant: false
+name: Ice Heal
+usability: !ruby/object:Hash
+  :battle: true
+  :overworld: true
+  :pokemon: true
+id: :iceheal
+price: 250
+hold_item: true

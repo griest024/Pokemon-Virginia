@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Stardusts
+description: Lovely, red-colored sand with a loose, silky feel. It can be sold at a high price to shops.
+permenant: false
+name: Stardust
+usability: !ruby/object:Hash {}
+id: :stardust
+price: 2000
+hold_item: true

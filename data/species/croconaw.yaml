@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.1
+description: Once its jaws clamp down on its foe, it will absolutely not let go. Because the tips of its fangs are forked back like fishhooks, they become irremovably embedded.
+hatch_steps: 5355
+type1: :water
+happiness: 70
+kind: Big Jaw
+number: '159'
+name: Croconaw
+ev_yield: !ruby/object:Hash
+  :attack: 1
+  :defense: 1
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 25.0
+id: :croconaw
+catch_rate: 45
+xp_yield: 142
+stats: !ruby/object:Hash
+  :attack: 80
+  :defense: 80
+  :hp: 65
+  :special_attack: 59
+  :special_defense: 63
+  :speed: 58

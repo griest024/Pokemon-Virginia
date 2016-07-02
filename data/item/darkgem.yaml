@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Dark Gems
+description: A gem with an essence of darkness. When held, it strengthens the power of a Dark-type move only once.
+permenant: false
+name: Dark Gem
+usability: !ruby/object:Hash {}
+id: :darkgem
+price: 200
+hold_item: true

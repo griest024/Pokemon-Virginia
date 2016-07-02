@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.2
+description: To eat, it deftly shucks nuts with its two tails. It rarely uses its arms now.
+hatch_steps: 5355
+type1: :normal
+happiness: 100
+kind: Long Tail
+number: '424'
+name: Ambipom
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 2
+weight: 20.3
+id: :ambipom
+catch_rate: 45
+xp_yield: 169
+stats: !ruby/object:Hash
+  :attack: 100
+  :defense: 66
+  :hp: 75
+  :special_attack: 60
+  :special_defense: 66
+  :speed: 115

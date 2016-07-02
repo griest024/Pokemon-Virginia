@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.3
+description: Its knuckle claws secrete a toxin so vile that even a scratch could prove fatal.
+hatch_steps: 5355
+type1: :poison
+happiness: 70
+type2: :fighting
+kind: Toxic Mouth
+number: '454'
+name: Toxicroak
+ev_yield: !ruby/object:Hash
+  :attack: 2
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 44.4
+id: :toxicroak
+catch_rate: 75
+xp_yield: 172
+stats: !ruby/object:Hash
+  :attack: 106
+  :defense: 65
+  :hp: 83
+  :special_attack: 86
+  :special_defense: 65
+  :speed: 85

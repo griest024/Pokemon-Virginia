@@ -1,0 +1,12 @@
+--- !ruby/object:PKMN::Item::Medicine
+plural_name: Sweet Hearts
+description: Very sweet chocolate. It restores the HP of one Pokémon by only 20 points.
+permenant: false
+name: Sweet Heart
+usability: !ruby/object:Hash
+  :battle: true
+  :overworld: true
+  :pokemon: true
+id: :sweetheart
+price: 100
+hold_item: true

@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 2.3
+description: It opens its huge mouth to intimidate enemies. In battle, it runs using its thick and powerful hind legs to charge the foe with incredible speed.
+hatch_steps: 5355
+type1: :water
+happiness: 70
+kind: Big Jaw
+number: '160'
+name: Feraligatr
+ev_yield: !ruby/object:Hash
+  :attack: 2
+  :defense: 1
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 88.8
+id: :feraligatr
+catch_rate: 45
+xp_yield: 239
+stats: !ruby/object:Hash
+  :attack: 105
+  :defense: 100
+  :hp: 85
+  :special_attack: 79
+  :special_defense: 83
+  :speed: 78

@@ -1,0 +1,10 @@
+--- !ruby/object:PKMN::Item::Ball
+plural_name: Dive Balls
+description: A somewhat different Poké Ball that works especially well on Pokémon that underwater.
+permenant: false
+name: Dive Ball
+usability: !ruby/object:Hash
+  :battle: true
+id: :diveball
+price: 1000
+hold_item: true

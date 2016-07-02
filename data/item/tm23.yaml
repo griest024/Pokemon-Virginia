@@ -1,0 +1,11 @@
+--- !ruby/object:PKMN::Item::TM
+plural_name: TM23s
+description: The user throws a stone or projectile to attack an opponent. A flying Pokémon will fall to the ground when it's hit.
+permenant: false
+name: TM23
+usability: !ruby/object:Hash
+  :overworld: true
+  :pokemon: true
+id: :tm23
+price: 3000
+hold_item: true

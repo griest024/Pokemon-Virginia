@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.6
+description: A Wynaut loves to eat sweet fruits. It cleverly picks fruits using its earlike arms. They gather in fruit gardens, drawn by the fragrance.
+hatch_steps: 5355
+type1: :psychic
+happiness: 70
+kind: Bright
+number: '360'
+name: Wynaut
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 1
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 14.0
+id: :wynaut
+catch_rate: 125
+xp_yield: 52
+stats: !ruby/object:Hash
+  :attack: 23
+  :defense: 48
+  :hp: 95
+  :special_attack: 23
+  :special_defense: 48
+  :speed: 23

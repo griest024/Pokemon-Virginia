@@ -1,0 +1,12 @@
+--- !ruby/object:PKMN::Item::Berry
+plural_name: Apicot Berries
+description: If held by a Pokémon, it raises its Sp. Def stat in a pinch.
+permenant: false
+name: Apicot Berry
+usability: !ruby/object:Hash
+  :battle: true
+  :overworld: true
+  :pokemon: true
+id: :apicotberry
+price: 20
+hold_item: true

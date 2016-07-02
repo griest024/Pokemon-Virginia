@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Honey
+description: A sweet honey with an aroma that attracts wild Pokémon when used in grass, caves or on special trees.
+permenant: false
+name: Honey
+usability: !ruby/object:Hash {}
+id: :honey
+price: 100
+hold_item: true

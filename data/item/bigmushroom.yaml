@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Big Mushrooms
+description: A large and rare mushroom. It is sought after by collectors.
+permenant: false
+name: Big Mushroom
+usability: !ruby/object:Hash {}
+id: :bigmushroom
+price: 5000
+hold_item: true

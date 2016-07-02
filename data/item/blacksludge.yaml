@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Black Sludges
+description: A held item that gradually restores the HP of Poison-type Pokémon. It inflicts damage on all other types.
+permenant: false
+name: Black Sludge
+usability: !ruby/object:Hash {}
+id: :blacksludge
+price: 200
+hold_item: true

@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Thick Clubs
+description: An item to be held by Cubone or Marowak. It is a hard bone of some sort that boosts the Attack stat.
+permenant: false
+name: Thick Club
+usability: !ruby/object:Hash {}
+id: :thickclub
+price: 500
+hold_item: true

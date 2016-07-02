@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Iron Balls
+description: A Pokémon held item that cuts Speed. It makes Flying-type and levitating holders susceptible to Ground moves.
+permenant: false
+name: Iron Ball
+usability: !ruby/object:Hash {}
+id: :ironball
+price: 200
+hold_item: true

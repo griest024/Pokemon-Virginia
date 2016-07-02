@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.8
+description: Sunflora convert solar energy into nutrition. They are highly active in the warm daytime but suddenly stop moving as soon as the sun sets.
+hatch_steps: 5355
+type1: :grass
+happiness: 70
+kind: Sun
+number: '192'
+name: Sunflora
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 2
+  :special_defense: 0
+  :speed: 0
+weight: 8.5
+id: :sunflora
+catch_rate: 120
+xp_yield: 149
+stats: !ruby/object:Hash
+  :attack: 75
+  :defense: 55
+  :hp: 75
+  :special_attack: 105
+  :special_defense: 85
+  :speed: 30

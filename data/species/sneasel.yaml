@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.9
+description: A Sneasel scales trees by punching its hooked claws into the bark. It seeks out unguarded nests and steals eggs for food while the parents are away.
+hatch_steps: 5355
+type1: :dark
+happiness: 35
+type2: :ice
+kind: Sharp Claw
+number: '215'
+name: Sneasel
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 1
+weight: 28.0
+id: :sneasel
+catch_rate: 60
+xp_yield: 86
+stats: !ruby/object:Hash
+  :attack: 95
+  :defense: 55
+  :hp: 55
+  :special_attack: 35
+  :special_defense: 75
+  :speed: 115

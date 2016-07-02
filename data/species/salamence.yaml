@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.5
+description: After many long years, its cellular structure underwent a sudden mutation to grow wings. When angered, it loses all thought and rampages out of control.
+hatch_steps: 10455
+type1: :dragon
+happiness: 35
+type2: :flying
+kind: Dragon
+number: '373'
+name: Salamence
+ev_yield: !ruby/object:Hash
+  :attack: 3
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 102.6
+id: :salamence
+catch_rate: 45
+xp_yield: 270
+stats: !ruby/object:Hash
+  :attack: 135
+  :defense: 80
+  :hp: 95
+  :special_attack: 110
+  :special_defense: 80
+  :speed: 100

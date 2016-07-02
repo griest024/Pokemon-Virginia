@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Power Bands
+description: A Pokémon held item that promotes Sp. Def gain on leveling, but reduces the Speed stat.
+permenant: false
+name: Power Band
+usability: !ruby/object:Hash {}
+id: :powerband
+price: 3000
+hold_item: true

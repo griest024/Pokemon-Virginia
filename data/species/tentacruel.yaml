@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.6
+description: It lives in complex rock formations on the ocean floor and traps prey using its 80 tentacles. Its red orbs glow when it grows excited or agitated.
+hatch_steps: 5355
+type1: :water
+happiness: 70
+type2: :poison
+kind: Jellyfish
+number: '73'
+name: Tentacruel
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 2
+  :speed: 0
+weight: 55.0
+id: :tentacruel
+catch_rate: 60
+xp_yield: 180
+stats: !ruby/object:Hash
+  :attack: 70
+  :defense: 65
+  :hp: 80
+  :special_attack: 80
+  :special_defense: 120
+  :speed: 100

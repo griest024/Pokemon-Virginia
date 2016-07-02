@@ -1,0 +1,11 @@
+--- !ruby/object:PKMN::Item::TM
+plural_name: TM79s
+description: The user blows a cold breath on the target. This attack always results in a critical hit.
+permenant: false
+name: TM79
+usability: !ruby/object:Hash
+  :overworld: true
+  :pokemon: true
+id: :tm79
+price: 3000
+hold_item: true

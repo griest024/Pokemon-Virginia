@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.3
+description: If both heads get angry simultaneously, this Pokémon expels a blizzard, burying everything in snow.
+hatch_steps: 5355
+type1: :ice
+happiness: 70
+kind: Snowstorm
+number: '584'
+name: Vanilluxe
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 3
+  :special_defense: 0
+  :speed: 0
+weight: 57.5
+id: :vanilluxe
+catch_rate: 45
+xp_yield: 241
+stats: !ruby/object:Hash
+  :attack: 95
+  :defense: 85
+  :hp: 71
+  :special_attack: 110
+  :special_defense: 95
+  :speed: 79

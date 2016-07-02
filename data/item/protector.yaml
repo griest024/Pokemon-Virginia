@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Protectors
+description: A protective item of some sort. It is extremely stiff and heavy. It is loved by a certain Pokémon.
+permenant: false
+name: Protector
+usability: !ruby/object:Hash {}
+id: :protector
+price: 2100
+hold_item: true

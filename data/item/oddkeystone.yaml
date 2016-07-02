@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Odd Keystones
+description: A vital item that is needed to keep a stone tower from collapsing. Voices can be heard from it occasionally.
+permenant: false
+name: Odd Keystone
+usability: !ruby/object:Hash {}
+id: :oddkeystone
+price: 2100
+hold_item: true

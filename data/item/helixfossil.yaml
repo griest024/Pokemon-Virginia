@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Helix Fossils
+description: A fossil of an ancient Pokémon that lived in the sea. It appears to be part of a seashell.
+permenant: false
+name: Helix Fossil
+usability: !ruby/object:Hash {}
+id: :helixfossil
+price: 1000
+hold_item: true

@@ -1,0 +1,12 @@
+--- !ruby/object:PKMN::Item::Medicine
+plural_name: Hyper Potions
+description: A spray-type medicine for wounds. It restores the HP of one Pokémon by 200 points.
+permenant: false
+name: Hyper Potion
+usability: !ruby/object:Hash
+  :battle: true
+  :overworld: true
+  :pokemon: true
+id: :hyperpotion
+price: 1200
+hold_item: true

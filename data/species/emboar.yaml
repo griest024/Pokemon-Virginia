@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.6
+description: It can throw a fire punch by setting its fists on fire with its fiery chin. It cares deeply about its friends.
+hatch_steps: 5355
+type1: :fire
+happiness: 70
+type2: :fighting
+kind: Mega Fire Pig
+number: '500'
+name: Emboar
+ev_yield: !ruby/object:Hash
+  :attack: 3
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 150.0
+id: :emboar
+catch_rate: 45
+xp_yield: 238
+stats: !ruby/object:Hash
+  :attack: 123
+  :defense: 65
+  :hp: 110
+  :special_attack: 100
+  :special_defense: 65
+  :speed: 65

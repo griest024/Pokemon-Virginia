@@ -1,0 +1,11 @@
+--- !ruby/object:PKMN::Item::TM
+plural_name: HM01s
+description: The target is cut with a scythe or claw. It can also be used to cut down thin trees.
+permenant: false
+name: HM01
+usability: !ruby/object:Hash
+  :overworld: true
+  :pokemon: true
+id: :hm01
+price: 0
+hold_item: true

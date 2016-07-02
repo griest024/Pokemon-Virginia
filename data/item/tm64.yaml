@@ -1,0 +1,11 @@
+--- !ruby/object:PKMN::Item::TM
+plural_name: TM64s
+description: The user explodes to inflict damage on those around it. The user faints upon using this move.
+permenant: false
+name: TM64
+usability: !ruby/object:Hash
+  :overworld: true
+  :pokemon: true
+id: :tm64
+price: 7500
+hold_item: true

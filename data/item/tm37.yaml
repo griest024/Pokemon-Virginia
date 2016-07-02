@@ -1,0 +1,11 @@
+--- !ruby/object:PKMN::Item::TM
+plural_name: TM37s
+description: A five-turn sandstorm is summoned to hurt all combatants except the Rock, Ground, and Steel types.
+permenant: false
+name: TM37
+usability: !ruby/object:Hash
+  :overworld: true
+  :pokemon: true
+id: :tm37
+price: 2000
+hold_item: true

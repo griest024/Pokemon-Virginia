@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.2
+description: Males have plumage on their heads. They will never let themselves feel close to anyone other than their Trainers.
+hatch_steps: 4080
+type1: :normal
+happiness: 70
+type2: :flying
+kind: Proud
+number: '521'
+name: Unfezant
+ev_yield: !ruby/object:Hash
+  :attack: 3
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 29.0
+id: :unfezant
+catch_rate: 45
+xp_yield: 215
+stats: !ruby/object:Hash
+  :attack: 105
+  :defense: 80
+  :hp: 80
+  :special_attack: 65
+  :special_defense: 55
+  :speed: 93

@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.6
+description: Feebas live in ponds that are heavily infested with weeds. Because of its hopelessly shabby appearance, it seems as if few trainers raise it.
+hatch_steps: 5355
+type1: :water
+happiness: 70
+kind: Fish
+number: '349'
+name: Feebas
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 1
+weight: 7.4
+id: :feebas
+catch_rate: 255
+xp_yield: 40
+stats: !ruby/object:Hash
+  :attack: 15
+  :defense: 20
+  :hp: 20
+  :special_attack: 10
+  :special_defense: 55
+  :speed: 80

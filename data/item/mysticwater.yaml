@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Mystic Waters
+description: An item to be held by a Pokémon. It is a teardrop-shaped gem that ups the power of Water-type moves.
+permenant: false
+name: Mystic Water
+usability: !ruby/object:Hash {}
+id: :mysticwater
+price: 100
+hold_item: true

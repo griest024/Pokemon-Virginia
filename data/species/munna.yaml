@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.6
+description: It eats the dreams of people and Pokémon. When it eats a pleasant dreams, it expels pink-colored mist.
+hatch_steps: 2805
+type1: :psychic
+happiness: 70
+kind: Dream Eater
+number: '517'
+name: Munna
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 1
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 23.3
+id: :munna
+catch_rate: 190
+xp_yield: 58
+stats: !ruby/object:Hash
+  :attack: 25
+  :defense: 45
+  :hp: 76
+  :special_attack: 67
+  :special_defense: 55
+  :speed: 24

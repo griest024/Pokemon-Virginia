@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.5
+description: The more scars they have, the more respect these brave soldiers of the sky get from their peers.
+hatch_steps: 5355
+type1: :normal
+happiness: 70
+type2: :flying
+kind: Valiant
+number: '628'
+name: Braviary
+ev_yield: !ruby/object:Hash
+  :attack: 2
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 41.0
+id: :braviary
+catch_rate: 60
+xp_yield: 179
+stats: !ruby/object:Hash
+  :attack: 123
+  :defense: 75
+  :hp: 100
+  :special_attack: 57
+  :special_defense: 75
+  :speed: 80

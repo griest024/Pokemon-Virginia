@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Eviolites
+description: A mysterious evolutionary lump. When held, it raises the Defense and Sp. Def of a Pokémon that can still evolve.
+permenant: false
+name: Eviolite
+usability: !ruby/object:Hash {}
+id: :eviolite
+price: 200
+hold_item: true

@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.0
+description: In the wild, Mightyena live in a pack. They never defy their leader's orders. They defeat foes with perfectly coordinated teamwork.
+hatch_steps: 4080
+type1: :dark
+happiness: 70
+kind: Bite
+number: '262'
+name: Mightyena
+ev_yield: !ruby/object:Hash
+  :attack: 2
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 37.0
+id: :mightyena
+catch_rate: 127
+xp_yield: 147
+stats: !ruby/object:Hash
+  :attack: 90
+  :defense: 70
+  :hp: 70
+  :special_attack: 60
+  :special_defense: 60
+  :speed: 70

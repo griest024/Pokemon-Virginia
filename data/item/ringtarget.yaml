@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Ring Targets
+description: Moves that would otherwise have no effect will land on the Pokémon that holds it.
+permenant: false
+name: Ring Target
+usability: !ruby/object:Hash {}
+id: :ringtarget
+price: 200
+hold_item: true

@@ -1,0 +1,10 @@
+--- !ruby/object:PKMN::Item::Ball
+plural_name: Luxury Balls
+description: A comfortable Poké Ball that makes a caught wild Pokémon quickly grow friendly.
+permenant: false
+name: Luxury Ball
+usability: !ruby/object:Hash
+  :battle: true
+id: :luxuryball
+price: 1000
+hold_item: true

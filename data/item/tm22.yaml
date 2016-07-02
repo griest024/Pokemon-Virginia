@@ -1,0 +1,11 @@
+--- !ruby/object:PKMN::Item::TM
+plural_name: TM22s
+description: A two-turn attack. The user gathers light, then blasts a bundled beam on the second turn.
+permenant: false
+name: TM22
+usability: !ruby/object:Hash
+  :overworld: true
+  :pokemon: true
+id: :tm22
+price: 3000
+hold_item: true

@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 2.6
+description: It freezes its breath to create fangs and claws of ice to fight with. Cold northern areas are its habitat.
+hatch_steps: 5355
+type1: :ice
+happiness: 70
+kind: Freezing
+number: '614'
+name: Beartic
+ev_yield: !ruby/object:Hash
+  :attack: 2
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 260.0
+id: :beartic
+catch_rate: 60
+xp_yield: 170
+stats: !ruby/object:Hash
+  :attack: 110
+  :defense: 80
+  :hp: 95
+  :special_attack: 70
+  :special_defense: 80
+  :speed: 50

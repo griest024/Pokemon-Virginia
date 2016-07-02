@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.0
+description: These remarkably intelligent Pokémon fight by controlling arms that can grip with rock-crushing power.
+hatch_steps: 5355
+type1: :psychic
+happiness: 70
+kind: Multiplying
+number: '579'
+name: Reuniclus
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 3
+  :special_defense: 0
+  :speed: 0
+weight: 20.1
+id: :reuniclus
+catch_rate: 50
+xp_yield: 221
+stats: !ruby/object:Hash
+  :attack: 65
+  :defense: 75
+  :hp: 110
+  :special_attack: 125
+  :special_defense: 85
+  :speed: 30

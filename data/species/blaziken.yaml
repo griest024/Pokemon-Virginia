@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.9
+description: It learns martial arts that use punches and kicks. Every several years, its old feathers burn off, and new, supple feathers grow back in their place.
+hatch_steps: 5355
+type1: :fire
+happiness: 70
+type2: :fighting
+kind: Blaze
+number: '257'
+name: Blaziken
+ev_yield: !ruby/object:Hash
+  :attack: 3
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 52.0
+id: :blaziken
+catch_rate: 45
+xp_yield: 239
+stats: !ruby/object:Hash
+  :attack: 120
+  :defense: 70
+  :hp: 80
+  :special_attack: 110
+  :special_defense: 70
+  :speed: 80

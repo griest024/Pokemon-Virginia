@@ -1,0 +1,11 @@
+--- !ruby/object:PKMN::Item::TM
+plural_name: TM88s
+description: The user pecks the target. If the target is holding a Berry, the user plucks it and gains its effect.
+permenant: false
+name: TM88
+usability: !ruby/object:Hash
+  :overworld: true
+  :pokemon: true
+id: :tm88
+price: 3000
+hold_item: true

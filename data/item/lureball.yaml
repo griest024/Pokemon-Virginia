@@ -1,0 +1,10 @@
+--- !ruby/object:PKMN::Item::Ball
+plural_name: Lure Balls
+description: A Poké Ball for catching Pokémon hooked by a Rod when fishing.
+permenant: false
+name: Lure Ball
+usability: !ruby/object:Hash
+  :battle: true
+id: :lureball
+price: 300
+hold_item: true

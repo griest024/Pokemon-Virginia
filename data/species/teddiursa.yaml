@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.6
+description: It licks its palms that are sweetened by being soaked in honey. A Teddiursa makes its own honey by blending fruits and pollen collected by Beedrill.
+hatch_steps: 5355
+type1: :normal
+happiness: 70
+kind: Little Bear
+number: '216'
+name: Teddiursa
+ev_yield: !ruby/object:Hash
+  :attack: 1
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 8.8
+id: :teddiursa
+catch_rate: 120
+xp_yield: 66
+stats: !ruby/object:Hash
+  :attack: 80
+  :defense: 50
+  :hp: 60
+  :special_attack: 50
+  :special_defense: 50
+  :speed: 40

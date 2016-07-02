@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Rock Gems
+description: A gem with an essence of rock. When held, it strengthens the power of a Rock-type move only once.
+permenant: false
+name: Rock Gem
+usability: !ruby/object:Hash {}
+id: :rockgem
+price: 200
+hold_item: true

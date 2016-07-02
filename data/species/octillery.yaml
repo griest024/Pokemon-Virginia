@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.9
+description: It ensnares its foe with its suction- cupped tentacles before delivering the finishing blow. If the foe turns out to be too strong, it spews ink to escape.
+hatch_steps: 5355
+type1: :water
+happiness: 70
+kind: Jet
+number: '224'
+name: Octillery
+ev_yield: !ruby/object:Hash
+  :attack: 1
+  :defense: 0
+  :hp: 0
+  :special_attack: 1
+  :special_defense: 0
+  :speed: 0
+weight: 28.5
+id: :octillery
+catch_rate: 75
+xp_yield: 168
+stats: !ruby/object:Hash
+  :attack: 105
+  :defense: 75
+  :hp: 75
+  :special_attack: 105
+  :special_defense: 75
+  :speed: 45

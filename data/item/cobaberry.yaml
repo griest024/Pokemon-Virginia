@@ -1,0 +1,12 @@
+--- !ruby/object:PKMN::Item::Berry
+plural_name: Coba Berries
+description: Weakens a supereffective Flying-type attack against the holding Pokémon.
+permenant: false
+name: Coba Berry
+usability: !ruby/object:Hash
+  :battle: true
+  :overworld: true
+  :pokemon: true
+id: :cobaberry
+price: 20
+hold_item: true

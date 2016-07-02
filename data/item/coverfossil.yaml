@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Cover Fossils
+description: A fossil of an ancient Pokémon that lived in the sea in ancient times. It appears to be part of its back.
+permenant: false
+name: Cover Fossil
+usability: !ruby/object:Hash {}
+id: :coverfossil
+price: 1000
+hold_item: true

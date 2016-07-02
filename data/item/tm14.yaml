@@ -1,0 +1,11 @@
+--- !ruby/object:PKMN::Item::TM
+plural_name: TM14s
+description: A howling blizzard is summoned to strike the opposing team. It may also freeze them solid.
+permenant: false
+name: TM14
+usability: !ruby/object:Hash
+  :overworld: true
+  :pokemon: true
+id: :tm14
+price: 5500
+hold_item: true

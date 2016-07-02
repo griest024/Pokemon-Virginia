@@ -1,0 +1,11 @@
+--- !ruby/object:PKMN::Item::TM
+plural_name: TM15s
+description: The target is attacked with a powerful beam. The user must rest on the next turn to regain its energy.
+permenant: false
+name: TM15
+usability: !ruby/object:Hash
+  :overworld: true
+  :pokemon: true
+id: :tm15
+price: 7500
+hold_item: true

@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.0
+description: It lives on snowy mountains. Having had little contact with humans, it is boldly inquisitive.
+hatch_steps: 5355
+type1: :grass
+happiness: 70
+type2: :ice
+kind: Frost Tree
+number: '459'
+name: Snover
+ev_yield: !ruby/object:Hash
+  :attack: 1
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 50.5
+id: :snover
+catch_rate: 120
+xp_yield: 67
+stats: !ruby/object:Hash
+  :attack: 62
+  :defense: 50
+  :hp: 60
+  :special_attack: 62
+  :special_defense: 60
+  :speed: 40

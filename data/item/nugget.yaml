@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Nuggets
+description: A nugget of pure gold that gives off a lustrous gleam. It can be sold at a high price to shops.
+permenant: false
+name: Nugget
+usability: !ruby/object:Hash {}
+id: :nugget
+price: 10000
+hold_item: true

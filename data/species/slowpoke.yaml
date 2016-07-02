@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.2
+description: It catches prey by dipping its tail in water at the side of a river. But it often forgets what it is doing and spends entire days just loafing at water's edge.
+hatch_steps: 5355
+type1: :water
+happiness: 70
+type2: :psychic
+kind: Dopey
+number: '79'
+name: Slowpoke
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 1
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 36.0
+id: :slowpoke
+catch_rate: 190
+xp_yield: 63
+stats: !ruby/object:Hash
+  :attack: 65
+  :defense: 65
+  :hp: 90
+  :special_attack: 40
+  :special_defense: 40
+  :speed: 15

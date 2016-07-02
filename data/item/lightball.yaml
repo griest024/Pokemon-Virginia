@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Light Balls
+description: An item to be held by Pikachu. It is a puzzling orb that raises the Attack and Sp. Atk stat.
+permenant: false
+name: Light Ball
+usability: !ruby/object:Hash {}
+id: :lightball
+price: 100
+hold_item: true

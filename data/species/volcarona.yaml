@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.6
+description: A sea of fire engulfs the surroundings of their battles, since they use their six wings to scatter their ember scales.
+hatch_steps: 10455
+type1: :bug
+happiness: 70
+type2: :fire
+kind: Sun
+number: '637'
+name: Volcarona
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 3
+  :special_defense: 0
+  :speed: 0
+weight: 46.0
+id: :volcarona
+catch_rate: 15
+xp_yield: 248
+stats: !ruby/object:Hash
+  :attack: 60
+  :defense: 65
+  :hp: 85
+  :special_attack: 135
+  :special_defense: 105
+  :speed: 100

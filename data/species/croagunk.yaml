@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.7
+description: Its cheeks hold poison sacs. It tries to catch foes off guard to jab them with toxic fingers.
+hatch_steps: 2805
+type1: :poison
+happiness: 100
+type2: :fighting
+kind: Toxic Mouth
+number: '453'
+name: Croagunk
+ev_yield: !ruby/object:Hash
+  :attack: 1
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 23.0
+id: :croagunk
+catch_rate: 140
+xp_yield: 60
+stats: !ruby/object:Hash
+  :attack: 61
+  :defense: 40
+  :hp: 48
+  :special_attack: 61
+  :special_defense: 40
+  :speed: 50

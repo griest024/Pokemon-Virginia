@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.0
+description: A Pokémon that was formed by 108 spirits. It is bound to a fissure in an odd keystone.
+hatch_steps: 7905
+type1: :ghost
+happiness: 70
+type2: :dark
+kind: Forbidden
+number: '442'
+name: Spiritomb
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 1
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 1
+  :speed: 0
+weight: 108.0
+id: :spiritomb
+catch_rate: 100
+xp_yield: 170
+stats: !ruby/object:Hash
+  :attack: 92
+  :defense: 108
+  :hp: 50
+  :special_attack: 92
+  :special_defense: 108
+  :speed: 35

@@ -1,0 +1,11 @@
+--- !ruby/object:PKMN::Item::TM
+plural_name: TM19s
+description: The user makes the target float with its psychic power. The target is easier to hit for three turns.
+permenant: false
+name: TM19
+usability: !ruby/object:Hash
+  :overworld: true
+  :pokemon: true
+id: :tm19
+price: 3000
+hold_item: true

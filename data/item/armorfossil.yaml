@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Armor Fossils
+description: A fossil from a prehistoric Pokémon that lived on the land. It appears to be part of a collar.
+permenant: false
+name: Armor Fossil
+usability: !ruby/object:Hash {}
+id: :armorfossil
+price: 1000
+hold_item: true

@@ -1,0 +1,11 @@
+--- !ruby/object:PKMN::Item::TM
+plural_name: TM47s
+description: The user attacks the target's legs swiftly, reducing the target's Speed stat.
+permenant: false
+name: TM47
+usability: !ruby/object:Hash
+  :overworld: true
+  :pokemon: true
+id: :tm47
+price: 3000
+hold_item: true

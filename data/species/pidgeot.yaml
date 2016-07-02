@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.5
+description: This Pokémon has gorgeous, glossy feathers. Many trainers are so captivated by the beautiful feathers on its head that they choose Pidgeot as their Pokémon.
+hatch_steps: 4080
+type1: :normal
+happiness: 70
+type2: :flying
+kind: Bird
+number: '18'
+name: Pidgeot
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 3
+weight: 39.5
+id: :pidgeot
+catch_rate: 45
+xp_yield: 211
+stats: !ruby/object:Hash
+  :attack: 80
+  :defense: 75
+  :hp: 83
+  :special_attack: 70
+  :special_defense: 70
+  :speed: 91

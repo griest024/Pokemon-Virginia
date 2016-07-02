@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.6
+description: The waterspouts that protrude from its shell are highly accurate. Their bullets of water can precisely nail tin cans from a distance of over 160 feet.
+hatch_steps: 5355
+type1: :water
+happiness: 70
+kind: Shellfish
+number: '9'
+name: Blastoise
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 3
+  :speed: 0
+weight: 85.5
+id: :blastoise
+catch_rate: 45
+xp_yield: 239
+stats: !ruby/object:Hash
+  :attack: 83
+  :defense: 100
+  :hp: 79
+  :special_attack: 85
+  :special_defense: 105
+  :speed: 78

@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.6
+description: It is possible to see this Pokémon's spiral innards right through its thin skin. However, the skin is also very flexible. Even sharp fangs bounce right off it.
+hatch_steps: 5355
+type1: :water
+happiness: 70
+kind: Tadpole
+number: '60'
+name: Poliwag
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 1
+weight: 12.4
+id: :poliwag
+catch_rate: 255
+xp_yield: 60
+stats: !ruby/object:Hash
+  :attack: 50
+  :defense: 40
+  :hp: 40
+  :special_attack: 40
+  :special_defense: 40
+  :speed: 90

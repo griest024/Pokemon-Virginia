@@ -1,0 +1,11 @@
+--- !ruby/object:PKMN::Item::TM
+plural_name: TM61s
+description: The user shoots a sinister, bluish-white flame at the target to inflict a burn.
+permenant: false
+name: TM61
+usability: !ruby/object:Hash
+  :overworld: true
+  :pokemon: true
+id: :tm61
+price: 2000
+hold_item: true

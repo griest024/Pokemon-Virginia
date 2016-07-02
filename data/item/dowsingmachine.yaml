@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::KeyItem
+plural_name: Dowsing Machines
+permenant: false
+description: It checks for unseen items in the area and makes noise and lights when it finds something.
+name: Dowsing Machine
+usability: !ruby/object:Hash {}
+id: :dowsingmachine
+price: 0
+hold_item: true

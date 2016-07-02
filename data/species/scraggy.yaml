@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.6
+description: It immediately headbutts anyone that makes eye contact with it. Its skull is massively thick.
+hatch_steps: 4080
+type1: :dark
+happiness: 35
+type2: :fighting
+kind: Shedding
+number: '559'
+name: Scraggy
+ev_yield: !ruby/object:Hash
+  :attack: 1
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 11.8
+id: :scraggy
+catch_rate: 180
+xp_yield: 70
+stats: !ruby/object:Hash
+  :attack: 75
+  :defense: 70
+  :hp: 50
+  :special_attack: 35
+  :special_defense: 70
+  :speed: 48

@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Focus Sashes
+description: An item to be held by a Pokémon. If it has full HP, the holder will endure one potential KO attack, leaving 1 HP.
+permenant: false
+name: Focus Sash
+usability: !ruby/object:Hash {}
+id: :focussash
+price: 200
+hold_item: true

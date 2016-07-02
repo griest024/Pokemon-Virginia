@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Bright Powders
+description: An item to be held by a Pokémon. It casts a tricky glare that lowers the opponent's accuracy.
+permenant: false
+name: Bright Powder
+usability: !ruby/object:Hash {}
+id: :brightpowder
+price: 10
+hold_item: true

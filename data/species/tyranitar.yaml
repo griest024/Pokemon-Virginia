@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 2.0
+description: A Tyranitar is so overwhelmingly powerful, it can bring down a whole mountain to make its nest. It roams in mountains seeking new opponents to fight.
+hatch_steps: 10455
+type1: :rock
+happiness: 35
+type2: :dark
+kind: Armor
+number: '248'
+name: Tyranitar
+ev_yield: !ruby/object:Hash
+  :attack: 3
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 202.0
+id: :tyranitar
+catch_rate: 45
+xp_yield: 270
+stats: !ruby/object:Hash
+  :attack: 134
+  :defense: 110
+  :hp: 100
+  :special_attack: 95
+  :special_defense: 100
+  :speed: 61

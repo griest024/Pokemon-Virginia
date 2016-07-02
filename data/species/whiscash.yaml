@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.9
+description: Mysteriously, it can foretell earthquakes. In the daytime, it sleeps in mud at the bottom of a pond. When it awakens, it continually feeds throughout the night.
+hatch_steps: 5355
+type1: :water
+happiness: 70
+type2: :ground
+kind: Whiskers
+number: '340'
+name: Whiscash
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 2
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 23.6
+id: :whiscash
+catch_rate: 75
+xp_yield: 164
+stats: !ruby/object:Hash
+  :attack: 78
+  :defense: 73
+  :hp: 110
+  :special_attack: 76
+  :special_defense: 71
+  :speed: 60

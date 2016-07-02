@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.8
+description: It grips prey with its tail claws and injects poison. It tenaciously hangs on until the poison takes.
+hatch_steps: 5355
+type1: :poison
+happiness: 70
+type2: :bug
+kind: Scorpion
+number: '451'
+name: Skorupi
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 1
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 12.0
+id: :skorupi
+catch_rate: 120
+xp_yield: 66
+stats: !ruby/object:Hash
+  :attack: 50
+  :defense: 90
+  :hp: 40
+  :special_attack: 30
+  :special_defense: 55
+  :speed: 65

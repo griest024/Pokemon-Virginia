@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.0
+description: Its large tail is covered with rich, thick fur that deepens in color with age. The scratches on its shell are evidence of this Pokémon's toughness in battle.
+hatch_steps: 5355
+type1: :water
+happiness: 70
+kind: Turtle
+number: '8'
+name: Wartortle
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 1
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 1
+  :speed: 0
+weight: 22.5
+id: :wartortle
+catch_rate: 45
+xp_yield: 142
+stats: !ruby/object:Hash
+  :attack: 63
+  :defense: 80
+  :hp: 59
+  :special_attack: 65
+  :special_defense: 80
+  :speed: 58

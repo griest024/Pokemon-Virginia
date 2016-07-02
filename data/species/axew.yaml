@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.6
+description: They mark their territory by leaving gashes in trees with their tusks. If a tusk breaks, a new one grows in quickly.
+hatch_steps: 10455
+type1: :dragon
+happiness: 35
+kind: Tusk
+number: '610'
+name: Axew
+ev_yield: !ruby/object:Hash
+  :attack: 1
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 18.0
+id: :axew
+catch_rate: 75
+xp_yield: 64
+stats: !ruby/object:Hash
+  :attack: 87
+  :defense: 60
+  :hp: 46
+  :special_attack: 30
+  :special_defense: 40
+  :speed: 57

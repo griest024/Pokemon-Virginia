@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.4
+description: It is said that in lands with clean air, where the stars fill the sky, there live many Ledian. For good reason, they use the light of the stars as energy.
+hatch_steps: 4080
+type1: :bug
+happiness: 70
+type2: :flying
+kind: Five Star
+number: '166'
+name: Ledian
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 2
+  :speed: 0
+weight: 35.6
+id: :ledian
+catch_rate: 90
+xp_yield: 137
+stats: !ruby/object:Hash
+  :attack: 35
+  :defense: 50
+  :hp: 55
+  :special_attack: 55
+  :special_defense: 110
+  :speed: 85

@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.7
+description: It is a species of Pokémon that lives in volcanic areas. If its body cools, its skin hardens and immobilizes it. To avoid that, it sleeps near magma.
+hatch_steps: 5355
+type1: :fire
+happiness: 70
+kind: Lava
+number: '218'
+name: Slugma
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 1
+  :special_defense: 0
+  :speed: 0
+weight: 35.0
+id: :slugma
+catch_rate: 190
+xp_yield: 50
+stats: !ruby/object:Hash
+  :attack: 40
+  :defense: 40
+  :hp: 40
+  :special_attack: 70
+  :special_defense: 40
+  :speed: 20

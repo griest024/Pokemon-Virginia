@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.2
+description: These Pokémon move in schools. They have an electricity-generating organ, so they discharge electricity if in danger.
+hatch_steps: 5355
+type1: :electric
+happiness: 70
+kind: EleFish
+number: '602'
+name: Tynamo
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 1
+weight: 0.3
+id: :tynamo
+catch_rate: 190
+xp_yield: 55
+stats: !ruby/object:Hash
+  :attack: 55
+  :defense: 40
+  :hp: 35
+  :special_attack: 45
+  :special_defense: 40
+  :speed: 60

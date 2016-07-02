@@ -1,0 +1,11 @@
+--- !ruby/object:PKMN::Item::TM
+plural_name: TM26s
+description: The user sets off an earthquake that strikes every Pokémon around it.
+permenant: false
+name: TM26
+usability: !ruby/object:Hash
+  :overworld: true
+  :pokemon: true
+id: :tm26
+price: 3000
+hold_item: true

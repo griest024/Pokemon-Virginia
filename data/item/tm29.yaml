@@ -1,0 +1,11 @@
+--- !ruby/object:PKMN::Item::TM
+plural_name: TM29s
+description: The target is hit by a strong telekinetic force. It may also reduce the target's Sp. Def stat.
+permenant: false
+name: TM29
+usability: !ruby/object:Hash
+  :overworld: true
+  :pokemon: true
+id: :tm29
+price: 3000
+hold_item: true

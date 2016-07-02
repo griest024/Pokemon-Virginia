@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Pnk Apricorns
+description: A pink Apricorn. It has a nice, sweet scent.
+permenant: false
+name: Pnk Apricorn
+usability: !ruby/object:Hash {}
+id: :pnkapricorn
+price: 200
+hold_item: true

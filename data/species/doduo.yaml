@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.4
+description: Even while eating or sleeping, one of the heads remains always vigilant for any sign of danger. When threatened, it flees at over 60 miles per hour.
+hatch_steps: 5355
+type1: :normal
+happiness: 70
+type2: :flying
+kind: Twin Bird
+number: '84'
+name: Doduo
+ev_yield: !ruby/object:Hash
+  :attack: 1
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 39.2
+id: :doduo
+catch_rate: 190
+xp_yield: 62
+stats: !ruby/object:Hash
+  :attack: 85
+  :defense: 45
+  :hp: 35
+  :special_attack: 35
+  :special_defense: 35
+  :speed: 75

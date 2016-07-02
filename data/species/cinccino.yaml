@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.5
+description: Their white fur feels amazing to touch. Their fur repels dust and prevents static electricity from building up.
+hatch_steps: 4080
+type1: :normal
+happiness: 70
+kind: Scarf
+number: '573'
+name: Cinccino
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 2
+weight: 7.5
+id: :cinccino
+catch_rate: 60
+xp_yield: 165
+stats: !ruby/object:Hash
+  :attack: 95
+  :defense: 60
+  :hp: 75
+  :special_attack: 65
+  :special_defense: 60
+  :speed: 115

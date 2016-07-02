@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.7
+description: To avoid detection by its enemies, it hides motionlessly beneath large leaves and in the gaps of branches. It also attaches dead leaves to its body for camouflage.
+hatch_steps: 4080
+type1: :bug
+happiness: 70
+kind: Cocoon
+number: '268'
+name: Cascoon
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 2
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 11.5
+id: :cascoon
+catch_rate: 120
+xp_yield: 41
+stats: !ruby/object:Hash
+  :attack: 35
+  :defense: 55
+  :hp: 50
+  :special_attack: 25
+  :special_defense: 25
+  :speed: 15

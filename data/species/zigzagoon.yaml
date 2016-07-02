@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.4
+description: Rubbing its nose against the ground, it always wanders about back and forth in search of something. It is distinguished by the zigzag footprints it leaves.
+hatch_steps: 4080
+type1: :normal
+happiness: 70
+kind: TinyRaccoon
+number: '263'
+name: Zigzagoon
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 1
+weight: 17.5
+id: :zigzagoon
+catch_rate: 255
+xp_yield: 48
+stats: !ruby/object:Hash
+  :attack: 30
+  :defense: 41
+  :hp: 38
+  :special_attack: 30
+  :special_defense: 41
+  :speed: 60

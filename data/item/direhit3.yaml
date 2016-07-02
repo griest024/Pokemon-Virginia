@@ -1,0 +1,11 @@
+--- !ruby/object:PKMN::Item::Battle
+plural_name: Dire Hit 3s
+description: It can be used many times to greatly raise a Pokémon's critical-hit ratio. It wears off if the Pokémon is withdrawn.
+permenant: false
+name: Dire Hit 3
+usability: !ruby/object:Hash
+  :battle: true
+  :pokemon: true
+id: :direhit3
+price: 0
+hold_item: true

@@ -1,0 +1,12 @@
+--- !ruby/object:PKMN::Item::Berry
+plural_name: Starf Berries
+description: If held by a Pokémon, it sharply raises one of its stats in a pinch.
+permenant: false
+name: Starf Berry
+usability: !ruby/object:Hash
+  :battle: true
+  :overworld: true
+  :pokemon: true
+id: :starfberry
+price: 20
+hold_item: true

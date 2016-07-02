@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Smooth Rocks
+description: A Pokémon held item that extends the duration of the move Sandstorm used by the holder.
+permenant: false
+name: Smooth Rock
+usability: !ruby/object:Hash {}
+id: :smoothrock
+price: 200
+hold_item: true

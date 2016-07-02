@@ -1,0 +1,11 @@
+--- !ruby/object:PKMN::Item::TM
+plural_name: TM92s
+description: The user creates a bizarre space in which slower Pokémon get to move first for five turns.
+permenant: false
+name: TM92
+usability: !ruby/object:Hash
+  :overworld: true
+  :pokemon: true
+id: :tm92
+price: 5500
+hold_item: true

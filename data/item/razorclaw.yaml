@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Razor Claws
+description: An item to be held by a Pokémon. It is a sharply hooked claw that ups the holder's critical-hit ratio.
+permenant: false
+name: Razor Claw
+usability: !ruby/object:Hash {}
+id: :razorclaw
+price: 2100
+hold_item: true

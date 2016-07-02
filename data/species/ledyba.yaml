@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.0
+description: Ledyba communicate using a fluid that they secrete from where the legs join the body. They are said to convey feelings to others by altering the fluid's scent.
+hatch_steps: 4080
+type1: :bug
+happiness: 70
+type2: :flying
+kind: Five Star
+number: '165'
+name: Ledyba
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 1
+  :speed: 0
+weight: 10.8
+id: :ledyba
+catch_rate: 255
+xp_yield: 53
+stats: !ruby/object:Hash
+  :attack: 20
+  :defense: 30
+  :hp: 40
+  :special_attack: 40
+  :special_defense: 80
+  :speed: 55

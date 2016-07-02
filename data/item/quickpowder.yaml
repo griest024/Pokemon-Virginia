@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Quick Powders
+description: An item to be held by Ditto. Extremely fine yet hard, this odd powder boosts the Speed stat.
+permenant: false
+name: Quick Powder
+usability: !ruby/object:Hash {}
+id: :quickpowder
+price: 10
+hold_item: true

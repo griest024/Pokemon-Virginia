@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Binding Bands
+description: A band that increases the power of binding moves when held.
+permenant: false
+name: Binding Band
+usability: !ruby/object:Hash {}
+id: :bindingband
+price: 200
+hold_item: true

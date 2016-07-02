@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Shiny Stones
+description: A peculiar stone that makes certain species of Pokémon evolve. It shines with a dazzling light.
+permenant: false
+name: Shiny Stone
+usability: !ruby/object:Hash {}
+id: :shinystone
+price: 2100
+hold_item: true

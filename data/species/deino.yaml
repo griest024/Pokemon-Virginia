@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.8
+description: They cannot see, so they tackle and bite to learn about their surroundings. Their bodies are covered in wounds.
+hatch_steps: 10455
+type1: :dark
+happiness: 35
+type2: :dragon
+kind: Irate
+number: '633'
+name: Deino
+ev_yield: !ruby/object:Hash
+  :attack: 1
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 17.3
+id: :deino
+catch_rate: 45
+xp_yield: 60
+stats: !ruby/object:Hash
+  :attack: 65
+  :defense: 50
+  :hp: 52
+  :special_attack: 45
+  :special_defense: 50
+  :speed: 38

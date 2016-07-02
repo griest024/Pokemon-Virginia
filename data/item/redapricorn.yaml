@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Red Apricorns
+description: A red Apricorn. It assails your nostrils.
+permenant: false
+name: Red Apricorn
+usability: !ruby/object:Hash {}
+id: :redapricorn
+price: 200
+hold_item: true

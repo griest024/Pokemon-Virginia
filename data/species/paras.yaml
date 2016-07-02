@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.3
+description: A Paras has parasitic tochukaso mushrooms growing on its back. They grow by drawing nutrients from the host. They are valued as a medicine for long life.
+hatch_steps: 5355
+type1: :bug
+happiness: 70
+type2: :grass
+kind: Mushroom
+number: '46'
+name: Paras
+ev_yield: !ruby/object:Hash
+  :attack: 1
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 5.4
+id: :paras
+catch_rate: 190
+xp_yield: 57
+stats: !ruby/object:Hash
+  :attack: 70
+  :defense: 55
+  :hp: 35
+  :special_attack: 45
+  :special_defense: 55
+  :speed: 25

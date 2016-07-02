@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Heart Scales
+description: A pretty, heart-shaped scale that is extremely rare. It glows faintly in the colors of the rainbow.
+permenant: false
+name: Heart Scale
+usability: !ruby/object:Hash {}
+id: :heartscale
+price: 100
+hold_item: true

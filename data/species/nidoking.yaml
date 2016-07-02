@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.4
+description: A Nidoking's thick tail packs enormously destructive power capable of toppling a metal transmission tower. Once it goes on a rampage, there is no stopping it.
+hatch_steps: 5355
+type1: :poison
+happiness: 70
+type2: :ground
+kind: Drill
+number: '34'
+name: Nidoking
+ev_yield: !ruby/object:Hash
+  :attack: 3
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 62.0
+id: :nidoking
+catch_rate: 45
+xp_yield: 223
+stats: !ruby/object:Hash
+  :attack: 92
+  :defense: 77
+  :hp: 81
+  :special_attack: 85
+  :special_defense: 75
+  :speed: 85

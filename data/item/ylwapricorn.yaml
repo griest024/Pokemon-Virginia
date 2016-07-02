@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Ylw Apricorns
+description: A yellow Apricorn. It has an invigorating scent.
+permenant: false
+name: Ylw Apricorn
+usability: !ruby/object:Hash {}
+id: :ylwapricorn
+price: 200
+hold_item: true

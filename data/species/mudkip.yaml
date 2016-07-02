@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.4
+description: On land, it can powerfully lift large boulders by planting its four feet and heaving. It sleeps by burying itself in soil at the water's edge.
+hatch_steps: 5355
+type1: :water
+happiness: 70
+kind: Mud Fish
+number: '258'
+name: Mudkip
+ev_yield: !ruby/object:Hash
+  :attack: 1
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 7.6
+id: :mudkip
+catch_rate: 45
+xp_yield: 62
+stats: !ruby/object:Hash
+  :attack: 70
+  :defense: 50
+  :hp: 50
+  :special_attack: 50
+  :special_defense: 50
+  :speed: 40

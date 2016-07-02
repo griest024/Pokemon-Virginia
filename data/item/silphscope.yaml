@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::KeyItem
+plural_name: Silph Scopes
+permenant: false
+description: A scope that makes unseeable Pokémon visible. It is made by Silph Co.
+name: Silph Scope
+usability: !ruby/object:Hash {}
+id: :silphscope
+price: 0
+hold_item: true

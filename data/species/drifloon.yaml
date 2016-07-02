@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.4
+description: A Pokémon formed by the spirits of people and Pokémon. It loves damp, humid seasons.
+hatch_steps: 7905
+type1: :ghost
+happiness: 70
+type2: :flying
+kind: Balloon
+number: '425'
+name: Drifloon
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 1
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 1.2
+id: :drifloon
+catch_rate: 125
+xp_yield: 70
+stats: !ruby/object:Hash
+  :attack: 50
+  :defense: 34
+  :hp: 90
+  :special_attack: 60
+  :special_defense: 44
+  :speed: 70

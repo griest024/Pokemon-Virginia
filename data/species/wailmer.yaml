@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 2.0
+description: While this Pokémon usually lives in the sea, it can survive on land, although not too long. It loses vitality if its body becomes dried out.
+hatch_steps: 10455
+type1: :water
+happiness: 70
+kind: Ball Whale
+number: '320'
+name: Wailmer
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 1
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 130.0
+id: :wailmer
+catch_rate: 125
+xp_yield: 80
+stats: !ruby/object:Hash
+  :attack: 70
+  :defense: 35
+  :hp: 130
+  :special_attack: 70
+  :special_defense: 35
+  :speed: 60

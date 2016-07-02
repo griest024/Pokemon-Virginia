@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Sun Stones
+description: A peculiar stone that makes certain species of Pokémon evolve. It is as red as the sun.
+permenant: false
+name: Sun Stone
+usability: !ruby/object:Hash {}
+id: :sunstone
+price: 2100
+hold_item: true

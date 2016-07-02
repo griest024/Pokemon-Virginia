@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.4
+description: Its technique of kicking while spinning is a remarkable mix of both offense and defense. Hitmontop travel faster spinning than they do walking.
+hatch_steps: 6630
+type1: :fighting
+happiness: 70
+kind: Handstand
+number: '237'
+name: Hitmontop
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 2
+  :speed: 0
+weight: 48.0
+id: :hitmontop
+catch_rate: 45
+xp_yield: 159
+stats: !ruby/object:Hash
+  :attack: 95
+  :defense: 95
+  :hp: 50
+  :special_attack: 35
+  :special_defense: 110
+  :speed: 70

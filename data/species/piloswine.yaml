@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.1
+description: A Piloswine is covered by a thick coat of long hair for enduring freezing cold. It uses its tusks to dig up food that has been buried under ice.
+hatch_steps: 5355
+type1: :ice
+happiness: 70
+type2: :ground
+kind: Swine
+number: '221'
+name: Piloswine
+ev_yield: !ruby/object:Hash
+  :attack: 1
+  :defense: 0
+  :hp: 1
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 55.8
+id: :piloswine
+catch_rate: 75
+xp_yield: 158
+stats: !ruby/object:Hash
+  :attack: 100
+  :defense: 80
+  :hp: 100
+  :special_attack: 60
+  :special_defense: 60
+  :speed: 50

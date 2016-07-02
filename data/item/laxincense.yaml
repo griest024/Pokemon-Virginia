@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Lax Incenses
+description: An item to be held by a Pokémon. The tricky aroma of this incense may make attacks miss the holder.
+permenant: false
+name: Lax Incense
+usability: !ruby/object:Hash {}
+id: :laxincense
+price: 9600
+hold_item: true

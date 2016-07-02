@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Amulet Coins
+description: An item to be held by a Pokémon. It doubles a battle's prize money if the holding Pokémon joins in.
+permenant: false
+name: Amulet Coin
+usability: !ruby/object:Hash {}
+id: :amuletcoin
+price: 100
+hold_item: true

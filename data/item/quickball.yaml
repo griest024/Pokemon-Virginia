@@ -1,0 +1,10 @@
+--- !ruby/object:PKMN::Item::Ball
+plural_name: Quick Balls
+description: A somewhat different Poké Ball that provides a better catch rate if it is used at the start of a wild encounter.
+permenant: false
+name: Quick Ball
+usability: !ruby/object:Hash
+  :battle: true
+id: :quickball
+price: 1000
+hold_item: true

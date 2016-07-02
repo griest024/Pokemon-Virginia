@@ -1,0 +1,11 @@
+--- !ruby/object:PKMN::Item::Battle
+plural_name: Poké Dolls
+description: A doll that attracts Pokémon. Use it to flee from any battle with a wild Pokémon.
+permenant: false
+name: Poké Doll
+usability: !ruby/object:Hash
+  :battle: true
+  :pokemon: true
+id: :pokedoll
+price: 1000
+hold_item: true

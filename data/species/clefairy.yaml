@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.6
+description: On every night of a full moon, they come out to play. When dawn arrives, the tired Clefairy go to sleep nestled up against each other in deep and quiet mountains.
+hatch_steps: 2805
+type1: :normal
+happiness: 140
+kind: Fairy
+number: '35'
+name: Clefairy
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 2
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 7.5
+id: :clefairy
+catch_rate: 150
+xp_yield: 113
+stats: !ruby/object:Hash
+  :attack: 45
+  :defense: 48
+  :hp: 70
+  :special_attack: 60
+  :special_defense: 65
+  :speed: 35

@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Cleanse Tags
+description: An item to be held by a Pokémon. It helps keep wild Pokémon away if the holder is the first one in the party.
+permenant: false
+name: Cleanse Tag
+usability: !ruby/object:Hash {}
+id: :cleansetag
+price: 200
+hold_item: true

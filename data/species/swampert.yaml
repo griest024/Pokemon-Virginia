@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.5
+description: If it senses the approach of a storm and a tidal wave, it protects its seaside nest by piling up boulders. It swims as fast as a jet ski.
+hatch_steps: 5355
+type1: :water
+happiness: 70
+type2: :ground
+kind: Mud Fish
+number: '260'
+name: Swampert
+ev_yield: !ruby/object:Hash
+  :attack: 3
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 81.9
+id: :swampert
+catch_rate: 45
+xp_yield: 241
+stats: !ruby/object:Hash
+  :attack: 110
+  :defense: 90
+  :hp: 100
+  :special_attack: 85
+  :special_defense: 90
+  :speed: 60

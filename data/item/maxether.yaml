@@ -1,0 +1,12 @@
+--- !ruby/object:PKMN::Item::Medicine
+plural_name: Max Ethers
+description: It fully restores the PP of a single selected move that has been learned by the target Pokémon.
+permenant: false
+name: Max Ether
+usability: !ruby/object:Hash
+  :battle: true
+  :overworld: true
+  :pokemon: true
+id: :maxether
+price: 2000
+hold_item: true

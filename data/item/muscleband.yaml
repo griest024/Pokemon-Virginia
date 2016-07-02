@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Muscle Bands
+description: An item to be held by a Pokémon. It is a headband that slightly boosts the power of physical moves.
+permenant: false
+name: Muscle Band
+usability: !ruby/object:Hash {}
+id: :muscleband
+price: 200
+hold_item: true

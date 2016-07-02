@@ -1,0 +1,12 @@
+--- !ruby/object:PKMN::Item::Medicine
+plural_name: Old Gateaux
+description: Old Chateau's hidden specialty. It heals all the status problems of a single Pokémon.
+permenant: false
+name: Old Gateau
+usability: !ruby/object:Hash
+  :battle: true
+  :overworld: true
+  :pokemon: true
+id: :oldgateau
+price: 200
+hold_item: true

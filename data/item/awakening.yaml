@@ -1,0 +1,12 @@
+--- !ruby/object:PKMN::Item::Medicine
+plural_name: Awakenings
+description: A spray-type medicine. It awakens a Pokémon from the clutches of sleep.
+permenant: false
+name: Awakening
+usability: !ruby/object:Hash
+  :battle: true
+  :overworld: true
+  :pokemon: true
+id: :awakening
+price: 250
+hold_item: true

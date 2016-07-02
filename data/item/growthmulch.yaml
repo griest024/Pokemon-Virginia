@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Growth Mulch
+description: A fertilizer to be spread on soft soil in regions where Berries are grown. A maniac will buy it for a high price.
+permenant: false
+name: Growth Mulch
+usability: !ruby/object:Hash {}
+id: :growthmulch
+price: 200
+hold_item: true

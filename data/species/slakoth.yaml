@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.8
+description: It sleeps virtually all day and night long. It doesn't change its nest its entire life, but it sometimes travels great distances by swimming in rivers.
+hatch_steps: 4080
+type1: :normal
+happiness: 70
+kind: Slacker
+number: '287'
+name: Slakoth
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 1
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 24.0
+id: :slakoth
+catch_rate: 255
+xp_yield: 56
+stats: !ruby/object:Hash
+  :attack: 60
+  :defense: 60
+  :hp: 60
+  :special_attack: 35
+  :special_defense: 35
+  :speed: 30

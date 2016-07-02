@@ -1,0 +1,11 @@
+--- !ruby/object:PKMN::Item::TM
+plural_name: TM87s
+description: The user enrages and confuses the target. However, it also sharply raises the target's Attack stat.
+permenant: false
+name: TM87
+usability: !ruby/object:Hash
+  :overworld: true
+  :pokemon: true
+id: :tm87
+price: 1500
+hold_item: true

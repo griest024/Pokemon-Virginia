@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Psychic Gems
+description: A gem with an essence of the mind. When held, it strengthens the power of a Psychic-type move only once.
+permenant: false
+name: Psychic Gem
+usability: !ruby/object:Hash {}
+id: :psychicgem
+price: 200
+hold_item: true

@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Water Gems
+description: A gem with an essence of water. When held, it strengthens the power of a Water-type move only once.
+permenant: false
+name: Water Gem
+usability: !ruby/object:Hash {}
+id: :watergem
+price: 200
+hold_item: true

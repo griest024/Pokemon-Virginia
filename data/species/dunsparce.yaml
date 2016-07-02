@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.5
+description: Its drill-tipped tail is used to burrow into the ground backwards. This Pokémon is known to make its nest in complex shapes deep under the ground.
+hatch_steps: 5355
+type1: :normal
+happiness: 70
+kind: Land Snake
+number: '206'
+name: Dunsparce
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 1
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 14.0
+id: :dunsparce
+catch_rate: 190
+xp_yield: 145
+stats: !ruby/object:Hash
+  :attack: 70
+  :defense: 70
+  :hp: 100
+  :special_attack: 65
+  :special_defense: 65
+  :speed: 45

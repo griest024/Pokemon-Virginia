@@ -1,0 +1,20 @@
+--- !ruby/object:PKMN::Type::Type
+effects: !ruby/object:Hash
+  :bug: :little
+  :dark: :little
+  :dragon: :little
+  :fighting: :very
+  :fire: :very
+  :flying: :little
+  :ghost: :little
+  :grass: :little
+  :ground: :very
+  :ice: :little
+  :normal: :little
+  :poison: :no
+  :psychic: :little
+  :rock: :little
+  :steel: :little
+name: Steel
+id: :steel
+type_class: :physical

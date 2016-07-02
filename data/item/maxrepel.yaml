@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Max Repels
+description: An item that prevents weak wild Pokémon from appearing for 250 steps after its use.
+permenant: false
+name: Max Repel
+usability: !ruby/object:Hash {}
+id: :maxrepel
+price: 700
+hold_item: true

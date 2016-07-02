@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.4
+description: It gives off so much light that it can be seen even from space. People in the old days used its light to send signals back and forth with others far away.
+hatch_steps: 5355
+type1: :electric
+happiness: 70
+kind: Light
+number: '181'
+name: Ampharos
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 3
+  :special_defense: 0
+  :speed: 0
+weight: 61.5
+id: :ampharos
+catch_rate: 45
+xp_yield: 225
+stats: !ruby/object:Hash
+  :attack: 75
+  :defense: 75
+  :hp: 90
+  :special_attack: 115
+  :special_defense: 90
+  :speed: 55

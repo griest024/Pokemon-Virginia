@@ -1,0 +1,11 @@
+--- !ruby/object:PKMN::Item::TM
+plural_name: TM72s
+description: After making its attack, the user rushes back to switch places with a party Pokémon in waiting.
+permenant: false
+name: TM72
+usability: !ruby/object:Hash
+  :overworld: true
+  :pokemon: true
+id: :tm72
+price: 3000
+hold_item: true

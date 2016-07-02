@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Light Clays
+description: A Pokémon held item that extends the duration of barrier moves like Light Screen and Reflect used by the holder.
+permenant: false
+name: Light Clay
+usability: !ruby/object:Hash {}
+id: :lightclay
+price: 200
+hold_item: true

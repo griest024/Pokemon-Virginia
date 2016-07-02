@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::KeyItem
+plural_name: Wailmer Pails
+permenant: false
+description: A tool used for watering Berries and plants.
+name: Wailmer Pail
+usability: !ruby/object:Hash {}
+id: :wailmerpail
+price: 0
+hold_item: true

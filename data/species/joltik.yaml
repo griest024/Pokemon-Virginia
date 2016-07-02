@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.1
+description: They attach themselves to large-bodied Pokémon and absorb static electricity, which they store in an electric pouch.
+hatch_steps: 5355
+type1: :bug
+happiness: 70
+type2: :electric
+kind: Attaching
+number: '595'
+name: Joltik
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 1
+weight: 0.6
+id: :joltik
+catch_rate: 190
+xp_yield: 64
+stats: !ruby/object:Hash
+  :attack: 47
+  :defense: 50
+  :hp: 50
+  :special_attack: 57
+  :special_defense: 50
+  :speed: 65

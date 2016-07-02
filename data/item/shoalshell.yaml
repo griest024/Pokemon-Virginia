@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Shoal Shells
+description: A pretty seashell that can be found deep inside the Shoal Cave. A maniac will buy it for a high price.
+permenant: false
+name: Shoal Shell
+usability: !ruby/object:Hash {}
+id: :shoalshell
+price: 20
+hold_item: true

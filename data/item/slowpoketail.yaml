@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Slowpoke Tails
+description: A very tasty tail of something. It sells for a high price.
+permenant: false
+name: Slowpoke Tail
+usability: !ruby/object:Hash {}
+id: :slowpoketail
+price: 9800
+hold_item: true

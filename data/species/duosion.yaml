@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.6
+description: When their brains, now divided in two, are thinking the same thoughts, these Pokémon exhibit their maximum power.
+hatch_steps: 5355
+type1: :psychic
+happiness: 70
+kind: Mitosis
+number: '578'
+name: Duosion
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 2
+  :special_defense: 0
+  :speed: 0
+weight: 8.0
+id: :duosion
+catch_rate: 100
+xp_yield: 130
+stats: !ruby/object:Hash
+  :attack: 40
+  :defense: 50
+  :hp: 65
+  :special_attack: 125
+  :special_defense: 60
+  :speed: 30

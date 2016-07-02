@@ -1,0 +1,11 @@
+--- !ruby/object:PKMN::Item::TM
+plural_name: TM53s
+description: The user draws power from nature and fires it at the target. It may also lower the target's Sp. Def.
+permenant: false
+name: TM53
+usability: !ruby/object:Hash
+  :overworld: true
+  :pokemon: true
+id: :tm53
+price: 3000
+hold_item: true

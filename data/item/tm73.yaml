@@ -1,0 +1,11 @@
+--- !ruby/object:PKMN::Item::TM
+plural_name: TM73s
+description: A weak electric charge is launched at the target. It causes paralysis if it hits.
+permenant: false
+name: TM73
+usability: !ruby/object:Hash
+  :overworld: true
+  :pokemon: true
+id: :tm73
+price: 2000
+hold_item: true

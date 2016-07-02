@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.2
+description: Its tail, which is packed with nutrition, is very bouncy like a rubber ball. On sunny days they gather at the edge of water and splash about for fun.
+hatch_steps: 2805
+type1: :normal
+happiness: 70
+kind: Polka Dot
+number: '298'
+name: Azurill
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 1
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 2.0
+id: :azurill
+catch_rate: 150
+xp_yield: 38
+stats: !ruby/object:Hash
+  :attack: 20
+  :defense: 40
+  :hp: 50
+  :special_attack: 20
+  :special_defense: 40
+  :speed: 20

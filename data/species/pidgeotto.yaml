@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.1
+description: This Pokémon flies around, patrolling its large territory. If its living space is violated, it shows no mercy in thoroughly punishing the foe with its sharp claws.
+hatch_steps: 4080
+type1: :normal
+happiness: 70
+type2: :flying
+kind: Bird
+number: '17'
+name: Pidgeotto
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 2
+weight: 30.0
+id: :pidgeotto
+catch_rate: 120
+xp_yield: 122
+stats: !ruby/object:Hash
+  :attack: 60
+  :defense: 55
+  :hp: 63
+  :special_attack: 50
+  :special_defense: 50
+  :speed: 71

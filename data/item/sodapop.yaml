@@ -1,0 +1,12 @@
+--- !ruby/object:PKMN::Item::Medicine
+plural_name: Soda Pops
+description: A fizzy soda drink. It restores the HP of one Pokémon by 60 points.
+permenant: false
+name: Soda Pop
+usability: !ruby/object:Hash
+  :battle: true
+  :overworld: true
+  :pokemon: true
+id: :sodapop
+price: 300
+hold_item: true

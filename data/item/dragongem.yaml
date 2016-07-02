@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Dragon Gems
+description: A gem with a draconic essence. When held, it strengthens the power of a Dragon-type move only once.
+permenant: false
+name: Dragon Gem
+usability: !ruby/object:Hash {}
+id: :dragongem
+price: 200
+hold_item: true

@@ -1,0 +1,11 @@
+--- !ruby/object:PKMN::Item::TM
+plural_name: HM06s
+description: Diving on the first turn, the user floats up and attacks on the second. It can be used for diving in the ocean.
+permenant: false
+name: HM06
+usability: !ruby/object:Hash
+  :overworld: true
+  :pokemon: true
+id: :hm06
+price: 0
+hold_item: true

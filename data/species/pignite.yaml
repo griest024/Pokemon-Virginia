@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.0
+description: Whatever it eats becomes fuel for the flame in its stomach. When it is angered, the intensity of the flame increases.
+hatch_steps: 5355
+type1: :fire
+happiness: 70
+type2: :fighting
+kind: Fire Pig
+number: '499'
+name: Pignite
+ev_yield: !ruby/object:Hash
+  :attack: 2
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 55.5
+id: :pignite
+catch_rate: 45
+xp_yield: 146
+stats: !ruby/object:Hash
+  :attack: 93
+  :defense: 55
+  :hp: 90
+  :special_attack: 70
+  :special_defense: 55
+  :speed: 55

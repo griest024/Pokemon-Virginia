@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Sticks
+description: An item to be held by Farfetch'd. It is a very long and stiff stalk of leek that boosts the critical-hit ratio.
+permenant: false
+name: Stick
+usability: !ruby/object:Hash {}
+id: :stick
+price: 200
+hold_item: true

@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Dusk Stones
+description: A peculiar stone that makes certain species of Pokémon evolve. It is as dark as dark can be.
+permenant: false
+name: Dusk Stone
+usability: !ruby/object:Hash {}
+id: :duskstone
+price: 2100
+hold_item: true

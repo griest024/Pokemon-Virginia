@@ -1,0 +1,11 @@
+--- !ruby/object:PKMN::Item::TM
+plural_name: TM75s
+description: A frenetic dance to uplift the fighting spirit. It sharply raises the user's Attack stat.
+permenant: false
+name: TM75
+usability: !ruby/object:Hash
+  :overworld: true
+  :pokemon: true
+id: :tm75
+price: 1500
+hold_item: true

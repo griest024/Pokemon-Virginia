@@ -1,0 +1,10 @@
+--- !ruby/object:PKMN::Item::Ball
+plural_name: Moon Balls
+description: A Poké Ball for catching Pokémon that evolve using the Moon Stone.
+permenant: false
+name: Moon Ball
+usability: !ruby/object:Hash
+  :battle: true
+id: :moonball
+price: 300
+hold_item: true

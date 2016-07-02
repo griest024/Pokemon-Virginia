@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.5
+description: It makes its nest in a giant tree in the forest. It ferociously guards against anything nearing its territory. It is said to be the protector of the forest's trees.
+hatch_steps: 5355
+type1: :grass
+happiness: 70
+kind: Wood Gecko
+number: '252'
+name: Treecko
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 1
+weight: 5.0
+id: :treecko
+catch_rate: 45
+xp_yield: 62
+stats: !ruby/object:Hash
+  :attack: 45
+  :defense: 35
+  :hp: 40
+  :special_attack: 65
+  :special_defense: 55
+  :speed: 70

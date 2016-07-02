@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.8
+description: A horribly noxious honey drools from its mouth. One whiff of the honey can result in memory loss. Some fans are said to enjoy this overwhelming stink, however.
+hatch_steps: 5355
+type1: :grass
+happiness: 70
+type2: :poison
+kind: Weed
+number: '44'
+name: Gloom
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 2
+  :special_defense: 0
+  :speed: 0
+weight: 8.6
+id: :gloom
+catch_rate: 120
+xp_yield: 138
+stats: !ruby/object:Hash
+  :attack: 65
+  :defense: 70
+  :hp: 60
+  :special_attack: 85
+  :special_defense: 75
+  :speed: 40

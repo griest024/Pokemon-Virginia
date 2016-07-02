@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::KeyItem
+plural_name: DNA Splicers
+permenant: false
+description: A splicer that fuses Kyurem and a certain Pokémon. They are said to have been one in the beginning.
+name: DNA Splicers
+usability: !ruby/object:Hash {}
+id: :dnasplicers
+price: 0
+hold_item: true

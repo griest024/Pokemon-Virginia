@@ -1,0 +1,12 @@
+--- !ruby/object:PKMN::Item::Medicine
+plural_name: Revival Herbs
+description: A very bitter medicinal herb. It revives a fainted Pokémon, fully restoring its HP.
+permenant: false
+name: Revival Herb
+usability: !ruby/object:Hash
+  :battle: true
+  :overworld: true
+  :pokemon: true
+id: :revivalherb
+price: 2800
+hold_item: true

@@ -1,0 +1,11 @@
+--- !ruby/object:PKMN::Item::TM
+plural_name: TM42s
+description: An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.
+permenant: false
+name: TM42
+usability: !ruby/object:Hash
+  :overworld: true
+  :pokemon: true
+id: :tm42
+price: 3000
+hold_item: true

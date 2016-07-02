@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Dragon Fangs
+description: An item to be held by a Pokémon. It is a hard and sharp fang that ups the power of Dragon-type moves.
+permenant: false
+name: Dragon Fang
+usability: !ruby/object:Hash {}
+id: :dragonfang
+price: 100
+hold_item: true

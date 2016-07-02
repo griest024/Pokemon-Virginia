@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::KeyItem
+plural_name: Sprayducks
+permenant: false
+description: A watering can shaped like a Psyduck. It helps promote healthy growth of Berries planted in soft soil.
+name: Sprayduck
+usability: !ruby/object:Hash {}
+id: :sprayduck
+price: 0
+hold_item: true

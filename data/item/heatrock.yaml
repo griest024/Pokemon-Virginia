@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Heat Rocks
+description: A Pokémon held item that extends the duration of the move Sunny Day used by the holder.
+permenant: false
+name: Heat Rock
+usability: !ruby/object:Hash {}
+id: :heatrock
+price: 200
+hold_item: true

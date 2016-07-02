@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::KeyItem
+plural_name: Town Maps
+permenant: false
+description: A very convenient map that can be viewed anytime. It even shows your present location.
+name: Town Map
+usability: !ruby/object:Hash {}
+id: :townmap
+price: 0
+hold_item: true

@@ -1,0 +1,11 @@
+--- !ruby/object:PKMN::Item::TM
+plural_name: TM77s
+description: The user hypnotizes itself into copying any stat change made by the target.
+permenant: false
+name: TM77
+usability: !ruby/object:Hash
+  :overworld: true
+  :pokemon: true
+id: :tm77
+price: 1500
+hold_item: true

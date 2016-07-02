@@ -1,0 +1,12 @@
+--- !ruby/object:PKMN::Item::Berry
+plural_name: Cheri Berries
+description: It may be used or held by a Pokémon to recover from paralysis.
+permenant: false
+name: Cheri Berry
+usability: !ruby/object:Hash
+  :battle: true
+  :overworld: true
+  :pokemon: true
+id: :cheriberry
+price: 20
+hold_item: true

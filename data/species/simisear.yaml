@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.0
+description: A flame burns inside its body. It scatters embers from its head and tail to sear its opponents.
+hatch_steps: 5355
+type1: :fire
+happiness: 70
+kind: Ember
+number: '514'
+name: Simisear
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 2
+weight: 28.0
+id: :simisear
+catch_rate: 75
+xp_yield: 174
+stats: !ruby/object:Hash
+  :attack: 98
+  :defense: 63
+  :hp: 75
+  :special_attack: 98
+  :special_defense: 63
+  :speed: 101

@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.2
+description: Diglett are raised in most farms. The reason is simple--wherever they burrow, the soil is left perfectly tilled for growing delicious crops.
+hatch_steps: 5355
+type1: :ground
+happiness: 70
+kind: Mole
+number: '50'
+name: Diglett
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 1
+weight: 0.8
+id: :diglett
+catch_rate: 255
+xp_yield: 53
+stats: !ruby/object:Hash
+  :attack: 55
+  :defense: 25
+  :hp: 10
+  :special_attack: 35
+  :special_defense: 45
+  :speed: 95

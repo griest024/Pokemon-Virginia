@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.1
+description: It hums in a beautiful soprano voice. It flies among white clouds in the blue sky. It launches intensely hot fireballs from its mouth.
+hatch_steps: 5355
+type1: :dragon
+happiness: 70
+type2: :flying
+kind: Humming
+number: '334'
+name: Altaria
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 2
+  :speed: 0
+weight: 20.6
+id: :altaria
+catch_rate: 45
+xp_yield: 172
+stats: !ruby/object:Hash
+  :attack: 70
+  :defense: 90
+  :hp: 75
+  :special_attack: 70
+  :special_defense: 105
+  :speed: 80

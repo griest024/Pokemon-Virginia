@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Metal Coats
+description: An item to be held by a Pokémon. It is a special metallic film that ups the power of Steel-type moves.
+permenant: false
+name: Metal Coat
+usability: !ruby/object:Hash {}
+id: :metalcoat
+price: 100
+hold_item: true

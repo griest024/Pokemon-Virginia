@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.9
+description: They absorb garbage and make it part of their bodies. They shoot a poisonous liquid from their right-hand fingertips.
+hatch_steps: 5355
+type1: :poison
+happiness: 70
+kind: Trash Heap
+number: '569'
+name: Garbodor
+ev_yield: !ruby/object:Hash
+  :attack: 2
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 107.3
+id: :garbodor
+catch_rate: 60
+xp_yield: 166
+stats: !ruby/object:Hash
+  :attack: 95
+  :defense: 82
+  :hp: 80
+  :special_attack: 60
+  :special_defense: 82
+  :speed: 75

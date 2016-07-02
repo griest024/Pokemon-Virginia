@@ -1,0 +1,10 @@
+--- !ruby/object:PKMN::Item::Ball
+plural_name: Nest Balls
+description: A somewhat different Poké Ball that works especially well on weaker Pokémon in the wild.
+permenant: false
+name: Nest Ball
+usability: !ruby/object:Hash
+  :battle: true
+id: :nestball
+price: 1000
+hold_item: true

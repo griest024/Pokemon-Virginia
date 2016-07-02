@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.4
+description: This Pokémon's stomach fluid can even digest scrap iron. In one gulp, it can swallow something that is as large as itself.
+hatch_steps: 5355
+type1: :poison
+happiness: 70
+kind: Stomach
+number: '316'
+name: Gulpin
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 1
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 10.3
+id: :gulpin
+catch_rate: 225
+xp_yield: 60
+stats: !ruby/object:Hash
+  :attack: 43
+  :defense: 53
+  :hp: 70
+  :special_attack: 43
+  :special_defense: 53
+  :speed: 40

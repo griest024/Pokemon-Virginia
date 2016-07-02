@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.1
+description: Seel hunt for prey in frigid, ice-covered seas. When it needs to breathe, it punches a hole through the ice with the sharply protruding section of its head.
+hatch_steps: 5355
+type1: :water
+happiness: 70
+kind: Sea Lion
+number: '86'
+name: Seel
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 1
+  :speed: 0
+weight: 90.0
+id: :seel
+catch_rate: 190
+xp_yield: 65
+stats: !ruby/object:Hash
+  :attack: 45
+  :defense: 55
+  :hp: 65
+  :special_attack: 45
+  :special_defense: 70
+  :speed: 45

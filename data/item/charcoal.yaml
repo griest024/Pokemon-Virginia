@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Charcoals
+description: An item to be held by a Pokémon. It is a combustible fuel that boosts the power of Fire-type moves.
+permenant: false
+name: Charcoal
+usability: !ruby/object:Hash {}
+id: :charcoal
+price: 9800
+hold_item: true

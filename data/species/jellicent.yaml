@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 2.2
+description: They propel themselves by expelling absorbed seawater from their bodies. Their favorite food is life energy.
+hatch_steps: 5355
+type1: :water
+happiness: 70
+type2: :ghost
+kind: Floating
+number: '593'
+name: Jellicent
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 2
+  :speed: 0
+weight: 135.0
+id: :jellicent
+catch_rate: 60
+xp_yield: 168
+stats: !ruby/object:Hash
+  :attack: 60
+  :defense: 70
+  :hp: 100
+  :special_attack: 85
+  :special_defense: 105
+  :speed: 60

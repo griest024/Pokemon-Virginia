@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.7
+description: A Golduck is an adept swimmer. It sometimes joins competitive swimmers in training. It uses psychic powers when its forehead shimmers with light.
+hatch_steps: 5355
+type1: :water
+happiness: 70
+kind: Duck
+number: '55'
+name: Golduck
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 2
+  :special_defense: 0
+  :speed: 0
+weight: 76.6
+id: :golduck
+catch_rate: 75
+xp_yield: 175
+stats: !ruby/object:Hash
+  :attack: 82
+  :defense: 78
+  :hp: 80
+  :special_attack: 95
+  :special_defense: 80
+  :speed: 85

@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Pure Incenses
+description: An item to be held by a Pokémon. It helps keep wild Pokémon away if the holder is the first one in the party.
+permenant: false
+name: Pure Incense
+usability: !ruby/object:Hash {}
+id: :pureincense
+price: 9600
+hold_item: true

@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Reaper Cloths
+description: A cloth imbued with horrifyingly strong spiritual energy. It is loved by a certain Pokémon.
+permenant: false
+name: Reaper Cloth
+usability: !ruby/object:Hash {}
+id: :reapercloth
+price: 2100
+hold_item: true

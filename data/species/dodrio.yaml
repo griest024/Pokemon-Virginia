@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.8
+description: A peculiar Pokémon species with three heads. It vigorously races across grassy plains even in arid seasons with little rainfall.
+hatch_steps: 5355
+type1: :normal
+happiness: 70
+type2: :flying
+kind: Triple Bird
+number: '85'
+name: Dodrio
+ev_yield: !ruby/object:Hash
+  :attack: 2
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 85.2
+id: :dodrio
+catch_rate: 45
+xp_yield: 161
+stats: !ruby/object:Hash
+  :attack: 110
+  :defense: 70
+  :hp: 60
+  :special_attack: 60
+  :special_defense: 60
+  :speed: 100

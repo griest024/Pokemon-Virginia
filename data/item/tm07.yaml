@@ -1,0 +1,11 @@
+--- !ruby/object:PKMN::Item::TM
+plural_name: TM07s
+description: Summons a hailstorm that lasts for five turns. The hailstorm damages all types except Ice.
+permenant: false
+name: TM07
+usability: !ruby/object:Hash
+  :overworld: true
+  :pokemon: true
+id: :tm07
+price: 3000
+hold_item: true

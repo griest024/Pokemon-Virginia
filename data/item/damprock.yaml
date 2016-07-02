@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Damp Rocks
+description: A Pokémon held item that extends the duration of the move Rain Dance used by the holder.
+permenant: false
+name: Damp Rock
+usability: !ruby/object:Hash {}
+id: :damprock
+price: 200
+hold_item: true

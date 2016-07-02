@@ -1,0 +1,11 @@
+--- !ruby/object:PKMN::Item::TM
+plural_name: TM24s
+description: A strong electric blast is loosed at the target. It may also leave the target with paralysis.
+permenant: false
+name: TM24
+usability: !ruby/object:Hash
+  :overworld: true
+  :pokemon: true
+id: :tm24
+price: 3000
+hold_item: true

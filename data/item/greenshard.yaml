@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Green Shards
+description: A small green shard. It appears to be from some sort of implement made long ago.
+permenant: false
+name: Green Shard
+usability: !ruby/object:Hash {}
+id: :greenshard
+price: 200
+hold_item: true

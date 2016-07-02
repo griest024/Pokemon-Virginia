@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.4
+description: It loves to eat damp, composted soil in forests. If you enter a forest after a long rain, you can see many Shroomish feasting on composted soil.
+hatch_steps: 4080
+type1: :grass
+happiness: 70
+kind: Mushroom
+number: '285'
+name: Shroomish
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 1
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 4.5
+id: :shroomish
+catch_rate: 255
+xp_yield: 59
+stats: !ruby/object:Hash
+  :attack: 40
+  :defense: 60
+  :hp: 60
+  :special_attack: 40
+  :special_defense: 60
+  :speed: 35

@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.6
+description: It unfailingly catches prey in darkness. Noctowl owe their success to superior vision that allows them to see in minimal light, and to their supple and silent wings.
+hatch_steps: 4080
+type1: :normal
+happiness: 70
+type2: :flying
+kind: Owl
+number: '164'
+name: Noctowl
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 2
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 40.8
+id: :noctowl
+catch_rate: 90
+xp_yield: 155
+stats: !ruby/object:Hash
+  :attack: 50
+  :defense: 50
+  :hp: 100
+  :special_attack: 76
+  :special_defense: 96
+  :speed: 70

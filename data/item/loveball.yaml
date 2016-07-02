@@ -1,0 +1,10 @@
+--- !ruby/object:PKMN::Item::Ball
+plural_name: Love Balls
+description: A Poké Ball for catching Pokémon that are the opposite gender of your Pokémon.
+permenant: false
+name: Love Ball
+usability: !ruby/object:Hash
+  :battle: true
+id: :loveball
+price: 300
+hold_item: true

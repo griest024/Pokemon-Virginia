@@ -1,0 +1,11 @@
+--- !ruby/object:PKMN::Type::Type
+effects: !ruby/object:Hash
+  :fighting: :little
+  :fire: :very
+  :flying: :very
+  :grass: :little
+  :ground: :little
+  :rock: :very
+name: Bug
+id: :bug
+type_class: :physical

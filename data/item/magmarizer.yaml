@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Magmarizers
+description: A box packed with a tremendous amount of magma energy. It is loved by a certain Pokémon.
+permenant: false
+name: Magmarizer
+usability: !ruby/object:Hash {}
+id: :magmarizer
+price: 2100
+hold_item: true

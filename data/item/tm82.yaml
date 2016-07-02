@@ -1,0 +1,11 @@
+--- !ruby/object:PKMN::Item::TM
+plural_name: TM82s
+description: The user knocks away the target and drags out another Pokémon in its party. In the wild, the battle ends.
+permenant: false
+name: TM82
+usability: !ruby/object:Hash
+  :overworld: true
+  :pokemon: true
+id: :tm82
+price: 1000
+hold_item: true

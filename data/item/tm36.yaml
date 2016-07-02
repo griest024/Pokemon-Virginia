@@ -1,0 +1,11 @@
+--- !ruby/object:PKMN::Item::TM
+plural_name: TM36s
+description: Unsanitary sludge is hurled at the target. It may also poison the target.
+permenant: false
+name: TM36
+usability: !ruby/object:Hash
+  :overworld: true
+  :pokemon: true
+id: :tm36
+price: 3000
+hold_item: true

@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.7
+description: Its powerful stomach acid is capable of digesting almost anything. The one thing in the whole world a Swalot can't digest is its own stomach.
+hatch_steps: 5355
+type1: :poison
+happiness: 70
+kind: Poison Bag
+number: '317'
+name: Swalot
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 2
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 80.0
+id: :swalot
+catch_rate: 75
+xp_yield: 163
+stats: !ruby/object:Hash
+  :attack: 73
+  :defense: 83
+  :hp: 100
+  :special_attack: 73
+  :special_defense: 83
+  :speed: 55

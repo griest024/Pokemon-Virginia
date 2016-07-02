@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.9
+description: Flareon's fluffy fur releases heat into the air so that its body does not get excessively hot. Its body temperature can rise to a maximum of 1,650 degrees F.
+hatch_steps: 9180
+type1: :fire
+happiness: 70
+kind: Flame
+number: '136'
+name: Flareon
+ev_yield: !ruby/object:Hash
+  :attack: 2
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 25.0
+id: :flareon
+catch_rate: 45
+xp_yield: 184
+stats: !ruby/object:Hash
+  :attack: 130
+  :defense: 60
+  :hp: 65
+  :special_attack: 95
+  :special_defense: 110
+  :speed: 65

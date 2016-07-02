@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.6
+description: Many famous songs have been inspired by the melodies that Meloetta plays.
+hatch_steps: 30855
+type1: :normal
+happiness: 100
+type2: :psychic
+kind: Melody
+number: '648'
+name: Meloetta
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 1
+  :special_defense: 1
+  :speed: 1
+weight: 6.5
+id: :meloetta
+catch_rate: 3
+xp_yield: 14
+stats: !ruby/object:Hash
+  :attack: 77
+  :defense: 77
+  :hp: 100
+  :special_attack: 128
+  :special_defense: 128
+  :speed: 90

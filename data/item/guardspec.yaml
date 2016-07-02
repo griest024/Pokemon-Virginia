@@ -1,0 +1,11 @@
+--- !ruby/object:PKMN::Item::Battle
+plural_name: Guard Specs.
+description: An item that prevents stat reduction among the Trainer's party Pokémon for five turns after use.
+permenant: false
+name: Guard Spec.
+usability: !ruby/object:Hash
+  :battle: true
+  :pokemon: true
+id: :guardspec
+price: 700
+hold_item: true

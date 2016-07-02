@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Choice Bands
+description: An item to be held by a Pokémon. This headband ups Attack, but allows the use of only one of its moves.
+permenant: false
+name: Choice Band
+usability: !ruby/object:Hash {}
+id: :choiceband
+price: 100
+hold_item: true

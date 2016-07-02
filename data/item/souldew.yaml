@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Soul Dews
+description: A wondrous orb to be held by Latios or Latias. It raises both the Sp. Atk and Sp. Def stats.
+permenant: false
+name: Soul Dew
+usability: !ruby/object:Hash {}
+id: :souldew
+price: 200
+hold_item: true

@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.3
+description: Its voracious appetite compels it to devour leaves bigger than itself without hesitation. It releases a terribly strong odor from its antennae.
+hatch_steps: 4080
+type1: :bug
+happiness: 70
+kind: Worm
+number: '10'
+name: Caterpie
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 1
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 2.9
+id: :caterpie
+catch_rate: 255
+xp_yield: 39
+stats: !ruby/object:Hash
+  :attack: 30
+  :defense: 35
+  :hp: 45
+  :special_attack: 20
+  :special_defense: 20
+  :speed: 45

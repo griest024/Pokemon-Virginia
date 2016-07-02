@@ -1,0 +1,11 @@
+--- !ruby/object:PKMN::Item::TM
+plural_name: TM93s
+description: The user shrouds itself in electricity and smashes into its target. It also damages the user a little.
+permenant: false
+name: TM93
+usability: !ruby/object:Hash
+  :overworld: true
+  :pokemon: true
+id: :tm93
+price: 3000
+hold_item: true

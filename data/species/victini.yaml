@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.4
+description: This Pokémon brings victory. It is said that Trainers with Victini always win, regardless of the type of encounter.
+hatch_steps: 30855
+type1: :psychic
+happiness: 100
+type2: :fire
+kind: Victory
+number: '494'
+name: Victini
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 3
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 4.0
+id: :victini
+catch_rate: 3
+xp_yield: 14
+stats: !ruby/object:Hash
+  :attack: 100
+  :defense: 100
+  :hp: 100
+  :special_attack: 100
+  :special_defense: 100
+  :speed: 100

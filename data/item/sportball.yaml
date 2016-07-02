@@ -1,0 +1,10 @@
+--- !ruby/object:PKMN::Item::Ball
+plural_name: Sport Balls
+description: A special Poké Ball for the Bug-Catching Contest.
+permenant: false
+name: Sport Ball
+usability: !ruby/object:Hash
+  :battle: true
+id: :sportball
+price: 0
+hold_item: true

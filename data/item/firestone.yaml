@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Fire Stones
+description: A peculiar stone that makes certain species of Pokémon evolve. It is colored orange.
+permenant: false
+name: Fire Stone
+usability: !ruby/object:Hash {}
+id: :firestone
+price: 2100
+hold_item: true

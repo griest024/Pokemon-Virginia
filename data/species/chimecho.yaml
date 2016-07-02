@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.6
+description: They fly about very actively when the hot season arrives. They communicate among themselves using seven different and distinguishing cries.
+hatch_steps: 6630
+type1: :psychic
+happiness: 70
+kind: Wind Chime
+number: '358'
+name: Chimecho
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 1
+  :special_defense: 1
+  :speed: 0
+weight: 1.0
+id: :chimecho
+catch_rate: 45
+xp_yield: 149
+stats: !ruby/object:Hash
+  :attack: 50
+  :defense: 70
+  :hp: 65
+  :special_attack: 95
+  :special_defense: 80
+  :speed: 65

@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.7
+description: It wraps things with its extensible tongue. Getting too close to it will leave you soaked with drool.
+hatch_steps: 5355
+type1: :normal
+happiness: 70
+kind: Licking
+number: '463'
+name: Lickilicky
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 3
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 140.0
+id: :lickilicky
+catch_rate: 30
+xp_yield: 180
+stats: !ruby/object:Hash
+  :attack: 85
+  :defense: 95
+  :hp: 110
+  :special_attack: 80
+  :special_defense: 95
+  :speed: 50

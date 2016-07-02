@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Macho Braces
+description: An item to be held by a Pokémon. It is a stiff and heavy brace that promotes strong growth but lowers Speed.
+permenant: false
+name: Macho Brace
+usability: !ruby/object:Hash {}
+id: :machobrace
+price: 3000
+hold_item: true

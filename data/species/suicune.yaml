@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 2.0
+description: Suicune embodies the compassion of a pure spring of water. It runs across the land with gliding elegance. It has the power to purify dirty water.
+hatch_steps: 20655
+type1: :water
+happiness: 35
+kind: Aurora
+number: '245'
+name: Suicune
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 1
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 2
+  :speed: 0
+weight: 187.0
+id: :suicune
+catch_rate: 3
+xp_yield: 261
+stats: !ruby/object:Hash
+  :attack: 75
+  :defense: 115
+  :hp: 100
+  :special_attack: 90
+  :special_defense: 115
+  :speed: 85

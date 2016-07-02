@@ -1,0 +1,12 @@
+--- !ruby/object:PKMN::Item::Medicine
+plural_name: Swift Wings
+description: An item for use on a Pokémon. It slightly increases the base Speed stat of a single Pokémon.
+permenant: false
+name: Swift Wing
+usability: !ruby/object:Hash
+  :battle: true
+  :overworld: true
+  :pokemon: true
+id: :swiftwing
+price: 3000
+hold_item: true

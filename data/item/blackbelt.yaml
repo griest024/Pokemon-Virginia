@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Black Belts
+description: An item to be held by a Pokémon. It is a belt that boosts determination and Fighting-type moves.
+permenant: false
+name: Black Belt
+usability: !ruby/object:Hash {}
+id: :blackbelt
+price: 100
+hold_item: true

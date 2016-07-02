@@ -1,0 +1,5 @@
+--- !ruby/object:PKMN::Type::Type
+effects: !ruby/object:Hash {}
+name: "???"
+id: :qmarks
+type_class: :physical

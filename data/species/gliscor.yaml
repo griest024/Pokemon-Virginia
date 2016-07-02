@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 2.0
+description: It observes prey while hanging inverted from branches. When the chance presents itself, it swoops!
+hatch_steps: 5355
+type1: :ground
+happiness: 70
+type2: :flying
+kind: Fang Scorp
+number: '472'
+name: Gliscor
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 2
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 42.5
+id: :gliscor
+catch_rate: 30
+xp_yield: 179
+stats: !ruby/object:Hash
+  :attack: 95
+  :defense: 125
+  :hp: 75
+  :special_attack: 45
+  :special_defense: 75
+  :speed: 95

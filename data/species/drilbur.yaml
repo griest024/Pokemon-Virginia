@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.3
+description: It makes its way swiftly through the soil by putting both claws together and rotating at high speed.
+hatch_steps: 5355
+type1: :ground
+happiness: 70
+kind: Mole
+number: '529'
+name: Drilbur
+ev_yield: !ruby/object:Hash
+  :attack: 1
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 8.5
+id: :drilbur
+catch_rate: 120
+xp_yield: 66
+stats: !ruby/object:Hash
+  :attack: 85
+  :defense: 40
+  :hp: 60
+  :special_attack: 30
+  :special_defense: 45
+  :speed: 68

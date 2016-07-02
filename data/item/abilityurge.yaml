@@ -1,0 +1,11 @@
+--- !ruby/object:PKMN::Item::Battle
+plural_name: Ability Urges
+description: When used, it activates the Ability of an ally Pokémon.
+permenant: false
+name: Ability Urge
+usability: !ruby/object:Hash
+  :battle: true
+  :pokemon: true
+id: :abilityurge
+price: 0
+hold_item: true

@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Big Roots
+description: A Pokémon held item that boosts the power of HP-stealing moves to let the holder recover more HP.
+permenant: false
+name: Big Root
+usability: !ruby/object:Hash {}
+id: :bigroot
+price: 200
+hold_item: true

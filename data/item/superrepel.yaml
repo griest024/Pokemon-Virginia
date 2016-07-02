@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Super Repels
+description: An item that prevents weak wild Pokémon from appearing for 200 steps after its use.
+permenant: false
+name: Super Repel
+usability: !ruby/object:Hash {}
+id: :superrepel
+price: 500
+hold_item: true

@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.3
+description: In battle, it blows out intense flames from all over its body to intimidate its foe. These fiery bursts create heat waves that ignite grass and trees in the area.
+hatch_steps: 6630
+type1: :fire
+happiness: 70
+kind: Spitfire
+number: '126'
+name: Magmar
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 2
+  :special_defense: 0
+  :speed: 0
+weight: 44.5
+id: :magmar
+catch_rate: 45
+xp_yield: 173
+stats: !ruby/object:Hash
+  :attack: 95
+  :defense: 57
+  :hp: 65
+  :special_attack: 100
+  :special_defense: 85
+  :speed: 93

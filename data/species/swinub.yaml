@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.4
+description: It roots for food by rubbing its snout against the ground. Its favorite food is a mushroom that grows under dried grass. It occasionally roots out hot springs.
+hatch_steps: 5355
+type1: :ice
+happiness: 70
+type2: :ground
+kind: Pig
+number: '220'
+name: Swinub
+ev_yield: !ruby/object:Hash
+  :attack: 1
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 6.5
+id: :swinub
+catch_rate: 225
+xp_yield: 50
+stats: !ruby/object:Hash
+  :attack: 50
+  :defense: 40
+  :hp: 50
+  :special_attack: 30
+  :special_defense: 30
+  :speed: 50

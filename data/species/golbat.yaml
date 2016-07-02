@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.6
+description: Its fangs easily puncture even thick animal hide. It loves to feast on the blood of people and Pokémon. It flits about in darkness and strikes from behind.
+hatch_steps: 4080
+type1: :poison
+happiness: 70
+type2: :flying
+kind: Bat
+number: '42'
+name: Golbat
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 2
+weight: 55.0
+id: :golbat
+catch_rate: 90
+xp_yield: 159
+stats: !ruby/object:Hash
+  :attack: 80
+  :defense: 70
+  :hp: 75
+  :special_attack: 65
+  :special_defense: 75
+  :speed: 90

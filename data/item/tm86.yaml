@@ -1,0 +1,11 @@
+--- !ruby/object:PKMN::Item::TM
+plural_name: TM86s
+description: The user snares the target with grass and trips it. The heavier the target, the greater the damage.
+permenant: false
+name: TM86
+usability: !ruby/object:Hash
+  :overworld: true
+  :pokemon: true
+id: :tm86
+price: 3000
+hold_item: true

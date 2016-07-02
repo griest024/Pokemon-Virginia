@@ -1,0 +1,11 @@
+--- !ruby/object:PKMN::Item::TM
+plural_name: TM90s
+description: The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.
+permenant: false
+name: TM90
+usability: !ruby/object:Hash
+  :overworld: true
+  :pokemon: true
+id: :tm90
+price: 2000
+hold_item: true

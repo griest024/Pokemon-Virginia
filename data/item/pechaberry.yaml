@@ -1,0 +1,12 @@
+--- !ruby/object:PKMN::Item::Berry
+plural_name: Pecha Berries
+description: It may be used or held by a Pokémon to recover from poison.
+permenant: false
+name: Pecha Berry
+usability: !ruby/object:Hash
+  :battle: true
+  :overworld: true
+  :pokemon: true
+id: :pechaberry
+price: 20
+hold_item: true

@@ -1,0 +1,11 @@
+--- !ruby/object:PKMN::Item::TM
+plural_name: TM44s
+description: The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.
+permenant: false
+name: TM44
+usability: !ruby/object:Hash
+  :overworld: true
+  :pokemon: true
+id: :tm44
+price: 3000
+hold_item: true

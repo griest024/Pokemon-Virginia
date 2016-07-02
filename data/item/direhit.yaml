@@ -1,0 +1,11 @@
+--- !ruby/object:PKMN::Item::Battle
+plural_name: Dire Hits
+description: It raises the critical-hit ratio greatly. It can be used only once and wears off if the Pokémon is withdrawn.
+permenant: false
+name: Dire Hit
+usability: !ruby/object:Hash
+  :battle: true
+  :pokemon: true
+id: :direhit
+price: 650
+hold_item: true

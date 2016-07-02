@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Fighting Gems
+description: A gem with an essence of combat. When held, it strengthens the power of a Fighting-type move only once.
+permenant: false
+name: Fighting Gem
+usability: !ruby/object:Hash {}
+id: :fightinggem
+price: 200
+hold_item: true

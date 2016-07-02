@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.1
+description: It glides without making a single sound. It grasps the face of its foe using its hind and large front claws, then stabs with its poison barb.
+hatch_steps: 5355
+type1: :ground
+happiness: 70
+type2: :flying
+kind: FlyScorpion
+number: '207'
+name: Gligar
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 1
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 64.8
+id: :gligar
+catch_rate: 60
+xp_yield: 86
+stats: !ruby/object:Hash
+  :attack: 75
+  :defense: 105
+  :hp: 65
+  :special_attack: 35
+  :special_defense: 65
+  :speed: 85

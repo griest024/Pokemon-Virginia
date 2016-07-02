@@ -1,0 +1,12 @@
+--- !ruby/object:PKMN::Item::Berry
+plural_name: Occa Berries
+description: Weakens a supereffective Fire-type attack against the holding Pokémon.
+permenant: false
+name: Occa Berry
+usability: !ruby/object:Hash
+  :battle: true
+  :overworld: true
+  :pokemon: true
+id: :occaberry
+price: 20
+hold_item: true

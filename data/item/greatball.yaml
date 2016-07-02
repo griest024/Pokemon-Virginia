@@ -1,0 +1,10 @@
+--- !ruby/object:PKMN::Item::Ball
+plural_name: Great Balls
+description: A good, high-performance Ball that provides a higher Pokémon catch rate than a standard Poké Ball.
+permenant: false
+name: Great Ball
+usability: !ruby/object:Hash
+  :battle: true
+id: :greatball
+price: 600
+hold_item: true

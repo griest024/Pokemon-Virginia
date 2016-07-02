@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Expert Belts
+description: An item to be held by a Pokémon. It is a well-worn belt that slightly boosts the power of supereffective moves.
+permenant: false
+name: Expert Belt
+usability: !ruby/object:Hash {}
+id: :expertbelt
+price: 200
+hold_item: true

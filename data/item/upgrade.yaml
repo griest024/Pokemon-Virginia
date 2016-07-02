@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Up-Grades
+description: A transparent device filled with all sorts of data. It was produced by Silph Co.
+permenant: false
+name: Up-Grade
+usability: !ruby/object:Hash {}
+id: :upgrade
+price: 2100
+hold_item: true

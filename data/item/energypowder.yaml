@@ -1,0 +1,12 @@
+--- !ruby/object:PKMN::Item::Medicine
+plural_name: Energy Powders
+description: A very bitter medicine powder. It restores the HP of one Pokémon by 50 points.
+permenant: false
+name: Energy Powder
+usability: !ruby/object:Hash
+  :battle: true
+  :overworld: true
+  :pokemon: true
+id: :energypowder
+price: 500
+hold_item: true

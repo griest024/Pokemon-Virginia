@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.6
+description: Its giant jaws are actually steel horns that transformed. It fools foes into complacency with its adorable gestures, then chomps them with its huge jaws.
+hatch_steps: 5355
+type1: :steel
+happiness: 70
+kind: Deceiver
+number: '303'
+name: Mawile
+ev_yield: !ruby/object:Hash
+  :attack: 1
+  :defense: 1
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 11.5
+id: :mawile
+catch_rate: 45
+xp_yield: 133
+stats: !ruby/object:Hash
+  :attack: 85
+  :defense: 85
+  :hp: 50
+  :special_attack: 55
+  :special_defense: 55
+  :speed: 50

@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Blue Scarves
+description: An item to be held by a Pokémon. It boosts the Beauty aspect of the holder in a Contest.
+permenant: false
+name: Blue Scarf
+usability: !ruby/object:Hash {}
+id: :bluescarf
+price: 100
+hold_item: true

@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.9
+description: When two Lairon meet in the wild, they fight for territory by bashing into each other with their steel bodies. The sound of their collision carries for miles.
+hatch_steps: 9180
+type1: :steel
+happiness: 35
+type2: :rock
+kind: Iron Armor
+number: '305'
+name: Lairon
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 2
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 120.0
+id: :lairon
+catch_rate: 90
+xp_yield: 151
+stats: !ruby/object:Hash
+  :attack: 90
+  :defense: 140
+  :hp: 60
+  :special_attack: 50
+  :special_defense: 50
+  :speed: 40

@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.3
+description: Its body is composed of plasma. It is known to infiltrate electronic devices and wreak havoc.
+hatch_steps: 5355
+type1: :electric
+happiness: 70
+type2: :ghost
+kind: Plasma
+number: '479'
+name: Rotom
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 1
+  :special_defense: 0
+  :speed: 1
+weight: 0.3
+id: :rotom
+catch_rate: 45
+xp_yield: 154
+stats: !ruby/object:Hash
+  :attack: 50
+  :defense: 77
+  :hp: 50
+  :special_attack: 95
+  :special_defense: 77
+  :speed: 91

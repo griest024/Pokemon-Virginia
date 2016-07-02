@@ -1,0 +1,12 @@
+--- !ruby/object:PKMN::Item::Medicine
+plural_name: Max Potions
+description: A spray-type medicine for wounds. It completely restores the HP of a single Pokémon.
+permenant: false
+name: Max Potion
+usability: !ruby/object:Hash
+  :battle: true
+  :overworld: true
+  :pokemon: true
+id: :maxpotion
+price: 2500
+hold_item: true

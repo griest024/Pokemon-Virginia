@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.3
+description: A Weedle has an extremely acute sense of smell. It distinguishes its favorite kinds of leaves from those it dislikes by sniffing with its big red proboscis (nose).
+hatch_steps: 4080
+type1: :bug
+happiness: 70
+type2: :poison
+kind: Hairy Bug
+number: '13'
+name: Weedle
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 1
+weight: 3.2
+id: :weedle
+catch_rate: 255
+xp_yield: 39
+stats: !ruby/object:Hash
+  :attack: 35
+  :defense: 30
+  :hp: 40
+  :special_attack: 20
+  :special_defense: 20
+  :speed: 50

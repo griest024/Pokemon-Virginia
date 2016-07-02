@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 3.0
+description: It generates a powerful, freezing energy inside itself, but its body became frozen when the energy leaked out.
+hatch_steps: 30855
+type1: :dragon
+happiness: 0
+type2: :ice
+kind: Boundary
+number: '646'
+name: Kyurem
+ev_yield: !ruby/object:Hash
+  :attack: 1
+  :defense: 0
+  :hp: 1
+  :special_attack: 1
+  :special_defense: 0
+  :speed: 0
+weight: 325.0
+id: :kyurem
+catch_rate: 3
+xp_yield: 41
+stats: !ruby/object:Hash
+  :attack: 130
+  :defense: 90
+  :hp: 125
+  :special_attack: 130
+  :special_defense: 90
+  :speed: 95

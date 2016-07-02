@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.3
+description: A Clefable uses its wings to skip lightly as if it were flying. Its bouncy step lets it even walk on water. On quiet, moonlit nights, it strolls on lakes.
+hatch_steps: 2805
+type1: :normal
+happiness: 140
+kind: Fairy
+number: '36'
+name: Clefable
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 3
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 40.0
+id: :clefable
+catch_rate: 25
+xp_yield: 213
+stats: !ruby/object:Hash
+  :attack: 70
+  :defense: 73
+  :hp: 95
+  :special_attack: 85
+  :special_defense: 90
+  :speed: 60

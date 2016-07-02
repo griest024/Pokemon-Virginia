@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.4
+description: It makes fur balls that crackle with static electricity. It stores them with berries in tree holes.
+hatch_steps: 2805
+type1: :electric
+happiness: 100
+kind: EleSquirrel
+number: '417'
+name: Pachirisu
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 1
+weight: 3.9
+id: :pachirisu
+catch_rate: 200
+xp_yield: 142
+stats: !ruby/object:Hash
+  :attack: 45
+  :defense: 70
+  :hp: 60
+  :special_attack: 45
+  :special_defense: 90
+  :speed: 95

@@ -1,0 +1,5159 @@
+--- !ruby/object:PKMN::Map::Tileset
+tiles:
+- !ruby/object:PKMN::Map::Tile
+  priority: 5
+  passage: 0
+  image: &1 !ruby/object:PKMNEE::Util::AutotileImageWrapper
+    id: '0'
+    path: blank/0.png
+  id: blank_0
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: &2 !ruby/object:PKMNEE::Util::AutotileImageWrapper
+    id: '1'
+    path: blank/1.png
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: &3 !ruby/object:PKMNEE::Util::AutotileImageWrapper
+    id: '2'
+    path: blank/2.png
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: &4 !ruby/object:PKMNEE::Util::AutotileImageWrapper
+    id: '3'
+    path: blank/3.png
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: &5 !ruby/object:PKMNEE::Util::AutotileImageWrapper
+    id: '4'
+    path: blank/4.png
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: &6 !ruby/object:PKMNEE::Util::AutotileImageWrapper
+    id: '5'
+    path: blank/5.png
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: &7 !ruby/object:PKMNEE::Util::AutotileImageWrapper
+    id: '6'
+    path: blank/6.png
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: &8 !ruby/object:PKMNEE::Util::AutotileImageWrapper
+    id: '7'
+    path: blank/7.png
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: &9 !ruby/object:PKMNEE::Util::AutotileImageWrapper
+    id: '8'
+    path: blank/8.png
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: &10 !ruby/object:PKMNEE::Util::AutotileImageWrapper
+    id: '9'
+    path: blank/9.png
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: &11 !ruby/object:PKMNEE::Util::AutotileImageWrapper
+    id: '10'
+    path: blank/10.png
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: &12 !ruby/object:PKMNEE::Util::AutotileImageWrapper
+    id: '11'
+    path: blank/11.png
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: &13 !ruby/object:PKMNEE::Util::AutotileImageWrapper
+    id: '12'
+    path: blank/12.png
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: &14 !ruby/object:PKMNEE::Util::AutotileImageWrapper
+    id: '13'
+    path: blank/13.png
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: &15 !ruby/object:PKMNEE::Util::AutotileImageWrapper
+    id: '14'
+    path: blank/14.png
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: &16 !ruby/object:PKMNEE::Util::AutotileImageWrapper
+    id: '15'
+    path: blank/15.png
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: &17 !ruby/object:PKMNEE::Util::AutotileImageWrapper
+    id: '16'
+    path: blank/16.png
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: &18 !ruby/object:PKMNEE::Util::AutotileImageWrapper
+    id: '17'
+    path: blank/17.png
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: &19 !ruby/object:PKMNEE::Util::AutotileImageWrapper
+    id: '18'
+    path: blank/18.png
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: &20 !ruby/object:PKMNEE::Util::AutotileImageWrapper
+    id: '19'
+    path: blank/19.png
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: &21 !ruby/object:PKMNEE::Util::AutotileImageWrapper
+    id: '20'
+    path: blank/20.png
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: &22 !ruby/object:PKMNEE::Util::AutotileImageWrapper
+    id: '21'
+    path: blank/21.png
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: &23 !ruby/object:PKMNEE::Util::AutotileImageWrapper
+    id: '22'
+    path: blank/22.png
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: &24 !ruby/object:PKMNEE::Util::AutotileImageWrapper
+    id: '23'
+    path: blank/23.png
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: &25 !ruby/object:PKMNEE::Util::AutotileImageWrapper
+    id: '24'
+    path: blank/24.png
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: &26 !ruby/object:PKMNEE::Util::AutotileImageWrapper
+    id: '25'
+    path: blank/25.png
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: &27 !ruby/object:PKMNEE::Util::AutotileImageWrapper
+    id: '26'
+    path: blank/26.png
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: &28 !ruby/object:PKMNEE::Util::AutotileImageWrapper
+    id: '27'
+    path: blank/27.png
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: &29 !ruby/object:PKMNEE::Util::AutotileImageWrapper
+    id: '28'
+    path: blank/28.png
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: &30 !ruby/object:PKMNEE::Util::AutotileImageWrapper
+    id: '29'
+    path: blank/29.png
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: &31 !ruby/object:PKMNEE::Util::AutotileImageWrapper
+    id: '30'
+    path: blank/30.png
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: &32 !ruby/object:PKMNEE::Util::AutotileImageWrapper
+    id: '31'
+    path: blank/31.png
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: &33 !ruby/object:PKMNEE::Util::AutotileImageWrapper
+    id: '32'
+    path: blank/32.png
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: &34 !ruby/object:PKMNEE::Util::AutotileImageWrapper
+    id: '33'
+    path: blank/33.png
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: &35 !ruby/object:PKMNEE::Util::AutotileImageWrapper
+    id: '34'
+    path: blank/34.png
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: &36 !ruby/object:PKMNEE::Util::AutotileImageWrapper
+    id: '35'
+    path: blank/35.png
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: &37 !ruby/object:PKMNEE::Util::AutotileImageWrapper
+    id: '36'
+    path: blank/36.png
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: &38 !ruby/object:PKMNEE::Util::AutotileImageWrapper
+    id: '37'
+    path: blank/37.png
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: &39 !ruby/object:PKMNEE::Util::AutotileImageWrapper
+    id: '38'
+    path: blank/38.png
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: &40 !ruby/object:PKMNEE::Util::AutotileImageWrapper
+    id: '39'
+    path: blank/39.png
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: &41 !ruby/object:PKMNEE::Util::AutotileImageWrapper
+    id: '40'
+    path: blank/40.png
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: &42 !ruby/object:PKMNEE::Util::AutotileImageWrapper
+    id: '41'
+    path: blank/41.png
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: &43 !ruby/object:PKMNEE::Util::AutotileImageWrapper
+    id: '42'
+    path: blank/42.png
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: &44 !ruby/object:PKMNEE::Util::AutotileImageWrapper
+    id: '43'
+    path: blank/43.png
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: &45 !ruby/object:PKMNEE::Util::AutotileImageWrapper
+    id: '44'
+    path: blank/44.png
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: &46 !ruby/object:PKMNEE::Util::AutotileImageWrapper
+    id: '45'
+    path: blank/45.png
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: &47 !ruby/object:PKMNEE::Util::AutotileImageWrapper
+    id: '46'
+    path: blank/46.png
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: &48 !ruby/object:PKMNEE::Util::AutotileImageWrapper
+    id: '47'
+    path: blank/47.png
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *1
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *2
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *3
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *4
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *5
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *6
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *7
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *8
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *9
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *10
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *11
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *12
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *13
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *14
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *15
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *16
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *17
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *18
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *19
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *20
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *21
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *22
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *23
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *24
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *25
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *26
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *27
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *28
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *29
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *30
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *31
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *32
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *33
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *34
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *35
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *36
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *37
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *38
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *39
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *40
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *41
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *42
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *43
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *44
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *45
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *46
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *47
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *48
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *1
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *2
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *3
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *4
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *5
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *6
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *7
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *8
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *9
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *10
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *11
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *12
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *13
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *14
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *15
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *16
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *17
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *18
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *19
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *20
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *21
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *22
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *23
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *24
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *25
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *26
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *27
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *28
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *29
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *30
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *31
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *32
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *33
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *34
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *35
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *36
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *37
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *38
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *39
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *40
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *41
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *42
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *43
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *44
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *45
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *46
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *47
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *48
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *1
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *2
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *3
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *4
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *5
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *6
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *7
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *8
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *9
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *10
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *11
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *12
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *13
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *14
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *15
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *16
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *17
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *18
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *19
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *20
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *21
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *22
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *23
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *24
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *25
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *26
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *27
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *28
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *29
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *30
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *31
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *32
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *33
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *34
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *35
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *36
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *37
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *38
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *39
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *40
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *41
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *42
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *43
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *44
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *45
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *46
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *47
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *48
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *1
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *2
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *3
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *4
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *5
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *6
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *7
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *8
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *9
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *10
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *11
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *12
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *13
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *14
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *15
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *16
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *17
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *18
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *19
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *20
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *21
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *22
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *23
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *24
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *25
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *26
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *27
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *28
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *29
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *30
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *31
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *32
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *33
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *34
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *35
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *36
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *37
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *38
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *39
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *40
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *41
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *42
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *43
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *44
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *45
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *46
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *47
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *48
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *1
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *2
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *3
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *4
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *5
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *6
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *7
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *8
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *9
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *10
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *11
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *12
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *13
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *14
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *15
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *16
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *17
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *18
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *19
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *20
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *21
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *22
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *23
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *24
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *25
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *26
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *27
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *28
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *29
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *30
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *31
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *32
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *33
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *34
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *35
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *36
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *37
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *38
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *39
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *40
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *41
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *42
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *43
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *44
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *45
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *46
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *47
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *48
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *1
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *2
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *3
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *4
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *5
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *6
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *7
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *8
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *9
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *10
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *11
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *12
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *13
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *14
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *15
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *16
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *17
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *18
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *19
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *20
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *21
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *22
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *23
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *24
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *25
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *26
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *27
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *28
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *29
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *30
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *31
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *32
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *33
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *34
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *35
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *36
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *37
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *38
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *39
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *40
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *41
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *42
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *43
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *44
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *45
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *46
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *47
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *48
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *1
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *2
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *3
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *4
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *5
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *6
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *7
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *8
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *9
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *10
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *11
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *12
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *13
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *14
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *15
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *16
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *17
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *18
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *19
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *20
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *21
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *22
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *23
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *24
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *25
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *26
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *27
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *28
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *29
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *30
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *31
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *32
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *33
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *34
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *35
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *36
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *37
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *38
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *39
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *40
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *41
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *42
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *43
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *44
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *45
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *46
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *47
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: *48
+  id: blank_1
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '384'
+    path: multiplayer_rooms/384.png
+  id: 384
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '385'
+    path: multiplayer_rooms/385.png
+  id: 385
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '386'
+    path: multiplayer_rooms/386.png
+  id: 386
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '387'
+    path: multiplayer_rooms/387.png
+  id: 387
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '388'
+    path: multiplayer_rooms/388.png
+  id: 388
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '389'
+    path: multiplayer_rooms/389.png
+  id: 389
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '390'
+    path: multiplayer_rooms/390.png
+  id: 390
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '391'
+    path: multiplayer_rooms/391.png
+  id: 391
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '392'
+    path: multiplayer_rooms/392.png
+  id: 392
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '393'
+    path: multiplayer_rooms/393.png
+  id: 393
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '394'
+    path: multiplayer_rooms/394.png
+  id: 394
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '395'
+    path: multiplayer_rooms/395.png
+  id: 395
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '396'
+    path: multiplayer_rooms/396.png
+  id: 396
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '397'
+    path: multiplayer_rooms/397.png
+  id: 397
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '398'
+    path: multiplayer_rooms/398.png
+  id: 398
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '399'
+    path: multiplayer_rooms/399.png
+  id: 399
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '400'
+    path: multiplayer_rooms/400.png
+  id: 400
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '401'
+    path: multiplayer_rooms/401.png
+  id: 401
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '402'
+    path: multiplayer_rooms/402.png
+  id: 402
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '403'
+    path: multiplayer_rooms/403.png
+  id: 403
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '404'
+    path: multiplayer_rooms/404.png
+  id: 404
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '405'
+    path: multiplayer_rooms/405.png
+  id: 405
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '406'
+    path: multiplayer_rooms/406.png
+  id: 406
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '407'
+    path: multiplayer_rooms/407.png
+  id: 407
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '408'
+    path: multiplayer_rooms/408.png
+  id: 408
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '409'
+    path: multiplayer_rooms/409.png
+  id: 409
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '410'
+    path: multiplayer_rooms/410.png
+  id: 410
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '411'
+    path: multiplayer_rooms/411.png
+  id: 411
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '412'
+    path: multiplayer_rooms/412.png
+  id: 412
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '413'
+    path: multiplayer_rooms/413.png
+  id: 413
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '414'
+    path: multiplayer_rooms/414.png
+  id: 414
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '415'
+    path: multiplayer_rooms/415.png
+  id: 415
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '416'
+    path: multiplayer_rooms/416.png
+  id: 416
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '417'
+    path: multiplayer_rooms/417.png
+  id: 417
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '418'
+    path: multiplayer_rooms/418.png
+  id: 418
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '419'
+    path: multiplayer_rooms/419.png
+  id: 419
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '420'
+    path: multiplayer_rooms/420.png
+  id: 420
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '421'
+    path: multiplayer_rooms/421.png
+  id: 421
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '422'
+    path: multiplayer_rooms/422.png
+  id: 422
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '423'
+    path: multiplayer_rooms/423.png
+  id: 423
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '424'
+    path: multiplayer_rooms/424.png
+  id: 424
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 1
+  passage: 0
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '425'
+    path: multiplayer_rooms/425.png
+  id: 425
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '426'
+    path: multiplayer_rooms/426.png
+  id: 426
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 143
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '427'
+    path: multiplayer_rooms/427.png
+  id: 427
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '428'
+    path: multiplayer_rooms/428.png
+  id: 428
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 1
+  passage: 0
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '429'
+    path: multiplayer_rooms/429.png
+  id: 429
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '430'
+    path: multiplayer_rooms/430.png
+  id: 430
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '431'
+    path: multiplayer_rooms/431.png
+  id: 431
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '432'
+    path: multiplayer_rooms/432.png
+  id: 432
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '433'
+    path: multiplayer_rooms/433.png
+  id: 433
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 143
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '434'
+    path: multiplayer_rooms/434.png
+  id: 434
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '435'
+    path: multiplayer_rooms/435.png
+  id: 435
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 143
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '436'
+    path: multiplayer_rooms/436.png
+  id: 436
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '437'
+    path: multiplayer_rooms/437.png
+  id: 437
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '438'
+    path: multiplayer_rooms/438.png
+  id: 438
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '439'
+    path: multiplayer_rooms/439.png
+  id: 439
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '440'
+    path: multiplayer_rooms/440.png
+  id: 440
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 1
+  passage: 0
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '441'
+    path: multiplayer_rooms/441.png
+  id: 441
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '442'
+    path: multiplayer_rooms/442.png
+  id: 442
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 143
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '443'
+    path: multiplayer_rooms/443.png
+  id: 443
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '444'
+    path: multiplayer_rooms/444.png
+  id: 444
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 1
+  passage: 0
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '445'
+    path: multiplayer_rooms/445.png
+  id: 445
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '446'
+    path: multiplayer_rooms/446.png
+  id: 446
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '447'
+    path: multiplayer_rooms/447.png
+  id: 447
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '448'
+    path: multiplayer_rooms/448.png
+  id: 448
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '449'
+    path: multiplayer_rooms/449.png
+  id: 449
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '450'
+    path: multiplayer_rooms/450.png
+  id: 450
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '451'
+    path: multiplayer_rooms/451.png
+  id: 451
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '452'
+    path: multiplayer_rooms/452.png
+  id: 452
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '453'
+    path: multiplayer_rooms/453.png
+  id: 453
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '454'
+    path: multiplayer_rooms/454.png
+  id: 454
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '455'
+    path: multiplayer_rooms/455.png
+  id: 455
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '456'
+    path: multiplayer_rooms/456.png
+  id: 456
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '457'
+    path: multiplayer_rooms/457.png
+  id: 457
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '458'
+    path: multiplayer_rooms/458.png
+  id: 458
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '459'
+    path: multiplayer_rooms/459.png
+  id: 459
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '460'
+    path: multiplayer_rooms/460.png
+  id: 460
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '461'
+    path: multiplayer_rooms/461.png
+  id: 461
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '462'
+    path: multiplayer_rooms/462.png
+  id: 462
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '463'
+    path: multiplayer_rooms/463.png
+  id: 463
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '464'
+    path: multiplayer_rooms/464.png
+  id: 464
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '465'
+    path: multiplayer_rooms/465.png
+  id: 465
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '466'
+    path: multiplayer_rooms/466.png
+  id: 466
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '467'
+    path: multiplayer_rooms/467.png
+  id: 467
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '468'
+    path: multiplayer_rooms/468.png
+  id: 468
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '469'
+    path: multiplayer_rooms/469.png
+  id: 469
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '470'
+    path: multiplayer_rooms/470.png
+  id: 470
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '471'
+    path: multiplayer_rooms/471.png
+  id: 471
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '472'
+    path: multiplayer_rooms/472.png
+  id: 472
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '473'
+    path: multiplayer_rooms/473.png
+  id: 473
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '474'
+    path: multiplayer_rooms/474.png
+  id: 474
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '475'
+    path: multiplayer_rooms/475.png
+  id: 475
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '476'
+    path: multiplayer_rooms/476.png
+  id: 476
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '477'
+    path: multiplayer_rooms/477.png
+  id: 477
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '478'
+    path: multiplayer_rooms/478.png
+  id: 478
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '479'
+    path: multiplayer_rooms/479.png
+  id: 479
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '480'
+    path: multiplayer_rooms/480.png
+  id: 480
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '481'
+    path: multiplayer_rooms/481.png
+  id: 481
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '482'
+    path: multiplayer_rooms/482.png
+  id: 482
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '483'
+    path: multiplayer_rooms/483.png
+  id: 483
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '484'
+    path: multiplayer_rooms/484.png
+  id: 484
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '485'
+    path: multiplayer_rooms/485.png
+  id: 485
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '486'
+    path: multiplayer_rooms/486.png
+  id: 486
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '487'
+    path: multiplayer_rooms/487.png
+  id: 487
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '488'
+    path: multiplayer_rooms/488.png
+  id: 488
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '489'
+    path: multiplayer_rooms/489.png
+  id: 489
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '490'
+    path: multiplayer_rooms/490.png
+  id: 490
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '491'
+    path: multiplayer_rooms/491.png
+  id: 491
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '492'
+    path: multiplayer_rooms/492.png
+  id: 492
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '493'
+    path: multiplayer_rooms/493.png
+  id: 493
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '494'
+    path: multiplayer_rooms/494.png
+  id: 494
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '495'
+    path: multiplayer_rooms/495.png
+  id: 495
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '496'
+    path: multiplayer_rooms/496.png
+  id: 496
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '497'
+    path: multiplayer_rooms/497.png
+  id: 497
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '498'
+    path: multiplayer_rooms/498.png
+  id: 498
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '499'
+    path: multiplayer_rooms/499.png
+  id: 499
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '500'
+    path: multiplayer_rooms/500.png
+  id: 500
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '501'
+    path: multiplayer_rooms/501.png
+  id: 501
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '502'
+    path: multiplayer_rooms/502.png
+  id: 502
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '503'
+    path: multiplayer_rooms/503.png
+  id: 503
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '504'
+    path: multiplayer_rooms/504.png
+  id: 504
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '505'
+    path: multiplayer_rooms/505.png
+  id: 505
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '506'
+    path: multiplayer_rooms/506.png
+  id: 506
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '507'
+    path: multiplayer_rooms/507.png
+  id: 507
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '508'
+    path: multiplayer_rooms/508.png
+  id: 508
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '509'
+    path: multiplayer_rooms/509.png
+  id: 509
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '510'
+    path: multiplayer_rooms/510.png
+  id: 510
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '511'
+    path: multiplayer_rooms/511.png
+  id: 511
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '512'
+    path: multiplayer_rooms/512.png
+  id: 512
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '513'
+    path: multiplayer_rooms/513.png
+  id: 513
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '514'
+    path: multiplayer_rooms/514.png
+  id: 514
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '515'
+    path: multiplayer_rooms/515.png
+  id: 515
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '516'
+    path: multiplayer_rooms/516.png
+  id: 516
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '517'
+    path: multiplayer_rooms/517.png
+  id: 517
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '518'
+    path: multiplayer_rooms/518.png
+  id: 518
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '519'
+    path: multiplayer_rooms/519.png
+  id: 519
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '520'
+    path: multiplayer_rooms/520.png
+  id: 520
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '521'
+    path: multiplayer_rooms/521.png
+  id: 521
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '522'
+    path: multiplayer_rooms/522.png
+  id: 522
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '523'
+    path: multiplayer_rooms/523.png
+  id: 523
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '524'
+    path: multiplayer_rooms/524.png
+  id: 524
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '525'
+    path: multiplayer_rooms/525.png
+  id: 525
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '526'
+    path: multiplayer_rooms/526.png
+  id: 526
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '527'
+    path: multiplayer_rooms/527.png
+  id: 527
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '528'
+    path: multiplayer_rooms/528.png
+  id: 528
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '529'
+    path: multiplayer_rooms/529.png
+  id: 529
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '530'
+    path: multiplayer_rooms/530.png
+  id: 530
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '531'
+    path: multiplayer_rooms/531.png
+  id: 531
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '532'
+    path: multiplayer_rooms/532.png
+  id: 532
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '533'
+    path: multiplayer_rooms/533.png
+  id: 533
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '534'
+    path: multiplayer_rooms/534.png
+  id: 534
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '535'
+    path: multiplayer_rooms/535.png
+  id: 535
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '536'
+    path: multiplayer_rooms/536.png
+  id: 536
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '537'
+    path: multiplayer_rooms/537.png
+  id: 537
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '538'
+    path: multiplayer_rooms/538.png
+  id: 538
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '539'
+    path: multiplayer_rooms/539.png
+  id: 539
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '540'
+    path: multiplayer_rooms/540.png
+  id: 540
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '541'
+    path: multiplayer_rooms/541.png
+  id: 541
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '542'
+    path: multiplayer_rooms/542.png
+  id: 542
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '543'
+    path: multiplayer_rooms/543.png
+  id: 543
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '544'
+    path: multiplayer_rooms/544.png
+  id: 544
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '545'
+    path: multiplayer_rooms/545.png
+  id: 545
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '546'
+    path: multiplayer_rooms/546.png
+  id: 546
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '547'
+    path: multiplayer_rooms/547.png
+  id: 547
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '548'
+    path: multiplayer_rooms/548.png
+  id: 548
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '549'
+    path: multiplayer_rooms/549.png
+  id: 549
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '550'
+    path: multiplayer_rooms/550.png
+  id: 550
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '551'
+    path: multiplayer_rooms/551.png
+  id: 551
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '552'
+    path: multiplayer_rooms/552.png
+  id: 552
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '553'
+    path: multiplayer_rooms/553.png
+  id: 553
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '554'
+    path: multiplayer_rooms/554.png
+  id: 554
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '555'
+    path: multiplayer_rooms/555.png
+  id: 555
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '556'
+    path: multiplayer_rooms/556.png
+  id: 556
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '557'
+    path: multiplayer_rooms/557.png
+  id: 557
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '558'
+    path: multiplayer_rooms/558.png
+  id: 558
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '559'
+    path: multiplayer_rooms/559.png
+  id: 559
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '560'
+    path: multiplayer_rooms/560.png
+  id: 560
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '561'
+    path: multiplayer_rooms/561.png
+  id: 561
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '562'
+    path: multiplayer_rooms/562.png
+  id: 562
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '563'
+    path: multiplayer_rooms/563.png
+  id: 563
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '564'
+    path: multiplayer_rooms/564.png
+  id: 564
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '565'
+    path: multiplayer_rooms/565.png
+  id: 565
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '566'
+    path: multiplayer_rooms/566.png
+  id: 566
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '567'
+    path: multiplayer_rooms/567.png
+  id: 567
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '568'
+    path: multiplayer_rooms/568.png
+  id: 568
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '569'
+    path: multiplayer_rooms/569.png
+  id: 569
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '570'
+    path: multiplayer_rooms/570.png
+  id: 570
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '571'
+    path: multiplayer_rooms/571.png
+  id: 571
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '572'
+    path: multiplayer_rooms/572.png
+  id: 572
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '573'
+    path: multiplayer_rooms/573.png
+  id: 573
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '574'
+    path: multiplayer_rooms/574.png
+  id: 574
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '575'
+    path: multiplayer_rooms/575.png
+  id: 575
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '576'
+    path: multiplayer_rooms/576.png
+  id: 576
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '577'
+    path: multiplayer_rooms/577.png
+  id: 577
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '578'
+    path: multiplayer_rooms/578.png
+  id: 578
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '579'
+    path: multiplayer_rooms/579.png
+  id: 579
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '580'
+    path: multiplayer_rooms/580.png
+  id: 580
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '581'
+    path: multiplayer_rooms/581.png
+  id: 581
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '582'
+    path: multiplayer_rooms/582.png
+  id: 582
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '583'
+    path: multiplayer_rooms/583.png
+  id: 583
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '584'
+    path: multiplayer_rooms/584.png
+  id: 584
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '585'
+    path: multiplayer_rooms/585.png
+  id: 585
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '586'
+    path: multiplayer_rooms/586.png
+  id: 586
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '587'
+    path: multiplayer_rooms/587.png
+  id: 587
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '588'
+    path: multiplayer_rooms/588.png
+  id: 588
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '589'
+    path: multiplayer_rooms/589.png
+  id: 589
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '590'
+    path: multiplayer_rooms/590.png
+  id: 590
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '591'
+    path: multiplayer_rooms/591.png
+  id: 591
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '592'
+    path: multiplayer_rooms/592.png
+  id: 592
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '593'
+    path: multiplayer_rooms/593.png
+  id: 593
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '594'
+    path: multiplayer_rooms/594.png
+  id: 594
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '595'
+    path: multiplayer_rooms/595.png
+  id: 595
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '596'
+    path: multiplayer_rooms/596.png
+  id: 596
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '597'
+    path: multiplayer_rooms/597.png
+  id: 597
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '598'
+    path: multiplayer_rooms/598.png
+  id: 598
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '599'
+    path: multiplayer_rooms/599.png
+  id: 599
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '600'
+    path: multiplayer_rooms/600.png
+  id: 600
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '601'
+    path: multiplayer_rooms/601.png
+  id: 601
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '602'
+    path: multiplayer_rooms/602.png
+  id: 602
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '603'
+    path: multiplayer_rooms/603.png
+  id: 603
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '604'
+    path: multiplayer_rooms/604.png
+  id: 604
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '605'
+    path: multiplayer_rooms/605.png
+  id: 605
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '606'
+    path: multiplayer_rooms/606.png
+  id: 606
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '607'
+    path: multiplayer_rooms/607.png
+  id: 607
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '608'
+    path: multiplayer_rooms/608.png
+  id: 608
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '609'
+    path: multiplayer_rooms/609.png
+  id: 609
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '610'
+    path: multiplayer_rooms/610.png
+  id: 610
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '611'
+    path: multiplayer_rooms/611.png
+  id: 611
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '612'
+    path: multiplayer_rooms/612.png
+  id: 612
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '613'
+    path: multiplayer_rooms/613.png
+  id: 613
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '614'
+    path: multiplayer_rooms/614.png
+  id: 614
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '615'
+    path: multiplayer_rooms/615.png
+  id: 615
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '616'
+    path: multiplayer_rooms/616.png
+  id: 616
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '617'
+    path: multiplayer_rooms/617.png
+  id: 617
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '618'
+    path: multiplayer_rooms/618.png
+  id: 618
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '619'
+    path: multiplayer_rooms/619.png
+  id: 619
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '620'
+    path: multiplayer_rooms/620.png
+  id: 620
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '621'
+    path: multiplayer_rooms/621.png
+  id: 621
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '622'
+    path: multiplayer_rooms/622.png
+  id: 622
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '623'
+    path: multiplayer_rooms/623.png
+  id: 623
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '624'
+    path: multiplayer_rooms/624.png
+  id: 624
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '625'
+    path: multiplayer_rooms/625.png
+  id: 625
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '626'
+    path: multiplayer_rooms/626.png
+  id: 626
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '627'
+    path: multiplayer_rooms/627.png
+  id: 627
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '628'
+    path: multiplayer_rooms/628.png
+  id: 628
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '629'
+    path: multiplayer_rooms/629.png
+  id: 629
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '630'
+    path: multiplayer_rooms/630.png
+  id: 630
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '631'
+    path: multiplayer_rooms/631.png
+  id: 631
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '632'
+    path: multiplayer_rooms/632.png
+  id: 632
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '633'
+    path: multiplayer_rooms/633.png
+  id: 633
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '634'
+    path: multiplayer_rooms/634.png
+  id: 634
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '635'
+    path: multiplayer_rooms/635.png
+  id: 635
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '636'
+    path: multiplayer_rooms/636.png
+  id: 636
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '637'
+    path: multiplayer_rooms/637.png
+  id: 637
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '638'
+    path: multiplayer_rooms/638.png
+  id: 638
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '639'
+    path: multiplayer_rooms/639.png
+  id: 639
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '640'
+    path: multiplayer_rooms/640.png
+  id: 640
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '641'
+    path: multiplayer_rooms/641.png
+  id: 641
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '642'
+    path: multiplayer_rooms/642.png
+  id: 642
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '643'
+    path: multiplayer_rooms/643.png
+  id: 643
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '644'
+    path: multiplayer_rooms/644.png
+  id: 644
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '645'
+    path: multiplayer_rooms/645.png
+  id: 645
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '646'
+    path: multiplayer_rooms/646.png
+  id: 646
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '647'
+    path: multiplayer_rooms/647.png
+  id: 647
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '648'
+    path: multiplayer_rooms/648.png
+  id: 648
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '649'
+    path: multiplayer_rooms/649.png
+  id: 649
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '650'
+    path: multiplayer_rooms/650.png
+  id: 650
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '651'
+    path: multiplayer_rooms/651.png
+  id: 651
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '652'
+    path: multiplayer_rooms/652.png
+  id: 652
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '653'
+    path: multiplayer_rooms/653.png
+  id: 653
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '654'
+    path: multiplayer_rooms/654.png
+  id: 654
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '655'
+    path: multiplayer_rooms/655.png
+  id: 655
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '656'
+    path: multiplayer_rooms/656.png
+  id: 656
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '657'
+    path: multiplayer_rooms/657.png
+  id: 657
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '658'
+    path: multiplayer_rooms/658.png
+  id: 658
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '659'
+    path: multiplayer_rooms/659.png
+  id: 659
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '660'
+    path: multiplayer_rooms/660.png
+  id: 660
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '661'
+    path: multiplayer_rooms/661.png
+  id: 661
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '662'
+    path: multiplayer_rooms/662.png
+  id: 662
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '663'
+    path: multiplayer_rooms/663.png
+  id: 663
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '664'
+    path: multiplayer_rooms/664.png
+  id: 664
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '665'
+    path: multiplayer_rooms/665.png
+  id: 665
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '666'
+    path: multiplayer_rooms/666.png
+  id: 666
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '667'
+    path: multiplayer_rooms/667.png
+  id: 667
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '668'
+    path: multiplayer_rooms/668.png
+  id: 668
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '669'
+    path: multiplayer_rooms/669.png
+  id: 669
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '670'
+    path: multiplayer_rooms/670.png
+  id: 670
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '671'
+    path: multiplayer_rooms/671.png
+  id: 671
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '672'
+    path: multiplayer_rooms/672.png
+  id: 672
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '673'
+    path: multiplayer_rooms/673.png
+  id: 673
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '674'
+    path: multiplayer_rooms/674.png
+  id: 674
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '675'
+    path: multiplayer_rooms/675.png
+  id: 675
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '676'
+    path: multiplayer_rooms/676.png
+  id: 676
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '677'
+    path: multiplayer_rooms/677.png
+  id: 677
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '678'
+    path: multiplayer_rooms/678.png
+  id: 678
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '679'
+    path: multiplayer_rooms/679.png
+  id: 679
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '680'
+    path: multiplayer_rooms/680.png
+  id: 680
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '681'
+    path: multiplayer_rooms/681.png
+  id: 681
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '682'
+    path: multiplayer_rooms/682.png
+  id: 682
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '683'
+    path: multiplayer_rooms/683.png
+  id: 683
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '684'
+    path: multiplayer_rooms/684.png
+  id: 684
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '685'
+    path: multiplayer_rooms/685.png
+  id: 685
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '686'
+    path: multiplayer_rooms/686.png
+  id: 686
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '687'
+    path: multiplayer_rooms/687.png
+  id: 687
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '688'
+    path: multiplayer_rooms/688.png
+  id: 688
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '689'
+    path: multiplayer_rooms/689.png
+  id: 689
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '690'
+    path: multiplayer_rooms/690.png
+  id: 690
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '691'
+    path: multiplayer_rooms/691.png
+  id: 691
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '692'
+    path: multiplayer_rooms/692.png
+  id: 692
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '693'
+    path: multiplayer_rooms/693.png
+  id: 693
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '694'
+    path: multiplayer_rooms/694.png
+  id: 694
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '695'
+    path: multiplayer_rooms/695.png
+  id: 695
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '696'
+    path: multiplayer_rooms/696.png
+  id: 696
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '697'
+    path: multiplayer_rooms/697.png
+  id: 697
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '698'
+    path: multiplayer_rooms/698.png
+  id: 698
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '699'
+    path: multiplayer_rooms/699.png
+  id: 699
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '700'
+    path: multiplayer_rooms/700.png
+  id: 700
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '701'
+    path: multiplayer_rooms/701.png
+  id: 701
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '702'
+    path: multiplayer_rooms/702.png
+  id: 702
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '703'
+    path: multiplayer_rooms/703.png
+  id: 703
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '704'
+    path: multiplayer_rooms/704.png
+  id: 704
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '705'
+    path: multiplayer_rooms/705.png
+  id: 705
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '706'
+    path: multiplayer_rooms/706.png
+  id: 706
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '707'
+    path: multiplayer_rooms/707.png
+  id: 707
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '708'
+    path: multiplayer_rooms/708.png
+  id: 708
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '709'
+    path: multiplayer_rooms/709.png
+  id: 709
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '710'
+    path: multiplayer_rooms/710.png
+  id: 710
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '711'
+    path: multiplayer_rooms/711.png
+  id: 711
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '712'
+    path: multiplayer_rooms/712.png
+  id: 712
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '713'
+    path: multiplayer_rooms/713.png
+  id: 713
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '714'
+    path: multiplayer_rooms/714.png
+  id: 714
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '715'
+    path: multiplayer_rooms/715.png
+  id: 715
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '716'
+    path: multiplayer_rooms/716.png
+  id: 716
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '717'
+    path: multiplayer_rooms/717.png
+  id: 717
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '718'
+    path: multiplayer_rooms/718.png
+  id: 718
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '719'
+    path: multiplayer_rooms/719.png
+  id: 719
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '720'
+    path: multiplayer_rooms/720.png
+  id: 720
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 0
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '721'
+    path: multiplayer_rooms/721.png
+  id: 721
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '722'
+    path: multiplayer_rooms/722.png
+  id: 722
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '723'
+    path: multiplayer_rooms/723.png
+  id: 723
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '724'
+    path: multiplayer_rooms/724.png
+  id: 724
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '725'
+    path: multiplayer_rooms/725.png
+  id: 725
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '726'
+    path: multiplayer_rooms/726.png
+  id: 726
+  terrain_tag: 0
+- !ruby/object:PKMN::Map::Tile
+  priority: 0
+  passage: 15
+  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+    id: '727'
+    path: multiplayer_rooms/727.png
+  id: 727
+  terrain_tag: 0
+image_width: 256.0
+image_height: 1376.0
+name: Multiplayer rooms
+num: 17
+id: :multiplayer_rooms

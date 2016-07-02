@@ -1,0 +1,12 @@
+--- !ruby/object:PKMN::Item::Berry
+plural_name: Payapa Berries
+description: Weakens a supereffective Psychic-type attack against the holding Pokémon.
+permenant: false
+name: Payapa Berry
+usability: !ruby/object:Hash
+  :battle: true
+  :overworld: true
+  :pokemon: true
+id: :payapaberry
+price: 20
+hold_item: true

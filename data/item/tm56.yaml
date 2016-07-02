@@ -1,0 +1,11 @@
+--- !ruby/object:PKMN::Item::TM
+plural_name: TM56s
+description: The user flings its held item at the target as an attack. Its power and effects depend on the item.
+permenant: false
+name: TM56
+usability: !ruby/object:Hash
+  :overworld: true
+  :pokemon: true
+id: :tm56
+price: 2000
+hold_item: true

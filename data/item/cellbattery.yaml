@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Cell Batteries
+description: A consumable battery. If the holder is hit by an Electric-type move, its Attack will rise.
+permenant: false
+name: Cell Battery
+usability: !ruby/object:Hash {}
+id: :cellbattery
+price: 200
+hold_item: true

@@ -1,0 +1,12 @@
+--- !ruby/object:PKMN::Item::Berry
+plural_name: Kebia Berries
+description: Weakens a supereffective Poison-type attack against the holding Pokémon.
+permenant: false
+name: Kebia Berry
+usability: !ruby/object:Hash
+  :battle: true
+  :overworld: true
+  :pokemon: true
+id: :kebiaberry
+price: 20
+hold_item: true

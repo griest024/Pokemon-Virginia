@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 2.4
+description: It puts rocks in holes in its palms and uses its muscles to shoot them. Geodude are shot at rare times.
+hatch_steps: 5355
+type1: :ground
+happiness: 70
+type2: :rock
+kind: Drill
+number: '464'
+name: Rhyperior
+ev_yield: !ruby/object:Hash
+  :attack: 3
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 282.8
+id: :rhyperior
+catch_rate: 30
+xp_yield: 241
+stats: !ruby/object:Hash
+  :attack: 140
+  :defense: 130
+  :hp: 115
+  :special_attack: 55
+  :special_defense: 55
+  :speed: 40

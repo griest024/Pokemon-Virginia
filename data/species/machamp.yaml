@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.6
+description: It is impossible to defend against punches and chops doled out by its four arms. Its fighting spirit flares up when it faces a tough opponent.
+hatch_steps: 5355
+type1: :fighting
+happiness: 70
+kind: Superpower
+number: '68'
+name: Machamp
+ev_yield: !ruby/object:Hash
+  :attack: 3
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 130.0
+id: :machamp
+catch_rate: 45
+xp_yield: 227
+stats: !ruby/object:Hash
+  :attack: 130
+  :defense: 80
+  :hp: 90
+  :special_attack: 65
+  :special_defense: 85
+  :speed: 55

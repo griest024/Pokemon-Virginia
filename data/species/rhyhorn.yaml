@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.0
+description: Once it starts running, it doesn't stop. Its tiny brain makes it so stupid that it can't remember why it started running in the first place.
+hatch_steps: 5355
+type1: :ground
+happiness: 70
+type2: :rock
+kind: Spikes
+number: '111'
+name: Rhyhorn
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 1
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 115.0
+id: :rhyhorn
+catch_rate: 120
+xp_yield: 69
+stats: !ruby/object:Hash
+  :attack: 85
+  :defense: 95
+  :hp: 80
+  :special_attack: 30
+  :special_defense: 30
+  :speed: 25

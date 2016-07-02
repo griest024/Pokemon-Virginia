@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 2.1
+description: Its iron horns grow longer a little at a time. They are used to determine the Aggron's age. The gouges in its armor are worn with pride as mementos from battles.
+hatch_steps: 9180
+type1: :steel
+happiness: 35
+type2: :rock
+kind: Iron Armor
+number: '306'
+name: Aggron
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 3
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 360.0
+id: :aggron
+catch_rate: 45
+xp_yield: 239
+stats: !ruby/object:Hash
+  :attack: 110
+  :defense: 180
+  :hp: 70
+  :special_attack: 60
+  :special_defense: 60
+  :speed: 50

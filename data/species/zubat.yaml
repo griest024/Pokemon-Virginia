@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.8
+description: While living in pitch-black caverns, their eyes gradually grew shut and deprived them of vision. They use ultrasonic waves to detect obstacles.
+hatch_steps: 4080
+type1: :poison
+happiness: 70
+type2: :flying
+kind: Bat
+number: '41'
+name: Zubat
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 1
+weight: 7.5
+id: :zubat
+catch_rate: 255
+xp_yield: 49
+stats: !ruby/object:Hash
+  :attack: 45
+  :defense: 35
+  :hp: 40
+  :special_attack: 30
+  :special_defense: 40
+  :speed: 55

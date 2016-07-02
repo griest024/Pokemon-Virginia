@@ -1,0 +1,11 @@
+--- !ruby/object:PKMN::Item::TM
+plural_name: HM02s
+description: The user soars, then strikes on the second turn. It can also be used to fly to any familiar town.
+permenant: false
+name: HM02
+usability: !ruby/object:Hash
+  :overworld: true
+  :pokemon: true
+id: :hm02
+price: 0
+hold_item: true

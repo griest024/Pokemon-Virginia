@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.4
+description: They use the long fur on their arms as a whip to strike their opponents.
+hatch_steps: 6630
+type1: :fighting
+happiness: 70
+kind: Martial Arts
+number: '620'
+name: Mienshao
+ev_yield: !ruby/object:Hash
+  :attack: 2
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 35.5
+id: :mienshao
+catch_rate: 45
+xp_yield: 179
+stats: !ruby/object:Hash
+  :attack: 125
+  :defense: 60
+  :hp: 65
+  :special_attack: 95
+  :special_defense: 60
+  :speed: 105

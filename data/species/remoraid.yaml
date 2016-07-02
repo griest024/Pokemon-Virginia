@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.6
+description: A Remoraid uses its abdominal muscles to forcefully expel swallowed water, then shoot down flying prey. When evolution approaches, it travels down rivers.
+hatch_steps: 5355
+type1: :water
+happiness: 70
+kind: Jet
+number: '223'
+name: Remoraid
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 1
+  :special_defense: 0
+  :speed: 0
+weight: 12.0
+id: :remoraid
+catch_rate: 190
+xp_yield: 60
+stats: !ruby/object:Hash
+  :attack: 65
+  :defense: 35
+  :hp: 35
+  :special_attack: 65
+  :special_defense: 35
+  :speed: 65

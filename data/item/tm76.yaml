@@ -1,0 +1,11 @@
+--- !ruby/object:PKMN::Item::TM
+plural_name: TM76s
+description: Resisting, the user attacks the opposing Pokémon. The targets' Sp. Atk stat is reduced.
+permenant: false
+name: TM76
+usability: !ruby/object:Hash
+  :overworld: true
+  :pokemon: true
+id: :tm76
+price: 2000
+hold_item: true

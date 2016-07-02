@@ -1,0 +1,10 @@
+--- !ruby/object:PKMN::Type::Type
+effects: !ruby/object:Hash
+  :bug: :little
+  :dark: :little
+  :flying: :very
+  :psychic: :very
+  :rock: :little
+name: Fighting
+id: :fighting
+type_class: :physical

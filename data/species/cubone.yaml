@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.4
+description: It pines for the mother it will never see again. Seeing a likeness of its mother in the full moon, it cries. The stains on the skull it wears are from its tears.
+hatch_steps: 5355
+type1: :ground
+happiness: 70
+kind: Lonely
+number: '104'
+name: Cubone
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 1
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 6.5
+id: :cubone
+catch_rate: 190
+xp_yield: 64
+stats: !ruby/object:Hash
+  :attack: 50
+  :defense: 95
+  :hp: 50
+  :special_attack: 40
+  :special_defense: 50
+  :speed: 35

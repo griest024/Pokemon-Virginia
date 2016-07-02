@@ -1,0 +1,11 @@
+--- !ruby/object:PKMN::Item::TM
+plural_name: TM60s
+description: The user suppresses the target and makes its move go last.
+permenant: false
+name: TM60
+usability: !ruby/object:Hash
+  :overworld: true
+  :pokemon: true
+id: :tm60
+price: 3000
+hold_item: true

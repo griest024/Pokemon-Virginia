@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.5
+description: Extremely cautious, they take shifts to maintain a constant watch of their nest. They feel insecure without a lookout.
+hatch_steps: 4080
+type1: :normal
+happiness: 70
+kind: Scout
+number: '504'
+name: Patrat
+ev_yield: !ruby/object:Hash
+  :attack: 1
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 11.6
+id: :patrat
+catch_rate: 255
+xp_yield: 51
+stats: !ruby/object:Hash
+  :attack: 55
+  :defense: 39
+  :hp: 45
+  :special_attack: 35
+  :special_defense: 39
+  :speed: 42

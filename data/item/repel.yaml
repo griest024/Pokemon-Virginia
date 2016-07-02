@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Repels
+description: An item that prevents weak wild Pokémon from appearing for 100 steps after its use.
+permenant: false
+name: Repel
+usability: !ruby/object:Hash {}
+id: :repel
+price: 350
+hold_item: true

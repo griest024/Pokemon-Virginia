@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.4
+description: Its flower petals deepen in color through exposure to sunlight. When cloudy weather persists, it does a dance that is thought to be a ritual for summoning the sun.
+hatch_steps: 5355
+type1: :grass
+happiness: 70
+kind: Flower
+number: '182'
+name: Bellossom
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 3
+  :speed: 0
+weight: 5.8
+id: :bellossom
+catch_rate: 45
+xp_yield: 216
+stats: !ruby/object:Hash
+  :attack: 80
+  :defense: 85
+  :hp: 75
+  :special_attack: 90
+  :special_defense: 100
+  :speed: 50

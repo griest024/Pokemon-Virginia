@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Ghost Gems
+description: A gem with a spectral essence. When held, it strengthens the power of a Ghost-type move only once.
+permenant: false
+name: Ghost Gem
+usability: !ruby/object:Hash {}
+id: :ghostgem
+price: 200
+hold_item: true

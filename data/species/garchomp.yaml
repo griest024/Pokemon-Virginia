@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.9
+description: When it folds up its body and extends its wings, it looks like a jet plane. It flies at sonic speed.
+hatch_steps: 10455
+type1: :dragon
+happiness: 70
+type2: :ground
+kind: Mach
+number: '445'
+name: Garchomp
+ev_yield: !ruby/object:Hash
+  :attack: 3
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 95.0
+id: :garchomp
+catch_rate: 45
+xp_yield: 270
+stats: !ruby/object:Hash
+  :attack: 130
+  :defense: 95
+  :hp: 108
+  :special_attack: 80
+  :special_defense: 85
+  :speed: 102

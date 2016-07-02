@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.7
+description: A Bellsprout's thin and flexible body lets it bend and sway to avoid any attack, however strong it may be. From its mouth, it leaks a fluid that melts even iron.
+hatch_steps: 5355
+type1: :grass
+happiness: 70
+type2: :poison
+kind: Flower
+number: '69'
+name: Bellsprout
+ev_yield: !ruby/object:Hash
+  :attack: 1
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 4.0
+id: :bellsprout
+catch_rate: 255
+xp_yield: 60
+stats: !ruby/object:Hash
+  :attack: 75
+  :defense: 35
+  :hp: 50
+  :special_attack: 70
+  :special_defense: 30
+  :speed: 40

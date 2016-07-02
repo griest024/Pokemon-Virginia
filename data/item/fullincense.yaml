@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Full Incenses
+description: An item to be held by a Pokémon. It is an exotic-smelling incense that makes the holder bloated and slow moving.
+permenant: false
+name: Full Incense
+usability: !ruby/object:Hash {}
+id: :fullincense
+price: 9600
+hold_item: true

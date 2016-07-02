@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Poison Gems
+description: A gem with an essence of poison. When held, it strengthens the power of a Poison-type move only once.
+permenant: false
+name: Poison Gem
+usability: !ruby/object:Hash {}
+id: :poisongem
+price: 200
+hold_item: true

@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Ground Gems
+description: A gem with an essence of land. When held, it strengthens the power of a Ground-type move only once.
+permenant: false
+name: Ground Gem
+usability: !ruby/object:Hash {}
+id: :groundgem
+price: 200
+hold_item: true

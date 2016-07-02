@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.0
+description: Vaporeon underwent a spontaneous mutation and grew fins and gills that allow them to live underwater. They have the ability to freely control water.
+hatch_steps: 9180
+type1: :water
+happiness: 70
+kind: Bubble Jet
+number: '134'
+name: Vaporeon
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 2
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 29.0
+id: :vaporeon
+catch_rate: 45
+xp_yield: 184
+stats: !ruby/object:Hash
+  :attack: 65
+  :defense: 60
+  :hp: 130
+  :special_attack: 110
+  :special_defense: 95
+  :speed: 65

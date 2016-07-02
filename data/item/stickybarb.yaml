@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Sticky Barbs
+description: A held item that damages the holder on every turn. It may latch on to foes and allies that touch the holder.
+permenant: false
+name: Sticky Barb
+usability: !ruby/object:Hash {}
+id: :stickybarb
+price: 200
+hold_item: true

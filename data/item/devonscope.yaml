@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::KeyItem
+plural_name: Devon Scopes
+permenant: false
+description: A device by Devon that signals any unseeable Pokémon.
+name: Devon Scope
+usability: !ruby/object:Hash {}
+id: :devonscope
+price: 0
+hold_item: true

@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.5
+description: A belt is worn by a Machoke to keep its overwhelming power under control. Because it is so dangerous, no one has ever removed the belt.
+hatch_steps: 5355
+type1: :fighting
+happiness: 70
+kind: Superpower
+number: '67'
+name: Machoke
+ev_yield: !ruby/object:Hash
+  :attack: 2
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 70.5
+id: :machoke
+catch_rate: 90
+xp_yield: 142
+stats: !ruby/object:Hash
+  :attack: 100
+  :defense: 70
+  :hp: 80
+  :special_attack: 50
+  :special_defense: 60
+  :speed: 45

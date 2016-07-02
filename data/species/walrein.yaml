@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.4
+description: To protect its herd, the leader battles anything that invades its territory, even at the cost of its life. Its tusks may snap off in battle.
+hatch_steps: 5355
+type1: :ice
+happiness: 70
+type2: :water
+kind: Ice Break
+number: '365'
+name: Walrein
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 3
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 150.6
+id: :walrein
+catch_rate: 45
+xp_yield: 239
+stats: !ruby/object:Hash
+  :attack: 80
+  :defense: 90
+  :hp: 110
+  :special_attack: 95
+  :special_defense: 90
+  :speed: 65

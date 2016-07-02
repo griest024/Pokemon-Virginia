@@ -1,0 +1,10 @@
+--- !ruby/object:PKMN::Item::Ball
+plural_name: Poké Balls
+description: A device for catching wild Pokémon. It is thrown like a ball at the target. It is designed as a capsule system.
+permenant: false
+name: Poké Ball
+usability: !ruby/object:Hash
+  :battle: true
+id: :pokeball
+price: 200
+hold_item: true

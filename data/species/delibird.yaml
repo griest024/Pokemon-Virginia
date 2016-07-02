@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.9
+description: It carries food bundled up in its tail. There was a famous explorer who managed to scale Mt. Everest thanks to a Delibird sharing its food.
+hatch_steps: 5355
+type1: :ice
+happiness: 70
+type2: :flying
+kind: Delivery
+number: '225'
+name: Delibird
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 1
+weight: 16.0
+id: :delibird
+catch_rate: 45
+xp_yield: 116
+stats: !ruby/object:Hash
+  :attack: 55
+  :defense: 45
+  :hp: 45
+  :special_attack: 65
+  :special_defense: 45
+  :speed: 75

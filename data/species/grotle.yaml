@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.1
+description: It lives along water in forests. In the daytime, it leaves the forest to sunbathe its treed shell.
+hatch_steps: 5355
+type1: :grass
+happiness: 70
+kind: Grove
+number: '388'
+name: Grotle
+ev_yield: !ruby/object:Hash
+  :attack: 1
+  :defense: 1
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 97.0
+id: :grotle
+catch_rate: 45
+xp_yield: 142
+stats: !ruby/object:Hash
+  :attack: 89
+  :defense: 85
+  :hp: 75
+  :special_attack: 55
+  :special_defense: 65
+  :speed: 36

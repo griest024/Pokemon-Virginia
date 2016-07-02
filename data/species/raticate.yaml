@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.7
+description: A Raticate's sturdy fangs grow steadily. To keep them ground down, it gnaws on rocks and logs. It may even chew on the walls of houses.
+hatch_steps: 4080
+type1: :normal
+happiness: 70
+kind: Mouse
+number: '20'
+name: Raticate
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 2
+weight: 18.5
+id: :raticate
+catch_rate: 127
+xp_yield: 145
+stats: !ruby/object:Hash
+  :attack: 81
+  :defense: 60
+  :hp: 55
+  :special_attack: 50
+  :special_defense: 70
+  :speed: 97

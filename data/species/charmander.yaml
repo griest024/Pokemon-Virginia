@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.6
+description: The flame that burns at the tip of its tail is an indication of its emotions. The flame wavers when Charmander is happy, and blazes when it is enraged.
+hatch_steps: 5355
+type1: :fire
+happiness: 70
+kind: Lizard
+number: '4'
+name: Charmander
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 1
+weight: 8.5
+id: :charmander
+catch_rate: 45
+xp_yield: 62
+stats: !ruby/object:Hash
+  :attack: 52
+  :defense: 43
+  :hp: 39
+  :special_attack: 60
+  :special_defense: 50
+  :speed: 65

@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Rocky Helmets
+description: If the holder of this item takes damage, the attacker will also be damaged upon contact.
+permenant: false
+name: Rocky Helmet
+usability: !ruby/object:Hash {}
+id: :rockyhelmet
+price: 200
+hold_item: true

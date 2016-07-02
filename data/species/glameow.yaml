@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.5
+description: It claws if displeased and purrs when affectionate. Its fickleness is very popular among some.
+hatch_steps: 5355
+type1: :normal
+happiness: 70
+kind: Catty
+number: '431'
+name: Glameow
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 1
+weight: 3.9
+id: :glameow
+catch_rate: 190
+xp_yield: 62
+stats: !ruby/object:Hash
+  :attack: 55
+  :defense: 42
+  :hp: 49
+  :special_attack: 42
+  :special_defense: 37
+  :speed: 85

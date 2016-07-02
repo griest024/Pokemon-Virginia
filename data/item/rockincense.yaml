@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Rock Incenses
+description: An item to be held by a Pokémon. It is an exotic-smelling incense that boosts the power of Rock-type moves.
+permenant: false
+name: Rock Incense
+usability: !ruby/object:Hash {}
+id: :rockincense
+price: 9600
+hold_item: true

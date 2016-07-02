@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Icy Rocks
+description: A Pokémon held item that extends the duration of the move Hail used by the holder.
+permenant: false
+name: Icy Rock
+usability: !ruby/object:Hash {}
+id: :icyrock
+price: 200
+hold_item: true

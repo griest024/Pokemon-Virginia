@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.9
+description: A Pokémon that lives in the crater of a volcano. Every 10 years, the volcanoes on its back erupt violently. Research is under way on the cause of eruption.
+hatch_steps: 5355
+type1: :fire
+happiness: 70
+type2: :ground
+kind: Eruption
+number: '323'
+name: Camerupt
+ev_yield: !ruby/object:Hash
+  :attack: 1
+  :defense: 0
+  :hp: 0
+  :special_attack: 1
+  :special_defense: 0
+  :speed: 0
+weight: 220.0
+id: :camerupt
+catch_rate: 150
+xp_yield: 161
+stats: !ruby/object:Hash
+  :attack: 100
+  :defense: 70
+  :hp: 70
+  :special_attack: 105
+  :special_defense: 75
+  :speed: 40

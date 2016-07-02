@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.4
+description: Krabby live in holes dug into beaches. On sandy shores with little in the way of food, they can be seen squabbling with each other over territory.
+hatch_steps: 5355
+type1: :water
+happiness: 70
+kind: River Crab
+number: '98'
+name: Krabby
+ev_yield: !ruby/object:Hash
+  :attack: 1
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 6.5
+id: :krabby
+catch_rate: 225
+xp_yield: 65
+stats: !ruby/object:Hash
+  :attack: 105
+  :defense: 90
+  :hp: 30
+  :special_attack: 25
+  :special_defense: 25
+  :speed: 50

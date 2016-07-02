@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.7
+description: Bulbasaur can be seen napping in bright sunlight. There is a seed on its back. By soaking up the sun's rays, the seed grows progressively larger.
+hatch_steps: 5355
+type1: :grass
+happiness: 70
+type2: :poison
+kind: Seed
+number: '1'
+name: Bulbasaur
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 1
+  :special_defense: 0
+  :speed: 0
+weight: 6.9
+id: :bulbasaur
+catch_rate: 45
+xp_yield: 64
+stats: !ruby/object:Hash
+  :attack: 49
+  :defense: 49
+  :hp: 45
+  :special_attack: 65
+  :special_defense: 65
+  :speed: 45

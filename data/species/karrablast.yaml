@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.5
+description: When they feel threatened, they spit an acidic liquid to drive attackers away. This Pokémon targets Shelmet.
+hatch_steps: 4080
+type1: :bug
+happiness: 70
+kind: Clamping
+number: '588'
+name: Karrablast
+ev_yield: !ruby/object:Hash
+  :attack: 1
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 5.9
+id: :karrablast
+catch_rate: 200
+xp_yield: 63
+stats: !ruby/object:Hash
+  :attack: 75
+  :defense: 45
+  :hp: 50
+  :special_attack: 40
+  :special_defense: 45
+  :speed: 60

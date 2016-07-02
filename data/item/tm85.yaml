@@ -1,0 +1,11 @@
+--- !ruby/object:PKMN::Item::TM
+plural_name: TM85s
+description: The user eats the dreams of a sleeping target. It absorbs half the damage caused to heal the user's HP.
+permenant: false
+name: TM85
+usability: !ruby/object:Hash
+  :overworld: true
+  :pokemon: true
+id: :tm85
+price: 3000
+hold_item: true

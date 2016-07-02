@@ -1,0 +1,11 @@
+--- !ruby/object:PKMN::Item::TM
+plural_name: TM94s
+description: The user attacks with a punch that can shatter a rock. It may also lower the target's Defense stat.
+permenant: false
+name: TM94
+usability: !ruby/object:Hash
+  :overworld: true
+  :pokemon: true
+id: :tm94
+price: 1000
+hold_item: true

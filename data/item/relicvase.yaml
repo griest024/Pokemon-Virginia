@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Relic Vases
+description: A vase made in a civilization about 3,000 years ago. A maniac will buy it for a high price.
+permenant: false
+name: Relic Vase
+usability: !ruby/object:Hash {}
+id: :relicvase
+price: 100000
+hold_item: true

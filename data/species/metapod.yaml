@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.7
+description: Its shell is as hard as an iron slab. A Metapod does not move very much because it is preparing its soft innards for evolution inside the shell.
+hatch_steps: 4080
+type1: :bug
+happiness: 70
+kind: Cocoon
+number: '11'
+name: Metapod
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 2
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 9.9
+id: :metapod
+catch_rate: 120
+xp_yield: 72
+stats: !ruby/object:Hash
+  :attack: 20
+  :defense: 55
+  :hp: 50
+  :special_attack: 25
+  :special_defense: 25
+  :speed: 30

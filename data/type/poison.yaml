@@ -1,0 +1,11 @@
+--- !ruby/object:PKMN::Type::Type
+effects: !ruby/object:Hash
+  :bug: :little
+  :fighting: :little
+  :grass: :little
+  :ground: :very
+  :poison: :little
+  :psychic: :very
+name: Poison
+id: :poison
+type_class: :physical

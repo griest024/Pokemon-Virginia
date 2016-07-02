@@ -1,0 +1,11 @@
+--- !ruby/object:PKMN::Item::Battle
+plural_name: Yellow Flutes
+description: A yellow flute made from blown glass. Its melody snaps a single Pokémon out of confusion.
+permenant: false
+name: Yellow Flute
+usability: !ruby/object:Hash
+  :battle: true
+  :pokemon: true
+id: :yellowflute
+price: 300
+hold_item: true

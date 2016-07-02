@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.8
+description: They employ an electrically charged web to trap their prey. While it is immobilized by shock, they leisurely consume it.
+hatch_steps: 5355
+type1: :bug
+happiness: 70
+type2: :electric
+kind: EleSpider
+number: '596'
+name: Galvantula
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 2
+weight: 14.3
+id: :galvantula
+catch_rate: 75
+xp_yield: 165
+stats: !ruby/object:Hash
+  :attack: 77
+  :defense: 60
+  :hp: 70
+  :special_attack: 97
+  :special_defense: 60
+  :speed: 108

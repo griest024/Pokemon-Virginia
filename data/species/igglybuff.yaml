@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.3
+description: Its soft and pliable body is very bouncy. When it sings continuously with all its might, its body steadily turns a deepening pink color.
+hatch_steps: 2805
+type1: :normal
+happiness: 70
+kind: Balloon
+number: '174'
+name: Igglybuff
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 1
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 1.0
+id: :igglybuff
+catch_rate: 170
+xp_yield: 42
+stats: !ruby/object:Hash
+  :attack: 30
+  :defense: 15
+  :hp: 90
+  :special_attack: 40
+  :special_defense: 20
+  :speed: 15

@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 2.1
+description: Snorlax's typical day consists of nothing more than eating and sleeping. It is such a docile Pokémon that there are children who use its big belly as a place to play.
+hatch_steps: 10455
+type1: :normal
+happiness: 70
+kind: Sleeping
+number: '143'
+name: Snorlax
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 2
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 460.0
+id: :snorlax
+catch_rate: 25
+xp_yield: 189
+stats: !ruby/object:Hash
+  :attack: 110
+  :defense: 65
+  :hp: 160
+  :special_attack: 65
+  :special_defense: 110
+  :speed: 30

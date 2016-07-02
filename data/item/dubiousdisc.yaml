@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Dubious Discs
+description: A transparent device overflowing with dubious data.  Its producer is unknown.
+permenant: false
+name: Dubious Disc
+usability: !ruby/object:Hash {}
+id: :dubiousdisc
+price: 2100
+hold_item: true

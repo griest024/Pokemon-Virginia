@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.2
+description: It is a nocturnal Pokémon that flies from fields and mountains to the attraction of streetlights at night. It looses highly toxic powder from its wings.
+hatch_steps: 4080
+type1: :bug
+happiness: 70
+type2: :poison
+kind: Poison Moth
+number: '269'
+name: Dustox
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 3
+  :speed: 0
+weight: 31.6
+id: :dustox
+catch_rate: 45
+xp_yield: 135
+stats: !ruby/object:Hash
+  :attack: 50
+  :defense: 70
+  :hp: 60
+  :special_attack: 50
+  :special_defense: 90
+  :speed: 65

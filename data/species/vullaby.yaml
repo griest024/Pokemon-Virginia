@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.5
+description: They tend to guard their posteriors with suitable bones they have found. They pursue weak Pokémon.
+hatch_steps: 5355
+type1: :dark
+happiness: 35
+type2: :flying
+kind: Diapered
+number: '629'
+name: Vullaby
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 1
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 9.0
+id: :vullaby
+catch_rate: 190
+xp_yield: 74
+stats: !ruby/object:Hash
+  :attack: 55
+  :defense: 75
+  :hp: 70
+  :special_attack: 45
+  :special_defense: 65
+  :speed: 60

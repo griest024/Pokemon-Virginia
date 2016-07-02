@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.2
+description: They paralyze prey with poison, then drag them down to their lairs, five miles below the surface.
+hatch_steps: 5355
+type1: :water
+happiness: 70
+type2: :ghost
+kind: Floating
+number: '592'
+name: Frillish
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 1
+  :speed: 0
+weight: 33.0
+id: :frillish
+catch_rate: 190
+xp_yield: 67
+stats: !ruby/object:Hash
+  :attack: 40
+  :defense: 50
+  :hp: 55
+  :special_attack: 65
+  :special_defense: 85
+  :speed: 40

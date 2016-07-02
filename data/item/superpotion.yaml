@@ -1,0 +1,12 @@
+--- !ruby/object:PKMN::Item::Medicine
+plural_name: Super Potions
+description: A spray-type medicine for wounds. It restores the HP of one Pokémon by 50 points.
+permenant: false
+name: Super Potion
+usability: !ruby/object:Hash
+  :battle: true
+  :overworld: true
+  :pokemon: true
+id: :superpotion
+price: 700
+hold_item: true

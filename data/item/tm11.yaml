@@ -1,0 +1,11 @@
+--- !ruby/object:PKMN::Item::TM
+plural_name: TM11s
+description: The user intensifies the sun for five turns, powering up Fire-type moves.
+permenant: false
+name: TM11
+usability: !ruby/object:Hash
+  :overworld: true
+  :pokemon: true
+id: :tm11
+price: 2000
+hold_item: true

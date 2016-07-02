@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.2
+description: They strengthen their bodies by carrying steel beams. They show off their big muscles to their friends.
+hatch_steps: 5355
+type1: :fighting
+happiness: 70
+kind: Muscular
+number: '533'
+name: Gurdurr
+ev_yield: !ruby/object:Hash
+  :attack: 2
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 40.0
+id: :gurdurr
+catch_rate: 90
+xp_yield: 142
+stats: !ruby/object:Hash
+  :attack: 105
+  :defense: 85
+  :hp: 85
+  :special_attack: 40
+  :special_defense: 50
+  :speed: 40

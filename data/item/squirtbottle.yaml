@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::KeyItem
+plural_name: Squirt Bottles
+permenant: false
+description: A bottle used for watering plants.
+name: Squirt Bottle
+usability: !ruby/object:Hash {}
+id: :squirtbottle
+price: 0
+hold_item: true

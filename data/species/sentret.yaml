@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.8
+description: They take turns standing guard when it is time to sleep. The sentry awakens the others if it senses danger. If one becomes separated, it turns sleepless with fear.
+hatch_steps: 4080
+type1: :normal
+happiness: 70
+kind: Scout
+number: '161'
+name: Sentret
+ev_yield: !ruby/object:Hash
+  :attack: 1
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 6.0
+id: :sentret
+catch_rate: 255
+xp_yield: 43
+stats: !ruby/object:Hash
+  :attack: 46
+  :defense: 34
+  :hp: 35
+  :special_attack: 35
+  :special_defense: 45
+  :speed: 20

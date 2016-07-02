@@ -1,0 +1,11 @@
+--- !ruby/object:PKMN::Type::Type
+effects: !ruby/object:Hash
+  :electric: :very
+  :fire: :little
+  :grass: :very
+  :ice: :little
+  :steel: :little
+  :water: :little
+name: Water
+id: :water
+type_class: :special

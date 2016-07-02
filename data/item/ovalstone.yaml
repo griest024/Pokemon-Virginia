@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Oval Stones
+description: A peculiar stone that makes certain species of Pokémon evolve. It is shaped like an egg.
+permenant: false
+name: Oval Stone
+usability: !ruby/object:Hash {}
+id: :ovalstone
+price: 2100
+hold_item: true

@@ -1,0 +1,10 @@
+--- !ruby/object:PKMN::Item::Mail
+plural_name: Flame Mail
+description: Stationery featuring a print of flames in blazing red. Let a Pokémon hold it for delivery.
+permenant: false
+name: Flame Mail
+usability: !ruby/object:Hash
+  :overworld: true
+id: :flamemail
+price: 50
+hold_item: true

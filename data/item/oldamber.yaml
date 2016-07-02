@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Old Ambers
+description: A piece of amber that contains the genetic material of an ancient Pokémon. It is clear with a reddish tint.
+permenant: false
+name: Old Amber
+usability: !ruby/object:Hash {}
+id: :oldamber
+price: 1000
+hold_item: true

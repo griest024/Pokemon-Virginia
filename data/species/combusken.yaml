@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.9
+description: It lashes out with 10 kicks per second. Its strong fighting instinct compels it to keep up its offensive until the opponent gives up.
+hatch_steps: 5355
+type1: :fire
+happiness: 70
+type2: :fighting
+kind: Young Fowl
+number: '256'
+name: Combusken
+ev_yield: !ruby/object:Hash
+  :attack: 1
+  :defense: 0
+  :hp: 0
+  :special_attack: 1
+  :special_defense: 0
+  :speed: 0
+weight: 19.5
+id: :combusken
+catch_rate: 45
+xp_yield: 142
+stats: !ruby/object:Hash
+  :attack: 85
+  :defense: 60
+  :hp: 60
+  :special_attack: 85
+  :special_defense: 60
+  :speed: 55

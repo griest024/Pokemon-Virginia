@@ -1,0 +1,12 @@
+--- !ruby/object:PKMN::Item::Medicine
+plural_name: Sacred Ashes
+description: It revives all fainted Pokémon. In doing so, it also fully restores their HP.
+permenant: false
+name: Sacred Ash
+usability: !ruby/object:Hash
+  :battle: true
+  :overworld: true
+  :pokemon: true
+id: :sacredash
+price: 200
+hold_item: true

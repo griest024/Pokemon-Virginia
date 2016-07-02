@@ -1,0 +1,12 @@
+--- !ruby/object:PKMN::Item::Berry
+plural_name: Grepa Berries
+description: Using it on a Pokémon makes it more friendly, but it also lowers its base Sp. Def stat.
+permenant: false
+name: Grepa Berry
+usability: !ruby/object:Hash
+  :battle: true
+  :overworld: true
+  :pokemon: true
+id: :grepaberry
+price: 20
+hold_item: true

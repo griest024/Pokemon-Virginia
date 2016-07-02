@@ -1,0 +1,11 @@
+--- !ruby/object:PKMN::Item::TM
+plural_name: TM46s
+description: The user attacks and steals the target's held item simultaneously. It can't steal if the user holds an item.
+permenant: false
+name: TM46
+usability: !ruby/object:Hash
+  :overworld: true
+  :pokemon: true
+id: :tm46
+price: 2000
+hold_item: true

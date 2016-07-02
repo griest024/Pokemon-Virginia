@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.4
+description: Wooper usually live in water but come out onto land seeking food occasionally. On land, they coat their bodies with a gooey, toxic film.
+hatch_steps: 5355
+type1: :water
+happiness: 70
+type2: :ground
+kind: Water Fish
+number: '194'
+name: Wooper
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 1
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 8.5
+id: :wooper
+catch_rate: 255
+xp_yield: 42
+stats: !ruby/object:Hash
+  :attack: 45
+  :defense: 45
+  :hp: 55
+  :special_attack: 25
+  :special_defense: 25
+  :speed: 15

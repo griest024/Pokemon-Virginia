@@ -1,0 +1,11 @@
+--- !ruby/object:PKMN::Item::TM
+plural_name: TM66s
+description: The user stores power, then attacks. If the user can use this attack after the target, its power is doubled.
+permenant: false
+name: TM66
+usability: !ruby/object:Hash
+  :overworld: true
+  :pokemon: true
+id: :tm66
+price: 3000
+hold_item: true

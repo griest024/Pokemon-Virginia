@@ -1,0 +1,12 @@
+--- !ruby/object:PKMN::Item::Berry
+plural_name: Custap Berries
+description: If held by a Pokémon, it gets to move first just once in a pinch.
+permenant: false
+name: Custap Berry
+usability: !ruby/object:Hash
+  :battle: true
+  :overworld: true
+  :pokemon: true
+id: :custapberry
+price: 20
+hold_item: true

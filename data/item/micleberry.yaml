@@ -1,0 +1,12 @@
+--- !ruby/object:PKMN::Item::Berry
+plural_name: Micle Berries
+description: If held by a Pokémon, it raises the accuracy of a move just once in a pinch.
+permenant: false
+name: Micle Berry
+usability: !ruby/object:Hash
+  :battle: true
+  :overworld: true
+  :pokemon: true
+id: :micleberry
+price: 20
+hold_item: true

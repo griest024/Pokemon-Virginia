@@ -1,0 +1,11 @@
+--- !ruby/object:PKMN::Item::TM
+plural_name: TM08s
+description: The user tenses its muscles to bulk up its body, boosting both its Attack and Defense stats.
+permenant: false
+name: TM08
+usability: !ruby/object:Hash
+  :overworld: true
+  :pokemon: true
+id: :tm08
+price: 1500
+hold_item: true

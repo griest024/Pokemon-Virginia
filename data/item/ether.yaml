@@ -1,0 +1,12 @@
+--- !ruby/object:PKMN::Item::Medicine
+plural_name: Ethers
+description: It restores the PP of a Pokémon's selected move by a maximum of 10 points.
+permenant: false
+name: Ether
+usability: !ruby/object:Hash
+  :battle: true
+  :overworld: true
+  :pokemon: true
+id: :ether
+price: 1200
+hold_item: true

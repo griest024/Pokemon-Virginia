@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::KeyItem
+plural_name: Gracideas
+permenant: false
+description: A flower sometimes bundled in bouquets to convey gratitude on special occasions like birthdays.
+name: Gracidea
+usability: !ruby/object:Hash {}
+id: :gracidea
+price: 0
+hold_item: true

@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.0
+description: A Beedrill is extremely territorial. For safety reasons, no one should ever approach its nest. If angered, they will attack in a swarm.
+hatch_steps: 4080
+type1: :bug
+happiness: 70
+type2: :poison
+kind: Poison Bee
+number: '15'
+name: Beedrill
+ev_yield: !ruby/object:Hash
+  :attack: 2
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 1
+  :speed: 0
+weight: 29.5
+id: :beedrill
+catch_rate: 45
+xp_yield: 173
+stats: !ruby/object:Hash
+  :attack: 80
+  :defense: 40
+  :hp: 65
+  :special_attack: 45
+  :special_defense: 80
+  :speed: 75

@@ -1,0 +1,12 @@
+--- !ruby/object:PKMN::Item::Medicine
+plural_name: Full Heals
+description: A spray-type medicine. It heals all the status problems of a single Pokémon.
+permenant: false
+name: Full Heal
+usability: !ruby/object:Hash
+  :battle: true
+  :overworld: true
+  :pokemon: true
+id: :fullheal
+price: 600
+hold_item: true

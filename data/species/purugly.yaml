@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.0
+description: It is a brazen brute that barges its way into another Pokémon's nest and claims it as its own.
+hatch_steps: 5355
+type1: :normal
+happiness: 70
+kind: Tiger Cat
+number: '432'
+name: Purugly
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 2
+weight: 43.8
+id: :purugly
+catch_rate: 75
+xp_yield: 158
+stats: !ruby/object:Hash
+  :attack: 82
+  :defense: 64
+  :hp: 71
+  :special_attack: 64
+  :special_defense: 59
+  :speed: 112

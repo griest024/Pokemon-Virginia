@@ -1,0 +1,12 @@
+--- !ruby/object:PKMN::Item::Berry
+plural_name: Lansat Berries
+description: If held by a Pokémon, it raises its critical-hit ratio in a pinch.
+permenant: false
+name: Lansat Berry
+usability: !ruby/object:Hash
+  :battle: true
+  :overworld: true
+  :pokemon: true
+id: :lansatberry
+price: 20
+hold_item: true

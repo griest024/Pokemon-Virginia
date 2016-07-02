@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Power Belts
+description: A Pokémon held item that promotes Defense gain on leveling, but reduces the Speed stat.
+permenant: false
+name: Power Belt
+usability: !ruby/object:Hash {}
+id: :powerbelt
+price: 3000
+hold_item: true

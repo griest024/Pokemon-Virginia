@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.1
+description: It is distinguished by a pattern of spots that is always different. Its unsteady, tottering walk has the effect of fouling its foe's aim.
+hatch_steps: 4080
+type1: :normal
+happiness: 70
+kind: Spot Panda
+number: '327'
+name: Spinda
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 1
+  :special_defense: 0
+  :speed: 0
+weight: 5.0
+id: :spinda
+catch_rate: 255
+xp_yield: 126
+stats: !ruby/object:Hash
+  :attack: 60
+  :defense: 60
+  :hp: 60
+  :special_attack: 60
+  :special_defense: 60
+  :speed: 60

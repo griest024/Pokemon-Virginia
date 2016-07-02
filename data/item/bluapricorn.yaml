@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Blu Apricorns
+description: A blue Apricorn. It smells a bit like grass.
+permenant: false
+name: Blu Apricorn
+usability: !ruby/object:Hash {}
+id: :bluapricorn
+price: 200
+hold_item: true

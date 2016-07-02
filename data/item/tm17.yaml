@@ -1,0 +1,11 @@
+--- !ruby/object:PKMN::Item::TM
+plural_name: TM17s
+description: It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.
+permenant: false
+name: TM17
+usability: !ruby/object:Hash
+  :overworld: true
+  :pokemon: true
+id: :tm17
+price: 2000
+hold_item: true

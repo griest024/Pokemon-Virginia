@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.8
+description: When thunderclouds cover the sky, it will appear. It can catch lightning with its mane and store the electricity.
+hatch_steps: 5355
+type1: :electric
+happiness: 70
+kind: Electrified
+number: '522'
+name: Blitzle
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 1
+weight: 29.8
+id: :blitzle
+catch_rate: 190
+xp_yield: 59
+stats: !ruby/object:Hash
+  :attack: 60
+  :defense: 32
+  :hp: 45
+  :special_attack: 50
+  :special_defense: 32
+  :speed: 76

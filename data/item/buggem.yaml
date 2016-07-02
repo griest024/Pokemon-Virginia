@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Bug Gems
+description: A gem with an insect-like essence. When held, it strengthens the power of a Bug-type move only once.
+permenant: false
+name: Bug Gem
+usability: !ruby/object:Hash {}
+id: :buggem
+price: 200
+hold_item: true

@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Dome Fossils
+description: A fossil of an ancient Pokémon that lived in the sea. It appears to be part of a shell.
+permenant: false
+name: Dome Fossil
+usability: !ruby/object:Hash {}
+id: :domefossil
+price: 1000
+hold_item: true

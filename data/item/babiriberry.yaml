@@ -1,0 +1,12 @@
+--- !ruby/object:PKMN::Item::Berry
+plural_name: Babiri Berries
+description: Weakens a supereffective Steel-type attack against the holding Pokémon.
+permenant: false
+name: Babiri Berry
+usability: !ruby/object:Hash
+  :battle: true
+  :overworld: true
+  :pokemon: true
+id: :babiriberry
+price: 20
+hold_item: true

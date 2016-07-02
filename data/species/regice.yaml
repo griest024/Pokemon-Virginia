@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.8
+description: Its entire body is made of Antarctic ice. After extensive studies, researchers believe the ice was formed during an ice age.
+hatch_steps: 20655
+type1: :ice
+happiness: 35
+kind: Iceberg
+number: '378'
+name: Regice
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 3
+  :speed: 0
+weight: 175.0
+id: :regice
+catch_rate: 3
+xp_yield: 261
+stats: !ruby/object:Hash
+  :attack: 50
+  :defense: 100
+  :hp: 80
+  :special_attack: 100
+  :special_defense: 200
+  :speed: 50

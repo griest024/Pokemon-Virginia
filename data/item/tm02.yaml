@@ -1,0 +1,11 @@
+--- !ruby/object:PKMN::Item::TM
+plural_name: TM02s
+description: The user slashes the target with huge, sharp claws.
+permenant: false
+name: TM02
+usability: !ruby/object:Hash
+  :overworld: true
+  :pokemon: true
+id: :tm02
+price: 3000
+hold_item: true

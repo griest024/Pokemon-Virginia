@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Never-Melt Ices
+description: An item to be held by a Pokémon. It is a piece of ice that repels heat and boosts Ice-type moves.
+permenant: false
+name: Never-Melt Ice
+usability: !ruby/object:Hash {}
+id: :nevermeltice
+price: 100
+hold_item: true

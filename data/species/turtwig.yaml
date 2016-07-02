@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.4
+description: Made from soil, the shell on its back hardens when it drinks water. It lives along lakes.
+hatch_steps: 5355
+type1: :grass
+happiness: 70
+kind: Tiny Leaf
+number: '387'
+name: Turtwig
+ev_yield: !ruby/object:Hash
+  :attack: 1
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 10.2
+id: :turtwig
+catch_rate: 45
+xp_yield: 64
+stats: !ruby/object:Hash
+  :attack: 68
+  :defense: 64
+  :hp: 55
+  :special_attack: 45
+  :special_defense: 55
+  :speed: 31

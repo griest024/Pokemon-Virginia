@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.5
+description: Venomoth are nocturnal--they only are active at night. Their favorite prey are insects that gather around streetlights, attracted by the light in the darkness.
+hatch_steps: 5355
+type1: :bug
+happiness: 70
+type2: :poison
+kind: Poison Moth
+number: '49'
+name: Venomoth
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 1
+  :special_defense: 0
+  :speed: 1
+weight: 12.5
+id: :venomoth
+catch_rate: 75
+xp_yield: 158
+stats: !ruby/object:Hash
+  :attack: 65
+  :defense: 60
+  :hp: 70
+  :special_attack: 90
+  :special_defense: 75
+  :speed: 90

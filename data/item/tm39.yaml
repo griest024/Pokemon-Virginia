@@ -1,0 +1,11 @@
+--- !ruby/object:PKMN::Item::TM
+plural_name: TM39s
+description: Boulders are hurled at the target. It also lowers the target's Speed by preventing its movement.
+permenant: false
+name: TM39
+usability: !ruby/object:Hash
+  :overworld: true
+  :pokemon: true
+id: :tm39
+price: 2000
+hold_item: true

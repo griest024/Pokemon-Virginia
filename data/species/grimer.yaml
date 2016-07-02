@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.9
+description: Born from polluted sludge in the sea, Grimer's favorite food is anything filthy. They feed on wastewater pumped out from factories.
+hatch_steps: 5355
+type1: :poison
+happiness: 70
+kind: Sludge
+number: '88'
+name: Grimer
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 1
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 30.0
+id: :grimer
+catch_rate: 190
+xp_yield: 65
+stats: !ruby/object:Hash
+  :attack: 80
+  :defense: 50
+  :hp: 80
+  :special_attack: 40
+  :special_defense: 50
+  :speed: 25

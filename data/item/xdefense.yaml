@@ -1,0 +1,11 @@
+--- !ruby/object:PKMN::Item::Battle
+plural_name: X Defenses
+description: An item that raises the Defense of a Pokémon in battle. It wears off if the Pokémon is withdrawn.
+permenant: false
+name: X Defense
+usability: !ruby/object:Hash
+  :battle: true
+  :pokemon: true
+id: :xdefense
+price: 550
+hold_item: true

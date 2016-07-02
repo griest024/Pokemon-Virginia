@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.3
+description: A Mr. Mime is a master of pantomime. It can convince others that something unseeable actually exists. Once believed, the imaginary object does become real.
+hatch_steps: 6630
+type1: :psychic
+happiness: 70
+kind: Barrier
+number: '122'
+name: Mr. Mime
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 2
+  :speed: 0
+weight: 54.5
+id: :mrmime
+catch_rate: 45
+xp_yield: 161
+stats: !ruby/object:Hash
+  :attack: 45
+  :defense: 65
+  :hp: 40
+  :special_attack: 100
+  :special_defense: 120
+  :speed: 90

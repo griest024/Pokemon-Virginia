@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.5
+description: It will never appear where there is strife. Its sightings have become rare recently.
+hatch_steps: 2805
+type1: :normal
+happiness: 70
+type2: :flying
+kind: Jubilee
+number: '468'
+name: Togekiss
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 2
+  :special_defense: 1
+  :speed: 0
+weight: 38.0
+id: :togekiss
+catch_rate: 30
+xp_yield: 245
+stats: !ruby/object:Hash
+  :attack: 50
+  :defense: 95
+  :hp: 85
+  :special_attack: 120
+  :special_defense: 115
+  :speed: 80

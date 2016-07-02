@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Toxic Plates
+description: An item to be held by a Pokémon. It is a stone tablet that boosts the power of Poison-type moves.
+permenant: false
+name: Toxic Plate
+usability: !ruby/object:Hash {}
+id: :toxicplate
+price: 1000
+hold_item: true

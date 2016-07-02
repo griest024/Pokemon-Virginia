@@ -1,0 +1,10 @@
+--- !ruby/object:PKMN::Item::Ball
+plural_name: Timer Balls
+description: A somewhat different Ball that becomes progressively better the more turns there are in a battle.
+permenant: false
+name: Timer Ball
+usability: !ruby/object:Hash
+  :battle: true
+id: :timerball
+price: 1000
+hold_item: true

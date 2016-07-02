@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.3
+description: This Pokémon makes clothes for itself. It chews up leaves and sews them with sticky thread extruded from its mouth.
+hatch_steps: 4080
+type1: :bug
+happiness: 70
+type2: :grass
+kind: Sewing
+number: '540'
+name: Sewaddle
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 1
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 2.5
+id: :sewaddle
+catch_rate: 255
+xp_yield: 62
+stats: !ruby/object:Hash
+  :attack: 53
+  :defense: 70
+  :hp: 45
+  :special_attack: 40
+  :special_defense: 60
+  :speed: 42

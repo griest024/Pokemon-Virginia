@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Silver Powders
+description: An item to be held by a Pokémon. It is a shiny, silver powder that ups the power of Bug-type moves.
+permenant: false
+name: Silver Powder
+usability: !ruby/object:Hash {}
+id: :silverpowder
+price: 100
+hold_item: true

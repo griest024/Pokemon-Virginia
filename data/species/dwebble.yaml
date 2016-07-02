@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.3
+description: It makes a hole in a suitable rock. If that rock breaks, the Pokémon remains agitated until it locates a replacement.
+hatch_steps: 5355
+type1: :bug
+happiness: 70
+type2: :rock
+kind: Rock Inn
+number: '557'
+name: Dwebble
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 1
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 14.5
+id: :dwebble
+catch_rate: 190
+xp_yield: 65
+stats: !ruby/object:Hash
+  :attack: 65
+  :defense: 85
+  :hp: 50
+  :special_attack: 35
+  :special_defense: 35
+  :speed: 55

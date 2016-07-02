@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.4
+description: It has a particularly well-developed lower jaw. The huge fangs are heavy, causing it to tilt its head. Unless it is startled, it will not try to bite.
+hatch_steps: 5355
+type1: :normal
+happiness: 70
+kind: Fairy
+number: '210'
+name: Granbull
+ev_yield: !ruby/object:Hash
+  :attack: 2
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 48.7
+id: :granbull
+catch_rate: 75
+xp_yield: 158
+stats: !ruby/object:Hash
+  :attack: 120
+  :defense: 75
+  :hp: 90
+  :special_attack: 60
+  :special_defense: 60
+  :speed: 45

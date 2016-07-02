@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Razor Fangs
+description: An item to be held by a Pokémon. It may make foes and allies flinch when the holder inflicts damage.
+permenant: false
+name: Razor Fang
+usability: !ruby/object:Hash {}
+id: :razorfang
+price: 2100
+hold_item: true

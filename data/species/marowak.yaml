@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.0
+description: A Marowak is the evolved form of a Cubone that has grown tough by overcoming the grief of losing its mother. Its tempered and hardened spirit is not easily broken.
+hatch_steps: 5355
+type1: :ground
+happiness: 70
+kind: Bone Keeper
+number: '105'
+name: Marowak
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 2
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 45.0
+id: :marowak
+catch_rate: 75
+xp_yield: 149
+stats: !ruby/object:Hash
+  :attack: 80
+  :defense: 110
+  :hp: 60
+  :special_attack: 50
+  :special_defense: 80
+  :speed: 45

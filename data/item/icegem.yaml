@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Ice Gems
+description: A gem with an essence of ice. When held, it strengthens the power of an Ice-type move only once.
+permenant: false
+name: Ice Gem
+usability: !ruby/object:Hash {}
+id: :icegem
+price: 200
+hold_item: true

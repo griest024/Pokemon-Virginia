@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.0
+description: Their tusks can shatter rocks. Territory battles between Fraxure can be intensely violent.
+hatch_steps: 10455
+type1: :dragon
+happiness: 35
+kind: Axe Jaw
+number: '611'
+name: Fraxure
+ev_yield: !ruby/object:Hash
+  :attack: 2
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 36.0
+id: :fraxure
+catch_rate: 60
+xp_yield: 144
+stats: !ruby/object:Hash
+  :attack: 117
+  :defense: 70
+  :hp: 66
+  :special_attack: 40
+  :special_defense: 50
+  :speed: 67

@@ -1,0 +1,11 @@
+--- !ruby/object:PKMN::Item::TM
+plural_name: TM43s
+description: The user cloaks itself with flame and attacks. Building up more power, it raises the user's Speed stat.
+permenant: false
+name: TM43
+usability: !ruby/object:Hash
+  :overworld: true
+  :pokemon: true
+id: :tm43
+price: 2000
+hold_item: true

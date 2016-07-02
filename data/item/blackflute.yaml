@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Black Flutes
+description: A black flute made from blown glass. Its melody makes wild Pokémon less likely to appear.
+permenant: false
+name: Black Flute
+usability: !ruby/object:Hash {}
+id: :blackflute
+price: 400
+hold_item: true

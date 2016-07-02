@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.4
+description: The small ball holds the nutrients needed for evolution. Apparently, it is very sweet and tasty.
+hatch_steps: 5355
+type1: :grass
+happiness: 70
+kind: Cherry
+number: '420'
+name: Cherubi
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 1
+  :special_defense: 0
+  :speed: 0
+weight: 3.3
+id: :cherubi
+catch_rate: 190
+xp_yield: 55
+stats: !ruby/object:Hash
+  :attack: 35
+  :defense: 45
+  :hp: 45
+  :special_attack: 62
+  :special_defense: 53
+  :speed: 35

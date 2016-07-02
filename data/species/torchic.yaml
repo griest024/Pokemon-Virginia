@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.4
+description: If attacked, it strikes back by spitting balls of fire it forms in its stomach. A Torchic dislikes darkness because it can't see its surroundings.
+hatch_steps: 5355
+type1: :fire
+happiness: 70
+kind: Chick
+number: '255'
+name: Torchic
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 1
+  :special_defense: 0
+  :speed: 0
+weight: 2.5
+id: :torchic
+catch_rate: 45
+xp_yield: 62
+stats: !ruby/object:Hash
+  :attack: 60
+  :defense: 40
+  :hp: 45
+  :special_attack: 70
+  :special_defense: 50
+  :speed: 45

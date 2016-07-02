@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.5
+description: This Pokémon is shaped like ancient text characters. Although research is ongoing, it is a mystery as to which came first, the ancient writings or the various Unown.
+hatch_steps: 10455
+type1: :psychic
+happiness: 70
+kind: Symbol
+number: '201'
+name: Unown
+ev_yield: !ruby/object:Hash
+  :attack: 1
+  :defense: 0
+  :hp: 0
+  :special_attack: 1
+  :special_defense: 0
+  :speed: 0
+weight: 5.0
+id: :unown
+catch_rate: 225
+xp_yield: 118
+stats: !ruby/object:Hash
+  :attack: 72
+  :defense: 48
+  :hp: 48
+  :special_attack: 72
+  :special_defense: 48
+  :speed: 48

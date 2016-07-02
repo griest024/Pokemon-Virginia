@@ -1,0 +1,12 @@
+--- !ruby/object:PKMN::Item::Medicine
+plural_name: Heal Powders
+description: A very bitter medicine powder. It heals all the status problems of a single Pokémon.
+permenant: false
+name: Heal Powder
+usability: !ruby/object:Hash
+  :battle: true
+  :overworld: true
+  :pokemon: true
+id: :healpowder
+price: 450
+hold_item: true

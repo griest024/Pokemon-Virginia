@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.3
+description: Durant dig nests in mountains. They build their complicated, interconnected tunnels in mazes.
+hatch_steps: 5355
+type1: :bug
+happiness: 70
+type2: :steel
+kind: Iron Ant
+number: '632'
+name: Durant
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 2
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 33.0
+id: :durant
+catch_rate: 90
+xp_yield: 169
+stats: !ruby/object:Hash
+  :attack: 109
+  :defense: 112
+  :hp: 58
+  :special_attack: 48
+  :special_defense: 48
+  :speed: 109

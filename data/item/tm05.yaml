@@ -1,0 +1,11 @@
+--- !ruby/object:PKMN::Item::TM
+plural_name: TM05s
+description: The target is scared off and replaced by another Pokémon in its party. In the wild, the battle ends.
+permenant: false
+name: TM05
+usability: !ruby/object:Hash
+  :overworld: true
+  :pokemon: true
+id: :tm05
+price: 1000
+hold_item: true

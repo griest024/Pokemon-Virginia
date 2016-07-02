@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.0
+description: It makes its nest by damming streams with bark and mud. It is known as an industrious worker.
+hatch_steps: 4080
+type1: :normal
+happiness: 70
+type2: :water
+kind: Beaver
+number: '400'
+name: Bibarel
+ev_yield: !ruby/object:Hash
+  :attack: 2
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 31.5
+id: :bibarel
+catch_rate: 127
+xp_yield: 144
+stats: !ruby/object:Hash
+  :attack: 85
+  :defense: 60
+  :hp: 79
+  :special_attack: 55
+  :special_defense: 60
+  :speed: 71

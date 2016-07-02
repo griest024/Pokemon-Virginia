@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Power Bracers
+description: A Pokémon held item that promotes Attack gain on leveling, but reduces the Speed stat.
+permenant: false
+name: Power Bracer
+usability: !ruby/object:Hash {}
+id: :powerbracer
+price: 3000
+hold_item: true

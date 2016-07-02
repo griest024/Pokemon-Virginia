@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 2.2
+description: If you come across a young Kangaskhan playing by itself, never try to catch it. The baby's parent is sure to be in the area, and it will become violently enraged.
+hatch_steps: 5355
+type1: :normal
+happiness: 70
+kind: Parent
+number: '115'
+name: Kangaskhan
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 2
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 80.0
+id: :kangaskhan
+catch_rate: 45
+xp_yield: 172
+stats: !ruby/object:Hash
+  :attack: 95
+  :defense: 80
+  :hp: 105
+  :special_attack: 40
+  :special_defense: 80
+  :speed: 90

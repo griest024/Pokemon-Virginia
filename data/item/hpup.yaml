@@ -1,0 +1,12 @@
+--- !ruby/object:PKMN::Item::Medicine
+plural_name: HP Ups
+description: A nutritious drink for Pokémon. It raises the base HP of a single Pokémon.
+permenant: false
+name: HP Up
+usability: !ruby/object:Hash
+  :battle: true
+  :overworld: true
+  :pokemon: true
+id: :hpup
+price: 9800
+hold_item: true

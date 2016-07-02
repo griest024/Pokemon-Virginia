@@ -1,0 +1,10 @@
+--- !ruby/object:PKMN::Item::Ball
+plural_name: Heal Balls
+description: A remedial Poké Ball that restores the caught Pokémon's HP and eliminates any status problem.
+permenant: false
+name: Heal Ball
+usability: !ruby/object:Hash
+  :battle: true
+id: :healball
+price: 300
+hold_item: true

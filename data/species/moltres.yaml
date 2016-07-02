@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 2.0
+description: Moltres is a legendary bird Pokémon that can control fire. If injured, it is said to dip its body in the molten magma of a volcano to burn and heal itself.
+hatch_steps: 20655
+type1: :fire
+happiness: 35
+type2: :flying
+kind: Flame
+number: '146'
+name: Moltres
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 3
+  :special_defense: 0
+  :speed: 0
+weight: 60.0
+id: :moltres
+catch_rate: 3
+xp_yield: 261
+stats: !ruby/object:Hash
+  :attack: 100
+  :defense: 90
+  :hp: 90
+  :special_attack: 125
+  :special_defense: 85
+  :speed: 90

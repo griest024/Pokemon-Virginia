@@ -1,0 +1,11 @@
+--- !ruby/object:PKMN::Item::TM
+plural_name: TM68s
+description: The user charges at the target using every bit of its power. The user must rest on the next turn.
+permenant: false
+name: TM68
+usability: !ruby/object:Hash
+  :overworld: true
+  :pokemon: true
+id: :tm68
+price: 7500
+hold_item: true

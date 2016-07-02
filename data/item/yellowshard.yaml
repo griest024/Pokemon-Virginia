@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Yellow Shards
+description: A small yellow shard. It appears to be from some sort of implement made long ago.
+permenant: false
+name: Yellow Shard
+usability: !ruby/object:Hash {}
+id: :yellowshard
+price: 200
+hold_item: true

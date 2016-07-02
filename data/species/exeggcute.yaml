@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.4
+description: It consists of six eggs that care for each other. The eggs attract each other and spin around. When cracks increasingly appear, it is close to evolution.
+hatch_steps: 5355
+type1: :grass
+happiness: 70
+type2: :psychic
+kind: Egg
+number: '102'
+name: Exeggcute
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 1
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 2.5
+id: :exeggcute
+catch_rate: 90
+xp_yield: 65
+stats: !ruby/object:Hash
+  :attack: 40
+  :defense: 80
+  :hp: 60
+  :special_attack: 60
+  :special_defense: 45
+  :speed: 40

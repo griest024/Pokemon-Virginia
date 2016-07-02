@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.7
+description: A Pokémon that manipulates psychic power at will. It doesn't stop bouncing even when it is asleep. It loves eating mushrooms that grow underground.
+hatch_steps: 5355
+type1: :psychic
+happiness: 70
+kind: Bounce
+number: '325'
+name: Spoink
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 1
+  :speed: 0
+weight: 30.6
+id: :spoink
+catch_rate: 255
+xp_yield: 66
+stats: !ruby/object:Hash
+  :attack: 25
+  :defense: 35
+  :hp: 60
+  :special_attack: 70
+  :special_defense: 80
+  :speed: 60

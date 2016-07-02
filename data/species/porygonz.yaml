@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.9
+description: Additional software was installed to make it a better Pokémon. It began acting oddly, however.
+hatch_steps: 5355
+type1: :normal
+happiness: 70
+kind: Virtual
+number: '474'
+name: Porygon-Z
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 3
+  :special_defense: 0
+  :speed: 0
+weight: 34.0
+id: :porygonz
+catch_rate: 30
+xp_yield: 241
+stats: !ruby/object:Hash
+  :attack: 80
+  :defense: 70
+  :hp: 85
+  :special_attack: 135
+  :special_defense: 75
+  :speed: 90

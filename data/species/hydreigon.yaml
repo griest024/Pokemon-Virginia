@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.8
+description: The heads on their arms do not have brains. They use all three heads to consume and destroy everything.
+hatch_steps: 10455
+type1: :dark
+happiness: 35
+type2: :dragon
+kind: Brutal
+number: '635'
+name: Hydreigon
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 3
+  :special_defense: 0
+  :speed: 0
+weight: 160.0
+id: :hydreigon
+catch_rate: 45
+xp_yield: 14
+stats: !ruby/object:Hash
+  :attack: 105
+  :defense: 90
+  :hp: 92
+  :special_attack: 125
+  :special_defense: 90
+  :speed: 98

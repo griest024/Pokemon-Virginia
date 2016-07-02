@@ -1,0 +1,11 @@
+--- !ruby/object:PKMN::Item::TM
+plural_name: TM06s
+description: A move that leaves the target badly poisoned. Its poison damage worsens every turn.
+permenant: false
+name: TM06
+usability: !ruby/object:Hash
+  :overworld: true
+  :pokemon: true
+id: :tm06
+price: 3000
+hold_item: true

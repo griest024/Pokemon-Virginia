@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Steel Gems
+description: A gem with an essence of steel. When held, it strengthens the power of a Steel-type move only once.
+permenant: false
+name: Steel Gem
+usability: !ruby/object:Hash {}
+id: :steelgem
+price: 200
+hold_item: true

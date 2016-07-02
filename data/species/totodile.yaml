@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.6
+description: Despite its small body, Totodile's jaws are very powerful. While it may think it is just playfully nipping, its bite has enough strength to cause serious injury.
+hatch_steps: 5355
+type1: :water
+happiness: 70
+kind: Big Jaw
+number: '158'
+name: Totodile
+ev_yield: !ruby/object:Hash
+  :attack: 1
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 9.5
+id: :totodile
+catch_rate: 45
+xp_yield: 63
+stats: !ruby/object:Hash
+  :attack: 65
+  :defense: 64
+  :hp: 50
+  :special_attack: 44
+  :special_defense: 48
+  :speed: 43

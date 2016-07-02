@@ -1,0 +1,12 @@
+--- !ruby/object:PKMN::Item::Berry
+plural_name: Oran Berries
+description: It may be used or held by a Pokémon to heal the user by just 10 HP.
+permenant: false
+name: Oran Berry
+usability: !ruby/object:Hash
+  :battle: true
+  :overworld: true
+  :pokemon: true
+id: :oranberry
+price: 20
+hold_item: true

@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.3
+description: Usually docile, a Wobbuffet strikes back ferociously if its black tail is attacked. It makes its lair in caves where it waits for nightfall.
+hatch_steps: 5355
+type1: :psychic
+happiness: 70
+kind: Patient
+number: '202'
+name: Wobbuffet
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 2
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 28.5
+id: :wobbuffet
+catch_rate: 45
+xp_yield: 142
+stats: !ruby/object:Hash
+  :attack: 33
+  :defense: 58
+  :hp: 190
+  :special_attack: 33
+  :special_defense: 58
+  :speed: 33

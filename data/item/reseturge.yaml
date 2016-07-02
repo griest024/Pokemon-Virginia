@@ -1,0 +1,11 @@
+--- !ruby/object:PKMN::Item::Battle
+plural_name: Reset Urges
+description: When used, it restores any stat changes of an ally Pokémon.
+permenant: false
+name: Reset Urge
+usability: !ruby/object:Hash
+  :battle: true
+  :pokemon: true
+id: :reseturge
+price: 0
+hold_item: true

@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::KeyItem
+plural_name: Poké Radars
+permenant: false
+description: A tool that can search out Pokémon that are hiding in grass. Its battery is recharged as you walk.
+name: Poké Radar
+usability: !ruby/object:Hash {}
+id: :pokeradar
+price: 0
+hold_item: true

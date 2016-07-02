@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.4
+description: They intently observe both Trainers and Pokémon. Apparently, they are looking at something that only Gothita can see.
+hatch_steps: 5355
+type1: :psychic
+happiness: 70
+kind: Fixation
+number: '574'
+name: Gothita
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 1
+  :speed: 0
+weight: 5.8
+id: :gothita
+catch_rate: 200
+xp_yield: 58
+stats: !ruby/object:Hash
+  :attack: 30
+  :defense: 50
+  :hp: 45
+  :special_attack: 55
+  :special_defense: 65
+  :speed: 45

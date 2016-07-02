@@ -1,0 +1,10 @@
+--- !ruby/object:PKMN::Item::Ball
+plural_name: Fast Balls
+description: A Poké Ball that makes it easier to catch fast Pokémon.
+permenant: false
+name: Fast Ball
+usability: !ruby/object:Hash
+  :battle: true
+id: :fastball
+price: 300
+hold_item: true

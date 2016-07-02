@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.8
+description: If it stores too much electricity, its behavior turns aggressive. To avoid this, it occasionally discharges excess energy and calms itself down.
+hatch_steps: 2805
+type1: :electric
+happiness: 70
+kind: Mouse
+number: '26'
+name: Raichu
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 3
+weight: 30.0
+id: :raichu
+catch_rate: 75
+xp_yield: 214
+stats: !ruby/object:Hash
+  :attack: 90
+  :defense: 55
+  :hp: 60
+  :special_attack: 90
+  :special_defense: 80
+  :speed: 100

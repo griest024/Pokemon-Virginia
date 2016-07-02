@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Balm Mushrooms
+description: A rare mushroom which gives off a nice fragrance. A maniac will buy it for a high price.
+permenant: false
+name: Balm Mushroom
+usability: !ruby/object:Hash {}
+id: :balmmushroom
+price: 50000
+hold_item: true

@@ -1,0 +1,12 @@
+--- !ruby/object:PKMN::Item::Berry
+plural_name: Chesto Berries
+description: It may be used or held by a Pokémon to recover from sleep.
+permenant: false
+name: Chesto Berry
+usability: !ruby/object:Hash
+  :battle: true
+  :overworld: true
+  :pokemon: true
+id: :chestoberry
+price: 20
+hold_item: true

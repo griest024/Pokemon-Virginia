@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 6.2
+description: It is said to live at the bottom of large lakes. Considered to be the most beautiful of all Pokémon, it has been depicted in paintings and statues.
+hatch_steps: 5355
+type1: :water
+happiness: 70
+kind: Tender
+number: '350'
+name: Milotic
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 2
+  :speed: 0
+weight: 162.0
+id: :milotic
+catch_rate: 60
+xp_yield: 189
+stats: !ruby/object:Hash
+  :attack: 60
+  :defense: 79
+  :hp: 95
+  :special_attack: 100
+  :special_defense: 125
+  :speed: 81

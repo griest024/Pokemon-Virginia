@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.3
+description: Known as “The Being of Emotion.” It taught humans the nobility of sorrow, pain, and joy.
+hatch_steps: 20655
+type1: :psychic
+happiness: 140
+kind: Emotion
+number: '481'
+name: Mesprit
+ev_yield: !ruby/object:Hash
+  :attack: 1
+  :defense: 0
+  :hp: 0
+  :special_attack: 1
+  :special_defense: 1
+  :speed: 0
+weight: 0.3
+id: :mesprit
+catch_rate: 3
+xp_yield: 261
+stats: !ruby/object:Hash
+  :attack: 105
+  :defense: 105
+  :hp: 80
+  :special_attack: 105
+  :special_defense: 105
+  :speed: 80

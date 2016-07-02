@@ -1,0 +1,12 @@
+--- !ruby/object:PKMN::Item::Berry
+plural_name: Sitrus Berries
+description: It may be used or held by a Pokémon to heal the user's HP a little.
+permenant: false
+name: Sitrus Berry
+usability: !ruby/object:Hash
+  :battle: true
+  :overworld: true
+  :pokemon: true
+id: :sitrusberry
+price: 20
+hold_item: true

@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.3
+description: Its loud cry can be heard over half a mile away. If its high, keening cry is heard echoing all around, it is a sign that they are warning each other of danger.
+hatch_steps: 4080
+type1: :normal
+happiness: 70
+type2: :flying
+kind: Tiny Bird
+number: '21'
+name: Spearow
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 1
+weight: 2.0
+id: :spearow
+catch_rate: 255
+xp_yield: 52
+stats: !ruby/object:Hash
+  :attack: 60
+  :defense: 30
+  :hp: 40
+  :special_attack: 31
+  :special_defense: 31
+  :speed: 70

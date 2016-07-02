@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Absorb Bulbs
+description: A consumable bulb. If the holder is hit by a Water-type move, its Sp. Atk will rise.
+permenant: false
+name: Absorb Bulb
+usability: !ruby/object:Hash {}
+id: :absorbbulb
+price: 200
+hold_item: true

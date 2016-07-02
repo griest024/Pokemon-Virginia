@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.8
+description: It is always seen with a stick from a plant. Apparently, there are good sticks and bad sticks. This Pokémon occasionally fights with others over choice sticks.
+hatch_steps: 5355
+type1: :normal
+happiness: 70
+type2: :flying
+kind: Wild Duck
+number: '83'
+name: Farfetch'd
+ev_yield: !ruby/object:Hash
+  :attack: 1
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 15.0
+id: :farfetchd
+catch_rate: 45
+xp_yield: 123
+stats: !ruby/object:Hash
+  :attack: 65
+  :defense: 55
+  :hp: 52
+  :special_attack: 58
+  :special_defense: 62
+  :speed: 60

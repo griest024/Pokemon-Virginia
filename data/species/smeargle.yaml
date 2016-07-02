@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.2
+description: A Smeargle marks its territory using a fluid that leaks out from the tip of its tail. About 5,000 different marks left by this Pokémon have been found.
+hatch_steps: 5355
+type1: :normal
+happiness: 70
+kind: Painter
+number: '235'
+name: Smeargle
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 1
+weight: 58.0
+id: :smeargle
+catch_rate: 45
+xp_yield: 88
+stats: !ruby/object:Hash
+  :attack: 20
+  :defense: 35
+  :hp: 55
+  :special_attack: 20
+  :special_defense: 45
+  :speed: 75

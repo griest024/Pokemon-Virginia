@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.5
+description: A Claydol sleeps while hovering in midair. Its arms are separate from its body. They are kept floating by the Pokémon's manipulation of psychic power.
+hatch_steps: 5355
+type1: :ground
+happiness: 70
+type2: :psychic
+kind: Clay Doll
+number: '344'
+name: Claydol
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 2
+  :speed: 0
+weight: 108.0
+id: :claydol
+catch_rate: 90
+xp_yield: 175
+stats: !ruby/object:Hash
+  :attack: 70
+  :defense: 105
+  :hp: 60
+  :special_attack: 70
+  :special_defense: 120
+  :speed: 75

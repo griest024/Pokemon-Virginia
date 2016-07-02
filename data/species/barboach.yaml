@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.4
+description: Its body is covered with a slimy film. The film acts as a barrier to prevent germs in muddy water from entering the Barboach's body.
+hatch_steps: 5355
+type1: :water
+happiness: 70
+type2: :ground
+kind: Whiskers
+number: '339'
+name: Barboach
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 1
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 1.9
+id: :barboach
+catch_rate: 190
+xp_yield: 58
+stats: !ruby/object:Hash
+  :attack: 48
+  :defense: 43
+  :hp: 50
+  :special_attack: 46
+  :special_defense: 41
+  :speed: 60

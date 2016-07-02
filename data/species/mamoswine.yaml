@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 2.5
+description: Its impressive tusks are made of ice. The population thinned when it turned warm after the ice age.
+hatch_steps: 5355
+type1: :ice
+happiness: 70
+type2: :ground
+kind: Twin Tusk
+number: '473'
+name: Mamoswine
+ev_yield: !ruby/object:Hash
+  :attack: 3
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 291.0
+id: :mamoswine
+catch_rate: 50
+xp_yield: 239
+stats: !ruby/object:Hash
+  :attack: 130
+  :defense: 80
+  :hp: 110
+  :special_attack: 70
+  :special_defense: 60
+  :speed: 80

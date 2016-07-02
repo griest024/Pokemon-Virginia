@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.9
+description: The plants growing on its horns change according to the season. The leaders of the herd possess magnificent horns.
+hatch_steps: 5355
+type1: :normal
+happiness: 70
+type2: :grass
+kind: Season
+number: '586'
+name: Sawsbuck
+ev_yield: !ruby/object:Hash
+  :attack: 2
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 92.5
+id: :sawsbuck
+catch_rate: 75
+xp_yield: 166
+stats: !ruby/object:Hash
+  :attack: 100
+  :defense: 70
+  :hp: 80
+  :special_attack: 60
+  :special_defense: 70
+  :speed: 95

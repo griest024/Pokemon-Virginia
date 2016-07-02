@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 3.5
+description: This Pokémon has a terrifically strong constricting power. It can even flatten steel oil drums. Once it wraps its body around its foe, escaping is impossible.
+hatch_steps: 5355
+type1: :poison
+happiness: 70
+kind: Cobra
+number: '24'
+name: Arbok
+ev_yield: !ruby/object:Hash
+  :attack: 2
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 65.0
+id: :arbok
+catch_rate: 90
+xp_yield: 153
+stats: !ruby/object:Hash
+  :attack: 85
+  :defense: 69
+  :hp: 60
+  :special_attack: 65
+  :special_defense: 79
+  :speed: 80

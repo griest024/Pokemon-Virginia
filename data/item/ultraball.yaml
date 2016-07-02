@@ -1,0 +1,10 @@
+--- !ruby/object:PKMN::Item::Ball
+plural_name: Ultra Balls
+description: An ultra-performance Ball that provides a higher Pokémon catch rate than a Great Ball.
+permenant: false
+name: Ultra Ball
+usability: !ruby/object:Hash
+  :battle: true
+id: :ultraball
+price: 1200
+hold_item: true

@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.2
+description: It lives on the deep-sea floor. It attracts prey by flashing the patterns on its four tail fins.
+hatch_steps: 5355
+type1: :water
+happiness: 70
+kind: Neon
+number: '457'
+name: Lumineon
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 2
+weight: 24.0
+id: :lumineon
+catch_rate: 75
+xp_yield: 161
+stats: !ruby/object:Hash
+  :attack: 69
+  :defense: 76
+  :hp: 69
+  :special_attack: 69
+  :special_defense: 86
+  :speed: 91

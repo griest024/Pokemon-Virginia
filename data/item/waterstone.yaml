@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Water Stones
+description: A peculiar stone that makes certain species of Pokémon evolve. It is a clear, light blue.
+permenant: false
+name: Water Stone
+usability: !ruby/object:Hash {}
+id: :waterstone
+price: 2100
+hold_item: true

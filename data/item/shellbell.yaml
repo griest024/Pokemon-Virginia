@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Shell Bells
+description: An item to be held by a Pokémon. The holder's HP is restored a little every time it inflicts damage.
+permenant: false
+name: Shell Bell
+usability: !ruby/object:Hash {}
+id: :shellbell
+price: 200
+hold_item: true

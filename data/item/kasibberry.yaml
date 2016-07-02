@@ -1,0 +1,12 @@
+--- !ruby/object:PKMN::Item::Berry
+plural_name: Kasib Berries
+description: Weakens a supereffective Ghost-type attack against the holding Pokémon.
+permenant: false
+name: Kasib Berry
+usability: !ruby/object:Hash
+  :battle: true
+  :overworld: true
+  :pokemon: true
+id: :kasibberry
+price: 20
+hold_item: true

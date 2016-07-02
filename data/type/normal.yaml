@@ -1,0 +1,7 @@
+--- !ruby/object:PKMN::Type::Type
+effects: !ruby/object:Hash
+  :fighting: :very
+  :ghost: :no
+name: Normal
+id: :normal
+type_class: :physical

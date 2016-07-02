@@ -1,0 +1,10 @@
+--- !ruby/object:PKMN::Item::Ball
+plural_name: Safari Balls
+description: A special Poké Ball that is used only in the Safari Zone. It is decorated in a camouflage pattern.
+permenant: false
+name: Safari Ball
+usability: !ruby/object:Hash
+  :battle: true
+id: :safariball
+price: 0
+hold_item: true

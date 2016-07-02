@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.0
+description: It is actually three Magnemite linked by magnetism. It generates powerful radio waves that raise temperatures by 3.6 degrees F within a 3,300-foot radius.
+hatch_steps: 5355
+type1: :electric
+happiness: 70
+type2: :steel
+kind: Magnet
+number: '82'
+name: Magneton
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 2
+  :special_defense: 0
+  :speed: 0
+weight: 60.0
+id: :magneton
+catch_rate: 60
+xp_yield: 163
+stats: !ruby/object:Hash
+  :attack: 60
+  :defense: 95
+  :hp: 50
+  :special_attack: 120
+  :special_defense: 70
+  :speed: 70

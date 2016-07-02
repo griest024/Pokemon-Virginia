@@ -1,0 +1,12 @@
+--- !ruby/object:PKMN::Item::Berry
+plural_name: Haban Berries
+description: Weakens a supereffective Dragon-type attack against the holding Pokémon.
+permenant: false
+name: Haban Berry
+usability: !ruby/object:Hash
+  :battle: true
+  :overworld: true
+  :pokemon: true
+id: :habanberry
+price: 20
+hold_item: true

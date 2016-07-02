@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Flying Gems
+description: A gem with an essence of air. When held, it strengthens the power of a Flying-type move only once.
+permenant: false
+name: Flying Gem
+usability: !ruby/object:Hash {}
+id: :flyinggem
+price: 200
+hold_item: true

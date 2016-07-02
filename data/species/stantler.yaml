@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.4
+description: Stantler's magnificent antlers were once traded at high prices as works of art. As a result, this Pokémon was hunted close to extinction.
+hatch_steps: 5355
+type1: :normal
+happiness: 70
+kind: Big Horn
+number: '234'
+name: Stantler
+ev_yield: !ruby/object:Hash
+  :attack: 1
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 71.2
+id: :stantler
+catch_rate: 45
+xp_yield: 163
+stats: !ruby/object:Hash
+  :attack: 95
+  :defense: 62
+  :hp: 73
+  :special_attack: 85
+  :special_defense: 65
+  :speed: 85

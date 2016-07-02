@@ -1,0 +1,11 @@
+--- !ruby/object:PKMN::Item::TM
+plural_name: TM62s
+description: The user nimbly strikes the target. If the user is not holding an item, this attack inflicts massive damage.
+permenant: false
+name: TM62
+usability: !ruby/object:Hash
+  :overworld: true
+  :pokemon: true
+id: :tm62
+price: 3000
+hold_item: true

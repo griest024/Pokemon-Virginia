@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Blue Shards
+description: A small blue shard. It appears to be from some sort of implement made long ago.
+permenant: false
+name: Blue Shard
+usability: !ruby/object:Hash {}
+id: :blueshard
+price: 200
+hold_item: true

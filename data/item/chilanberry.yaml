@@ -1,0 +1,12 @@
+--- !ruby/object:PKMN::Item::Berry
+plural_name: Chilan Berries
+description: Weakens a Normal-type attack against the Pokémon holding this berry.
+permenant: false
+name: Chilan Berry
+usability: !ruby/object:Hash
+  :battle: true
+  :overworld: true
+  :pokemon: true
+id: :chilanberry
+price: 20
+hold_item: true

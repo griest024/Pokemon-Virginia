@@ -1,0 +1,12 @@
+--- !ruby/object:PKMN::Type::Type
+effects: !ruby/object:Hash
+  :bug: :little
+  :electric: :very
+  :fighting: :little
+  :grass: :little
+  :ground: :no
+  :ice: :very
+  :rock: :very
+name: Flying
+id: :flying
+type_class: :physical

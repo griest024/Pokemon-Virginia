@@ -1,0 +1,12 @@
+--- !ruby/object:PKMN::Item::Berry
+plural_name: Wacan Berries
+description: Weakens a supereffective Electric-type attack against the holding Pokémon.
+permenant: false
+name: Wacan Berry
+usability: !ruby/object:Hash
+  :battle: true
+  :overworld: true
+  :pokemon: true
+id: :wacanberry
+price: 20
+hold_item: true

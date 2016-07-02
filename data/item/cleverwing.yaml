@@ -1,0 +1,12 @@
+--- !ruby/object:PKMN::Item::Medicine
+plural_name: Clever Wings
+description: An item for use on a Pokémon. It slightly increases the base Sp. Def stat of a single Pokémon.
+permenant: false
+name: Clever Wing
+usability: !ruby/object:Hash
+  :battle: true
+  :overworld: true
+  :pokemon: true
+id: :cleverwing
+price: 3000
+hold_item: true

@@ -1,0 +1,10 @@
+--- !ruby/object:PKMN::Item::Ball
+plural_name: Level Balls
+description: A Poké Ball for catching Pokémon that are a lower level than your own.
+permenant: false
+name: Level Ball
+usability: !ruby/object:Hash
+  :battle: true
+id: :levelball
+price: 300
+hold_item: true

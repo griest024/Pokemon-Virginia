@@ -1,0 +1,10 @@
+--- !ruby/object:PKMN::Item::Ball
+plural_name: Premier Balls
+description: A somewhat rare Poké Ball that has been specially made to commemorate an event of some sort.
+permenant: false
+name: Premier Ball
+usability: !ruby/object:Hash
+  :battle: true
+id: :premierball
+price: 200
+hold_item: true

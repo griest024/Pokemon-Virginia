@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.5
+description: It savagely threatens foes with bared fangs. It chases after fleeing targets tenaciously. It turns tail and runs, however, if the foe strikes back.
+hatch_steps: 4080
+type1: :dark
+happiness: 70
+kind: Bite
+number: '261'
+name: Poochyena
+ev_yield: !ruby/object:Hash
+  :attack: 1
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 13.6
+id: :poochyena
+catch_rate: 255
+xp_yield: 44
+stats: !ruby/object:Hash
+  :attack: 55
+  :defense: 35
+  :hp: 35
+  :special_attack: 30
+  :special_defense: 30
+  :speed: 35

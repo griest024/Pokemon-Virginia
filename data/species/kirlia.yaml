@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.8
+description: A Kirlia has the psychic power to create a rip in the dimensions and see into the future. It is said to dance with pleasure on sunny mornings.
+hatch_steps: 5355
+type1: :psychic
+happiness: 35
+kind: Emotion
+number: '281'
+name: Kirlia
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 2
+  :special_defense: 0
+  :speed: 0
+weight: 20.2
+id: :kirlia
+catch_rate: 120
+xp_yield: 97
+stats: !ruby/object:Hash
+  :attack: 35
+  :defense: 35
+  :hp: 38
+  :special_attack: 65
+  :special_defense: 55
+  :speed: 50

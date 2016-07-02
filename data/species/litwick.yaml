@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.3
+description: While shining a light and pretending to be a guide, it leeches off the life force of any who follow it.
+hatch_steps: 5355
+type1: :ghost
+happiness: 70
+type2: :fire
+kind: Candle
+number: '607'
+name: Litwick
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 1
+  :special_defense: 0
+  :speed: 0
+weight: 3.1
+id: :litwick
+catch_rate: 190
+xp_yield: 55
+stats: !ruby/object:Hash
+  :attack: 30
+  :defense: 55
+  :hp: 50
+  :special_attack: 65
+  :special_defense: 55
+  :speed: 20

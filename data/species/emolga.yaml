@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.4
+description: They live on treetops and glide using the inside of a cape-like membrane while discharging electricity.
+hatch_steps: 5355
+type1: :electric
+happiness: 70
+type2: :flying
+kind: Sky Squirrel
+number: '587'
+name: Emolga
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 2
+weight: 5.0
+id: :emolga
+catch_rate: 200
+xp_yield: 150
+stats: !ruby/object:Hash
+  :attack: 75
+  :defense: 60
+  :hp: 55
+  :special_attack: 75
+  :special_defense: 60
+  :speed: 103

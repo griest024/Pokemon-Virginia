@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.6
+description: A Larvitar is born deep under the ground. It must eat its way through the soil above and reach the surface for it to see its parents' faces.
+hatch_steps: 10455
+type1: :rock
+happiness: 35
+type2: :ground
+kind: Rock Skin
+number: '246'
+name: Larvitar
+ev_yield: !ruby/object:Hash
+  :attack: 1
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 72.0
+id: :larvitar
+catch_rate: 45
+xp_yield: 60
+stats: !ruby/object:Hash
+  :attack: 64
+  :defense: 50
+  :hp: 50
+  :special_attack: 45
+  :special_defense: 50
+  :speed: 41

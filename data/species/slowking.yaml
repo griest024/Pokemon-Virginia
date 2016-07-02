@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 2.0
+description: It undertakes research every day to solve the mysteries of the world. However, it apparently forgets everything if the Shellder on its head comes off.
+hatch_steps: 5355
+type1: :water
+happiness: 70
+type2: :psychic
+kind: Royal
+number: '199'
+name: Slowking
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 3
+  :speed: 0
+weight: 79.5
+id: :slowking
+catch_rate: 70
+xp_yield: 172
+stats: !ruby/object:Hash
+  :attack: 75
+  :defense: 80
+  :hp: 95
+  :special_attack: 100
+  :special_defense: 110
+  :speed: 30

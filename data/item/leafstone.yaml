@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Leaf Stones
+description: A peculiar stone that makes certain species of Pokémon evolve. It has a leaf pattern.
+permenant: false
+name: Leaf Stone
+usability: !ruby/object:Hash {}
+id: :leafstone
+price: 2100
+hold_item: true

@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Comet Shards
+description: A shard which fell to the ground when a comet approached. A maniac will buy it for a high price.
+permenant: false
+name: Comet Shard
+usability: !ruby/object:Hash {}
+id: :cometshard
+price: 120000
+hold_item: true

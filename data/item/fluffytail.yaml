@@ -1,0 +1,11 @@
+--- !ruby/object:PKMN::Item::Battle
+plural_name: Fluffy Tails
+description: An item that attracts Pokémon. Use it to flee from any battle with a wild Pokémon.
+permenant: false
+name: Fluffy Tail
+usability: !ruby/object:Hash
+  :battle: true
+  :pokemon: true
+id: :fluffytail
+price: 1000
+hold_item: true

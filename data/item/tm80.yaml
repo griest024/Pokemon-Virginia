@@ -1,0 +1,11 @@
+--- !ruby/object:PKMN::Item::TM
+plural_name: TM80s
+description: Large boulders are hurled at the opposing team to inflict damage. They may also make the targets flinch.
+permenant: false
+name: TM80
+usability: !ruby/object:Hash
+  :overworld: true
+  :pokemon: true
+id: :tm80
+price: 3000
+hold_item: true

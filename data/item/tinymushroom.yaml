@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Tiny Mushrooms
+description: A small and rare mushroom. It is sought after by collectors.
+permenant: false
+name: Tiny Mushroom
+usability: !ruby/object:Hash {}
+id: :tinymushroom
+price: 500
+hold_item: true

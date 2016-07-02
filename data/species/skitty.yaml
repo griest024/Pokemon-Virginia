@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.6
+description: A Skitty's adorably cute behavior makes it highly popular. In battle, it makes its tail puff out. It threatens foes with a sharp growl.
+hatch_steps: 4080
+type1: :normal
+happiness: 70
+kind: Kitten
+number: '300'
+name: Skitty
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 1
+weight: 11.0
+id: :skitty
+catch_rate: 255
+xp_yield: 52
+stats: !ruby/object:Hash
+  :attack: 45
+  :defense: 45
+  :hp: 50
+  :special_attack: 35
+  :special_defense: 35
+  :speed: 50

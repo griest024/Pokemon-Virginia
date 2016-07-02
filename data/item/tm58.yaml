@@ -1,0 +1,11 @@
+--- !ruby/object:PKMN::Item::TM
+plural_name: TM58s
+description: The user hurls the target into the air, then drops it on the second turn. The target cannot attack while in the air.
+permenant: false
+name: TM58
+usability: !ruby/object:Hash
+  :overworld: true
+  :pokemon: true
+id: :tm58
+price: 2000
+hold_item: true

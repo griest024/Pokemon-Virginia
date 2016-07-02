@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.5
+description: If it senses sadness with its fluffy fur, a Blissey will rush over to the sad person, however far away, to share an egg of happiness that brings a smile to any face.
+hatch_steps: 10455
+type1: :normal
+happiness: 140
+kind: Happiness
+number: '242'
+name: Blissey
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 3
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 46.8
+id: :blissey
+catch_rate: 30
+xp_yield: 608
+stats: !ruby/object:Hash
+  :attack: 10
+  :defense: 10
+  :hp: 255
+  :special_attack: 75
+  :special_defense: 135
+  :speed: 55

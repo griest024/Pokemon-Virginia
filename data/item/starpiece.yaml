@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Star Pieces
+description: A shard of a pretty gem that sparkles in a red color. It can be sold at a high price to shops.
+permenant: false
+name: Star Piece
+usability: !ruby/object:Hash {}
+id: :starpiece
+price: 9800
+hold_item: true

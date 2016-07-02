@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Moon Stones
+description: A peculiar stone that makes certain species of Pokémon evolve. It is as black as the night sky.
+permenant: false
+name: Moon Stone
+usability: !ruby/object:Hash {}
+id: :moonstone
+price: 2100
+hold_item: true

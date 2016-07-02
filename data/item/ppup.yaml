@@ -1,0 +1,12 @@
+--- !ruby/object:PKMN::Item::Medicine
+plural_name: PP Ups
+description: It slightly raises the maximum PP of a selected move that has been learned by the target Pokémon.
+permenant: false
+name: PP Up
+usability: !ruby/object:Hash
+  :battle: true
+  :overworld: true
+  :pokemon: true
+id: :ppup
+price: 9800
+hold_item: true

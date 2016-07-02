@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 4.0
+description: A Dragonair stores an enormous amount of energy inside its body. It is said to alter the weather around it by loosing energy from the crystals on its neck and tail.
+hatch_steps: 10455
+type1: :dragon
+happiness: 35
+kind: Dragon
+number: '148'
+name: Dragonair
+ev_yield: !ruby/object:Hash
+  :attack: 2
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 16.5
+id: :dragonair
+catch_rate: 45
+xp_yield: 147
+stats: !ruby/object:Hash
+  :attack: 84
+  :defense: 65
+  :hp: 61
+  :special_attack: 70
+  :special_defense: 70
+  :speed: 70

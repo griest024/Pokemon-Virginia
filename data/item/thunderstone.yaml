@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Thunder Stones
+description: A peculiar stone that makes certain species of Pokémon evolve. It has a thunderbolt pattern.
+permenant: false
+name: Thunder Stone
+usability: !ruby/object:Hash {}
+id: :thunderstone
+price: 2100
+hold_item: true

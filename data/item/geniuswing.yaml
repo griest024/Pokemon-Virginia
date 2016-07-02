@@ -1,0 +1,12 @@
+--- !ruby/object:PKMN::Item::Medicine
+plural_name: Genius Wings
+description: An item for use on a Pokémon. It slightly increases the base Sp. Atk stat of a single Pokémon.
+permenant: false
+name: Genius Wing
+usability: !ruby/object:Hash
+  :battle: true
+  :overworld: true
+  :pokemon: true
+id: :geniuswing
+price: 3000
+hold_item: true

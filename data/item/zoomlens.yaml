@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Zoom Lenses
+description: An item to be held by a Pokémon. If the holder moves after its target, its accuracy will be boosted.
+permenant: false
+name: Zoom Lens
+usability: !ruby/object:Hash {}
+id: :zoomlens
+price: 200
+hold_item: true

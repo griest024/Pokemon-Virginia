@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.5
+description: When it starts shaking and its nasal breathing turns rough, it's a sure sign of anger. However, since this happens instantly, there is no time to flee.
+hatch_steps: 5355
+type1: :fighting
+happiness: 70
+kind: Pig Monkey
+number: '56'
+name: Mankey
+ev_yield: !ruby/object:Hash
+  :attack: 1
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 28.0
+id: :mankey
+catch_rate: 190
+xp_yield: 61
+stats: !ruby/object:Hash
+  :attack: 80
+  :defense: 35
+  :hp: 40
+  :special_attack: 35
+  :special_defense: 45
+  :speed: 70

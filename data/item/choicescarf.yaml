@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Choice Scarves
+description: An item to be held by a Pokémon. This scarf boosts Speed, but allows the use of only one of its moves.
+permenant: false
+name: Choice Scarf
+usability: !ruby/object:Hash {}
+id: :choicescarf
+price: 200
+hold_item: true

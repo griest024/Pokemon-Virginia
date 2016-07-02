@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::KeyItem
+plural_name: Poké Flutes
+permenant: false
+description: A flute that is said to instantly awaken any Pokémon. It has a lovely tone.
+name: Poké Flute
+usability: !ruby/object:Hash {}
+id: :pokeflute
+price: 7000
+hold_item: true

@@ -1,0 +1,11 @@
+--- !ruby/object:PKMN::Item::Battle
+plural_name: Item Urges
+description: When used, it causes an ally Pokémon to use its held item.
+permenant: false
+name: Item Urge
+usability: !ruby/object:Hash
+  :battle: true
+  :pokemon: true
+id: :itemurge
+price: 0
+hold_item: true

@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.9
+description: It attracts prey with a sweet aroma, then downs it with thorny whips hidden in its arms.
+hatch_steps: 5355
+type1: :grass
+happiness: 70
+type2: :poison
+kind: Bouquet
+number: '407'
+name: Roserade
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 3
+  :special_defense: 0
+  :speed: 0
+weight: 14.5
+id: :roserade
+catch_rate: 75
+xp_yield: 227
+stats: !ruby/object:Hash
+  :attack: 70
+  :defense: 55
+  :hp: 60
+  :special_attack: 125
+  :special_defense: 105
+  :speed: 90

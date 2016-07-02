@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.1
+description: A brutish Pokémon that loves to battle. A veteran Crawdaunt that has prevailed in hundreds of battles has giant pincers marked with countless scars.
+hatch_steps: 4080
+type1: :water
+happiness: 70
+type2: :dark
+kind: Rogue
+number: '342'
+name: Crawdaunt
+ev_yield: !ruby/object:Hash
+  :attack: 2
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 32.8
+id: :crawdaunt
+catch_rate: 155
+xp_yield: 164
+stats: !ruby/object:Hash
+  :attack: 120
+  :defense: 85
+  :hp: 63
+  :special_attack: 90
+  :special_defense: 55
+  :speed: 55

@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.7
+description: A Pokémon that has a body and wings of steel. People in the past used feathers fallen from Skarmory to make swords and knives.
+hatch_steps: 6630
+type1: :steel
+happiness: 70
+type2: :flying
+kind: Armor Bird
+number: '227'
+name: Skarmory
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 2
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 50.5
+id: :skarmory
+catch_rate: 25
+xp_yield: 163
+stats: !ruby/object:Hash
+  :attack: 80
+  :defense: 140
+  :hp: 65
+  :special_attack: 40
+  :special_defense: 70
+  :speed: 70

@@ -1,0 +1,11 @@
+--- !ruby/object:PKMN::Item::TM
+plural_name: TM04s
+description: The user quietly focuses its mind and calms its spirit to raise its Sp. Atk and Sp. Def stats.
+permenant: false
+name: TM04
+usability: !ruby/object:Hash
+  :overworld: true
+  :pokemon: true
+id: :tm04
+price: 1500
+hold_item: true

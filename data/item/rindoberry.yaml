@@ -1,0 +1,12 @@
+--- !ruby/object:PKMN::Item::Berry
+plural_name: Rindo Berries
+description: Weakens a supereffective Grass-type attack against the holding Pokémon.
+permenant: false
+name: Rindo Berry
+usability: !ruby/object:Hash
+  :battle: true
+  :overworld: true
+  :pokemon: true
+id: :rindoberry
+price: 20
+hold_item: true

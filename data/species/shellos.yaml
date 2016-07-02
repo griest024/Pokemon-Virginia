@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.3
+description: Its colors and shapes differ from region to region. In the Sinnoh region, two types are confirmed.
+hatch_steps: 5355
+type1: :water
+happiness: 70
+kind: Sea Slug
+number: '422'
+name: Shellos
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 1
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 6.3
+id: :shellos
+catch_rate: 190
+xp_yield: 65
+stats: !ruby/object:Hash
+  :attack: 48
+  :defense: 48
+  :hp: 76
+  :special_attack: 57
+  :special_defense: 62
+  :speed: 34

@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Red Cards
+description: A card with a mysterious power. When the holder is struck by a foe, the attacker is removed from battle.
+permenant: false
+name: Red Card
+usability: !ruby/object:Hash {}
+id: :redcard
+price: 200
+hold_item: true

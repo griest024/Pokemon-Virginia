@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.9
+description: Its horn, which rotates like a drill, destroys tall buildings with one strike. It stands on its hind legs, and its brain is well developed.
+hatch_steps: 5355
+type1: :ground
+happiness: 70
+type2: :rock
+kind: Drill
+number: '112'
+name: Rhydon
+ev_yield: !ruby/object:Hash
+  :attack: 2
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 120.0
+id: :rhydon
+catch_rate: 60
+xp_yield: 170
+stats: !ruby/object:Hash
+  :attack: 130
+  :defense: 120
+  :hp: 105
+  :special_attack: 45
+  :special_defense: 45
+  :speed: 40

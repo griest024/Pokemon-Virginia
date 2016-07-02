@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.7
+description: To withstand the crushing pressure of water deep under the sea, its spine is very thick and sturdy. Its tail, which is shaped like a small fish, has eyes that light up.
+hatch_steps: 5355
+type1: :water
+happiness: 70
+kind: Deep Sea
+number: '367'
+name: Huntail
+ev_yield: !ruby/object:Hash
+  :attack: 1
+  :defense: 1
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 27.0
+id: :huntail
+catch_rate: 60
+xp_yield: 170
+stats: !ruby/object:Hash
+  :attack: 104
+  :defense: 105
+  :hp: 55
+  :special_attack: 94
+  :special_defense: 75
+  :speed: 52

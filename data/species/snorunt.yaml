@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.7
+description: They tend to move about in groups of around five Snorunt. In snowy regions, it is said that when they are seen late at night, snowfall will arrive by morning.
+hatch_steps: 5355
+type1: :ice
+happiness: 70
+kind: Snow Hat
+number: '361'
+name: Snorunt
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 1
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 16.8
+id: :snorunt
+catch_rate: 190
+xp_yield: 60
+stats: !ruby/object:Hash
+  :attack: 50
+  :defense: 50
+  :hp: 50
+  :special_attack: 50
+  :special_defense: 50
+  :speed: 50

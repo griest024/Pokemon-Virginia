@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::KeyItem
+plural_name: Oval Charms
+permenant: false
+description: An oval charm said to increase the chance of Eggs being found at the Day Care.
+name: Oval Charm
+usability: !ruby/object:Hash {}
+id: :ovalcharm
+price: 0
+hold_item: true

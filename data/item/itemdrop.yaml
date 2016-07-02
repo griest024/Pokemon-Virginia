@@ -1,0 +1,11 @@
+--- !ruby/object:PKMN::Item::Battle
+plural_name: Item Drops
+description: When used, it causes an ally Pokémon to drop a held item.
+permenant: false
+name: Item Drop
+usability: !ruby/object:Hash
+  :battle: true
+  :pokemon: true
+id: :itemdrop
+price: 0
+hold_item: true

@@ -1,0 +1,11 @@
+--- !ruby/object:PKMN::Item::TM
+plural_name: TM83s
+description: The user is roused, and its Attack and Sp. Atk stats increase.
+permenant: false
+name: TM83
+usability: !ruby/object:Hash
+  :overworld: true
+  :pokemon: true
+id: :tm83
+price: 2000
+hold_item: true

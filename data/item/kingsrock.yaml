@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: King's Rocks
+description: An item to be held by a Pokémon. When the holder inflicts damage, the target may flinch.
+permenant: false
+name: King's Rock
+usability: !ruby/object:Hash {}
+id: :kingsrock
+price: 100
+hold_item: true

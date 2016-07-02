@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Root Fossils
+description: A fossil of an ancient Pokémon that lived in the sea. It appears to be part of a plant root.
+permenant: false
+name: Root Fossil
+usability: !ruby/object:Hash {}
+id: :rootfossil
+price: 1000
+hold_item: true

@@ -1,0 +1,11 @@
+--- !ruby/object:PKMN::Item::TM
+plural_name: TM32s
+description: By moving rapidly, the user makes illusory copies of itself to raise its evasiveness.
+permenant: false
+name: TM32
+usability: !ruby/object:Hash
+  :overworld: true
+  :pokemon: true
+id: :tm32
+price: 1000
+hold_item: true

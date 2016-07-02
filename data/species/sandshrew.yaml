@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.6
+description: When it curls up in a ball, it can make any attack bounce off harmlessly. Its hide has turned tough and solid as a result of living in the desert.
+hatch_steps: 5355
+type1: :ground
+happiness: 70
+kind: Mouse
+number: '27'
+name: Sandshrew
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 1
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 12.0
+id: :sandshrew
+catch_rate: 255
+xp_yield: 60
+stats: !ruby/object:Hash
+  :attack: 75
+  :defense: 85
+  :hp: 50
+  :special_attack: 20
+  :special_defense: 30
+  :speed: 40

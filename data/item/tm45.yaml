@@ -1,0 +1,11 @@
+--- !ruby/object:PKMN::Item::TM
+plural_name: TM45s
+description: If it is the opposite gender of the user, the target becomes infatuated and less likely to attack.
+permenant: false
+name: TM45
+usability: !ruby/object:Hash
+  :overworld: true
+  :pokemon: true
+id: :tm45
+price: 3000
+hold_item: true

@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::KeyItem
+plural_name: Soot Sacks
+permenant: false
+description: A sack used to gather and hold volcanic ash.
+name: Soot Sack
+usability: !ruby/object:Hash {}
+id: :sootsack
+price: 0
+hold_item: true

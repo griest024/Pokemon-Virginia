@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.3
+description: They flock in great numbers. Though small, they flap their wings with great power.
+hatch_steps: 4080
+type1: :normal
+happiness: 70
+type2: :flying
+kind: Starling
+number: '396'
+name: Starly
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 1
+weight: 2.0
+id: :starly
+catch_rate: 255
+xp_yield: 49
+stats: !ruby/object:Hash
+  :attack: 55
+  :defense: 30
+  :hp: 40
+  :special_attack: 30
+  :special_defense: 30
+  :speed: 60

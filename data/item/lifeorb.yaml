@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Life Orbs
+description: An item to be held by a Pokémon. It boosts the power of moves, but at the cost of some HP on each hit.
+permenant: false
+name: Life Orb
+usability: !ruby/object:Hash {}
+id: :lifeorb
+price: 200
+hold_item: true

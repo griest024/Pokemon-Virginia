@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.6
+description: Corsola live in warm southern seas. If the sea becomes polluted, the beautiful coral stalks become discolored and crumble away in tatters.
+hatch_steps: 5355
+type1: :water
+happiness: 70
+type2: :rock
+kind: Coral
+number: '222'
+name: Corsola
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 1
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 1
+  :speed: 0
+weight: 5.0
+id: :corsola
+catch_rate: 60
+xp_yield: 133
+stats: !ruby/object:Hash
+  :attack: 55
+  :defense: 85
+  :hp: 55
+  :special_attack: 65
+  :special_defense: 85
+  :speed: 35

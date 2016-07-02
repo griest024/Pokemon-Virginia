@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.0
+description: It crosses its knifelike arms in front of its chest when it cries. It can compose melodies ad lib.
+hatch_steps: 4080
+type1: :bug
+happiness: 70
+kind: Cricket
+number: '402'
+name: Kricketune
+ev_yield: !ruby/object:Hash
+  :attack: 2
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 25.5
+id: :kricketune
+catch_rate: 45
+xp_yield: 134
+stats: !ruby/object:Hash
+  :attack: 85
+  :defense: 51
+  :hp: 77
+  :special_attack: 55
+  :special_defense: 51
+  :speed: 65

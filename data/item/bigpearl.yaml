@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Big Pearls
+description: A quite-large pearl that sparkles in a pretty silver color. It can be sold at a high price to shops.
+permenant: false
+name: Big Pearl
+usability: !ruby/object:Hash {}
+id: :bigpearl
+price: 7500
+hold_item: true

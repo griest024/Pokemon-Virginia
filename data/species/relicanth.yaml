@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.0
+description: A Pokémon that was once believed to have been extinct. The species has not changed its form for 100 million years. It walks on the seafloor using its pectoral fins.
+hatch_steps: 10455
+type1: :water
+happiness: 70
+type2: :rock
+kind: Longevity
+number: '369'
+name: Relicanth
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 1
+  :hp: 1
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 23.4
+id: :relicanth
+catch_rate: 25
+xp_yield: 170
+stats: !ruby/object:Hash
+  :attack: 90
+  :defense: 130
+  :hp: 100
+  :special_attack: 45
+  :special_defense: 65
+  :speed: 55

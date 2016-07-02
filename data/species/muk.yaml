@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.2
+description: It prefers warm and humid habitats. In the summertime, the toxic substances in its body intensify, making Muk reek like putrid kitchen garbage.
+hatch_steps: 5355
+type1: :poison
+happiness: 70
+kind: Sludge
+number: '89'
+name: Muk
+ev_yield: !ruby/object:Hash
+  :attack: 1
+  :defense: 0
+  :hp: 1
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 30.0
+id: :muk
+catch_rate: 75
+xp_yield: 175
+stats: !ruby/object:Hash
+  :attack: 105
+  :defense: 75
+  :hp: 105
+  :special_attack: 65
+  :special_defense: 100
+  :speed: 50

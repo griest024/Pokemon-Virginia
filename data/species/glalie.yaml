@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.5
+description: A Glalie has the power to instantaneously freeze moisture in the atmosphere. A dazzling cloud of diamondlike ice crystals forms around its body.
+hatch_steps: 5355
+type1: :ice
+happiness: 70
+kind: Face
+number: '362'
+name: Glalie
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 2
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 256.5
+id: :glalie
+catch_rate: 75
+xp_yield: 168
+stats: !ruby/object:Hash
+  :attack: 80
+  :defense: 80
+  :hp: 80
+  :special_attack: 80
+  :special_defense: 80
+  :speed: 80

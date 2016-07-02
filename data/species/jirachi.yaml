@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.3
+description: Jirachi is said to make wishes come true. While it sleeps, a tough crystalline shell envelops the body to protect it from enemies.
+hatch_steps: 30855
+type1: :steel
+happiness: 100
+type2: :psychic
+kind: Wish
+number: '385'
+name: Jirachi
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 3
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 1.1
+id: :jirachi
+catch_rate: 3
+xp_yield: 270
+stats: !ruby/object:Hash
+  :attack: 100
+  :defense: 100
+  :hp: 100
+  :special_attack: 100
+  :special_defense: 100
+  :speed: 100

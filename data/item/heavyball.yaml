@@ -1,0 +1,10 @@
+--- !ruby/object:PKMN::Item::Ball
+plural_name: Heavy Balls
+description: A Poké Ball for catching very heavy Pokémon.
+permenant: false
+name: Heavy Ball
+usability: !ruby/object:Hash
+  :battle: true
+id: :heavyball
+price: 300
+hold_item: true

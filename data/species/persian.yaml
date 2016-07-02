@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.0
+description: A Persian's six bold whiskers sense air movements to determine what is in its vicinity. It becomes docile if grabbed by the whiskers.
+hatch_steps: 5355
+type1: :normal
+happiness: 70
+kind: Classy Cat
+number: '53'
+name: Persian
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 2
+weight: 32.0
+id: :persian
+catch_rate: 90
+xp_yield: 154
+stats: !ruby/object:Hash
+  :attack: 70
+  :defense: 60
+  :hp: 65
+  :special_attack: 65
+  :special_defense: 65
+  :speed: 115

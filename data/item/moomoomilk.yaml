@@ -1,0 +1,12 @@
+--- !ruby/object:PKMN::Item::Medicine
+plural_name: Moomoo Milks
+description: Milk with a very high nutrition content. It restores the HP of one Pokémon by 100 points.
+permenant: false
+name: Moomoo Milk
+usability: !ruby/object:Hash
+  :battle: true
+  :overworld: true
+  :pokemon: true
+id: :moomoomilk
+price: 500
+hold_item: true

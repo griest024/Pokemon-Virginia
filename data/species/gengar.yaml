@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.5
+description: Deep in the night, your shadow cast by a streetlight may suddenly overtake you. It is actually a Gengar running past you, pretending to be your shadow.
+hatch_steps: 5355
+type1: :ghost
+happiness: 70
+type2: :poison
+kind: Shadow
+number: '94'
+name: Gengar
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 3
+  :special_defense: 0
+  :speed: 0
+weight: 40.5
+id: :gengar
+catch_rate: 45
+xp_yield: 225
+stats: !ruby/object:Hash
+  :attack: 65
+  :defense: 60
+  :hp: 60
+  :special_attack: 130
+  :special_defense: 75
+  :speed: 110

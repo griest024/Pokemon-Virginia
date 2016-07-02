@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Blk Apricorns
+description: A black Apricorn. It has an indescribable scent.
+permenant: false
+name: Blk Apricorn
+usability: !ruby/object:Hash {}
+id: :blkapricorn
+price: 200
+hold_item: true

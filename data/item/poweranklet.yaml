@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Power Anklets
+description: A Pokémon held item that promotes Speed gain on leveling, but reduces the Speed stat.
+permenant: false
+name: Power Anklet
+usability: !ruby/object:Hash {}
+id: :poweranklet
+price: 3000
+hold_item: true

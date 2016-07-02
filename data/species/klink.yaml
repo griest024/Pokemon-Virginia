@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.3
+description: Interlocking two bodies and spinning around generates the energy they need to live.
+hatch_steps: 5355
+type1: :steel
+happiness: 70
+kind: Gear
+number: '599'
+name: Klink
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 1
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 21.0
+id: :klink
+catch_rate: 130
+xp_yield: 60
+stats: !ruby/object:Hash
+  :attack: 55
+  :defense: 70
+  :hp: 40
+  :special_attack: 45
+  :special_defense: 60
+  :speed: 30

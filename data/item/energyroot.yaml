@@ -1,0 +1,12 @@
+--- !ruby/object:PKMN::Item::Medicine
+plural_name: Energy Roots
+description: A very bitter root. It restores the HP of one Pokémon by 200 points.
+permenant: false
+name: Energy Root
+usability: !ruby/object:Hash
+  :battle: true
+  :overworld: true
+  :pokemon: true
+id: :energyroot
+price: 800
+hold_item: true

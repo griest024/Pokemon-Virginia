@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.8
+description: A Dratini continually molts and sloughs off its old skin. It does so because the life energy within its body steadily builds to reach uncontrollable levels.
+hatch_steps: 10455
+type1: :dragon
+happiness: 35
+kind: Dragon
+number: '147'
+name: Dratini
+ev_yield: !ruby/object:Hash
+  :attack: 1
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 3.3
+id: :dratini
+catch_rate: 45
+xp_yield: 60
+stats: !ruby/object:Hash
+  :attack: 64
+  :defense: 45
+  :hp: 41
+  :special_attack: 50
+  :special_defense: 50
+  :speed: 50

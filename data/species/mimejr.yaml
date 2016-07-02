@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.6
+description: It habitually mimics foes. Once mimicked, the foe cannot take its eyes off this Pokémon.
+hatch_steps: 6630
+type1: :psychic
+happiness: 70
+kind: Mime
+number: '439'
+name: Mime Jr.
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 1
+  :speed: 0
+weight: 13.0
+id: :mimejr
+catch_rate: 145
+xp_yield: 62
+stats: !ruby/object:Hash
+  :attack: 25
+  :defense: 45
+  :hp: 20
+  :special_attack: 70
+  :special_defense: 90
+  :speed: 60

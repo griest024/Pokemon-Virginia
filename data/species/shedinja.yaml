@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.8
+description: A peculiar Pokémon that floats in air even though its wings remain completely still. The inside of its body is hollow and utterly dark.
+hatch_steps: 4080
+type1: :bug
+happiness: 70
+type2: :ghost
+kind: Shed
+number: '292'
+name: Shedinja
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 2
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 1.2
+id: :shedinja
+catch_rate: 45
+xp_yield: 83
+stats: !ruby/object:Hash
+  :attack: 90
+  :defense: 45
+  :hp: 1
+  :special_attack: 30
+  :special_defense: 30
+  :speed: 40

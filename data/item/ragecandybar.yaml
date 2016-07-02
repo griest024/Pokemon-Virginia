@@ -1,0 +1,12 @@
+--- !ruby/object:PKMN::Item::Medicine
+plural_name: Rage Candy Bars
+description: A famous Mahogany Town candy tourists like to buy and take home. It restores the HP of one Pokémon by 20 points.
+permenant: false
+name: Rage Candy Bar
+usability: !ruby/object:Hash
+  :battle: true
+  :overworld: true
+  :pokemon: true
+id: :ragecandybar
+price: 400
+hold_item: true

@@ -1,0 +1,10 @@
+--- !ruby/object:PKMN::Type::Type
+effects: !ruby/object:Hash
+  :fighting: :very
+  :fire: :very
+  :ice: :little
+  :rock: :very
+  :steel: :very
+name: Ice
+id: :ice
+type_class: :special

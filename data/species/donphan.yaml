@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.1
+description: A Donphan is so strong it can easily haul a dump truck. Its hide has toughened to a rock-hard state. An ordinary sort of attack won't even leave a scratch.
+hatch_steps: 5355
+type1: :ground
+happiness: 70
+kind: Armor
+number: '232'
+name: Donphan
+ev_yield: !ruby/object:Hash
+  :attack: 1
+  :defense: 1
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 120.0
+id: :donphan
+catch_rate: 60
+xp_yield: 175
+stats: !ruby/object:Hash
+  :attack: 120
+  :defense: 120
+  :hp: 90
+  :special_attack: 60
+  :special_defense: 60
+  :speed: 50

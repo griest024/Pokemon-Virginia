@@ -1,0 +1,12 @@
+--- !ruby/object:PKMN::Item::Medicine
+plural_name: Max Revives
+description: A medicine that revives a fainted Pokémon. It fully restores the Pokémon's HP.
+permenant: false
+name: Max Revive
+usability: !ruby/object:Hash
+  :battle: true
+  :overworld: true
+  :pokemon: true
+id: :maxrevive
+price: 4000
+hold_item: true

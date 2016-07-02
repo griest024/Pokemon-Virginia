@@ -1,0 +1,12 @@
+--- !ruby/object:PKMN::Item::Berry
+plural_name: Liechi Berries
+description: If held by a Pokémon, it raises its Attack stat in a pinch.
+permenant: false
+name: Liechi Berry
+usability: !ruby/object:Hash
+  :battle: true
+  :overworld: true
+  :pokemon: true
+id: :liechiberry
+price: 20
+hold_item: true

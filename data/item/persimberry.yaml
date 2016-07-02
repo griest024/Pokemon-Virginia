@@ -1,0 +1,12 @@
+--- !ruby/object:PKMN::Item::Berry
+plural_name: Persim Berries
+description: It may be used or held by a Pokémon to recover from confusion.
+permenant: false
+name: Persim Berry
+usability: !ruby/object:Hash
+  :battle: true
+  :overworld: true
+  :pokemon: true
+id: :persimberry
+price: 20
+hold_item: true

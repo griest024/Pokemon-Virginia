@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 2.2
+description: It whips up blizzards in mountains that are always buried in snow. It is the abominable snowman.
+hatch_steps: 5355
+type1: :grass
+happiness: 70
+type2: :ice
+kind: Frost Tree
+number: '460'
+name: Abomasnow
+ev_yield: !ruby/object:Hash
+  :attack: 1
+  :defense: 0
+  :hp: 0
+  :special_attack: 1
+  :special_defense: 0
+  :speed: 0
+weight: 135.5
+id: :abomasnow
+catch_rate: 60
+xp_yield: 173
+stats: !ruby/object:Hash
+  :attack: 92
+  :defense: 75
+  :hp: 90
+  :special_attack: 92
+  :special_defense: 85
+  :speed: 60

@@ -1,0 +1,11 @@
+--- !ruby/object:PKMN::Item::TM
+plural_name: TM54s
+description: A restrained attack that prevents the target from fainting. The target is left with at least 1 HP.
+permenant: false
+name: TM54
+usability: !ruby/object:Hash
+  :overworld: true
+  :pokemon: true
+id: :tm54
+price: 2000
+hold_item: true

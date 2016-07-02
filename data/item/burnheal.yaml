@@ -1,0 +1,12 @@
+--- !ruby/object:PKMN::Item::Medicine
+plural_name: Burn Heals
+description: A spray-type medicine. It heals a single Pokémon that is suffering from a burn.
+permenant: false
+name: Burn Heal
+usability: !ruby/object:Hash
+  :battle: true
+  :overworld: true
+  :pokemon: true
+id: :burnheal
+price: 250
+hold_item: true

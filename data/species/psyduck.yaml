@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.8
+description: When its headache intensifies, it starts using strange powers. However, it has no recollection of its powers, so it always looks befuddled and bewildered.
+hatch_steps: 5355
+type1: :water
+happiness: 70
+kind: Duck
+number: '54'
+name: Psyduck
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 1
+  :special_defense: 0
+  :speed: 0
+weight: 19.6
+id: :psyduck
+catch_rate: 190
+xp_yield: 64
+stats: !ruby/object:Hash
+  :attack: 52
+  :defense: 48
+  :hp: 50
+  :special_attack: 65
+  :special_defense: 50
+  :speed: 55

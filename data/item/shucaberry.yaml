@@ -1,0 +1,12 @@
+--- !ruby/object:PKMN::Item::Berry
+plural_name: Shuca Berries
+description: Weakens a supereffective Ground-type attack against the holding Pokémon.
+permenant: false
+name: Shuca Berry
+usability: !ruby/object:Hash
+  :battle: true
+  :overworld: true
+  :pokemon: true
+id: :shucaberry
+price: 20
+hold_item: true

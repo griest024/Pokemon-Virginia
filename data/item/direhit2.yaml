@@ -1,0 +1,11 @@
+--- !ruby/object:PKMN::Item::Battle
+plural_name: Dire Hit 2s
+description: It can be used many times to raise the critical-hit ratio of one Pokémon. It wears off if the Pokémon is withdrawn.
+permenant: false
+name: Dire Hit 2
+usability: !ruby/object:Hash
+  :battle: true
+  :pokemon: true
+id: :direhit2
+price: 0
+hold_item: true

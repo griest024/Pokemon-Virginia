@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.4
+description: It is not satisfied unless it is rampaging at all times. If there is no opponent for Tauros to battle, it will charge at thick trees and knock them down to calm itself.
+hatch_steps: 5355
+type1: :normal
+happiness: 70
+kind: Wild Bull
+number: '128'
+name: Tauros
+ev_yield: !ruby/object:Hash
+  :attack: 1
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 1
+weight: 88.4
+id: :tauros
+catch_rate: 45
+xp_yield: 172
+stats: !ruby/object:Hash
+  :attack: 100
+  :defense: 95
+  :hp: 75
+  :special_attack: 40
+  :special_defense: 70
+  :speed: 110

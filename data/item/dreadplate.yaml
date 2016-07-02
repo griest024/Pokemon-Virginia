@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Dread Plates
+description: An item to be held by a Pokémon. It is a stone tablet that boosts the power of Dark-type moves.
+permenant: false
+name: Dread Plate
+usability: !ruby/object:Hash {}
+id: :dreadplate
+price: 1000
+hold_item: true

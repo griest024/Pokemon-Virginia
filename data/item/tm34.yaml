@@ -1,0 +1,11 @@
+--- !ruby/object:PKMN::Item::TM
+plural_name: TM34s
+description: It swamps the area around the user with a giant sludge wave. It may also poison those hit.
+permenant: false
+name: TM34
+usability: !ruby/object:Hash
+  :overworld: true
+  :pokemon: true
+id: :tm34
+price: 3000
+hold_item: true

@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.3
+description: Any frontal attack is repulsed. It is a docile Pokémon that feeds on grass and berries.
+hatch_steps: 7905
+type1: :rock
+happiness: 70
+type2: :steel
+kind: Shield
+number: '411'
+name: Bastiodon
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 2
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 149.5
+id: :bastiodon
+catch_rate: 45
+xp_yield: 173
+stats: !ruby/object:Hash
+  :attack: 52
+  :defense: 168
+  :hp: 60
+  :special_attack: 47
+  :special_defense: 138
+  :speed: 30

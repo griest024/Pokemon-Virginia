@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.5
+description: When it senses danger, it discharges positive and negative electricity from its two antennae. It lives in depths beyond sunlight's reach.
+hatch_steps: 5355
+type1: :water
+happiness: 70
+type2: :electric
+kind: Angler
+number: '170'
+name: Chinchou
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 1
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 12.0
+id: :chinchou
+catch_rate: 190
+xp_yield: 66
+stats: !ruby/object:Hash
+  :attack: 38
+  :defense: 38
+  :hp: 75
+  :special_attack: 56
+  :special_defense: 56
+  :speed: 67

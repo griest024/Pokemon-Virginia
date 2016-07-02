@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Spell Tags
+description: An item to be held by a Pokémon. It is a sinister, eerie tag that boosts the power of Ghost-type moves.
+permenant: false
+name: Spell Tag
+usability: !ruby/object:Hash {}
+id: :spelltag
+price: 100
+hold_item: true

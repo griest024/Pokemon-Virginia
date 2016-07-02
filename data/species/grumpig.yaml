@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.9
+description: It stores power in the black pearls on its forehead. When it uses psychic power, it performs an odd dance step. Its style of dancing became hugely popular overseas.
+hatch_steps: 5355
+type1: :psychic
+happiness: 70
+kind: Manipulate
+number: '326'
+name: Grumpig
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 2
+  :speed: 0
+weight: 71.5
+id: :grumpig
+catch_rate: 60
+xp_yield: 165
+stats: !ruby/object:Hash
+  :attack: 45
+  :defense: 65
+  :hp: 80
+  :special_attack: 90
+  :special_defense: 110
+  :speed: 80

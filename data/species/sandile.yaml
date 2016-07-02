@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.7
+description: It moves along below the sand's surface, except for its nose and eyes. A dark membrane shields its eyes from the sun.
+hatch_steps: 5355
+type1: :ground
+happiness: 70
+type2: :dark
+kind: Desert Croc
+number: '551'
+name: Sandile
+ev_yield: !ruby/object:Hash
+  :attack: 1
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 15.2
+id: :sandile
+catch_rate: 180
+xp_yield: 58
+stats: !ruby/object:Hash
+  :attack: 72
+  :defense: 35
+  :hp: 50
+  :special_attack: 35
+  :special_defense: 35
+  :speed: 65

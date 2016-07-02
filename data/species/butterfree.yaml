@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.1
+description: It has a superior ability to search for delicious honey from flowers. It can seek, extract, and carry honey from flowers blooming over six miles away.
+hatch_steps: 4080
+type1: :bug
+happiness: 70
+type2: :flying
+kind: Butterfly
+number: '12'
+name: Butterfree
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 2
+  :special_defense: 1
+  :speed: 0
+weight: 32.0
+id: :butterfree
+catch_rate: 45
+xp_yield: 173
+stats: !ruby/object:Hash
+  :attack: 45
+  :defense: 50
+  :hp: 60
+  :special_attack: 80
+  :special_defense: 80
+  :speed: 70

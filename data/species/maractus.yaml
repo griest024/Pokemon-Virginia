@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.0
+description: Arid regions are their habitat. They move rhythmically, making a sound similar to maracas.
+hatch_steps: 5355
+type1: :grass
+happiness: 70
+kind: Cactus
+number: '556'
+name: Maractus
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 2
+  :special_defense: 0
+  :speed: 0
+weight: 28.0
+id: :maractus
+catch_rate: 255
+xp_yield: 161
+stats: !ruby/object:Hash
+  :attack: 86
+  :defense: 67
+  :hp: 75
+  :special_attack: 106
+  :special_defense: 67
+  :speed: 60

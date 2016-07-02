@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Dawn Stones
+description: A peculiar stone that makes certain species of Pokémon evolve. It sparkles like eyes.
+permenant: false
+name: Dawn Stone
+usability: !ruby/object:Hash {}
+id: :dawnstone
+price: 2100
+hold_item: true

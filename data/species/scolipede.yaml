@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 2.5
+description: Highly aggressive, it uses the claws near its neck to dig into its opponents and poison them.
+hatch_steps: 5355
+type1: :bug
+happiness: 70
+type2: :poison
+kind: Megapede
+number: '545'
+name: Scolipede
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 3
+weight: 200.5
+id: :scolipede
+catch_rate: 45
+xp_yield: 214
+stats: !ruby/object:Hash
+  :attack: 90
+  :defense: 89
+  :hp: 60
+  :special_attack: 55
+  :special_defense: 69
+  :speed: 112

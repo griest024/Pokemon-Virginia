@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.8
+description: Their sturdy tusks will stay sharp even if used to cut steel beams. These Pokémon are covered in hard armor.
+hatch_steps: 10455
+type1: :dragon
+happiness: 35
+kind: Axe Jaw
+number: '612'
+name: Haxorus
+ev_yield: !ruby/object:Hash
+  :attack: 3
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 105.5
+id: :haxorus
+catch_rate: 45
+xp_yield: 243
+stats: !ruby/object:Hash
+  :attack: 147
+  :defense: 90
+  :hp: 76
+  :special_attack: 60
+  :special_defense: 70
+  :speed: 97

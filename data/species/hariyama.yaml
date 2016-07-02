@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 2.3
+description: It has the habit of challenging others without hesitation to tests of strength. It's been known to stand on train tracks and stop trains using forearm thrusts.
+hatch_steps: 5355
+type1: :fighting
+happiness: 70
+kind: Arm Thrust
+number: '297'
+name: Hariyama
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 2
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 253.8
+id: :hariyama
+catch_rate: 200
+xp_yield: 166
+stats: !ruby/object:Hash
+  :attack: 120
+  :defense: 60
+  :hp: 144
+  :special_attack: 40
+  :special_defense: 60
+  :speed: 50

@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Zap Plates
+description: An item to be held by a Pokémon. It is a stone tablet that boosts the power of Electric-type moves.
+permenant: false
+name: Zap Plate
+usability: !ruby/object:Hash {}
+id: :zapplate
+price: 1000
+hold_item: true

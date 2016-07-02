@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.6
+description: They charge wildly and headbutt everything. They headbutts have enough destructive force to derail a train.
+hatch_steps: 5355
+type1: :normal
+happiness: 70
+kind: Bash Buffalo
+number: '626'
+name: Bouffalant
+ev_yield: !ruby/object:Hash
+  :attack: 2
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 94.6
+id: :bouffalant
+catch_rate: 45
+xp_yield: 172
+stats: !ruby/object:Hash
+  :attack: 110
+  :defense: 95
+  :hp: 95
+  :special_attack: 40
+  :special_defense: 95
+  :speed: 55

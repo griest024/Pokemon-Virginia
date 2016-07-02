@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Air Balloons
+description: When held by a Pokémon, the Pokémon will float into the air. When the holder is attacked, this item will burst.
+permenant: false
+name: Air Balloon
+usability: !ruby/object:Hash {}
+id: :airballoon
+price: 200
+hold_item: true

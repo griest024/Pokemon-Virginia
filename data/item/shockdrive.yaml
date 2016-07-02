@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Shock Drives
+description: A cassette to be held by Genesect. It changes Techno Blast to an Electric-type move.
+permenant: false
+name: Shock Drive
+usability: !ruby/object:Hash {}
+id: :shockdrive
+price: 1000
+hold_item: true

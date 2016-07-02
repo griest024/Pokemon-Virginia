@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.9
+description: Its horn is harder than a diamond. If it senses a hostile presence, all the barbs on its back bristle up at once, and it challenges the foe with all its might.
+hatch_steps: 5355
+type1: :poison
+happiness: 70
+kind: Poison Pin
+number: '33'
+name: Nidorino
+ev_yield: !ruby/object:Hash
+  :attack: 2
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 19.5
+id: :nidorino
+catch_rate: 120
+xp_yield: 128
+stats: !ruby/object:Hash
+  :attack: 72
+  :defense: 57
+  :hp: 61
+  :special_attack: 55
+  :special_defense: 55
+  :speed: 65

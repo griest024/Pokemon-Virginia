@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.1
+description: Stealthily, it sneaks up on its target, striking from behind before its victim has a chance to react.
+hatch_steps: 5355
+type1: :dark
+happiness: 70
+kind: Cruel
+number: '510'
+name: Liepard
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 2
+weight: 37.5
+id: :liepard
+catch_rate: 90
+xp_yield: 156
+stats: !ruby/object:Hash
+  :attack: 88
+  :defense: 50
+  :hp: 64
+  :special_attack: 88
+  :special_defense: 50
+  :speed: 106

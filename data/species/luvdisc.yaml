@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.6
+description: Luvdisc make the branches of Corsola their nests. There is a custom from long ago of giving a Luvdisc as a gift to express one's feelings of love.
+hatch_steps: 5355
+type1: :water
+happiness: 70
+kind: Rendezvous
+number: '370'
+name: Luvdisc
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 1
+weight: 8.7
+id: :luvdisc
+catch_rate: 225
+xp_yield: 116
+stats: !ruby/object:Hash
+  :attack: 30
+  :defense: 55
+  :hp: 43
+  :special_attack: 40
+  :special_defense: 65
+  :speed: 97

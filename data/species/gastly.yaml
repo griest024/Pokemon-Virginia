@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.3
+description: When exposed to a strong wind, a Gastly's gaseous body quickly dwindles away. They cluster under the eaves of houses to escape the ravages of wind.
+hatch_steps: 5355
+type1: :ghost
+happiness: 70
+type2: :poison
+kind: Gas
+number: '92'
+name: Gastly
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 1
+  :special_defense: 0
+  :speed: 0
+weight: 0.1
+id: :gastly
+catch_rate: 190
+xp_yield: 62
+stats: !ruby/object:Hash
+  :attack: 35
+  :defense: 30
+  :hp: 30
+  :special_attack: 100
+  :special_defense: 35
+  :speed: 80

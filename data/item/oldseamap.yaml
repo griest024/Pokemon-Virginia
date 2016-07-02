@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::KeyItem
+plural_name: Old Sea Maps
+permenant: false
+description: A faded sea chart that shows the way to a certain island.
+name: Old Sea Map
+usability: !ruby/object:Hash {}
+id: :oldseamap
+price: 0
+hold_item: true

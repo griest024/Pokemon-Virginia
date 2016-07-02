@@ -1,0 +1,11 @@
+--- !ruby/object:PKMN::Item::TM
+plural_name: HM03s
+description: It swamps the area around the user with a giant wave. It can also be used for crossing water.
+permenant: false
+name: HM03
+usability: !ruby/object:Hash
+  :overworld: true
+  :pokemon: true
+id: :hm03
+price: 0
+hold_item: true

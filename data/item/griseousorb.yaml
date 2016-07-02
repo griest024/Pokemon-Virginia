@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Griseous Orbs
+description: A glowing orb to be held by Giratina. It boosts the power of Dragon- and Ghost-type moves.
+permenant: false
+name: Griseous Orb
+usability: !ruby/object:Hash {}
+id: :griseousorb
+price: 10000
+hold_item: true

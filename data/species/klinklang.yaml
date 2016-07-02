@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.6
+description: The gear with the red core is rotated at high speed for a rapid energy charge.
+hatch_steps: 5355
+type1: :steel
+happiness: 70
+kind: Gear
+number: '601'
+name: Klinklang
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 3
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 81.0
+id: :klinklang
+catch_rate: 30
+xp_yield: 234
+stats: !ruby/object:Hash
+  :attack: 100
+  :defense: 115
+  :hp: 60
+  :special_attack: 70
+  :special_defense: 85
+  :speed: 90

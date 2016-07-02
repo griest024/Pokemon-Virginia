@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.0
+description: Its vines snap off easily and painlessly if they are grabbed, allowing it to make a quick getaway. The lost vines are replaced by new growth the very next day.
+hatch_steps: 5355
+type1: :grass
+happiness: 70
+kind: Vine
+number: '114'
+name: Tangela
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 1
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 35.0
+id: :tangela
+catch_rate: 45
+xp_yield: 87
+stats: !ruby/object:Hash
+  :attack: 55
+  :defense: 115
+  :hp: 65
+  :special_attack: 100
+  :special_defense: 40
+  :speed: 60

@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.3
+description: A Ditto rearranges its cell structure to transform itself. However, if it tries to change based on its memory, it will get details wrong.
+hatch_steps: 5355
+type1: :normal
+happiness: 70
+kind: Transform
+number: '132'
+name: Ditto
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 1
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 4.0
+id: :ditto
+catch_rate: 35
+xp_yield: 101
+stats: !ruby/object:Hash
+  :attack: 48
+  :defense: 48
+  :hp: 48
+  :special_attack: 48
+  :special_defense: 48
+  :speed: 48

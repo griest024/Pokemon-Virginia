@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::KeyItem
+plural_name: Aurora Tickets
+permenant: false
+description: A ticket required to board the ship to Doxy Island. It glows beautifully.
+name: Aurora Ticket
+usability: !ruby/object:Hash {}
+id: :auroraticket
+price: 0
+hold_item: true

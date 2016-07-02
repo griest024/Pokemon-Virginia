@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Skull Fossils
+description: A fossil from a prehistoric Pokémon that lived on the land. It appears to be part of a head.
+permenant: false
+name: Skull Fossil
+usability: !ruby/object:Hash {}
+id: :skullfossil
+price: 1000
+hold_item: true

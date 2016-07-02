@@ -1,0 +1,12 @@
+--- !ruby/object:PKMN::Item::Berry
+plural_name: Rowap Berries
+description: If held by a Pokémon and a special attack lands, the attacker also takes damage.
+permenant: false
+name: Rowap Berry
+usability: !ruby/object:Hash
+  :battle: true
+  :overworld: true
+  :pokemon: true
+id: :rowapberry
+price: 20
+hold_item: true

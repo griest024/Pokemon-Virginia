@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Electirizers
+description: A box packed with a tremendous amount of electric energy. It is loved by a certain Pokémon.
+permenant: false
+name: Electirizer
+usability: !ruby/object:Hash {}
+id: :electirizer
+price: 2100
+hold_item: true

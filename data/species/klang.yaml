@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.6
+description: Spinning minigears are rotated at high speed and repeatedly fired away. It is dangerous if the gears don't return.
+hatch_steps: 5355
+type1: :steel
+happiness: 70
+kind: Gear
+number: '600'
+name: Klang
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 2
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 51.0
+id: :klang
+catch_rate: 60
+xp_yield: 154
+stats: !ruby/object:Hash
+  :attack: 80
+  :defense: 95
+  :hp: 60
+  :special_attack: 70
+  :special_defense: 85
+  :speed: 50

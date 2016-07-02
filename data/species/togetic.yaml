@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.6
+description: It is said to be a Pokémon that brings good fortune. When it spots someone who is pure of heart, a Togetic appears and shares its happiness with that person.
+hatch_steps: 2805
+type1: :normal
+happiness: 70
+type2: :flying
+kind: Happiness
+number: '176'
+name: Togetic
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 2
+  :speed: 0
+weight: 3.2
+id: :togetic
+catch_rate: 75
+xp_yield: 142
+stats: !ruby/object:Hash
+  :attack: 40
+  :defense: 85
+  :hp: 55
+  :special_attack: 80
+  :special_defense: 105
+  :speed: 40

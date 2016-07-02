@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Adamant Orbs
+description: A brightly gleaming orb to be held by Dialga. It boosts the power of Dragon- and Steel-type moves.
+permenant: false
+name: Adamant Orb
+usability: !ruby/object:Hash {}
+id: :adamantorb
+price: 10000
+hold_item: true

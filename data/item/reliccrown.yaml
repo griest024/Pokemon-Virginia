@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Relic Crowns
+description: A crown made in a civilization about 3,000 years ago. A maniac will buy it for a high price.
+permenant: false
+name: Relic Crown
+usability: !ruby/object:Hash {}
+id: :reliccrown
+price: 600000
+hold_item: true

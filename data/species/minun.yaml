@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.4
+description: At a meeting of Pokémon academics, it was announced that simultaneous exposure to electricity from a Plusle and Minun will promote circulation and boost vitality.
+hatch_steps: 5355
+type1: :electric
+happiness: 70
+kind: Cheering
+number: '312'
+name: Minun
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 1
+weight: 4.2
+id: :minun
+catch_rate: 200
+xp_yield: 142
+stats: !ruby/object:Hash
+  :attack: 40
+  :defense: 50
+  :hp: 60
+  :special_attack: 75
+  :special_defense: 85
+  :speed: 95

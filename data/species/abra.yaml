@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.9
+description: A Pokémon that sleeps 18 hours a day. Observation revealed that it uses Teleport to change its location once every hour.
+hatch_steps: 5355
+type1: :psychic
+happiness: 70
+kind: Psi
+number: '63'
+name: Abra
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 1
+  :special_defense: 0
+  :speed: 0
+weight: 19.5
+id: :abra
+catch_rate: 200
+xp_yield: 62
+stats: !ruby/object:Hash
+  :attack: 20
+  :defense: 15
+  :hp: 25
+  :special_attack: 105
+  :special_defense: 55
+  :speed: 90

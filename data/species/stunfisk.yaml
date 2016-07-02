@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.7
+description: It conceals itself in the mud of the seashore. Then it waits. When prey touch it, it delivers a jolt of energy.
+hatch_steps: 5355
+type1: :ground
+happiness: 70
+type2: :electric
+kind: Trap
+number: '618'
+name: Stunfisk
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 2
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 11.0
+id: :stunfisk
+catch_rate: 75
+xp_yield: 165
+stats: !ruby/object:Hash
+  :attack: 66
+  :defense: 84
+  :hp: 109
+  :special_attack: 81
+  :special_defense: 99
+  :speed: 32

@@ -1,0 +1,11 @@
+--- !ruby/object:PKMN::Item::TM
+plural_name: TM40s
+description: The user confounds the target with speed, then slashes. The attack lands without fail.
+permenant: false
+name: TM40
+usability: !ruby/object:Hash
+  :overworld: true
+  :pokemon: true
+id: :tm40
+price: 3000
+hold_item: true

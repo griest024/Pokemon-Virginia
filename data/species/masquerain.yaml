@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.8
+description: It intimidates foes with the large eyelike patterns on its antennae. Because it can't fly if its wings get wet, it shelters itself from rain under large trees and eaves.
+hatch_steps: 4080
+type1: :bug
+happiness: 70
+type2: :flying
+kind: Eyeball
+number: '284'
+name: Masquerain
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 1
+  :special_defense: 1
+  :speed: 0
+weight: 3.6
+id: :masquerain
+catch_rate: 75
+xp_yield: 145
+stats: !ruby/object:Hash
+  :attack: 60
+  :defense: 62
+  :hp: 70
+  :special_attack: 80
+  :special_defense: 82
+  :speed: 60

@@ -1,0 +1,11 @@
+--- !ruby/object:PKMN::Item::TM
+plural_name: TM27s
+description: A full-power attack that grows more powerful the more the user likes its Trainer.
+permenant: false
+name: TM27
+usability: !ruby/object:Hash
+  :overworld: true
+  :pokemon: true
+id: :tm27
+price: 1000
+hold_item: true

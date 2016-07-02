@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Wide Lenses
+description: An item to be held by a Pokémon. It is a magnifying lens that slightly boosts the accuracy of moves.
+permenant: false
+name: Wide Lens
+usability: !ruby/object:Hash {}
+id: :widelens
+price: 200
+hold_item: true

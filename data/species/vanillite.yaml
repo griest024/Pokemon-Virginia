@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.4
+description: This Pokémon formed from icicles bathed in energy from the morning sun. It sleeps buried in snow.
+hatch_steps: 5355
+type1: :ice
+happiness: 70
+kind: Fresh Snow
+number: '582'
+name: Vanillite
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 1
+  :special_defense: 0
+  :speed: 0
+weight: 5.7
+id: :vanillite
+catch_rate: 255
+xp_yield: 61
+stats: !ruby/object:Hash
+  :attack: 50
+  :defense: 50
+  :hp: 36
+  :special_attack: 65
+  :special_defense: 60
+  :speed: 44

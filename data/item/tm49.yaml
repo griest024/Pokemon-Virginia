@@ -1,0 +1,11 @@
+--- !ruby/object:PKMN::Item::TM
+plural_name: TM49s
+description: The user attacks the target with an echoing voice. If this move is used every turn, it does greater damage.
+permenant: false
+name: TM49
+usability: !ruby/object:Hash
+  :overworld: true
+  :pokemon: true
+id: :tm49
+price: 1500
+hold_item: true

@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.9
+description: It waves its leaf around to keep foes at bay. However, a sweet fragrance also wafts from the leaf, creating a friendly atmosphere that becalms the battlers.
+hatch_steps: 5355
+type1: :grass
+happiness: 70
+kind: Leaf
+number: '152'
+name: Chikorita
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 1
+  :speed: 0
+weight: 6.4
+id: :chikorita
+catch_rate: 45
+xp_yield: 64
+stats: !ruby/object:Hash
+  :attack: 49
+  :defense: 65
+  :hp: 45
+  :special_attack: 49
+  :special_defense: 65
+  :speed: 45

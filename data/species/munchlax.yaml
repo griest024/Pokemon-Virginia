@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.6
+description: It wolfs down its weight in food once a day, swallowing food whole with almost no chewing.
+hatch_steps: 10455
+type1: :normal
+happiness: 70
+kind: Big Eater
+number: '446'
+name: Munchlax
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 1
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 105.0
+id: :munchlax
+catch_rate: 50
+xp_yield: 78
+stats: !ruby/object:Hash
+  :attack: 85
+  :defense: 40
+  :hp: 135
+  :special_attack: 40
+  :special_defense: 85
+  :speed: 5

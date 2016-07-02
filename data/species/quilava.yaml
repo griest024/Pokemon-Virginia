@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.9
+description: It intimidates foes with intense gusts of flames and superheated air. Its quick nimbleness lets it dodge attacks even while scorching an enemy.
+hatch_steps: 5355
+type1: :fire
+happiness: 70
+kind: Volcano
+number: '156'
+name: Quilava
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 1
+  :special_defense: 0
+  :speed: 1
+weight: 19.0
+id: :quilava
+catch_rate: 45
+xp_yield: 142
+stats: !ruby/object:Hash
+  :attack: 64
+  :defense: 58
+  :hp: 58
+  :special_attack: 80
+  :special_defense: 65
+  :speed: 80

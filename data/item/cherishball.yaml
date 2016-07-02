@@ -1,0 +1,10 @@
+--- !ruby/object:PKMN::Item::Ball
+plural_name: Cherish Balls
+description: A quite rare Poké Ball that has been specially crafted to commemorate an occasion of some sort.
+permenant: false
+name: Cherish Ball
+usability: !ruby/object:Hash
+  :battle: true
+id: :cherishball
+price: 1000
+hold_item: true

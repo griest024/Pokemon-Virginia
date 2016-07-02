@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.1
+description: Its auditory sense is astounding. It has a radar-like ability to understand its surrounding through slight sounds.
+hatch_steps: 5355
+type1: :normal
+happiness: 70
+kind: Hearing
+number: '531'
+name: Audino
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 2
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 31.0
+id: :audino
+catch_rate: 255
+xp_yield: 134
+stats: !ruby/object:Hash
+  :attack: 60
+  :defense: 86
+  :hp: 103
+  :special_attack: 60
+  :special_defense: 86
+  :speed: 50

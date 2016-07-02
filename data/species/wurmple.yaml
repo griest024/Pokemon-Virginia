@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.3
+description: It sticks to tree branches and eats leaves. The thread it spits from its mouth, which becomes gooey when it touches air, slows the movement of its foes.
+hatch_steps: 4080
+type1: :bug
+happiness: 70
+kind: Worm
+number: '265'
+name: Wurmple
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 1
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 3.6
+id: :wurmple
+catch_rate: 255
+xp_yield: 39
+stats: !ruby/object:Hash
+  :attack: 45
+  :defense: 35
+  :hp: 45
+  :special_attack: 20
+  :special_defense: 30
+  :speed: 20

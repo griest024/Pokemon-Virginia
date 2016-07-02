@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Shoal Salts
+description: Pure salt that can be discovered deep inside the Shoal Cave. A maniac will buy it for a high price.
+permenant: false
+name: Shoal Salt
+usability: !ruby/object:Hash {}
+id: :shoalsalt
+price: 20
+hold_item: true

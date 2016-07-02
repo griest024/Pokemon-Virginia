@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Grn Apricorns
+description: A green Apricorn. It has a mysterious, aromatic scent.
+permenant: false
+name: Grn Apricorn
+usability: !ruby/object:Hash {}
+id: :grnapricorn
+price: 200
+hold_item: true

@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Sky Plates
+description: An item to be held by a Pokémon. It is a stone tablet that boosts the power of Flying-type moves.
+permenant: false
+name: Sky Plate
+usability: !ruby/object:Hash {}
+id: :skyplate
+price: 1000
+hold_item: true

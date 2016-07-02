@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.4
+description: A Pokémon that lives in warm seas. It inflates the flotation sac on its head to drift and search for food.
+hatch_steps: 10455
+type1: :water
+happiness: 70
+kind: Sea Drifter
+number: '489'
+name: Phione
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 1
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 3.1
+id: :phione
+catch_rate: 30
+xp_yield: 216
+stats: !ruby/object:Hash
+  :attack: 80
+  :defense: 80
+  :hp: 80
+  :special_attack: 80
+  :special_defense: 80
+  :speed: 80

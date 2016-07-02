@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.6
+description: They show off their Poké Ball caps to lure prey, but very few Pokémon are fooled by this.
+hatch_steps: 5355
+type1: :grass
+happiness: 70
+type2: :poison
+kind: Mushroom
+number: '591'
+name: Amoonguss
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 2
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 10.5
+id: :amoonguss
+catch_rate: 75
+xp_yield: 162
+stats: !ruby/object:Hash
+  :attack: 85
+  :defense: 70
+  :hp: 114
+  :special_attack: 85
+  :special_defense: 80
+  :speed: 30

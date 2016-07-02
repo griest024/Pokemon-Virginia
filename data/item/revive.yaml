@@ -1,0 +1,12 @@
+--- !ruby/object:PKMN::Item::Medicine
+plural_name: Revives
+description: A medicine that revives a fainted Pokémon. It restores half the Pokémon's maximum HP.
+permenant: false
+name: Revive
+usability: !ruby/object:Hash
+  :battle: true
+  :overworld: true
+  :pokemon: true
+id: :revive
+price: 1500
+hold_item: true

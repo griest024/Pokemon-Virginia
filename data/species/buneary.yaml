@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.4
+description: It slams foes by sharply uncoiling its rolled ears. It stings enough to make a grown-up cry in pain.
+hatch_steps: 5355
+type1: :normal
+happiness: 0
+kind: Rabbit
+number: '427'
+name: Buneary
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 1
+weight: 5.5
+id: :buneary
+catch_rate: 190
+xp_yield: 70
+stats: !ruby/object:Hash
+  :attack: 66
+  :defense: 44
+  :hp: 55
+  :special_attack: 44
+  :special_defense: 56
+  :speed: 85

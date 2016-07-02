@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.5
+description: A Baltoy moves by spinning on its single foot. It has been depicted in murals adorning the walls of a once-bustling city in an ancient age.
+hatch_steps: 5355
+type1: :ground
+happiness: 70
+type2: :psychic
+kind: Clay Doll
+number: '343'
+name: Baltoy
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 1
+  :speed: 0
+weight: 21.5
+id: :baltoy
+catch_rate: 255
+xp_yield: 60
+stats: !ruby/object:Hash
+  :attack: 40
+  :defense: 55
+  :hp: 40
+  :special_attack: 40
+  :special_defense: 70
+  :speed: 55

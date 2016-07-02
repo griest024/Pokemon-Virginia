@@ -1,0 +1,10 @@
+--- !ruby/object:PKMN::Item::Mail
+plural_name: Heart Mail
+description: Stationery featuring a print of giant heart patterns. Let a Pokémon hold it for delivery.
+permenant: false
+name: Heart Mail
+usability: !ruby/object:Hash
+  :overworld: true
+id: :heartmail
+price: 50
+hold_item: true

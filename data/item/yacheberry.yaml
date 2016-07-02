@@ -1,0 +1,12 @@
+--- !ruby/object:PKMN::Item::Berry
+plural_name: Yache Berries
+description: Weakens a supereffective Ice-type attack against the holding Pokémon.
+permenant: false
+name: Yache Berry
+usability: !ruby/object:Hash
+  :battle: true
+  :overworld: true
+  :pokemon: true
+id: :yacheberry
+price: 20
+hold_item: true

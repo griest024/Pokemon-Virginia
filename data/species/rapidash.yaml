@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.7
+description: It usually canters casually in the fields and plains. But once a Rapidash turns serious, its fiery manes flare and blaze as it gallops its way up to 150 mph.
+hatch_steps: 5355
+type1: :fire
+happiness: 70
+kind: Fire Horse
+number: '78'
+name: Rapidash
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 2
+weight: 95.0
+id: :rapidash
+catch_rate: 60
+xp_yield: 175
+stats: !ruby/object:Hash
+  :attack: 100
+  :defense: 70
+  :hp: 65
+  :special_attack: 80
+  :special_defense: 80
+  :speed: 105

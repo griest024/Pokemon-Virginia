@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: White Flutes
+description: A white flute made from blown glass. Its melody makes wild Pokémon more likely to appear.
+permenant: false
+name: White Flute
+usability: !ruby/object:Hash {}
+id: :whiteflute
+price: 500
+hold_item: true

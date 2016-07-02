@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 2.2
+description: Small Pokémon occasionally gather on its unmoving back to begin building their nests.
+hatch_steps: 5355
+type1: :grass
+happiness: 70
+type2: :ground
+kind: Continent
+number: '389'
+name: Torterra
+ev_yield: !ruby/object:Hash
+  :attack: 2
+  :defense: 1
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 310.0
+id: :torterra
+catch_rate: 45
+xp_yield: 236
+stats: !ruby/object:Hash
+  :attack: 109
+  :defense: 105
+  :hp: 95
+  :special_attack: 75
+  :special_defense: 85
+  :speed: 56

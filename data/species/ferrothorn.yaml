@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.0
+description: They attach themselves to cave ceilings, firing steel spikes at targets passing beneath them.
+hatch_steps: 5355
+type1: :grass
+happiness: 70
+type2: :steel
+kind: Thorn Pod
+number: '598'
+name: Ferrothorn
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 2
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 110.0
+id: :ferrothorn
+catch_rate: 90
+xp_yield: 171
+stats: !ruby/object:Hash
+  :attack: 94
+  :defense: 131
+  :hp: 74
+  :special_attack: 54
+  :special_defense: 116
+  :speed: 20

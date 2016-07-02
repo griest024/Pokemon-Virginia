@@ -1,0 +1,12 @@
+--- !ruby/object:PKMN::Item::Medicine
+plural_name: Max Elixirs
+description: It fully restores the PP of all the moves learned by the targeted Pokémon.
+permenant: false
+name: Max Elixir
+usability: !ruby/object:Hash
+  :battle: true
+  :overworld: true
+  :pokemon: true
+id: :maxelixir
+price: 4500
+hold_item: true

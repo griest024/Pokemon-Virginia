@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::KeyItem
+plural_name: Reveal Glasses
+permenant: false
+description: A glass that reveals the truth. It is a mysterious glass that returns a Pokémon back to its original shape.
+name: Reveal Glass
+usability: !ruby/object:Hash {}
+id: :revealglass
+price: 0
+hold_item: true

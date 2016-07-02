@@ -1,0 +1,12 @@
+--- !ruby/object:PKMN::Item::Medicine
+plural_name: Lemonades
+description: A very sweet drink. It restores the HP of one Pokémon by 80 points.
+permenant: false
+name: Lemonade
+usability: !ruby/object:Hash
+  :battle: true
+  :overworld: true
+  :pokemon: true
+id: :lemonade
+price: 350
+hold_item: true

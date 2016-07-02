@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Metronomes
+description: A Pokémon held item that boosts a move used consecutively. Its effect is reset if another move is used.
+permenant: false
+name: Metronome
+usability: !ruby/object:Hash {}
+id: :metronome
+price: 200
+hold_item: true

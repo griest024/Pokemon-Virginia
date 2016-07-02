@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Lucky Eggs
+description: An item to be held by a Pokémon. It is an egg filled with happiness that earns extra Exp. Points in battle.
+permenant: false
+name: Lucky Egg
+usability: !ruby/object:Hash {}
+id: :luckyegg
+price: 200
+hold_item: true

@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.5
+description: This Pokémon lives in ponds with clean water. It is known to ferry small Pokémon across ponds by carrying them on the broad leaf on its head.
+hatch_steps: 4080
+type1: :water
+happiness: 70
+type2: :grass
+kind: Water Weed
+number: '270'
+name: Lotad
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 1
+  :speed: 0
+weight: 2.6
+id: :lotad
+catch_rate: 255
+xp_yield: 44
+stats: !ruby/object:Hash
+  :attack: 30
+  :defense: 30
+  :hp: 40
+  :special_attack: 40
+  :special_defense: 50
+  :speed: 30

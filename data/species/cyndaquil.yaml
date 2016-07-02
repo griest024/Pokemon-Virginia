@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.5
+description: It flares flames from its back to protect itself. The fire burns vigorously if the Pokémon is angry. When it is tired, it sputters with incomplete combustion.
+hatch_steps: 5355
+type1: :fire
+happiness: 70
+kind: Fire Mouse
+number: '155'
+name: Cyndaquil
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 1
+weight: 7.9
+id: :cyndaquil
+catch_rate: 45
+xp_yield: 62
+stats: !ruby/object:Hash
+  :attack: 52
+  :defense: 43
+  :hp: 39
+  :special_attack: 60
+  :special_defense: 50
+  :speed: 65

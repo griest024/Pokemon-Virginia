@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.4
+description: It protects itself by spraying a noxious fluid from its rear. The stench lingers for 24 hours.
+hatch_steps: 5355
+type1: :poison
+happiness: 70
+type2: :dark
+kind: Skunk
+number: '434'
+name: Stunky
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 1
+weight: 19.2
+id: :stunky
+catch_rate: 225
+xp_yield: 66
+stats: !ruby/object:Hash
+  :attack: 63
+  :defense: 47
+  :hp: 63
+  :special_attack: 41
+  :special_defense: 41
+  :speed: 74

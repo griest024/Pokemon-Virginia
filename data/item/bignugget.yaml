@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Big Nuggets
+description: A big nugget of pure gold that gives off a lustrous gleam. A maniac will buy it for a high price.
+permenant: false
+name: Big Nugget
+usability: !ruby/object:Hash {}
+id: :bignugget
+price: 60000
+hold_item: true

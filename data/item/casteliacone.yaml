@@ -1,0 +1,12 @@
+--- !ruby/object:PKMN::Item::Medicine
+plural_name: Casteliacones
+description: Castelia City's specialty, soft-serve ice cream. It heals all the status problems of a single Pokémon.
+permenant: false
+name: Casteliacone
+usability: !ruby/object:Hash
+  :battle: true
+  :overworld: true
+  :pokemon: true
+id: :casteliacone
+price: 100
+hold_item: true

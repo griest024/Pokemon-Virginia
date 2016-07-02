@@ -1,0 +1,11 @@
+--- !ruby/object:PKMN::Item::TM
+plural_name: TM10s
+description: A unique attack that varies in type and intensity depending on the Pokémon using it.
+permenant: false
+name: TM10
+usability: !ruby/object:Hash
+  :overworld: true
+  :pokemon: true
+id: :tm10
+price: 2000
+hold_item: true

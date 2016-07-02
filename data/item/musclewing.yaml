@@ -1,0 +1,12 @@
+--- !ruby/object:PKMN::Item::Medicine
+plural_name: Muscle Wings
+description: An item for use on a Pokémon. It slightly increases the base Attack stat of a single Pokémon.
+permenant: false
+name: Muscle Wing
+usability: !ruby/object:Hash
+  :battle: true
+  :overworld: true
+  :pokemon: true
+id: :musclewing
+price: 3000
+hold_item: true

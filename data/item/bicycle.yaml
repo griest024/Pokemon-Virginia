@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::KeyItem
+plural_name: Bicycles
+permenant: false
+description: A folding Bicycle that enables much faster movement than the Running Shoes.
+name: Bicycle
+usability: !ruby/object:Hash {}
+id: :bicycle
+price: 0
+hold_item: true

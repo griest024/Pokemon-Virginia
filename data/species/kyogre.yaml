@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 4.5
+description: Kyogre has appeared in mythology as the creator of the sea. After long years of feuding with Groudon, it took to sleep at the bottom of the sea.
+hatch_steps: 30855
+type1: :water
+happiness: 0
+kind: Sea Basin
+number: '382'
+name: Kyogre
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 3
+  :special_defense: 0
+  :speed: 0
+weight: 352.0
+id: :kyogre
+catch_rate: 5
+xp_yield: 302
+stats: !ruby/object:Hash
+  :attack: 100
+  :defense: 90
+  :hp: 100
+  :special_attack: 150
+  :special_defense: 140
+  :speed: 90

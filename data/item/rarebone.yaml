@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Rare Bones
+description: A bone that is extremely valuable for Pokémon archaeology. It can be sold for a high price to shops.
+permenant: false
+name: Rare Bone
+usability: !ruby/object:Hash {}
+id: :rarebone
+price: 10000
+hold_item: true

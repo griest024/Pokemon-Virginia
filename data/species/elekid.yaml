@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.6
+description: If it touches metal and discharges the electricity it has stored in its body, an Elekid begins swinging its arms in circles to recharge itself.
+hatch_steps: 6630
+type1: :electric
+happiness: 70
+kind: Electric
+number: '239'
+name: Elekid
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 1
+weight: 23.5
+id: :elekid
+catch_rate: 45
+xp_yield: 72
+stats: !ruby/object:Hash
+  :attack: 63
+  :defense: 37
+  :hp: 45
+  :special_attack: 65
+  :special_defense: 55
+  :speed: 95

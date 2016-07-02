@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.4
+description: Cacnea live in deserts with virtually no rainfall. It battles by swinging its thick, spiked arms. Once a year, a yellow flower blooms.
+hatch_steps: 5355
+type1: :grass
+happiness: 35
+kind: Cactus
+number: '331'
+name: Cacnea
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 1
+  :special_defense: 0
+  :speed: 0
+weight: 51.3
+id: :cacnea
+catch_rate: 190
+xp_yield: 67
+stats: !ruby/object:Hash
+  :attack: 85
+  :defense: 40
+  :hp: 50
+  :special_attack: 85
+  :special_defense: 40
+  :speed: 35

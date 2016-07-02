@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.2
+description: A Bayleef's neck is ringed by curled-up leaves. Inside each leaf is a small tree shoot. The fragrance of this shoot makes people peppy.
+hatch_steps: 5355
+type1: :grass
+happiness: 70
+kind: Leaf
+number: '153'
+name: Bayleef
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 1
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 1
+  :speed: 0
+weight: 15.8
+id: :bayleef
+catch_rate: 45
+xp_yield: 142
+stats: !ruby/object:Hash
+  :attack: 62
+  :defense: 80
+  :hp: 60
+  :special_attack: 63
+  :special_defense: 80
+  :speed: 60

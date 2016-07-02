@@ -1,0 +1,12 @@
+--- !ruby/object:PKMN::Item::Berry
+plural_name: Pomeg Berries
+description: Using it on a Pokémon makes it more friendly, but it also lowers its base HP.
+permenant: false
+name: Pomeg Berry
+usability: !ruby/object:Hash
+  :battle: true
+  :overworld: true
+  :pokemon: true
+id: :pomegberry
+price: 20
+hold_item: true

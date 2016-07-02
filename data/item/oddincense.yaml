@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Odd Incenses
+description: An item to be held by a Pokémon. It is an exotic-smelling incense that boosts the power of Psychic-type moves.
+permenant: false
+name: Odd Incense
+usability: !ruby/object:Hash {}
+id: :oddincense
+price: 9600
+hold_item: true

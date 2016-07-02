@@ -1,0 +1,11 @@
+--- !ruby/object:PKMN::Item::Battle
+plural_name: X Speed 2s
+description: It sharply raises the Speed stat of a Pokémon in battle. It wears off if the Pokémon is withdrawn.
+permenant: false
+name: X Speed 2
+usability: !ruby/object:Hash
+  :battle: true
+  :pokemon: true
+id: :xspeed2
+price: 0
+hold_item: true

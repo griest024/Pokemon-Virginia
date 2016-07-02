@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Leftovers
+description: An item to be held by a Pokémon. The holder's HP is gradually restored during battle.
+permenant: false
+name: Leftovers
+usability: !ruby/object:Hash {}
+id: :leftovers
+price: 200
+hold_item: true

@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Choice Specs
+description: An item to be held by a Pokémon. These distinctive glasses boost Sp. Atk, but allow the use of only one of its moves.
+permenant: false
+name: Choice Specs
+usability: !ruby/object:Hash {}
+id: :choicespecs
+price: 200
+hold_item: true

@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Float Stones
+description: A very light stone. It reduces the weight of a Pokémon when held.
+permenant: false
+name: Float Stone
+usability: !ruby/object:Hash {}
+id: :floatstone
+price: 200
+hold_item: true

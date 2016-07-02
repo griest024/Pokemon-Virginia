@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Wave Incenses
+description: An item to be held by a Pokémon. It is incense with a curious aroma that boosts the power of Water-type moves.
+permenant: false
+name: Wave Incense
+usability: !ruby/object:Hash {}
+id: :waveincense
+price: 9600
+hold_item: true

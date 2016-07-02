@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 1.2
+description: It has a savage nature. It will courageously challenge foes that are much larger.
+hatch_steps: 4080
+type1: :normal
+happiness: 70
+type2: :flying
+kind: Predator
+number: '398'
+name: Staraptor
+ev_yield: !ruby/object:Hash
+  :attack: 3
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 0
+weight: 24.9
+id: :staraptor
+catch_rate: 45
+xp_yield: 214
+stats: !ruby/object:Hash
+  :attack: 120
+  :defense: 70
+  :hp: 85
+  :special_attack: 50
+  :special_defense: 50
+  :speed: 100

@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::Item
+plural_name: Metal Powders
+description: An item to be held by Ditto. Extremely fine yet hard, this odd powder boosts the Defense stat.
+permenant: false
+name: Metal Powder
+usability: !ruby/object:Hash {}
+id: :metalpowder
+price: 10
+hold_item: true

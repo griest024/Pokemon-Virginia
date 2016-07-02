@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.3
+description: A Pokémon formed by three others. It busily carries sweet floral honey to Vespiquen.
+hatch_steps: 4080
+type1: :bug
+happiness: 70
+type2: :flying
+kind: Tiny Bee
+number: '415'
+name: Combee
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 0
+  :speed: 1
+weight: 5.5
+id: :combee
+catch_rate: 120
+xp_yield: 49
+stats: !ruby/object:Hash
+  :attack: 30
+  :defense: 42
+  :hp: 30
+  :special_attack: 30
+  :special_defense: 42
+  :speed: 70

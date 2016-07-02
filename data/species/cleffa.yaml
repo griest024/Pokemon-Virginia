@@ -1,0 +1,27 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.3
+description: On nights with many shooting stars, Cleffa can be seen dancing in a ring. They dance until daybreak, when they quench their thirst with the morning dew.
+hatch_steps: 2805
+type1: :normal
+happiness: 140
+kind: Star Shape
+number: '173'
+name: Cleffa
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 0
+  :special_defense: 1
+  :speed: 0
+weight: 3.0
+id: :cleffa
+catch_rate: 150
+xp_yield: 44
+stats: !ruby/object:Hash
+  :attack: 25
+  :defense: 28
+  :hp: 50
+  :special_attack: 45
+  :special_defense: 55
+  :speed: 15

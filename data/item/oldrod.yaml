@@ -1,0 +1,9 @@
+--- !ruby/object:PKMN::Item::KeyItem
+plural_name: Old Rods
+permenant: false
+description: An old and beat-up fishing rod. Use it by any body of water to fish for wild aquatic Pokémon.
+name: Old Rod
+usability: !ruby/object:Hash {}
+id: :oldrod
+price: 0
+hold_item: true

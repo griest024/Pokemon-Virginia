@@ -1,0 +1,28 @@
+--- !ruby/object:PKMN::Species::Species
+height: 0.5
+description: This Pokémon grows by absorbing moonlight. During the daytime, it buries itself in the ground, leaving only its leaves exposed to avoid detection by its enemies.
+hatch_steps: 5355
+type1: :grass
+happiness: 70
+type2: :poison
+kind: Weed
+number: '43'
+name: Oddish
+ev_yield: !ruby/object:Hash
+  :attack: 0
+  :defense: 0
+  :hp: 0
+  :special_attack: 1
+  :special_defense: 0
+  :speed: 0
+weight: 5.4
+id: :oddish
+catch_rate: 255
+xp_yield: 64
+stats: !ruby/object:Hash
+  :attack: 50
+  :defense: 55
+  :hp: 45
+  :special_attack: 75
+  :special_defense: 65
+  :speed: 30

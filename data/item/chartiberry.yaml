@@ -1,0 +1,12 @@
+--- !ruby/object:PKMN::Item::Berry
+plural_name: Charti Berries
+description: Weakens a supereffective Rock-type attack against the holding Pokémon.
+permenant: false
+name: Charti Berry
+usability: !ruby/object:Hash
+  :battle: true
+  :overworld: true
+  :pokemon: true
+id: :chartiberry
+price: 20
+hold_item: true
