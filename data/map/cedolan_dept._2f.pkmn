@@ -1089,7 +1089,7 @@ events: !ruby/object:Hash
     id: 6
 name: Cedolan Dept. 2F
 width: 20
-tileset: !ruby/object:PKMNEE::Util::DataWrapper
+tileset: !ruby/object:Pokeforge::Util::DataWrapper
   id: :department_store
   path: data/tileset/department_store.pkmn
 id: :cedolan_dept._2f

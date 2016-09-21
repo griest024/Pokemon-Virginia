@@ -4571,7 +4571,7 @@ events: !ruby/object:Hash
     id: 12
 name: Cedolan City
 width: 60
-tileset: !ruby/object:PKMNEE::Util::DataWrapper
+tileset: !ruby/object:Pokeforge::Util::DataWrapper
   id: :outside
   path: data/tileset/outside.pkmn
 id: :cedolan_city

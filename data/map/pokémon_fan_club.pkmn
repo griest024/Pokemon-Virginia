@@ -1688,7 +1688,7 @@ events: !ruby/object:Hash
     id: 8
 name: Pokémon Fan Club
 width: 20
-tileset: !ruby/object:PKMNEE::Util::DataWrapper
+tileset: !ruby/object:Pokeforge::Util::DataWrapper
   id: :inside
   path: data/tileset/inside.pkmn
 id: :pokémon_fan_club

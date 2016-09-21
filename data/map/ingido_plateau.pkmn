@@ -546,7 +546,7 @@ events: !ruby/object:Hash
     id: 1
 name: Ingido Plateau
 width: 35
-tileset: !ruby/object:PKMNEE::Util::DataWrapper
+tileset: !ruby/object:Pokeforge::Util::DataWrapper
   id: :outside
   path: data/tileset/outside.pkmn
 id: :ingido_plateau

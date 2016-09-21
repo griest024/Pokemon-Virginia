@@ -3286,7 +3286,7 @@ events: !ruby/object:Hash
     id: 15
 name: Pokemon Lab
 width: 20
-tileset: !ruby/object:PKMNEE::Util::DataWrapper
+tileset: !ruby/object:Pokeforge::Util::DataWrapper
   id: :inside
   path: data/tileset/inside.pkmn
 id: :pokemon_lab

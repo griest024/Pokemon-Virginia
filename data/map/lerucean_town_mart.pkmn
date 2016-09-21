@@ -810,7 +810,7 @@ events: !ruby/object:Hash
     id: 4
 name: Lerucean Town Mart
 width: 20
-tileset: !ruby/object:PKMNEE::Util::DataWrapper
+tileset: !ruby/object:Pokeforge::Util::DataWrapper
   id: :poké_mart
   path: data/tileset/poké_mart.pkmn
 id: :lerucean_town_mart

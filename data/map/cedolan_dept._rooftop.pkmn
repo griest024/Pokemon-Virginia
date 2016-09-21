@@ -1721,7 +1721,7 @@ events: !ruby/object:Hash
     id: 5
 name: Cedolan Dept. Rooftop
 width: 32
-tileset: !ruby/object:PKMNEE::Util::DataWrapper
+tileset: !ruby/object:Pokeforge::Util::DataWrapper
   id: :department_store
   path: data/tileset/department_store.pkmn
 id: :cedolan_dept._rooftop

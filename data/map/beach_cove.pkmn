@@ -338,7 +338,7 @@ events: !ruby/object:Hash
     id: 4
 name: Beach Cove
 width: 20
-tileset: !ruby/object:PKMNEE::Util::DataWrapper
+tileset: !ruby/object:Pokeforge::Util::DataWrapper
   id: :caves
   path: data/tileset/caves.pkmn
 id: :beach_cove

@@ -3,7 +3,7 @@ tiles:
 - !ruby/object:PKMN::Map::Tile
   priority: 5
   passage: 0
-  image: &1 !ruby/object:PKMNEE::Util::AutotileImageWrapper
+  image: &1 !ruby/object:Pokeforge::Util::AutotileImageWrapper
     id: '0'
     path: blank/0.png
   id: blank_0
@@ -11,7 +11,7 @@ tiles:
 - !ruby/object:PKMN::Map::Tile
   priority: 0
   passage: 0
-  image: &2 !ruby/object:PKMNEE::Util::AutotileImageWrapper
+  image: &2 !ruby/object:Pokeforge::Util::AutotileImageWrapper
     id: '1'
     path: blank/1.png
   id: blank_1
@@ -19,7 +19,7 @@ tiles:
 - !ruby/object:PKMN::Map::Tile
   priority: 0
   passage: 0
-  image: &3 !ruby/object:PKMNEE::Util::AutotileImageWrapper
+  image: &3 !ruby/object:Pokeforge::Util::AutotileImageWrapper
     id: '2'
     path: blank/2.png
   id: blank_1
@@ -27,7 +27,7 @@ tiles:
 - !ruby/object:PKMN::Map::Tile
   priority: 0
   passage: 0
-  image: &4 !ruby/object:PKMNEE::Util::AutotileImageWrapper
+  image: &4 !ruby/object:Pokeforge::Util::AutotileImageWrapper
     id: '3'
     path: blank/3.png
   id: blank_1
@@ -35,7 +35,7 @@ tiles:
 - !ruby/object:PKMN::Map::Tile
   priority: 0
   passage: 0
-  image: &5 !ruby/object:PKMNEE::Util::AutotileImageWrapper
+  image: &5 !ruby/object:Pokeforge::Util::AutotileImageWrapper
     id: '4'
     path: blank/4.png
   id: blank_1
@@ -43,7 +43,7 @@ tiles:
 - !ruby/object:PKMN::Map::Tile
   priority: 0
   passage: 0
-  image: &6 !ruby/object:PKMNEE::Util::AutotileImageWrapper
+  image: &6 !ruby/object:Pokeforge::Util::AutotileImageWrapper
     id: '5'
     path: blank/5.png
   id: blank_1
@@ -51,7 +51,7 @@ tiles:
 - !ruby/object:PKMN::Map::Tile
   priority: 0
   passage: 0
-  image: &7 !ruby/object:PKMNEE::Util::AutotileImageWrapper
+  image: &7 !ruby/object:Pokeforge::Util::AutotileImageWrapper
     id: '6'
     path: blank/6.png
   id: blank_1
@@ -59,7 +59,7 @@ tiles:
 - !ruby/object:PKMN::Map::Tile
   priority: 0
   passage: 0
-  image: &8 !ruby/object:PKMNEE::Util::AutotileImageWrapper
+  image: &8 !ruby/object:Pokeforge::Util::AutotileImageWrapper
     id: '7'
     path: blank/7.png
   id: blank_1
@@ -67,7 +67,7 @@ tiles:
 - !ruby/object:PKMN::Map::Tile
   priority: 0
   passage: 0
-  image: &9 !ruby/object:PKMNEE::Util::AutotileImageWrapper
+  image: &9 !ruby/object:Pokeforge::Util::AutotileImageWrapper
     id: '8'
     path: blank/8.png
   id: blank_1
@@ -75,7 +75,7 @@ tiles:
 - !ruby/object:PKMN::Map::Tile
   priority: 0
   passage: 0
-  image: &10 !ruby/object:PKMNEE::Util::AutotileImageWrapper
+  image: &10 !ruby/object:Pokeforge::Util::AutotileImageWrapper
     id: '9'
     path: blank/9.png
   id: blank_1
@@ -83,7 +83,7 @@ tiles:
 - !ruby/object:PKMN::Map::Tile
   priority: 0
   passage: 0
-  image: &11 !ruby/object:PKMNEE::Util::AutotileImageWrapper
+  image: &11 !ruby/object:Pokeforge::Util::AutotileImageWrapper
     id: '10'
     path: blank/10.png
   id: blank_1
@@ -91,7 +91,7 @@ tiles:
 - !ruby/object:PKMN::Map::Tile
   priority: 0
   passage: 0
-  image: &12 !ruby/object:PKMNEE::Util::AutotileImageWrapper
+  image: &12 !ruby/object:Pokeforge::Util::AutotileImageWrapper
     id: '11'
     path: blank/11.png
   id: blank_1
@@ -99,7 +99,7 @@ tiles:
 - !ruby/object:PKMN::Map::Tile
   priority: 0
   passage: 0
-  image: &13 !ruby/object:PKMNEE::Util::AutotileImageWrapper
+  image: &13 !ruby/object:Pokeforge::Util::AutotileImageWrapper
     id: '12'
     path: blank/12.png
   id: blank_1
@@ -107,7 +107,7 @@ tiles:
 - !ruby/object:PKMN::Map::Tile
   priority: 0
   passage: 0
-  image: &14 !ruby/object:PKMNEE::Util::AutotileImageWrapper
+  image: &14 !ruby/object:Pokeforge::Util::AutotileImageWrapper
     id: '13'
     path: blank/13.png
   id: blank_1
@@ -115,7 +115,7 @@ tiles:
 - !ruby/object:PKMN::Map::Tile
   priority: 0
   passage: 0
-  image: &15 !ruby/object:PKMNEE::Util::AutotileImageWrapper
+  image: &15 !ruby/object:Pokeforge::Util::AutotileImageWrapper
     id: '14'
     path: blank/14.png
   id: blank_1
@@ -123,7 +123,7 @@ tiles:
 - !ruby/object:PKMN::Map::Tile
   priority: 0
   passage: 0
-  image: &16 !ruby/object:PKMNEE::Util::AutotileImageWrapper
+  image: &16 !ruby/object:Pokeforge::Util::AutotileImageWrapper
     id: '15'
     path: blank/15.png
   id: blank_1
@@ -131,7 +131,7 @@ tiles:
 - !ruby/object:PKMN::Map::Tile
   priority: 0
   passage: 0
-  image: &17 !ruby/object:PKMNEE::Util::AutotileImageWrapper
+  image: &17 !ruby/object:Pokeforge::Util::AutotileImageWrapper
     id: '16'
     path: blank/16.png
   id: blank_1
@@ -139,7 +139,7 @@ tiles:
 - !ruby/object:PKMN::Map::Tile
   priority: 0
   passage: 0
-  image: &18 !ruby/object:PKMNEE::Util::AutotileImageWrapper
+  image: &18 !ruby/object:Pokeforge::Util::AutotileImageWrapper
     id: '17'
     path: blank/17.png
   id: blank_1
@@ -147,7 +147,7 @@ tiles:
 - !ruby/object:PKMN::Map::Tile
   priority: 0
   passage: 0
-  image: &19 !ruby/object:PKMNEE::Util::AutotileImageWrapper
+  image: &19 !ruby/object:Pokeforge::Util::AutotileImageWrapper
     id: '18'
     path: blank/18.png
   id: blank_1
@@ -155,7 +155,7 @@ tiles:
 - !ruby/object:PKMN::Map::Tile
   priority: 0
   passage: 0
-  image: &20 !ruby/object:PKMNEE::Util::AutotileImageWrapper
+  image: &20 !ruby/object:Pokeforge::Util::AutotileImageWrapper
     id: '19'
     path: blank/19.png
   id: blank_1
@@ -163,7 +163,7 @@ tiles:
 - !ruby/object:PKMN::Map::Tile
   priority: 0
   passage: 0
-  image: &21 !ruby/object:PKMNEE::Util::AutotileImageWrapper
+  image: &21 !ruby/object:Pokeforge::Util::AutotileImageWrapper
     id: '20'
     path: blank/20.png
   id: blank_1
@@ -171,7 +171,7 @@ tiles:
 - !ruby/object:PKMN::Map::Tile
   priority: 0
   passage: 0
-  image: &22 !ruby/object:PKMNEE::Util::AutotileImageWrapper
+  image: &22 !ruby/object:Pokeforge::Util::AutotileImageWrapper
     id: '21'
     path: blank/21.png
   id: blank_1
@@ -179,7 +179,7 @@ tiles:
 - !ruby/object:PKMN::Map::Tile
   priority: 0
   passage: 0
-  image: &23 !ruby/object:PKMNEE::Util::AutotileImageWrapper
+  image: &23 !ruby/object:Pokeforge::Util::AutotileImageWrapper
     id: '22'
     path: blank/22.png
   id: blank_1
@@ -187,7 +187,7 @@ tiles:
 - !ruby/object:PKMN::Map::Tile
   priority: 0
   passage: 0
-  image: &24 !ruby/object:PKMNEE::Util::AutotileImageWrapper
+  image: &24 !ruby/object:Pokeforge::Util::AutotileImageWrapper
     id: '23'
     path: blank/23.png
   id: blank_1
@@ -195,7 +195,7 @@ tiles:
 - !ruby/object:PKMN::Map::Tile
   priority: 0
   passage: 0
-  image: &25 !ruby/object:PKMNEE::Util::AutotileImageWrapper
+  image: &25 !ruby/object:Pokeforge::Util::AutotileImageWrapper
     id: '24'
     path: blank/24.png
   id: blank_1
@@ -203,7 +203,7 @@ tiles:
 - !ruby/object:PKMN::Map::Tile
   priority: 0
   passage: 0
-  image: &26 !ruby/object:PKMNEE::Util::AutotileImageWrapper
+  image: &26 !ruby/object:Pokeforge::Util::AutotileImageWrapper
     id: '25'
     path: blank/25.png
   id: blank_1
@@ -211,7 +211,7 @@ tiles:
 - !ruby/object:PKMN::Map::Tile
   priority: 0
   passage: 0
-  image: &27 !ruby/object:PKMNEE::Util::AutotileImageWrapper
+  image: &27 !ruby/object:Pokeforge::Util::AutotileImageWrapper
     id: '26'
     path: blank/26.png
   id: blank_1
@@ -219,7 +219,7 @@ tiles:
 - !ruby/object:PKMN::Map::Tile
   priority: 0
   passage: 0
-  image: &28 !ruby/object:PKMNEE::Util::AutotileImageWrapper
+  image: &28 !ruby/object:Pokeforge::Util::AutotileImageWrapper
     id: '27'
     path: blank/27.png
   id: blank_1
@@ -227,7 +227,7 @@ tiles:
 - !ruby/object:PKMN::Map::Tile
   priority: 0
   passage: 0
-  image: &29 !ruby/object:PKMNEE::Util::AutotileImageWrapper
+  image: &29 !ruby/object:Pokeforge::Util::AutotileImageWrapper
     id: '28'
     path: blank/28.png
   id: blank_1
@@ -235,7 +235,7 @@ tiles:
 - !ruby/object:PKMN::Map::Tile
   priority: 0
   passage: 0
-  image: &30 !ruby/object:PKMNEE::Util::AutotileImageWrapper
+  image: &30 !ruby/object:Pokeforge::Util::AutotileImageWrapper
     id: '29'
     path: blank/29.png
   id: blank_1
@@ -243,7 +243,7 @@ tiles:
 - !ruby/object:PKMN::Map::Tile
   priority: 0
   passage: 0
-  image: &31 !ruby/object:PKMNEE::Util::AutotileImageWrapper
+  image: &31 !ruby/object:Pokeforge::Util::AutotileImageWrapper
     id: '30'
     path: blank/30.png
   id: blank_1
@@ -251,7 +251,7 @@ tiles:
 - !ruby/object:PKMN::Map::Tile
   priority: 0
   passage: 0
-  image: &32 !ruby/object:PKMNEE::Util::AutotileImageWrapper
+  image: &32 !ruby/object:Pokeforge::Util::AutotileImageWrapper
     id: '31'
     path: blank/31.png
   id: blank_1
@@ -259,7 +259,7 @@ tiles:
 - !ruby/object:PKMN::Map::Tile
   priority: 0
   passage: 0
-  image: &33 !ruby/object:PKMNEE::Util::AutotileImageWrapper
+  image: &33 !ruby/object:Pokeforge::Util::AutotileImageWrapper
     id: '32'
     path: blank/32.png
   id: blank_1
@@ -267,7 +267,7 @@ tiles:
 - !ruby/object:PKMN::Map::Tile
   priority: 0
   passage: 0
-  image: &34 !ruby/object:PKMNEE::Util::AutotileImageWrapper
+  image: &34 !ruby/object:Pokeforge::Util::AutotileImageWrapper
     id: '33'
     path: blank/33.png
   id: blank_1
@@ -275,7 +275,7 @@ tiles:
 - !ruby/object:PKMN::Map::Tile
   priority: 0
   passage: 0
-  image: &35 !ruby/object:PKMNEE::Util::AutotileImageWrapper
+  image: &35 !ruby/object:Pokeforge::Util::AutotileImageWrapper
     id: '34'
     path: blank/34.png
   id: blank_1
@@ -283,7 +283,7 @@ tiles:
 - !ruby/object:PKMN::Map::Tile
   priority: 0
   passage: 0
-  image: &36 !ruby/object:PKMNEE::Util::AutotileImageWrapper
+  image: &36 !ruby/object:Pokeforge::Util::AutotileImageWrapper
     id: '35'
     path: blank/35.png
   id: blank_1
@@ -291,7 +291,7 @@ tiles:
 - !ruby/object:PKMN::Map::Tile
   priority: 0
   passage: 0
-  image: &37 !ruby/object:PKMNEE::Util::AutotileImageWrapper
+  image: &37 !ruby/object:Pokeforge::Util::AutotileImageWrapper
     id: '36'
     path: blank/36.png
   id: blank_1
@@ -299,7 +299,7 @@ tiles:
 - !ruby/object:PKMN::Map::Tile
   priority: 0
   passage: 0
-  image: &38 !ruby/object:PKMNEE::Util::AutotileImageWrapper
+  image: &38 !ruby/object:Pokeforge::Util::AutotileImageWrapper
     id: '37'
     path: blank/37.png
   id: blank_1
@@ -307,7 +307,7 @@ tiles:
 - !ruby/object:PKMN::Map::Tile
   priority: 0
   passage: 0
-  image: &39 !ruby/object:PKMNEE::Util::AutotileImageWrapper
+  image: &39 !ruby/object:Pokeforge::Util::AutotileImageWrapper
     id: '38'
     path: blank/38.png
   id: blank_1
@@ -315,7 +315,7 @@ tiles:
 - !ruby/object:PKMN::Map::Tile
   priority: 0
   passage: 0
-  image: &40 !ruby/object:PKMNEE::Util::AutotileImageWrapper
+  image: &40 !ruby/object:Pokeforge::Util::AutotileImageWrapper
     id: '39'
     path: blank/39.png
   id: blank_1
@@ -323,7 +323,7 @@ tiles:
 - !ruby/object:PKMN::Map::Tile
   priority: 0
   passage: 0
-  image: &41 !ruby/object:PKMNEE::Util::AutotileImageWrapper
+  image: &41 !ruby/object:Pokeforge::Util::AutotileImageWrapper
     id: '40'
     path: blank/40.png
   id: blank_1
@@ -331,7 +331,7 @@ tiles:
 - !ruby/object:PKMN::Map::Tile
   priority: 0
   passage: 0
-  image: &42 !ruby/object:PKMNEE::Util::AutotileImageWrapper
+  image: &42 !ruby/object:Pokeforge::Util::AutotileImageWrapper
     id: '41'
     path: blank/41.png
   id: blank_1
@@ -339,7 +339,7 @@ tiles:
 - !ruby/object:PKMN::Map::Tile
   priority: 0
   passage: 0
-  image: &43 !ruby/object:PKMNEE::Util::AutotileImageWrapper
+  image: &43 !ruby/object:Pokeforge::Util::AutotileImageWrapper
     id: '42'
     path: blank/42.png
   id: blank_1
@@ -347,7 +347,7 @@ tiles:
 - !ruby/object:PKMN::Map::Tile
   priority: 0
   passage: 0
-  image: &44 !ruby/object:PKMNEE::Util::AutotileImageWrapper
+  image: &44 !ruby/object:Pokeforge::Util::AutotileImageWrapper
     id: '43'
     path: blank/43.png
   id: blank_1
@@ -355,7 +355,7 @@ tiles:
 - !ruby/object:PKMN::Map::Tile
   priority: 0
   passage: 0
-  image: &45 !ruby/object:PKMNEE::Util::AutotileImageWrapper
+  image: &45 !ruby/object:Pokeforge::Util::AutotileImageWrapper
     id: '44'
     path: blank/44.png
   id: blank_1
@@ -363,7 +363,7 @@ tiles:
 - !ruby/object:PKMN::Map::Tile
   priority: 0
   passage: 0
-  image: &46 !ruby/object:PKMNEE::Util::AutotileImageWrapper
+  image: &46 !ruby/object:Pokeforge::Util::AutotileImageWrapper
     id: '45'
     path: blank/45.png
   id: blank_1
@@ -371,7 +371,7 @@ tiles:
 - !ruby/object:PKMN::Map::Tile
   priority: 0
   passage: 0
-  image: &47 !ruby/object:PKMNEE::Util::AutotileImageWrapper
+  image: &47 !ruby/object:Pokeforge::Util::AutotileImageWrapper
     id: '46'
     path: blank/46.png
   id: blank_1
@@ -379,7 +379,7 @@ tiles:
 - !ruby/object:PKMN::Map::Tile
   priority: 0
   passage: 0
-  image: &48 !ruby/object:PKMNEE::Util::AutotileImageWrapper
+  image: &48 !ruby/object:Pokeforge::Util::AutotileImageWrapper
     id: '47'
     path: blank/47.png
   id: blank_1
@@ -2403,7 +2403,7 @@ tiles:
 - !ruby/object:PKMN::Map::Tile
   priority: 0
   passage: 15
-  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+  image: !ruby/object:Pokeforge::Util::TileImageWrapper
     id: '384'
     path: underground_path/384.png
   id: 384
@@ -2411,7 +2411,7 @@ tiles:
 - !ruby/object:PKMN::Map::Tile
   priority: 0
   passage: 15
-  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+  image: !ruby/object:Pokeforge::Util::TileImageWrapper
     id: '385'
     path: underground_path/385.png
   id: 385
@@ -2419,7 +2419,7 @@ tiles:
 - !ruby/object:PKMN::Map::Tile
   priority: 0
   passage: 15
-  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+  image: !ruby/object:Pokeforge::Util::TileImageWrapper
     id: '386'
     path: underground_path/386.png
   id: 386
@@ -2427,7 +2427,7 @@ tiles:
 - !ruby/object:PKMN::Map::Tile
   priority: 0
   passage: 15
-  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+  image: !ruby/object:Pokeforge::Util::TileImageWrapper
     id: '387'
     path: underground_path/387.png
   id: 387
@@ -2435,7 +2435,7 @@ tiles:
 - !ruby/object:PKMN::Map::Tile
   priority: 0
   passage: 15
-  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+  image: !ruby/object:Pokeforge::Util::TileImageWrapper
     id: '388'
     path: underground_path/388.png
   id: 388
@@ -2443,7 +2443,7 @@ tiles:
 - !ruby/object:PKMN::Map::Tile
   priority: 0
   passage: 0
-  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+  image: !ruby/object:Pokeforge::Util::TileImageWrapper
     id: '389'
     path: underground_path/389.png
   id: 389
@@ -2451,7 +2451,7 @@ tiles:
 - !ruby/object:PKMN::Map::Tile
   priority: 0
   passage: 0
-  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+  image: !ruby/object:Pokeforge::Util::TileImageWrapper
     id: '390'
     path: underground_path/390.png
   id: 390
@@ -2459,7 +2459,7 @@ tiles:
 - !ruby/object:PKMN::Map::Tile
   priority: 0
   passage: 0
-  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+  image: !ruby/object:Pokeforge::Util::TileImageWrapper
     id: '391'
     path: underground_path/391.png
   id: 391
@@ -2467,7 +2467,7 @@ tiles:
 - !ruby/object:PKMN::Map::Tile
   priority: 0
   passage: 15
-  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+  image: !ruby/object:Pokeforge::Util::TileImageWrapper
     id: '392'
     path: underground_path/392.png
   id: 392
@@ -2475,7 +2475,7 @@ tiles:
 - !ruby/object:PKMN::Map::Tile
   priority: 0
   passage: 15
-  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+  image: !ruby/object:Pokeforge::Util::TileImageWrapper
     id: '393'
     path: underground_path/393.png
   id: 393
@@ -2483,7 +2483,7 @@ tiles:
 - !ruby/object:PKMN::Map::Tile
   priority: 0
   passage: 15
-  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+  image: !ruby/object:Pokeforge::Util::TileImageWrapper
     id: '394'
     path: underground_path/394.png
   id: 394
@@ -2491,7 +2491,7 @@ tiles:
 - !ruby/object:PKMN::Map::Tile
   priority: 0
   passage: 15
-  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+  image: !ruby/object:Pokeforge::Util::TileImageWrapper
     id: '395'
     path: underground_path/395.png
   id: 395
@@ -2499,7 +2499,7 @@ tiles:
 - !ruby/object:PKMN::Map::Tile
   priority: 0
   passage: 15
-  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+  image: !ruby/object:Pokeforge::Util::TileImageWrapper
     id: '396'
     path: underground_path/396.png
   id: 396
@@ -2507,7 +2507,7 @@ tiles:
 - !ruby/object:PKMN::Map::Tile
   priority: 0
   passage: 0
-  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+  image: !ruby/object:Pokeforge::Util::TileImageWrapper
     id: '397'
     path: underground_path/397.png
   id: 397
@@ -2515,7 +2515,7 @@ tiles:
 - !ruby/object:PKMN::Map::Tile
   priority: 0
   passage: 0
-  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+  image: !ruby/object:Pokeforge::Util::TileImageWrapper
     id: '398'
     path: underground_path/398.png
   id: 398
@@ -2523,7 +2523,7 @@ tiles:
 - !ruby/object:PKMN::Map::Tile
   priority: 0
   passage: 0
-  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+  image: !ruby/object:Pokeforge::Util::TileImageWrapper
     id: '399'
     path: underground_path/399.png
   id: 399
@@ -2531,7 +2531,7 @@ tiles:
 - !ruby/object:PKMN::Map::Tile
   priority: 0
   passage: 15
-  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+  image: !ruby/object:Pokeforge::Util::TileImageWrapper
     id: '400'
     path: underground_path/400.png
   id: 400
@@ -2539,7 +2539,7 @@ tiles:
 - !ruby/object:PKMN::Map::Tile
   priority: 0
   passage: 0
-  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+  image: !ruby/object:Pokeforge::Util::TileImageWrapper
     id: '401'
     path: underground_path/401.png
   id: 401
@@ -2547,7 +2547,7 @@ tiles:
 - !ruby/object:PKMN::Map::Tile
   priority: 0
   passage: 0
-  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+  image: !ruby/object:Pokeforge::Util::TileImageWrapper
     id: '402'
     path: underground_path/402.png
   id: 402
@@ -2555,7 +2555,7 @@ tiles:
 - !ruby/object:PKMN::Map::Tile
   priority: 0
   passage: 0
-  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+  image: !ruby/object:Pokeforge::Util::TileImageWrapper
     id: '403'
     path: underground_path/403.png
   id: 403
@@ -2563,7 +2563,7 @@ tiles:
 - !ruby/object:PKMN::Map::Tile
   priority: 0
   passage: 15
-  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+  image: !ruby/object:Pokeforge::Util::TileImageWrapper
     id: '404'
     path: underground_path/404.png
   id: 404
@@ -2571,7 +2571,7 @@ tiles:
 - !ruby/object:PKMN::Map::Tile
   priority: 0
   passage: 0
-  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+  image: !ruby/object:Pokeforge::Util::TileImageWrapper
     id: '405'
     path: underground_path/405.png
   id: 405
@@ -2579,7 +2579,7 @@ tiles:
 - !ruby/object:PKMN::Map::Tile
   priority: 0
   passage: 0
-  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+  image: !ruby/object:Pokeforge::Util::TileImageWrapper
     id: '406'
     path: underground_path/406.png
   id: 406
@@ -2587,7 +2587,7 @@ tiles:
 - !ruby/object:PKMN::Map::Tile
   priority: 0
   passage: 0
-  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+  image: !ruby/object:Pokeforge::Util::TileImageWrapper
     id: '407'
     path: underground_path/407.png
   id: 407
@@ -2595,7 +2595,7 @@ tiles:
 - !ruby/object:PKMN::Map::Tile
   priority: 0
   passage: 15
-  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+  image: !ruby/object:Pokeforge::Util::TileImageWrapper
     id: '408'
     path: underground_path/408.png
   id: 408
@@ -2603,7 +2603,7 @@ tiles:
 - !ruby/object:PKMN::Map::Tile
   priority: 0
   passage: 0
-  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+  image: !ruby/object:Pokeforge::Util::TileImageWrapper
     id: '409'
     path: underground_path/409.png
   id: 409
@@ -2611,7 +2611,7 @@ tiles:
 - !ruby/object:PKMN::Map::Tile
   priority: 0
   passage: 15
-  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+  image: !ruby/object:Pokeforge::Util::TileImageWrapper
     id: '410'
     path: underground_path/410.png
   id: 410
@@ -2619,7 +2619,7 @@ tiles:
 - !ruby/object:PKMN::Map::Tile
   priority: 0
   passage: 0
-  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+  image: !ruby/object:Pokeforge::Util::TileImageWrapper
     id: '411'
     path: underground_path/411.png
   id: 411
@@ -2627,7 +2627,7 @@ tiles:
 - !ruby/object:PKMN::Map::Tile
   priority: 0
   passage: 15
-  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+  image: !ruby/object:Pokeforge::Util::TileImageWrapper
     id: '412'
     path: underground_path/412.png
   id: 412
@@ -2635,7 +2635,7 @@ tiles:
 - !ruby/object:PKMN::Map::Tile
   priority: 0
   passage: 0
-  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+  image: !ruby/object:Pokeforge::Util::TileImageWrapper
     id: '413'
     path: underground_path/413.png
   id: 413
@@ -2643,7 +2643,7 @@ tiles:
 - !ruby/object:PKMN::Map::Tile
   priority: 0
   passage: 0
-  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+  image: !ruby/object:Pokeforge::Util::TileImageWrapper
     id: '414'
     path: underground_path/414.png
   id: 414
@@ -2651,7 +2651,7 @@ tiles:
 - !ruby/object:PKMN::Map::Tile
   priority: 0
   passage: 0
-  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+  image: !ruby/object:Pokeforge::Util::TileImageWrapper
     id: '415'
     path: underground_path/415.png
   id: 415
@@ -2659,7 +2659,7 @@ tiles:
 - !ruby/object:PKMN::Map::Tile
   priority: 0
   passage: 15
-  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+  image: !ruby/object:Pokeforge::Util::TileImageWrapper
     id: '416'
     path: underground_path/416.png
   id: 416
@@ -2667,7 +2667,7 @@ tiles:
 - !ruby/object:PKMN::Map::Tile
   priority: 0
   passage: 15
-  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+  image: !ruby/object:Pokeforge::Util::TileImageWrapper
     id: '417'
     path: underground_path/417.png
   id: 417
@@ -2675,7 +2675,7 @@ tiles:
 - !ruby/object:PKMN::Map::Tile
   priority: 0
   passage: 15
-  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+  image: !ruby/object:Pokeforge::Util::TileImageWrapper
     id: '418'
     path: underground_path/418.png
   id: 418
@@ -2683,7 +2683,7 @@ tiles:
 - !ruby/object:PKMN::Map::Tile
   priority: 0
   passage: 15
-  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+  image: !ruby/object:Pokeforge::Util::TileImageWrapper
     id: '419'
     path: underground_path/419.png
   id: 419
@@ -2691,7 +2691,7 @@ tiles:
 - !ruby/object:PKMN::Map::Tile
   priority: 0
   passage: 15
-  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+  image: !ruby/object:Pokeforge::Util::TileImageWrapper
     id: '420'
     path: underground_path/420.png
   id: 420
@@ -2699,7 +2699,7 @@ tiles:
 - !ruby/object:PKMN::Map::Tile
   priority: 0
   passage: 0
-  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+  image: !ruby/object:Pokeforge::Util::TileImageWrapper
     id: '421'
     path: underground_path/421.png
   id: 421
@@ -2707,7 +2707,7 @@ tiles:
 - !ruby/object:PKMN::Map::Tile
   priority: 0
   passage: 0
-  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+  image: !ruby/object:Pokeforge::Util::TileImageWrapper
     id: '422'
     path: underground_path/422.png
   id: 422
@@ -2715,7 +2715,7 @@ tiles:
 - !ruby/object:PKMN::Map::Tile
   priority: 0
   passage: 0
-  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+  image: !ruby/object:Pokeforge::Util::TileImageWrapper
     id: '423'
     path: underground_path/423.png
   id: 423
@@ -2723,7 +2723,7 @@ tiles:
 - !ruby/object:PKMN::Map::Tile
   priority: 0
   passage: 15
-  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+  image: !ruby/object:Pokeforge::Util::TileImageWrapper
     id: '424'
     path: underground_path/424.png
   id: 424
@@ -2731,7 +2731,7 @@ tiles:
 - !ruby/object:PKMN::Map::Tile
   priority: 0
   passage: 15
-  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+  image: !ruby/object:Pokeforge::Util::TileImageWrapper
     id: '425'
     path: underground_path/425.png
   id: 425
@@ -2739,7 +2739,7 @@ tiles:
 - !ruby/object:PKMN::Map::Tile
   priority: 0
   passage: 15
-  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+  image: !ruby/object:Pokeforge::Util::TileImageWrapper
     id: '426'
     path: underground_path/426.png
   id: 426
@@ -2747,7 +2747,7 @@ tiles:
 - !ruby/object:PKMN::Map::Tile
   priority: 0
   passage: 15
-  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+  image: !ruby/object:Pokeforge::Util::TileImageWrapper
     id: '427'
     path: underground_path/427.png
   id: 427
@@ -2755,7 +2755,7 @@ tiles:
 - !ruby/object:PKMN::Map::Tile
   priority: 0
   passage: 15
-  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+  image: !ruby/object:Pokeforge::Util::TileImageWrapper
     id: '428'
     path: underground_path/428.png
   id: 428
@@ -2763,7 +2763,7 @@ tiles:
 - !ruby/object:PKMN::Map::Tile
   priority: 0
   passage: 0
-  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+  image: !ruby/object:Pokeforge::Util::TileImageWrapper
     id: '429'
     path: underground_path/429.png
   id: 429
@@ -2771,7 +2771,7 @@ tiles:
 - !ruby/object:PKMN::Map::Tile
   priority: 0
   passage: 0
-  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+  image: !ruby/object:Pokeforge::Util::TileImageWrapper
     id: '430'
     path: underground_path/430.png
   id: 430
@@ -2779,7 +2779,7 @@ tiles:
 - !ruby/object:PKMN::Map::Tile
   priority: 0
   passage: 0
-  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+  image: !ruby/object:Pokeforge::Util::TileImageWrapper
     id: '431'
     path: underground_path/431.png
   id: 431
@@ -2787,7 +2787,7 @@ tiles:
 - !ruby/object:PKMN::Map::Tile
   priority: 0
   passage: 15
-  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+  image: !ruby/object:Pokeforge::Util::TileImageWrapper
     id: '432'
     path: underground_path/432.png
   id: 432
@@ -2795,7 +2795,7 @@ tiles:
 - !ruby/object:PKMN::Map::Tile
   priority: 0
   passage: 15
-  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+  image: !ruby/object:Pokeforge::Util::TileImageWrapper
     id: '433'
     path: underground_path/433.png
   id: 433
@@ -2803,7 +2803,7 @@ tiles:
 - !ruby/object:PKMN::Map::Tile
   priority: 0
   passage: 15
-  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+  image: !ruby/object:Pokeforge::Util::TileImageWrapper
     id: '434'
     path: underground_path/434.png
   id: 434
@@ -2811,7 +2811,7 @@ tiles:
 - !ruby/object:PKMN::Map::Tile
   priority: 0
   passage: 15
-  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+  image: !ruby/object:Pokeforge::Util::TileImageWrapper
     id: '435'
     path: underground_path/435.png
   id: 435
@@ -2819,7 +2819,7 @@ tiles:
 - !ruby/object:PKMN::Map::Tile
   priority: 0
   passage: 15
-  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+  image: !ruby/object:Pokeforge::Util::TileImageWrapper
     id: '436'
     path: underground_path/436.png
   id: 436
@@ -2827,7 +2827,7 @@ tiles:
 - !ruby/object:PKMN::Map::Tile
   priority: 0
   passage: 0
-  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+  image: !ruby/object:Pokeforge::Util::TileImageWrapper
     id: '437'
     path: underground_path/437.png
   id: 437
@@ -2835,7 +2835,7 @@ tiles:
 - !ruby/object:PKMN::Map::Tile
   priority: 0
   passage: 0
-  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+  image: !ruby/object:Pokeforge::Util::TileImageWrapper
     id: '438'
     path: underground_path/438.png
   id: 438
@@ -2843,7 +2843,7 @@ tiles:
 - !ruby/object:PKMN::Map::Tile
   priority: 0
   passage: 0
-  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+  image: !ruby/object:Pokeforge::Util::TileImageWrapper
     id: '439'
     path: underground_path/439.png
   id: 439
@@ -2851,7 +2851,7 @@ tiles:
 - !ruby/object:PKMN::Map::Tile
   priority: 0
   passage: 15
-  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+  image: !ruby/object:Pokeforge::Util::TileImageWrapper
     id: '440'
     path: underground_path/440.png
   id: 440
@@ -2859,7 +2859,7 @@ tiles:
 - !ruby/object:PKMN::Map::Tile
   priority: 0
   passage: 15
-  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+  image: !ruby/object:Pokeforge::Util::TileImageWrapper
     id: '441'
     path: underground_path/441.png
   id: 441
@@ -2867,7 +2867,7 @@ tiles:
 - !ruby/object:PKMN::Map::Tile
   priority: 0
   passage: 15
-  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+  image: !ruby/object:Pokeforge::Util::TileImageWrapper
     id: '442'
     path: underground_path/442.png
   id: 442
@@ -2875,7 +2875,7 @@ tiles:
 - !ruby/object:PKMN::Map::Tile
   priority: 0
   passage: 15
-  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+  image: !ruby/object:Pokeforge::Util::TileImageWrapper
     id: '443'
     path: underground_path/443.png
   id: 443
@@ -2883,7 +2883,7 @@ tiles:
 - !ruby/object:PKMN::Map::Tile
   priority: 1
   passage: 0
-  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+  image: !ruby/object:Pokeforge::Util::TileImageWrapper
     id: '444'
     path: underground_path/444.png
   id: 444
@@ -2891,7 +2891,7 @@ tiles:
 - !ruby/object:PKMN::Map::Tile
   priority: 0
   passage: 15
-  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+  image: !ruby/object:Pokeforge::Util::TileImageWrapper
     id: '445'
     path: underground_path/445.png
   id: 445
@@ -2899,7 +2899,7 @@ tiles:
 - !ruby/object:PKMN::Map::Tile
   priority: 0
   passage: 15
-  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+  image: !ruby/object:Pokeforge::Util::TileImageWrapper
     id: '446'
     path: underground_path/446.png
   id: 446
@@ -2907,7 +2907,7 @@ tiles:
 - !ruby/object:PKMN::Map::Tile
   priority: 0
   passage: 15
-  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+  image: !ruby/object:Pokeforge::Util::TileImageWrapper
     id: '447'
     path: underground_path/447.png
   id: 447
@@ -2915,7 +2915,7 @@ tiles:
 - !ruby/object:PKMN::Map::Tile
   priority: 0
   passage: 15
-  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+  image: !ruby/object:Pokeforge::Util::TileImageWrapper
     id: '448'
     path: underground_path/448.png
   id: 448
@@ -2923,7 +2923,7 @@ tiles:
 - !ruby/object:PKMN::Map::Tile
   priority: 0
   passage: 15
-  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+  image: !ruby/object:Pokeforge::Util::TileImageWrapper
     id: '449'
     path: underground_path/449.png
   id: 449
@@ -2931,7 +2931,7 @@ tiles:
 - !ruby/object:PKMN::Map::Tile
   priority: 0
   passage: 15
-  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+  image: !ruby/object:Pokeforge::Util::TileImageWrapper
     id: '450'
     path: underground_path/450.png
   id: 450
@@ -2939,7 +2939,7 @@ tiles:
 - !ruby/object:PKMN::Map::Tile
   priority: 0
   passage: 15
-  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+  image: !ruby/object:Pokeforge::Util::TileImageWrapper
     id: '451'
     path: underground_path/451.png
   id: 451
@@ -2947,7 +2947,7 @@ tiles:
 - !ruby/object:PKMN::Map::Tile
   priority: 0
   passage: 15
-  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+  image: !ruby/object:Pokeforge::Util::TileImageWrapper
     id: '452'
     path: underground_path/452.png
   id: 452
@@ -2955,7 +2955,7 @@ tiles:
 - !ruby/object:PKMN::Map::Tile
   priority: 0
   passage: 0
-  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+  image: !ruby/object:Pokeforge::Util::TileImageWrapper
     id: '453'
     path: underground_path/453.png
   id: 453
@@ -2963,7 +2963,7 @@ tiles:
 - !ruby/object:PKMN::Map::Tile
   priority: 0
   passage: 0
-  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+  image: !ruby/object:Pokeforge::Util::TileImageWrapper
     id: '454'
     path: underground_path/454.png
   id: 454
@@ -2971,7 +2971,7 @@ tiles:
 - !ruby/object:PKMN::Map::Tile
   priority: 0
   passage: 0
-  image: !ruby/object:PKMNEE::Util::TileImageWrapper
+  image: !ruby/object:Pokeforge::Util::TileImageWrapper
     id: '455'
     path: underground_path/455.png
   id: 455

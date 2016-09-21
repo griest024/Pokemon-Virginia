@@ -4092,7 +4092,7 @@ events: !ruby/object:Hash
     id: 31
 name: Game Corner
 width: 20
-tileset: !ruby/object:PKMNEE::Util::DataWrapper
+tileset: !ruby/object:Pokeforge::Util::DataWrapper
   id: :game_corner
   path: data/tileset/game_corner.pkmn
 id: :game_corner

@@ -5961,7 +5961,7 @@ events: !ruby/object:Hash
     id: 43
 name: Route 3
 width: 70
-tileset: !ruby/object:PKMNEE::Util::DataWrapper
+tileset: !ruby/object:Pokeforge::Util::DataWrapper
   id: :outside
   path: data/tileset/outside.pkmn
 id: :route_3

@@ -1249,7 +1249,7 @@ events: !ruby/object:Hash
     id: 2
 name: Battle Arena arena
 width: 20
-tileset: !ruby/object:PKMNEE::Util::DataWrapper
+tileset: !ruby/object:Pokeforge::Util::DataWrapper
   id: :gyms
   path: data/tileset/gyms.pkmn
 id: :battle_arena_arena

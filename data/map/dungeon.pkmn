@@ -84,7 +84,7 @@ events: !ruby/object:Hash
     id: 1
 name: Dungeon
 width: 80
-tileset: !ruby/object:PKMNEE::Util::DataWrapper
+tileset: !ruby/object:Pokeforge::Util::DataWrapper
   id: :dungeon
   path: data/tileset/dungeon.pkmn
 id: :dungeon

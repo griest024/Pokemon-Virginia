@@ -92,7 +92,7 @@ events: !ruby/object:Hash
     id: 1
 name: Route 4
 width: 33
-tileset: !ruby/object:PKMNEE::Util::DataWrapper
+tileset: !ruby/object:Pokeforge::Util::DataWrapper
   id: :outside
   path: data/tileset/outside.pkmn
 id: :route_4

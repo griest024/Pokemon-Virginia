@@ -1261,7 +1261,7 @@ events: !ruby/object:Hash
     id: 4
 name: Harbour
 width: 20
-tileset: !ruby/object:PKMNEE::Util::DataWrapper
+tileset: !ruby/object:Pokeforge::Util::DataWrapper
   id: :harbour
   path: data/tileset/harbour.pkmn
 id: :harbour

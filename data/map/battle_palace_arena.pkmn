@@ -1291,7 +1291,7 @@ events: !ruby/object:Hash
     id: 2
 name: Battle Palace arena
 width: 20
-tileset: !ruby/object:PKMNEE::Util::DataWrapper
+tileset: !ruby/object:Pokeforge::Util::DataWrapper
   id: :inside
   path: data/tileset/inside.pkmn
 id: :battle_palace_arena

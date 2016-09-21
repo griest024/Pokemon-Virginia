@@ -811,7 +811,7 @@ events: !ruby/object:Hash
     id: 7
 name: Beach Cave F2
 width: 30
-tileset: !ruby/object:PKMNEE::Util::DataWrapper
+tileset: !ruby/object:Pokeforge::Util::DataWrapper
   id: :caves
   path: data/tileset/caves.pkmn
 id: :beach_cave_f2

@@ -1,0 +1,8 @@
+--- !ruby/object:Pokeforge::Project
+author:
+- Matt Hodapp
+- Peter Lauck
+config_dir: config
+name: Pokemon Virginia
+res_dir: res
+data_dir: data

@@ -4837,7 +4837,7 @@ events: !ruby/object:Hash
     id: 13
 name: Battle Tower
 width: 20
-tileset: !ruby/object:PKMNEE::Util::DataWrapper
+tileset: !ruby/object:Pokeforge::Util::DataWrapper
   id: :trainer_tower
   path: data/tileset/trainer_tower.pkmn
 id: :battle_tower

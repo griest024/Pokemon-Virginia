@@ -2957,7 +2957,7 @@ events: !ruby/object:Hash
     id: 8
 name: Lerucean Town
 width: 41
-tileset: !ruby/object:PKMNEE::Util::DataWrapper
+tileset: !ruby/object:Pokeforge::Util::DataWrapper
   id: :outside
   path: data/tileset/outside.pkmn
 id: :lerucean_town

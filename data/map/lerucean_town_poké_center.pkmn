@@ -1309,7 +1309,7 @@ events: !ruby/object:Hash
     id: 7
 name: Lerucean Town Poké Center
 width: 20
-tileset: !ruby/object:PKMNEE::Util::DataWrapper
+tileset: !ruby/object:Pokeforge::Util::DataWrapper
   id: :poké_center
   path: data/tileset/poké_center.pkmn
 id: :lerucean_town_poké_center

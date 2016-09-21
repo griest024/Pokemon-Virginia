@@ -4015,7 +4015,7 @@ events: !ruby/object:Hash
     id: 15
 name: "\\PN's house"
 width: 31
-tileset: !ruby/object:PKMNEE::Util::DataWrapper
+tileset: !ruby/object:Pokeforge::Util::DataWrapper
   id: :inside
   path: data/tileset/inside.pkmn
 id: :\pn's_house

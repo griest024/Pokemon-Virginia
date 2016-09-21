@@ -270,7 +270,7 @@ events: !ruby/object:Hash
     id: 3
 name: Safari Zone
 width: 51
-tileset: !ruby/object:PKMNEE::Util::DataWrapper
+tileset: !ruby/object:Pokeforge::Util::DataWrapper
   id: :outside
   path: data/tileset/outside.pkmn
 id: :safari_zone

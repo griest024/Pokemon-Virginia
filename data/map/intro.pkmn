@@ -1157,7 +1157,7 @@ events: !ruby/object:Hash
     id: 2
 name: Intro
 width: 20
-tileset: !ruby/object:PKMNEE::Util::DataWrapper
+tileset: !ruby/object:Pokeforge::Util::DataWrapper
   id: :poké_center
   path: data/tileset/poké_center.pkmn
 id: :intro

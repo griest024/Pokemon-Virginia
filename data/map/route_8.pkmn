@@ -483,7 +483,7 @@ events: !ruby/object:Hash
     id: 5
 name: Route 8
 width: 46
-tileset: !ruby/object:PKMNEE::Util::DataWrapper
+tileset: !ruby/object:Pokeforge::Util::DataWrapper
   id: :outside_waterfall
   path: data/tileset/outside_waterfall.pkmn
 id: :route_8

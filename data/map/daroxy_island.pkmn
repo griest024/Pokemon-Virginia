@@ -1076,7 +1076,7 @@ events: !ruby/object:Hash
     id: 8
 name: Daroxy Island
 width: 29
-tileset: !ruby/object:PKMNEE::Util::DataWrapper
+tileset: !ruby/object:Pokeforge::Util::DataWrapper
   id: :outside
   path: data/tileset/outside.pkmn
 id: :daroxy_island
